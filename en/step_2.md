@@ -1,13 +1,49 @@
-## What you will need
+## Adding Links to Webpages
 
-### Hardware
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ List hardware here, or delete section.
 
-### Software
 
-+ List software here, or delete section.
++ Open this trinket: <a href="https://jumpto.cc/web-showcase">jumpto.cc/web-showcase</a>. 
 
-### Additional Resources
+	The project should look like this:
 
-+ List additional resources, or delete section.
+	![screenshot](images/showcase-starter.png)
+
++ HTML uses the `<a>` tag for links. 
+
+![screenshot](images/showcase-link.png)
+
++ Find the `<a>` tag in your project. 
+
+![screenshot](images/showcase-a-template.png)
+
+
++ Add the Code Club website address <a href="https://www.codeclub.org.uk">`https://www.codeclub.org.uk`</a> and link text:
+
+![screenshot](images/showcase-code-club.png)
+
++ Click Run to test your trinket.
+
+![screenshot](images/showcase-cc-output.png)
+
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 	
+
+![screenshot](images/showcase-cc-website.png)
+
++ To get back to your page you can either: 
+
+	+ Run your trinket again,
+
+	+ Tap the Backspace key on the keyboard, or
+
+	+ Right-click and choose Back. 
+
+
+
++ Now put your link into a sentence inside a paragraph:
+
+![screenshot](images/showcase-paragraph.png)
+
+Test your webpage. 
+
