@@ -1,3 +1,4 @@
+---
 title: Project Showcase
 hero_image: images/banner.png
 theme: red
@@ -6,7 +7,6 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Project Showcase
 description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
