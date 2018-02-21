@@ -1,6 +1,5 @@
----
+hero_image: images/banner.png
 title: Project Showcase
-hero_image: images/project-showcase.png
 theme: turquoise
 duration: 2
 listed: true
