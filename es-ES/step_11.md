@@ -13,7 +13,7 @@ Si has entrado a tu sesión, puedes hacer clic en el botón 'Embebido' que está
 
 Si no has entrado a tu sesión, busca el número de proyecto de Scratch en la dirección de Internet. 
 
-![screenshot](scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
 Haz una copia del código `<iframe>` en el ejemplo incrustado de Scratch y cambia el número del proyecto por el del proyecto que quieres incrustar :
 
