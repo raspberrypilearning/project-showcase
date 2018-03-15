@@ -4,7 +4,7 @@ Text links allow you to click on words to go to another web page; they are usual
 
 
 
-+ Open this trinket: <a href="https://jumpto.cc/web-showcase">jumpto.cc/web-showcase</a>. 
++ Open this trinket: <a href="http://jumpto.cc/web-showcase">jumpto.cc/web-showcase</a>. 
 
 	The project should look like this:
 
