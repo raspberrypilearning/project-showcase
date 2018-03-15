@@ -1,0 +1,26 @@
+hero_image: images/banner.png
+title: Vorzeigeprojekt
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+description: Stelle ein Vorzeigeprojekt deiner Webprojekte her.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: Einführung
+- title: Links zu Webseiten hinzufügen
+- title: 'Aufgabe: Füge einen weiteren Link hinzu'
+- title: Link zu einem Trinket
+- title: 'Aufgabe: Erstelle eine Liste deiner Projekte'
+- title: Einbettung von Projekten
+- title: 'Aufgabe: Weitere Projekte einbetten'
+- title: Erstelle ein Inhaltsverzeichnis
+- title: Zurück nach oben gelangen
+- title: 'Aufgabe: Verbessere dein Vorzeigeprojekt'
+- title: 'Aufgabe: Ein neues Vorzeigeprojekt erstellen'
+

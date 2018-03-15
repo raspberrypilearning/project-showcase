@@ -1,0 +1,26 @@
+hero_image: images/banner.png
+title: Presentazione dei progetti
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+description: Crea una presentazione dei tuoi progetti web.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: Introduzione
+- title: Aggiungere link alle pagine web
+- title: 'Sfida: Aggiungi un altro link'
+- title: Link a un trinket
+- title: 'Sfida: Crea un elenco dei tuoi progetti'
+- title: Inserire progetti
+- title: 'Sfida: Integra altri progetti'
+- title: Crea un indice
+- title: "Torna all’inizio"
+- title: 'Sfida: Migliora la tua presentazione'
+- title: 'Sfida: Crea una nuova presentazione'
+
