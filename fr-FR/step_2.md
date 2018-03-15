@@ -32,8 +32,6 @@
 
 	+ Clique-droit et choisir Retour
 
-## Liste d'activités { .check}
-
 + Maintenant mets ton lien dans une phrase à l'intérieur d'un paragraphe.
 
 ![screenshot](images/showcase-paragraph.png)
