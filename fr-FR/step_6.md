@@ -14,8 +14,6 @@ Appuye sur Esc pour quitter le mode plein-écran
 
 ![screenshot](images/showcase-embed-code.png)
 
-## Activity Checklist { .check}
-
 + Choisi 'Only show code or result (let users toggle between them)' et __copie__ le code embarqué pour ce trinket.
 
 ![screenshot](images/showcase-embed.png)
