@@ -4,7 +4,7 @@ Además de enlazar los trinkets como páginas web, también podemos incrustarlos
 
 + Es posible que prefieras trabajar en modo de pantalla completa para tener más espacio:
 
-![screenshot](showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
 Presiona la tecla Esc (Escape) para salir del modo de pantalla completa.
 
@@ -32,7 +32,7 @@ Presiona la tecla Esc (Escape) para salir del modo de pantalla completa.
 
 + Es posible que la parte inferior de tu trinket no se vea. Puedes arreglarlo cambiando el valor de la altura (height) en la etiqueta `<iframe>`. 
 
-![screenshot](showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
 Fija la altura a __400__. Si hiciste cambios en el proyecto Feliz cumpleaños, es posible que tengas que escoger un valor diferente. 
 
