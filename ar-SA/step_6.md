@@ -1,0 +1,44 @@
+## تضمين المشاريع
+
+إلى جانب إنشاء روابط إلى مشاريع trinket كصفحات ويب، يمكننا أيضًا تضمين هذه المشاريع في صفحة ويب.
+
+
+
++ ربما تريد أن تجرِّب الوضع Fullscreen للعمل في مساحة أكبر:
+
+![screenshot](images/showcase-fullscreen.png)
+
+اضغط على المفتاح Esc للخروج من الوضع Fullscreen.
+
++ شغِّل trinket وانقر فوق الرابط "عيد ميلاد سعيد". 
+
++ انقر فوق قائمة trinket وحدِّد __embed__. وإذا لم تكن تستخدم الوضع Fullscreen، فقد تحتاج إلى التمرير. استخدم شريط التمرير الموجود على اليمين أو مفتاح سهم إلى أسفل في لوحة المفاتيح.
+
+![screenshot](images/showcase-embed-code.png)
+
+
+
++ اختر 'Only show code or result (let users toggle between them)' و __انسخ__ تعليمات embed البرمجية لـ trinket. 
+
+![screenshot](images/showcase-embed.png)
+
++ لقد أنشأ Trinket بعض تعليمات HTML البرمجية لاستخدامها في صفحة الويب. فهو يستخدم الوسم `<iframe>` الذي يسمح بتضمين المحتوى في الصفحة. 
+
++ ألصق الآن هذه التعليمات البرمجية أسفل الرابط إلى مشروع "عيد ميلاد سعيد" على trinket:
+
+![screenshot](images/showcase-paste-embed.png)
+
++ شغِّل trinket لاختباره. سترى مشروع "عيد ميلاد سعيد" مضمنًا في صفحة الويب. 
+
+![screenshot](images/showcase-embed-output.png)
+
++ من المتحمل أن تجد الجزء السفلي من الصفحة على trinket غير معروض. يمكنك إصلاح ذلك بتغيير قيمة الطول في الوسم `<iframe>`. 
+
+![screenshot](images/showcase-embed-height.png)
+
+عيِّن الطول إلى __400__. وإذا قمت بإجراء تغييرات على مشروع "عيد ميلاد سعيد"، فقد تحتاج إلى اختيار قيمة أخرى. 
+
+![screenshot](images/showcase-embed-fixed.png)
+
+
+
