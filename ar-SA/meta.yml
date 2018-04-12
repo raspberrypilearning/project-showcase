@@ -1,18 +1,22 @@
 ---
 title: عرض المشاريع
-hero_image: images/project-showcase.png
+hero_image: images/banner.png
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: أنشئ عرضًا لمشاريعك على الويب.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
-steps:
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps: 
 - title: المقدمة
 - title: إضافة روابط إلى صفحات الويب
 - title: 'التحدي: أضف رابطًا آخر'
@@ -24,4 +28,3 @@ steps:
 - title: العودة إلى أعلى الصفحة
 - title: 'التحدي: حسِّن عرضك!'
 - title: 'التحدي: أنشئ عرضًا جديدًا'
-
