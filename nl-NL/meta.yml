@@ -1,0 +1,41 @@
+---
+hero_image: images / banner.png
+title: Project Showcase
+theme: turkoois
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Maak een showcase van uw webprojecten.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Invoering
+  - 
+    title: Links toevoegen aan webpagina's
+  - 
+    title: 'Uitdaging: voeg nog een link toe'
+  - 
+    title: Link naar A Trinket
+  - 
+    title: 'Uitdaging: maak een lijst van uw projecten'
+  - 
+    title: Projecten insluiten
+  - 
+    title: 'Uitdaging: Meer projecten insluiten'
+  - 
+    title: Maak een inhoudsopgave
+  - 
+    title: Terug naar de top
+  - 
+    title: 'Uitdaging: verbeter uw showcase'
+  - 
+    title: 'Uitdaging: maak een nieuwe showcase'
