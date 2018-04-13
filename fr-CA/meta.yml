@@ -1,0 +1,41 @@
+---
+hero_image: images/banner.png
+title: Project Showcase
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a showcase of your web projects.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Adding Links to Webpages
+  - 
+    title: 'Challenge: Add another link'
+  - 
+    title: Link to A Trinket
+  - 
+    title: 'Challenge: Create a List of Your Projects'
+  - 
+    title: Embedding Projects
+  - 
+    title: 'Challenge: Embed More Projects'
+  - 
+    title: Create a Table of Contents
+  - 
+    title: Getting Back to the Top
+  - 
+    title: 'Challenge: Improve Your Showcase'
+  - 
+    title: 'Challenge: Create a New Showcase'
