@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: Проект Вітрина
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: Створіть вітрину своїх веб-проектів.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Adding Links to Webpages
+    title: Додавання посилань на веб-сторінки
   - 
-    title: 'Challenge: Add another link'
+    title: 'Виклик: Додати ще одне посилання'
   - 
-    title: Link to A Trinket
+    title: Посилання на Trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'Виклик: створити список ваших проектів'
   - 
-    title: Embedding Projects
+    title: Вбудовування проектів
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Виклик: вкласти інші проекти'
   - 
-    title: Create a Table of Contents
+    title: Створіть зміст
   - 
-    title: Getting Back to the Top
+    title: Повернутися до початку
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'Виклик: поліпшити свою вітрину'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'Виклик: поліпшити свою вітрину'
