@@ -1,4 +1,4 @@
-## Terug naar de top
+## Terug naar boven
 
 + Het is ook handig om terug te kunnen navigeren naar de bovenkant van de pagina. HTML heeft `#top` voor dit doel.
 
@@ -8,4 +8,4 @@
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test uw links door op Top te klikken om terug te keren naar de bovenkant van de pagina.
++ Test de links door op Top te klikken om terug te keren naar de bovenkant van de pagina.
