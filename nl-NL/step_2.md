@@ -1,8 +1,8 @@
 ## Links toevoegen aan webpagina's
 
-Met tekstlinks kunt u op woorden klikken om naar een andere webpagina te gaan; ze zijn meestal onderstreept.
+Met tekstlinks kunt je op woorden klikken om naar een andere webpagina te gaan; ze zijn meestal onderstreept.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open deze trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     Het project zou er als volgt uit moeten zien:
     
@@ -20,24 +20,24 @@ Met tekstlinks kunt u op woorden klikken om naar een andere webpagina te gaan; z
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Klik op Uitvoeren om je trinket te testen.
++ Klik op Run om je trinket te testen.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Klik op de koppeling Code Club om uw webpagina te testen. Je trinket toont nu de webpagina van de Code Club: 
++ Klik op de koppeling Code Club om de webpagina te testen. Je trinket toont nu de webpagina van de Code Club: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ Om terug te gaan naar uw pagina kunt u:
++ Om terug te gaan naar je pagina kun je:
     
-    + Ren je trinket opnieuw,
+    + Je trinket opnieuw uitvoeren,
     
-    + Tik op de Backspace-toets op het toetsenbord of
+    + Op de Backspace-toets op het toetsenbord drukken of
     
-    + Klik met de rechtermuisknop en kies Terug.
+    + Met de rechtermuisknop klikken en Terug kiezen.
 
-+ Plaats nu je link in een zin in een alinea:
++ Plaats nu je link in een zin binnen een alinea:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test uw webpagina.
+Test je webpagina.
