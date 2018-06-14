@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Виклик: створити список ваших проектів
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Додайте деякі інші HTML & CSS-проекти, які ви створили в Code Club. Використовуйте заголовки `<h2>` для упорядкування своєї веб-сторінки.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Якщо у вас немає посилань на створені вами проекти, ви можете використовувати приклади Code Club:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ Інакше відкрийте готовий приклад Trinket: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Моя історія: [ https://trinket.io/html/c8afdef912 ](https://trinket.io/html/c8afdef912)
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Розшукується: [ https://trinket.io/html/ebeb56398a ](https://trinket.io/html/ebeb56398a)
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Рецепт: [ https://trinket.io/html/c0fd9b40cd ](https://trinket.io/html/c0fd9b40cd)
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Невідомий Лист: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Ваша готова сторінка повинна виглядати приблизно так:
 
-![screenshot](images/showcase-h2-projects.png)
+![скріншот](images/showcase-h2-projects.png)
 
 \--- /challenge \---
