@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Виклик: поліпшити свою вітрину
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Використовуйте CSS, яку ви вивчали, щоб зробити вашу сторінку цікавішою. Спробуйте змінити фоновий колір сторінки або шрифт, який використовується для заголовків.
 
-You can also add some information about each project and what you liked about making it.
+Ви також можете додати деяку інформацію про кожен проект і про те, що вам сподобалось.
 
 \--- /challenge \---
