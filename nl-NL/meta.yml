@@ -1,13 +1,13 @@
 ---
-hero_image: images / banner.png
-title: Project Showcase
-theme: turkoois
+hero_image: images/banner.png
+title: Project Vitrine
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Maak een showcase van uw webprojecten.
+description: Maak een vitrine van je webprojecten.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Invoering
+    title: Inleiding
   - 
     title: Links toevoegen aan webpagina's
   - 
     title: 'Uitdaging: voeg nog een link toe'
   - 
-    title: Link naar A Trinket
+    title: Link naar een Trinket
   - 
-    title: 'Uitdaging: maak een lijst van uw projecten'
+    title: 'Uitdaging: maak een lijst van je projecten'
   - 
     title: Projecten insluiten
   - 
-    title: 'Uitdaging: Meer projecten insluiten'
+    title: 'Uitdaging: meer projecten insluiten'
   - 
     title: Maak een inhoudsopgave
   - 
-    title: Terug naar de top
+    title: Terug naar boven
   - 
-    title: 'Uitdaging: verbeter uw showcase'
+    title: 'Uitdaging: verbeter je vitrine'
   - 
-    title: 'Uitdaging: maak een nieuwe showcase'
+    title: 'Uitdaging: maak een nieuwe vitrine'
