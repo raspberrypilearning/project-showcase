@@ -1,37 +1,37 @@
-## Embedding Projects
+## Вбудовування проектів
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Крім того, посилання на Trinket як веб-сторінки, ми також можемо вставити їх на веб-сторінку.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Ви можете спробувати працювати в режимі Fullscreen, щоб мати більше місця:
 
-![screenshot](images/showcase-fullscreen.png)
+![скріншот](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Натисніть клавішу Esc, щоб вийти з повноекранного режиму.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Запустіть свій Trinket та натисніть посилання З Днем Народження.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Натисніть на меню Trinket та виберіть ** вставити **. Якщо ви не перебуваєте у повноекранному режимі, можливо, вам доведеться прокручувати. Використовуйте смугу прокрутки правою або стрілкою вниз на клавіатурі.
 
-![screenshot](images/showcase-embed-code.png)
+![скріншот](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Виберіть "Показати лише код або результат (дозвольте користувачам переключатися між ними)" та ** скопіювати ** код вставки для Trinket. 
 
-![screenshot](images/showcase-embed.png)
+![скріншот](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Trinket створив який-небудь HTML для включення вашої веб-сторінки. Він використовує тег `<iframe>`, який дозволяє вбудовувати вміст на сторінку.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ Тепер вставте цей код під посиланням на Trinket З Днем Народження:
 
-![screenshot](images/showcase-paste-embed.png)
+![скріншот](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ Запустіть свій Trinket, щоб перевірити його, і ви повинні побачити свій проект З Днем Народження, вбудований на веб-сторінку. 
 
-![screenshot](images/showcase-embed-output.png)
+![скріншот](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ Ви можете виявити, що нижня частина Trinket не відображається. Ви можете виправити це, змінюючи значення висоти на `<iframe>`. 
 
-![screenshot](images/showcase-embed-height.png)
+![скріншот](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Встановіть висоту до ** 400 **. Якщо ви внесли зміни до проекту З Днем Народження, вам може знадобитися вибрати інше значення.
 
-![screenshot](images/showcase-embed-fixed.png)
+![скріншот](images/showcase-embed-fixed.png)
