@@ -1,21 +1,21 @@
 ## Maak een inhoudsopgave
 
-Laten we een inhoudsopgave toevoegen, zodat we gemakkelijk bij elk project kunnen komen.
+We gaan een inhoudsopgave toevoegen, zodat we gemakkelijk bij elk project kunnen komen.
 
-+ Naast de mogelijkheid om naar andere webpagina's te linken, kunnen we naar delen van een webpagina linken als we hen een ID geven. 
++ Naast de mogelijkheid om naar andere webpagina's te linken, kunnen we ook naar delen van een webpagina linken, als we dat een 'id' geven. 
 
-Voeg een ID toe aan de `<h2>` rubriek voor het Happy Birthday-project:
+Voeg een id toe aan de `<h2>` kop voor het project Gefeliciteerd!:
 
 ![screenshot](images/showcase-id.png)
 
-+ Voeg id's toe aan elk van uw projecten en geef ze korte namen: verhaal, gezocht, recept en brief.
++ Voeg id's toe aan al je projecten en geef ze korte namen: verhaal, gezocht, recept en letter.
 
-+ Je kunt een link maken naar een element met een id door een hekje '#' symbool voor zijn naam te plaatsen. Bijvoorbeeld `#verjaardag`.
++ Je kunt naar een element met een id linken door een hekje '#' voor de naam te zetten. Bijvoorbeeld `#verjaardag`.
 
-Maak een geordende lijst met links naar uw projecten. (Bestelde lijsten worden geïntroduceerd in het receptproject.)
+Maak een geordende lijst met links naar je projecten. (Geordende lijsten worden behandeld in het project Recept.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Voer uw project uit en test het door op de links te klikken om naar uw projecten te gaan. 
++ Voer je project uit en test het door op de links te klikken om naar uw projecten te gaan. 
 
 ![screenshot](images/showcase-list-output.png)
