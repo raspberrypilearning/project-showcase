@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Додавання посилань на веб-сторінки
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Текстові посилання дозволяють натискати на слова, щоб перейти на іншу веб-сторінку; вони, як правило, підкреслюються.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Відкрийте Trinket: [ jumpto.cc/web-showcase ](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
-    ![screenshot](images/showcase-starter.png)
+    ![скріншот](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML використовує тег `<a>` для посилань.
 
-![screenshot](images/showcase-link.png)
+![скріншот](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Знайдіть тег `<a>` у вашому проекті. 
 
-![screenshot](images/showcase-a-template.png)
+![скріншот](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Додайте адресу веб-сайту Code Club [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) та текст посилання:
 
-![screenshot](images/showcase-code-club.png)
+![скріншот](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Натисніть «Виконати», щоб протестувати свій Trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![скріншот](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Клацніть по посиланню Code Club, щоб протестувати вашу веб-сторінку. Тепер ваш Trinket відображатиме веб-сторінку Code Club: 
 
-![screenshot](images/showcase-cc-website.png)
+![скріншот](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Щоб повернутися на свою сторінку, ви можете:
     
-    + Run your trinket again,
+    + Запустіть свій Trinket знову
     
-    + Tap the Backspace key on the keyboard, or
+    + Натисніть клавішу Backspace на клавіатурі або
     
-    + Right-click and choose Back.
+    + Клацніть правою кнопкою миші та виберіть "Назад".
 
-+ Now put your link into a sentence inside a paragraph:
++ Тепер покладіть посилання на речення всередині абзацу:
 
-![screenshot](images/showcase-paragraph.png)
+![скріншот](images/showcase-paragraph.png)
 
-Test your webpage.
+Перевірте свою веб-сторінку.
