@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Виклик: вкласти інші проекти
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Внесіть більше ваших проектів у Вітрину. Пам'ятайте, що ви можете легко знайти свої сторінки Trinket, натиснувши посилання на вашій веб-сторінці.
 
 \--- /challenge \---
