@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## Повернутися до Топу
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Також корисно мати можливість переходити до верхньої частини сторінки. HTML має ` #top ` для цієї мети.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Додайте посилання на ` #top ` після кожного вбудованого проекту на свою веб-сторінку:
 
-![screenshot](images/showcase-top-code.png)
+![скріншот](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![скріншот](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Перевірте свої посилання, натиснувши кнопку "Вгору", щоб повернутися до верхньої частини сторінки.
