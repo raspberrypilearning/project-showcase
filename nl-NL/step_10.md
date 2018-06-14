@@ -1,9 +1,9 @@
-\--- uitdaging \---
+\--- challenge \---
 
-## Uitdaging: verbeter uw showcase
+## Uitdaging: verbeter je vitrine
 
-Gebruik de CSS die u heeft geleerd om uw pagina interessanter te maken. Probeer de achtergrondkleur van de pagina of het lettertype dat voor de koppen wordt gebruikt te veranderen.
+Gebruik de CSS die je al kent om de pagina interessanter te maken. Probeer de achtergrondkleur van de pagina of het lettertype dat voor de koppen wordt gebruikt te veranderen.
 
 Je kunt ook wat informatie toevoegen over elk project en wat je leuk vond aan het maken ervan.
 
-\--- / uitdaging \---
+\--- /challenge \---
