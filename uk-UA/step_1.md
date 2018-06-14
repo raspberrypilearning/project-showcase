@@ -1,86 +1,86 @@
-## Introduction
+## Вступ
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+У цьому проекті ви створите вітрину своїх HTML проектів і дізнаєтеся про посилання та вкладення ресурсів.
 
-![screenshot](images/showcase-intro.png)
+![скріншот](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Додаткова інформація для лідерів клубу
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## керівник клубу відзначає
 
-## Introduction:
+## Введення:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+У цьому проекті діти познайомилися з гіперпосиланнями та вбудованим Trinket та проектами Scratch на веб-сторінці.
 
-## Online Resources
+## Інтернет-ресурси
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Ми рекомендуємо використовувати [ trinket ](https://trinket.io/), щоб написати HTML & CSS онлайн. Цей проект містить такий trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
+* [Відправна точка "Вітрина проекту"-- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть скористатися цим порожнім trinket [ (jumpto.cc / html-blank) ](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket[ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Існує також trinket, що містить вибіркове рішення для вирішення проблем:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["Вітрина проекту завершена" - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## Оффлайн ресурси
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проект може бути [ завершено оффлайн ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо це є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси проекту", який включає в себе ресурси, необхідні для завершення цього проекту в режимі оффлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Ви також можете знайти завершену версію викликів цього проекту у розділі "Ресурси волонтерів", яка містить:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Усі вищезазначені ресурси також можна завантажувати як проектні та добровільні файли `.zip `.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Зауважте, що якщо діти завершили свої інші проекти в автономному режимі, вони не зможуть вставляти їх, але вони все одно зможуть зв'язати їх.
 
-## Learning Objectives
+## Мета навчання
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Цей проект представляє текстові посилання на інші веб-сторінки та назви ідентифікаторів на сторінці. Він також вводить вбудовані trinket та проекти Scratch на веб-сторінку. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проект охоплює елементи з наступних напрямків навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Розробіть основні 2D та 3D атрибути ](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Виклики
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "Додати іншу посилання" - Додати посилання на інші веб-сторінки;
+* "Створення списку ваших проектів" - створення посилань на попередні веб-проекти;
+* "Вкласти інші проекти" - використовуйте CSS для створення нових стилів.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## матеріали проекту
 
-## Project resources
+## Ресурси проекту
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip-файл, що містить всі ресурси проекту](resources/showcase-project-resources.zip)
+* [Онлайн Trinket - з усіма ресурсами проекту "Вітрина проекту"](http://jumpto.cc/web-showcase)
+* [Шаблон онлайн- Trinket](http://jumpto.cc/trinket-template)
+* [Онлайн чистийTrinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Ресурси лідерів клубу
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [.zip-файл, що містить всі завершені ресурси проекту](resources/showcase-volunteer-resources.zip)
+* [Онлайн завершив проект Trinket](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
