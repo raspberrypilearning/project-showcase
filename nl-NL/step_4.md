@@ -1,27 +1,27 @@
-## Link naar A Trinket
+## Link naar een Trinket
 
-U kunt een koppeling naar de webpagina voor een trinket.
+Voor een trinket kun je naar een webpagina linken.
 
-+ Hebt u een link naar uw trinket voor Happy Birthday bewaard? Als u dat deed, opent u die trinket in een ander browsertabblad of -venster. Open anders het voltooide voorbeeld trinket: <https://trinket.io/html/e996dc0380>
++ Heb je een link naar je trinket voor Gefeliciteerd bewaard? Zo ja, open dan die trinket in een ander browsertabblad of -venster. Anders kun je het voltooide voorbeeld-trinket openen: <https://trinket.io/html/e996dc0380>
 
-+ Klik op het menu Delen boven je trinket en kies Link:
++ Klik op het menu Share (Engels voor Delen) boven je trinket en kies Link:
 
 ![screenshot](images/showcase-share1.png)
 
-Als u de trinket vanuit uw account hebt geopend, zoekt u in plaats daarvan naar de optie Delen onder uw trinket:
+Als je de trinket vanuit je eigen account hebt geopend, zoek je in plaats daarvan de optie Share onder je trinket:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Kies 'Alleen code of resultaat weergeven (laat gebruikers daartussen schakelen)' en kopieer de link naar de trinket. 
++ Kies 'Only show code or output (let users toggle between them)' en kopieer de link naar de trinket. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Ga terug naar je trinket voor projectdemonstraties en voeg een `<h2>` -kop toe en een link naar je Happy Birthday-project.
++ Ga terug naar je trinket Project Vitrine en voeg een `<h2>` -kop toe en een link naar je Gefeliciteerd-project.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test uw webpagina; het zou er ongeveer zo uit moeten zien:
+Test de webpagina; het zou er ongeveer zo uit moeten zien:
 
 ![screenshot](images/showcase-link-output.png)
 
-Klik op de koppeling Gefeliciteerd om te testen of u naar de trinket wordt gebracht.
+Klik op de koppeling Gefeliciteerd om te testen of je naar de trinket gaat.
