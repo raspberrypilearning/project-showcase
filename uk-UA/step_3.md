@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Виклик: Додати ще одне посилання
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Додайте пропозицію з посиланням на веб-сайт, який був корисний для створення веб-проектів. Наприклад: [ https://trinket.io ](https://trinket.io) або [ https://trinket.io/docs/colors ](https://trinket.io/docs/colors).
 
-![screenshot](images/showcase-link-challenge.png)
+![скріншот](images/showcase-link-challenge.png)
 
 \--- /challenge \---
