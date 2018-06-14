@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Посилання на Trinket
 
-You can link to the web page for a trinket.
+Ви можете послати на веб-сторінку Trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Ти зберіг посилання на твій Trinket З Днем Народження? Якщо ви зробили, відкрийте цей Trinket в іншій вкладці або вікні веб-переглядача. Інакше відкрийте готовий приклад Trinket: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Click on the Share menu above your trinket and choose Link:
++ Натисніть меню "Спільнота" над своїм Trinket та виберіть "Посилання:":
 
-![screenshot](images/showcase-share1.png)
+![скріншот](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+Якщо ви відкрили Trinket з вашого облікового запису, шукайте опцію "Надати доступ" під своїм Trinket інструментом:
 
-![screenshot](images/showcase-share2.png)
+![скріншот](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Виберіть "Показати лише код або результат (дозвольте користувачам переключатися між ними)" та скопіюйте посилання на Trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![скріншот](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Поверніться до вашої демонстраційної дрібниці проекту та додайте заголовок `<h2>` та посилання на ваш проект З Днем Народження.
 
-![screenshot](images/showcase-link-trinket.png)
+![скріншот](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Перевірте свою веб-сторінку; це має виглядати приблизно так:
 
-![screenshot](images/showcase-link-output.png)
+![скріншот](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Натисніть посилання "З Днем народження", щоб перевірити, що він приведе вас до Trinket.
