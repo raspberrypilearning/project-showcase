@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Виклик: створити нову вітрину
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Trinket- це не єдине, що можна вставити на веб-сторінку. Ви можете вставляти відео, віджети (наприклад, weather widget) або проекти Scratch.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Відкрийте примірник Embed Scratch Example і запустіть його: [ https://trinket.io/html/9f7212b8fe ](https://trinket.io/html/9f7212b8fe)
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Перейдіть на веб-сайт Scratch та знайдіть потрібний вам проект. Це може бути один з ваших проектів або проект який ви знайшли.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Якщо ви ввійшли в систему, ви можете натиснути кнопку "Вставити" під проектом, щоб отримати код вставки HTML.
 
-![screenshot](images/scratch-embed.png)
+![скріншот](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Якщо ви не ввійшли в систему, то знайдіть його номер веб-адреси на номер Scratch.
 
-![screenshot](images/scratch-project-number.png)
+![скріншот](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Зробіть копію коду `<iframe>` у прикладі Scratch Embed та змініть номер проекту на той, який потрібно вставити для проекту:
 
-![screenshot](images/scratch-iframe.png)
+![скріншот](images/scratch-iframe.png)
 
 \--- /challenge \---
