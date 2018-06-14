@@ -1,7 +1,7 @@
-\--- uitdaging \---
+\--- challenge \---
 
 ## Uitdaging: Meer projecten insluiten
 
-Sluit meer van uw projecten in de Showcase in. Vergeet niet dat u hun trinketpagina's gemakkelijk kunt vinden door op de links op uw webpagina te klikken.
+In de Vitrine kun je meer projecten insluiten. Bedenk dat je de trinketpagina's makkelijk kunt vinden door op de links op de webpagina te klikken.
 
-\--- / uitdaging \---
+\--- /challenge \---
