@@ -23,7 +23,7 @@ title: ملاحظات قادة النادي
 
 نوصي باستخدام [trinket](https://trinket.io/) لكتابة ملفات HTML وCSS على الإنترنت. يحتوي هذا المشروع على ملف trinket التالي:
 
-+ ['عرض المشاريع' مشروع البدء  -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ ['عرض المشاريع' مشروع البدء  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 

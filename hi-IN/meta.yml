@@ -10,8 +10,11 @@ curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, commun
 description: अपने वेब प्रोजेक्ट्स का शोकेस बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.1
 steps:
 - title: भूमिका
 - title: वेब पेजों में लिंक जोड़ना

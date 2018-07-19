@@ -8,7 +8,7 @@ Dans ce projet, tu va créer un portfolio de tes projets HTML et apprendre comme
 
 Nous recommandons l'utilisation de [trinket](https://trinket.io/) pour écrire du HTML et CSS. Ce projet contient les trinkets suivants:
 
-+ ['Portfolio' point de départ  -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ ['Portfolio' point de départ  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Les enfants peuvent aussi utiliser ce trinket vide [(jumpto.cc/trinket-blank)](http://jumpto.cctrinket-blank) pour écrire leur propre HTML et CSS, ou altertivement ils peuvent utiliser ce trinket [(jumpto.cc/trinket-template)](http://jumpto.cc/trinket-template).
 

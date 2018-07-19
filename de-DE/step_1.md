@@ -8,7 +8,7 @@ In diesem Projekt wirst du ein Vorzeigeprojekt deiner HTML-Projekte erstellen un
 
 Wir empfehlen [trinket](https://trinket.io/) zu nutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält das folgende Trinket:
 
-+ ['Project Showcase' starting point  -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ ['Project Showcase' starting point  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML- und CSS-Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
 

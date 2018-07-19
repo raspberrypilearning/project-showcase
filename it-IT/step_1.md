@@ -8,7 +8,7 @@ In questo progetto creerai una presentazione dei tuoi progetti in HTML e imparer
 
 Consigliamo di usare [trinket](https://trinket.io/) per scrivere HTML e CSS online. Questo progetto contiene il seguente trinket:
 
-+ [Punto di partenza per "Presentazione dei progetti” -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ [Punto di partenza per "Presentazione dei progetti” -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 I bambini possono anche utilizzare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere il proprio HTML e CSS oppure questo modello trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 

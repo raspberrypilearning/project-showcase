@@ -23,7 +23,7 @@ title: क्लब लीडर के नोट्स
 
 HTML और CSS को ऑनलाइन लिखने के लिए हम [trinket](https://trinket.io/) का उपयोग करने की अनुशंसा करते हैं। इस प्रोजेक्ट में निम्नलिखित ट्रिंकेट शामिल होते हैं:
 
-+ ['प्रोजेक्ट शोकेस' का आरंभ बिंदु -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ ['प्रोजेक्ट शोकेस' का आरंभ बिंदु -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 बच्चे स्वयं का HTML और CSS लिखने के लिए इस [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) खाली ट्रिंकेट का भी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट ट्रिंकेट का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
