@@ -23,7 +23,7 @@ title: 俱乐部领导备注
 
 我们推荐使用 [trinket](https://trinket.io/) 来在线编写 HTML & CSS。本项目包含以下 trinket：
 
-+ [“项目展示”起点  -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ [“项目展示”起点  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 孩子们也可使用该空白 trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) 来编写自己的 HTML & CSS，或者他们可以使用该 trinket 模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
 
