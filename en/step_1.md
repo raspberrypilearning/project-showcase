@@ -23,7 +23,7 @@ In this project, children are introduced to hyperlinks and embedding trinkets an
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-+ ['Project Showcase' starting point  -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
++ ['Project Showcase' starting point  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
