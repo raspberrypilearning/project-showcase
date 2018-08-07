@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Πρόσθεση συνδέσμων προς ιστοσελίδες
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Οι σύνδεσμοι κειμένου σου επιτρέπουν να κάνεις κλικ σε λέξεις για να μεταβείς σε μια άλλη ιστοσελίδα και είναι συνήθως υπογραμμισμένοι.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Άνοιξε αυτό το trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Το έργο πρέπει να μοιάζει έτσι:
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ Η γλώσσα HTML χρησιμοποιεί την ετικέτα `<a>` για συνδέσμους.
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Βρες την ετικέτα `<a>` στο έργο σου. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Πρόσθεσε τη διεύθυνση ιστοτόπου του Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) και το κείμενο συνδέσμου:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Κάνε κλικ στο κουμπί Run για να δοκιμάσεις το trinket.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Κάνε κλικ στο σύνδεσμο Code Club για να δοκιμάσεις την ιστοσελίδα σου. Το trinket θα εμφανίσει την ιστοσελίδα Code Club: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Για να γυρίσεις πίσω στην ιστοσελίδα σου, μπορείς είτε:
     
-    + Run your trinket again,
+    + Να εκτελέσεις το trinket ξανά,
     
-    + Tap the Backspace key on the keyboard, or
+    + Να πατήσεις το Backspace στο πληκτρολόγιο, ή
     
-    + Right-click and choose Back.
+    + Να κάνεις δεξί κλικ και να επιλέξεις Πίσω.
 
-+ Now put your link into a sentence inside a paragraph:
++ Τώρα βάλε το σύνδεσμο σε μια πρόταση μέσα σε μια παράγραφο:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+Δες πως φαίνεται τώρα η ιστοσελίδα σου.
