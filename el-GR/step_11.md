@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Πρόκληση: Δημιούργησε μια νέα Παρουσίαση
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Τα trinkets δεν είναι το μόνο πράγμα που μπορείς να ενσωματώσεις σε μια ιστοσελίδα. Μπορείς να ενσωματώσεις βίντεο, γραφικά widgets (όπως ένα widget καιρού) ή έργα Scratch.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+'Ανοιξε το παράδειγμα ενσωματωμένου Scratch trinket και εκτέλεσέ το: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Πήγαινε στον ιστότοπο Scratch και βρες ένα έργο που σου αρέσει. Μπορεί να είναι ένα δικό σου ή ένα που βρήκες.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Αν έχεις συνδεθεί στον ιστότοπο Scratch, μπορείς να πατήσεις στο κουμπί 'Embed' κάτω από το έργο για να πάρεις τον HTML κώδικα ενσωμάτωσης.
 
 ![screenshot](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Αν δεν έχεις συνδεθεί, τότε κοίταξε για τον αριθμό του Scratch έργου στην διαδικτυακή διεύθυνση.
 
 ![screenshot](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Αντέγραψε τον κώδικα `<iframe>` στο παράδειγμα ενσωματωμένου Scratch και άλλαξε τον αριθμό έργου με αυτόν του έργου που θες να ενσωματώσεις:
 
 ![screenshot](images/scratch-iframe.png)
 
