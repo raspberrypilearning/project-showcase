@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Πρόκληση: Ενσωμάτωσε περισσότερα έργα
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Ενσωμάτωσε περισσότερα έργα σου στην Επίδειξη. Θυμήσου ότι μπορείς εύκολα να βρεις τα trinkets των έργων σου κάνοντας κλικ στους συνδέσμους της ιστοσελίδας σου.
 
 \--- /challenge \---
