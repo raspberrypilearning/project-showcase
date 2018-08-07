@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Desafio: Mais Projetos Incorporados
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Incorpore mais projetos no Mostruário. Lembre-se de que você pode encontrar facilmente suas páginas de trinket clicando nos links da sua página web.
 
 \--- /challenge \---
