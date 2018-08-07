@@ -1,86 +1,86 @@
-## Introduction
+## Εισαγωγή
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+Σε αυτό το έργο, θα δημιουργήσεις μία παρουσίαση των HTML έργων σου και θα μάθεις για τους συνδέσμους και τρόπους ενσωμάτωσης.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Σημειώσεις συντονιστή ομάδας
 
-## Introduction:
+## Εισαγωγή:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+Σε αυτό το έργο, τα παιδιά έρχονται σε επαφή με τους υπερσυνδέσμους και την ενσωμάτωση trinket και έργων Scratch μέσα σε μία ιστοσελίδα.
 
-## Online Resources
+## Online Πόροι
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Συνιστούμε να χρησιμοποιήσεις την εφαρμογή [trinket](https://trinket.io/) για να γράψεις HTML & CSS online. Αυτό το έργο περιλαμβάνει το ακόλουθο trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-letter](http://jumpto.cc/web-letter)
+* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Τα παιδιά μπορούν επίσης να χρησιμοποιήσουν αυτό το κενό trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) για να γράψουν το δικό τους HTML & CSS κώδικα, ή εναλλακτικά αυτό το trinket πρότυπο [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Υπάρχει επίσης ένα trinket που περιέχει μια υποδειγματική λύση στις προκλήσεις:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Επίδειξη Έργων' Ολοκληρωμένο -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## Offline Πόροι
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Αυτό το έργο μπορεί να [ολοκληρωθεί χωρίς σύνδεση](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) αν προτιμάς. Μπορείς να αποκτήσεις πρόσβαση στους πόρους του έργου κάνοντας κλικ στο σύνδεσμο 'Υλικό έργου'. Αυτός ο σύνδεσμος περιέχει μια ενότητα 'Πόροι έργου', η οποία περιλαμβάνει πόρους που τα παιδιά θα χρειαστούν για να ολοκληρώσουν αυτό το έργο εκτός σύνδεσης. Βεβαιωθείτε ότι κάθε παιδί έχει πρόσβαση σε ένα αντίγραφο αυτών των πόρων. Αυτή η ενότητα περιλαμβάνει τα ακόλουθα αρχεία:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Μπορείτε επίσης να βρείτε μια ολοκληρωμένη έκδοση των προκλήσεων αυτού του έργου στην ενότητα 'Πόροι εθελοντών', η οποία περιέχει:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Όλοι οι παραπάνω πόροι μπορούν επίσης να μεταφορτωθούν ως συμπιεσμένα `.zip` αρχεία.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Σημειώστε ότι αν τα παιδιά έχουν ολοκληρώσει τα έργα τους εκτός σύνδεσης, τότε δε μπορούν να τα ενσωματώσουν αλλά μόνο να παραπέμπουν σε αυτά μέσω συνδέσμων.
 
-## Learning Objectives
+## Στόχοι μάθησης
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Το έργο κάνει μια εισαγωγή στους συνδέσμους κειμένου προς άλλες ιστοσελίδες αλλά και σε σημεία (named ids) εντός της ιστοσελίδας. Εισάγει επίσης την ενσωμάτωση trinkets και έργων Scratch σε μία ιστοσελίδα. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Προκλήσεις
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "Πρόσθεσε άλλο ένα σύνδεσμο" - Πρόσθεσε συνδέσμους προς περισσότερες ιστοσελίδες
+* "Δημιούργησε μια λίστα των έργων σου" - Δημιούργησε συνδέσμους προς παλαιότερα web έργα σου
+* "Ενσωμάτωσε περισσότερα έργα" - Γράψε κώδικα CSS για να δημιουργήσεις νέα στυλ.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικό έργου
 
-## Project resources
+## Πόροι έργου
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/showcase-project-resources.zip)
+* [Online Trinket που περιέχει όλους τους πόρους του έργου 'Επίδειξη Έργων'](http://jumpto.cc/web-showcase)
+* [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
+* [Online κενό Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Πόροι συντονιστή ομάδας
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/showcase-volunteer-resources.zip)
+* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
