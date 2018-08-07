@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Desafio: Melhore seu projeto Mostruário
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Use o CSS que você aprendeu para tornar sua página mais interessante. Tente alterar a cor de fundo da página ou a fonte usada para os títulos.
 
-You can also add some information about each project and what you liked about making it.
+Você também pode adicionar algumas informações sobre cada projeto e o que você gostou de fazer isso.
 
 \--- /challenge \---
