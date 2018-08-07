@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Πρόκληση: Δημιούργησε μια λίστα των έργων σου
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Πρόσθεσε μερικά από τα υπόλοιπα έργα HTML & CSS που έχεις δημιουργήσει στο Code Club. Χρησιμοποίησε επικεφαλίδες `<h2>` για να οργανώσεις την ιστοσελίδα σου.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Αν δεν έχεις συνδέσμους προς τα έργα που δημιούργησες, μπορείς να χρησιμοποιήσεις τα παραδείγματα στο Code Club:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ Ευτυχισμένα Γενέθλια: <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Πες μια ιστορία: <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Καταζητείται: <https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Συνταγή: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Μυστήρια Επιστολή: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Αμέσως μετά, η ιστοσελίδα σου πρέπει να έχει την εξής μορφή:
 
 ![screenshot](images/showcase-h2-projects.png)
 
