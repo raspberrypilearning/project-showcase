@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Πρόκληση: Βελτίωσε την παρουσίασή σου
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Χρησιμοποίησε κώδικα CSS που έμαθες ως τώρα για να κάνεις πιο ελκυστική την ιστοσελίδα σου. Δοκίμασε να αλλάξεις το χρώμα φόντου της ιστοσελίδας ή τη γραμματοσειρά των επικεφαλίδων.
 
-You can also add some information about each project and what you liked about making it.
+Μπορείς επίσης να προσθέσεις μερικές πληροφορίες για κάθε έργο και τι σου άρεσε περισσότερο όταν τα έφτιαχνες.
 
 \--- /challenge \---
