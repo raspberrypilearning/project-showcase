@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Πρόκληση: Πρόσθεσε άλλο ένα σύνδεσμο
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Πρόσθεσε μια πρόταση με ένα σύνδεσμο προς μια ιστοσελίδα χρήσιμη για τη δημιουργία έργων Web. Για παράδειγμα: <https://trinket.io> ή <https://trinket.io/docs/colors>.
 
 ![screenshot](images/showcase-link-challenge.png)
 
