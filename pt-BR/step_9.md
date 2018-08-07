@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## Voltando ao topo
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Também é útil poder navegar de volta ao topo da página. HTML tem o id `#top` para este propósito.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Adicione um link para `#top` após cada projeto incorporado na sua página web:
 
-![screenshot](images/showcase-top-code.png)
+![captura de tela](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![captura de tela](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Teste seus links clicando em voltar ao topo da página.
