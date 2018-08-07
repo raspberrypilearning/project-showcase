@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Δημιούργησε Πίνακα Περιεχομένων
 
-Let's add a Table of Contents so we can easily get to each project.
+Ας προσθέσουμε έναν Πίνακα Περιεχομένων ώστε να μπορούμε εύκολα να ανοίξουμε ένα έργο.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Πέρα από το να δημιουργούμε συνδέσμους προς άλλες ιστοσελίδες, μπορούμε επιπλέον να δημιουργούμε συνδέσμους σε μέρη της ίδιας ιστοσελίδας δίνοντας σε αυτά μια ταυτότητα (id). 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Πρόσθεσε ένα id στην επικεφαλίδα `<h2>` για το έργο Ευτυχισμένα Γενέθλια:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Πρόσθεσε ids σε κάθε έργο σου και δώσε σε αυτά σύντομα ονόματα: ιστορία, καταζητείται, συνταγή και επιστολή.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Μπορείς να φτιάξεις σύνδεσμο προς ένα στοιχείο με id, βάζοντας το σύμβο της δίεσης ‘#’ μπροστά από κάθε όνομα. Για παράδειγμα, `#γενέθλια`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Δημιούργησε μια αριθμημένη λίστα των συνδέσμων για τα έργα σου. (Για αριθμημένες λίστες γίνεται εισαγωγή στο έργο Συνταγή.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Εκτέλεσε το trinket σου και δοκίμασέ το πατώντας στους συνδέσμους για να μεταβείς στα έργα σου. 
 
 ![screenshot](images/showcase-list-output.png)
