@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## Επιστροφή στην κορυφή
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Είναι επίσης χρήσιμο να μπορείς να επιστρέψεις στην κορυφή της ιστοσελίδας. Η HTML έχει το `#top` για αυτό το σκοπό.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Πρόσθεσε ένα σύνδεσμο προς το `#top` μετά από κάθε ενσωματωμένο έργο στην ιστοσελίδα σου:
 
 ![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Δοκίμασε τους συνδέσμους σου για να ελέγξεις ότι επιστρέφεις στην κορυφή της ιστοσελίδας.
