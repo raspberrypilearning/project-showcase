@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Σύνδεσμος προς ένα Trinket
 
-You can link to the web page for a trinket.
+Μπορείς να βάλεις σύνδεσμο προς ένα trinket στην ιστοσελίδα σου. 
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Κράτησες σύνδεσμο για το trinket Ευτυχισμένα Γενέθλια; Αν κράτησες, τότε άνοιξε αυτό το trinket σε άλλη καρτέλα ή παράθυρο του browser. Διαφορετικά, άνοιξε το τελειωμένο παράδειγμα trinket: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Πάτησε στο μενού Share πάνω από το trinket σου και επέλεξε Link:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+Αν άνοιξες το trinket από το λογαριασμό σου, τότε ψάξε για την επιλογή Share στο κάτω μέρος:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Επέλεξε 'Only show code or result (let users toggle between them') και αντέγραψε το σύνδεσμο προς το trinket. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Επέστρεψε στο trinket Παρουσίαση Έργων και πρόσθεσε μια επικεφαλίδα `<h2>` και ένα σύνδεσμο προς το έργο Ευτυχισμένα Γενέθλια.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Δοκίμασε την ιστοσελίδα σου. Θα πρέπει να έχει την εξής μορφή:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Πάτησε το σύνδεσμο Ευτυχισμένα Γενέθλια και έλεγξε ότι σε κατευθύνει στο trinket.
