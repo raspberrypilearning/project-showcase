@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Crie um índice
 
-Let's add a Table of Contents so we can easily get to each project.
+Vamos adicionar um índice para facilitar o acesso em cada projeto.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Além de poder vincular-se a outras páginas da Web, podemos vincular a partes de uma página da Web se fornecermos um Id. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Adicione um Id ao cabeçalho `<h2>` do projeto Feliz Aniversário:
 
-![screenshot](images/showcase-id.png)
+![captura de tela](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Adicione ids a cada um dos seus projetos e dê a eles nomes curtos: historinha, procurado, receita e carta.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Você pode vincular a um elemento com um id colocando um símbolo de hash ‘#’ na frente de seu nome. Por exemplo, `#feliz-aniversario`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Crie uma lista ordenada de links para seus projetos. (Listas ordenadas são introduzidas no projeto Receita.)
 
-![screenshot](images/showcase-list.png)
+![captura de tela](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Execute seu projeto e teste-o clicando nos links para acessar seus projetos. 
 
-![screenshot](images/showcase-list-output.png)
+![captura de tela](images/showcase-list-output.png)
