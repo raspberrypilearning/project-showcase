@@ -1,6 +1,6 @@
 ## Projecten insluiten
 
-Naast het linken naar trinkets webpagina's kunnen we ze ook in een webpagina insluiten (Engels: embedding).
+Naast het linken naar trinkets als webpagina's kunnen we ze ook in een webpagina insluiten (Engels: embedding).
 
 + Probeer eens te werken in de modus Volledig scherm (Engels: Fullscreen), om meer ruimte te maken:
 
