@@ -1,37 +1,37 @@
-## Embedding Projects
+## Ενσωμάτωση έργων
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Πέρα από τη δημιουργία συνδέσμων προς trinkets στην ιστοσελίδα, μπορούμε επιπλέον να τα ενσωματώνουμε μέσα στην ιστοσελίδα.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Για να έχεις περισσότερο χώρο εργασίας, μπορείς να αλλάξεις σε κατάσταση πλήρους οθόνης:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Πάτησε Esc για να τερματίσεις την κατάσταση πλήρους οθόνης.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Εκτέλεσε το trinket σου και πάτησε στο σύνδεσμο Ευτυχισμένα Γενέθλια.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Πάτησε στο trinket μενού και επέλεξε **embed**. Αν δεν είσαι σε κατάσταση πλήρους οθόνης, ίσως να χρειαστεί να ρολάρεις. Χρησιμοποίησε τη μπάρα κύλισης στα δεξιά ή το κάτω βέλος στο πληκτρολόγιο.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Επέλεξε 'Only show code or result (let users toggle between them') και **αντέγραψε** τον κώδικα ενσωμάτωσης για το trinket. 
 
 ![screenshot](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ To Trinket έχει δημιουργήσει HTML κώδικα για να τον συμπεριλάβεις στην ιστοσελίδα σου. Χρησιμοποιεί μια ετικέτα `<iframe>` που επιτρέπει την ενσωμάτωση περιεχομένου άλλης ιστοσελίδας μέσα στη δική σου.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ Τώρα επικόλλησε τον κώδικα κάτω από τον σύνδεσμο Ευτυχισμένα Γενέθλια.
 
 ![screenshot](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ Εκτέλεσε το trinket σου για να το δοκιμάσεις και θα δεις το έργο Ευτυχισμένα Γενέθλια ενσωματωμένο στην ιστοσελίδα. 
 
 ![screenshot](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ Ίσως αντιληφθείς ότι το κάτω μέρος του trinket δεν εμφανίζεται. Μπορείς να το διορθώσεις αλλάζοντας την τιμή ύψους στο `<iframe>`. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Όρισε το ύψος σε **400**. Αν έχεις κάνεις αλλαγές στο έργο Ευτυχισμένα Γενέθλια, ίσως χρειαστεί να επιλέξεις διαφορετική τιμή.
 
 ![screenshot](images/showcase-embed-fixed.png)
