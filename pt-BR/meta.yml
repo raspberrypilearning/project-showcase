@@ -1,41 +1,41 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: Projeto Mostruário
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: Nesse projeto, você irá criar um mostruário de seus projetos HTML e aprender sobre links e recursos embutidos.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projetos
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Projeto Mostruário
   - 
-    title: Adding Links to Webpages
+    title: Adicionando Links para Páginas da Web
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafio: Adicione outro link'
   - 
-    title: Link to A Trinket
+    title: Link para Trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'Desafio: Definir uma lista para seus projetos'
   - 
-    title: Embedding Projects
+    title: Projetos Integrados
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Desafio: Mais projetos integrados'
   - 
-    title: Create a Table of Contents
+    title: Crie um índice
   - 
-    title: Getting Back to the Top
+    title: Voltando ao topo
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'Desafio: Melhore seu mostruário'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'Desafio: Crie um novo Mostruário'
