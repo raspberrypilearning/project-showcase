@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Link para um trinket
 
-You can link to the web page for a trinket.
+Você pode vincular a página da web para um trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Você manteve um link para o seu trinket "Feliz Aniversário"? Se você fez, abra esse trinket em outra aba ou janela do navegador. Caso contrário, abra o trinket de exemplo finalizado: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Clique no menu Share acima do seu trinket e escolha Link:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+Se você abriu seu trinket a partir da sua conta, então procure a opção Compartilhar abaixo do seu trinket:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Escolha 'Apenas mostrar código ou resultado (deixe os usuários alternarem entre eles)' e copie o link para o trinket. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Volte para o seu trinket Projeto Mostruário e adicione um `<h2>` e um link para o seu Projeto Feliz Aniversário.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Teste sua página web; ela deve parecer com isto:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Clique no link "Feliz Aniversário" para ir e testar seu projeto no trinket.
