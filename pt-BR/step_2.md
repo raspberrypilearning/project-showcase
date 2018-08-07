@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Adicionando Links para Páginas da Web
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Links de texto permitem que você clique em palavras para ir para outra página da web; eles são geralmente sublinhados.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Abra o trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    O projeto deve ficar assim:
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ O HTML usa a tag `<a>` para links.
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Encontre a tag `<a>` no seu projeto. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Adicione o endereço web do Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) e o texto do link:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Clique em Run para testar seu trinket.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Clique no link do Code Club para testar a página web. Seu trinket agora mostrará a página do Code Club: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Para voltar à sua página, você pode:
     
-    + Run your trinket again,
+    + Executar seu trinket novamente,
     
-    + Tap the Backspace key on the keyboard, or
+    + Toque na tecla Backspace no teclado ou
     
-    + Right-click and choose Back.
+    + Clique com o botão direito e selecione Voltar.
 
-+ Now put your link into a sentence inside a paragraph:
++ Agora coloque o seu link em uma frase dentro de um parágrafo:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+Teste sua página web.
