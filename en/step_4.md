@@ -10,7 +10,7 @@ You can link to the web page for a trinket.
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
 ![screenshot](images/showcase-share2.png)
 
