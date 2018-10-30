@@ -1,0 +1,41 @@
+---
+hero_image: images / banner.png
+title: Projekti vitriin
+theme: türkiissinine
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, disain-1, programmeerimine-0, phys-comp-0, production-0, community-0
+description: Loo veebiprojektide esitlus.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html-css-javascript
+site_areas: projektid
+hardware: ''
+software: html-css-javascript
+version: 3.1
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Sissejuhatus
+  - 
+    title: Veebilehtede linkide lisamine
+  - 
+    title: 'Väljakutse: lisa veel üks link'
+  - 
+    title: Link to Trinket
+  - 
+    title: 'Väljakutse: loo oma projektide nimekiri'
+  - 
+    title: Projektide kaasamine
+  - 
+    title: 'Challenge: Embed rohkem projekte'
+  - 
+    title: Loo sisukord
+  - 
+    title: Tagasi üles
+  - 
+    title: 'Väljakutse: täiustage oma showcase''i'
+  - 
+    title: 'Väljakutse: looge uus vitriin'
