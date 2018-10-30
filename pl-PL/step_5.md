@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Wyzwanie: Stwórz listę swoich projektów
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Dodaj inne projekty CSS i HTML, które stworzyłeś w Klubie Kodowania. Użyj `<h2>` tytuły, aby poukładać rzeczy na stronie.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Jeśli nie masz linków do projektów, które stworzyłeś, możesz użyć przykładów podanych poniżej:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ Wszystkiego Najlepszego!: <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Opowiedz historię: <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Poszukiwany: <https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Przepis: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Tajemniczy list: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Twoja skończona strona powinna wyglądać mniej więcej tak:
 
 ![screenshot](images/showcase-h2-projects.png)
 
