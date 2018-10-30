@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Menambahkan Tautan ke Halaman Web
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Tautan teks memungkinkan Anda mengeklik kata untuk membuka halaman web lain; mereka biasanya digarisbawahi.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Buka trinket ini: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Proyek akan terlihat seperti ini:
     
-    ![screenshot](images/showcase-starter.png)
+    ![tangkapan layar](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML menggunakan tag `<a>` untuk tautan.
 
-![screenshot](images/showcase-link.png)
+![tangkapan layar](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Temukan tag `<a>` di proyek Anda. 
 
-![screenshot](images/showcase-a-template.png)
+![tangkapan layar](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Tambahkan alamat situs web Kode Klub [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) dan teks tautan:
 
-![screenshot](images/showcase-code-club.png)
+![tangkapan layar](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Klik Run untuk menguji trinket Anda.
 
-![screenshot](images/showcase-cc-output.png)
+![tangkapan layar](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Klik pada tautan Code Club untuk menguji halaman web Anda. Trinket Anda sekarang akan menampilkan halaman web Code Club: 
 
-![screenshot](images/showcase-cc-website.png)
+![tangkapan layar](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Untuk kembali ke halaman Anda, Anda dapat:
     
-    + Run your trinket again,
+    + Jalankan lagi trinket Anda,
     
-    + Tap the Backspace key on the keyboard, or
+    + Ketuk tombol Backspace pada keyboard, atau
     
-    + Right-click and choose Back.
+    + Klik kanan dan pilih Kembali.
 
-+ Now put your link into a sentence inside a paragraph:
++ Sekarang letakkan tautan Anda ke dalam kalimat di dalam paragraf:
 
-![screenshot](images/showcase-paragraph.png)
+![tangkapan layar](images/showcase-paragraph.png)
 
-Test your webpage.
+Uji halaman web Anda.
