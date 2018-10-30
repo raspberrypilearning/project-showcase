@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: Improve Your Showcase
+## Tantangan: Tingkatkan Etalase Anda
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Gunakan CSS yang telah Anda pelajari untuk membuat halaman Anda lebih menarik. Coba ubah warna latar belakang halaman atau font yang digunakan untuk judul.
 
-You can also add some information about each project and what you liked about making it.
+Anda juga dapat menambahkan beberapa informasi tentang setiap proyek dan apa yang Anda sukai tentang membuatnya.
 
-\--- /challenge \---
+\--- / tantangan \---
