@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## 과제: 더 많은 프로젝트 임베딩
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+더 많은 프로젝트를 임베딩하여 프로젝트 쇼케이스에 추가해 보세요. 임베딩을 추가하는 것도 좋지만, 페이지에 링크를 걸어서 사람들이 Trinket 페이지에 쉽게 들어갈 수 있도록 하십시오.
 
 \--- /challenge \---
