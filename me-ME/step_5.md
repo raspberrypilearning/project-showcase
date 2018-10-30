@@ -6,15 +6,15 @@ Dodaj još neke svoje HTML & CSS projekte koje si izradio/izradila u Code Club-u
 
 Ako nemaš linkove za svoje projekte, možeš koristiti primjere Code Club-a:
 
-+ Srećan rođendan: <https://trinket.io/html/e996dc0380>
++ Srećan rođendan: <https://trinket.io/html/de64e9e3db>
 
-+ Ispričaj priču: <https://trinket.io/html/c8afdef912>
++ Ispričaj priču: <https://trinket.io/html/eec56985a9>
 
-+ Tražen: <https://trinket.io/html/ebeb56398a>
++ Tražen: <https://trinket.io/html/245ddecdb3>
 
-+ Recept: <https://trinket.io/html/c0fd9b40cd>
++ Recept: <https://trinket.io/html/b4f6efc25f>
 
-+ Zagonetno pismo: <https://trinket.io/html/1d4d4c5ce1>
++ Zagonetno pismo: <https://trinket.io/html/99e35404d0>
 
 Tvoja završena stranica bi trebalo da izgleda poput ove:
 
