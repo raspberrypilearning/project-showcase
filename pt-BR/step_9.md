@@ -4,8 +4,8 @@
 
 + Adicione um link para `#top` após cada projeto incorporado na sua página web:
 
-![captura de tela](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
-![captura de tela](images/showcase-top-output.png)
+![screenshot](images/showcase-top-output.png)
 
-+ Teste seus links clicando em voltar ao topo da página.
++ Teste seus links clicando em "Top" para voltar ao topo da página.
