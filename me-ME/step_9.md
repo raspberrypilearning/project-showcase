@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## Povratak na vrh
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Jedna od korisnih mogućnosti je povratak na vrh stranice. HTML ima `#top` za tu svrhu.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Dodaj link za `#top` poslije svakog ugrađenog projekta na svojoj veb-stranici:
 
 ![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Isprobaj svoje linkove tako što ćeš kliknuti na 'Vrh stranice' i vratiti se na početak stranice.
