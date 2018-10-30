@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: Add another link
+## Tantangan: Tambahkan tautan lain
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Tambahkan kalimat dengan tautan ke situs web yang telah membantu untuk membuat proyek web. Misalnya: <https://trinket.io> atau <https://trinket.io/docs/colors>.
 
-![screenshot](images/showcase-link-challenge.png)
+![tangkapan layar](images/showcase-link-challenge.png)
 
-\--- /challenge \---
+\--- / tantangan \---
