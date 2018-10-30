@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Desafio: Melhore seu projeto Mostruário
+## Desafio: Melhore seu Mostruário
 
 Use o CSS que você aprendeu para tornar sua página mais interessante. Tente alterar a cor de fundo da página ou a fonte usada para os títulos.
 
