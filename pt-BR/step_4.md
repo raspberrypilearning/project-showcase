@@ -8,7 +8,7 @@ Você pode vincular a página da web para um trinket.
 
 ![screenshot](images/showcase-share1.png)
 
-Se você abriu seu trinket a partir da sua conta, então procure a opção Compartilhar abaixo do seu trinket:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
 ![screenshot](images/showcase-share2.png)
 
