@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Buat Daftar Isi
 
-Let's add a Table of Contents so we can easily get to each project.
+Mari tambahkan Daftar Isi sehingga kita dapat dengan mudah membuka setiap proyek.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Selain dapat menautkan ke laman web lain, kami dapat menautkan ke bagian laman web jika kami memberi mereka sebuah id. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Tambahkan id ke pos `<h2>` untuk proyek Happy Birthday:
 
-![screenshot](images/showcase-id.png)
+![tangkapan layar](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Tambahkan id ke setiap proyek Anda dan beri mereka nama singkat: cerita, keinginan, resep, dan surat.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Anda dapat menautkan ke elemen dengan id dengan menempatkan simbol hash '#' di depan namanya. Misalnya, `#birthday`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Buat daftar tautan terurut ke proyek Anda. (Daftar yang dipesan diperkenalkan di proyek Resep.)
 
-![screenshot](images/showcase-list.png)
+![tangkapan layar](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Jalankan proyek Anda dan uji dengan mengklik tautan untuk pindah ke proyek Anda. 
 
-![screenshot](images/showcase-list-output.png)
+![tangkapan layar](images/showcase-list-output.png)
