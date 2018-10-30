@@ -1,0 +1,41 @@
+---
+hero_image: images / banner.png
+title: Prosjektfremvisning
+theme: turkis
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
+description: Lag et utstillingsvindu av dine webprosjekter.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html-css-javascript
+site_areas: prosjekter
+hardware: ''
+software: html-css-javascript
+version: 3.1
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Introduksjon
+  - 
+    title: Legge til lenker til websider
+  - 
+    title: 'Utfordring: Legg til en annen lenke'
+  - 
+    title: Link til A Trinket
+  - 
+    title: 'Utfordring: Opprett en liste over dine prosjekter'
+  - 
+    title: Embedding Prosjekter
+  - 
+    title: 'Utfordring: Embed flere prosjekter'
+  - 
+    title: Lag en innholdsfortegnelse
+  - 
+    title: Komme tilbake til toppen
+  - 
+    title: 'Utfordring: Forbedre presentasjonen din'
+  - 
+    title: 'Utfordring: Lag en ny utstillingsvindu'
