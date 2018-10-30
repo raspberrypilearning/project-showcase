@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Izazov: Ugradi više projekata
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Ugradi u Prikaz još svojih projekata. Sjeti se da njihove trinket stranice možeš lako pronaći klikom na linkove na svojoj veb-stranici.
 
 \--- /challenge \---
