@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## 과제: 프로젝트 리스트 만들기
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+코드클럽에서 제작한 HTML & CSS 예제를 더 추가해 봅시다. 전과 같이 `<h2>` 태그를 사용합니다.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+만약 제작한 프로젝트 링크가 없다면 코드클럽에서 제작한 예제를 사용할 수 있습니다. (영어 버전입니다.)
 
 + Happy Birthday: <https://trinket.io/html/e996dc0380>
 
@@ -16,8 +16,8 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 + Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+완성된 페이지는 아래와 같습니다.
 
-![screenshot](images/showcase-h2-projects.png)
+![스크린샷](images/showcase-h2-projects.png)
 
 \--- /challenge \---
