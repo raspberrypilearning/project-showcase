@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Dodavanje linkova za veb-stranice
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Tekstualni linkovi omogućuju ti da klikneš na riječi i pređeš na drugu veb-stranicu; oni su obično podvučeni.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Otvori sljedeći trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Projekat treba da izgleda ovako:
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML koristi oznaku `<a>` za linkove.
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Pronađi oznaku `<a>` u svom projektu. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Dodaj adresu veb-sajta Code Club-a [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) i tekst linka:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Klikni na 'Run' da isprobaš svoj trinket.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Klikni na link Code Club da isprobaš svoju veb-stranicu. Tvoj trinket će sada prikazati veb-stranicu Code Club-a: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Za povratak na svoju stranicu možeš:
     
-    + Run your trinket again,
+    + Ponovo pokrenuti (run) svoj trinket,
     
-    + Tap the Backspace key on the keyboard, or
+    + Pritisnuti taster 'Backspace' na tastaturi ili
     
-    + Right-click and choose Back.
+    + Kliknuti desnim tasterom miša i izabrati Nazad.
 
-+ Now put your link into a sentence inside a paragraph:
++ Sada postavi svoj link u rečenicu unutar pasusa:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+Isprobaj svoju veb-stranicu.
