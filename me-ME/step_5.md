@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Izazov: Napravi spisak svojih projekata
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Dodaj još neke svoje HTML & CSS projekte koje si izradio/izradila u Code Club-u. Za organizovanje svoje veb-stranice koristi `<h2>` naslove.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Ako nemaš linkove za svoje projekte, možeš koristiti primjere Code Club-a:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ Srećan rođendan: <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Ispričaj priču: <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Tražen: <https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Recept: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Zagonetno pismo: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Tvoja završena stranica bi trebalo da izgleda poput ove:
 
 ![screenshot](images/showcase-h2-projects.png)
 
