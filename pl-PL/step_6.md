@@ -1,37 +1,37 @@
-## Embedding Projects
+## Osadzanie projektów
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Możesz nie tylko linkować szablony w formie stron internetowych, możesz je również osadzić w swojej stronie.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Włącz tryb pełnego ekranu, aby mieć więcej miejsca do pracy:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Naciśnij klawisz Esc, aby wyłączyć tryb pełnoekranowy.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Uruchom szablon i kliknij link do projektu Wszystkiego Najlepszego.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Kliknij menu szablonów i wybierz **embed** (ang. osadź). Jeśli nie korzystasz z trybu pełnoekranowego, zapewne będziesz musiał przewinąć stronę w dół. Użyj paska przewijania po prawej stronie lub strzałki w dół na klawiaturze.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Wybierz 'Only show code or result (let users toggle between them)' (ang. Pokaż jedynie kod lub wynik (zezwól użytkownikom na wybór)) i **skopiuj** kod osadzający dla wybranego szablonu. 
 
 ![screenshot](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Szablon automatycznie stworzył kod HTML, który możesz dodać do swojej strony. Wykorzystuje on `<iframe>` tag, który pozwala osadzić zawartość na stronie.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ Skopiuj kod pod linkiem do szablonu Wszystkiego Najlepszego:
 
 ![screenshot](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ Uruchom szablon, aby go przetestować. Powinieneś zobaczyć projekt Wszystkiego Najlepszego osadzony na stronie. 
 
 ![screenshot](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ W niektórych sytuacjach dolna część projektu może się nie wyświetlać. Możesz to naprawić zmieniając wartość wysokości na `<iframe>`iframe</0>. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Ustaw wysokość na **400**. Jeśli w jakiś sposób zmieniałeś projekt Wszystkiego Najlepszego, może będziesz musiał wybrać inną wartość.
 
 ![screenshot](images/showcase-embed-fixed.png)
