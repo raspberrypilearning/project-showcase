@@ -1,87 +1,87 @@
-## Introduction
+## 소개
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+이 프로젝트에서는 여러분이 제작한 HTML 프로젝트를 소개하는 쇼케이스를 만들어 보고, 링크와 임베딩에 대한 개념을 배울 것입니다.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### 교육자들을 위한 추가 정보
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/project-showcase/print)를 사용하십시오.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 교육자들을 위한 메모
 
-## Introduction:
+## 들어가며:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+이 프로젝트에서 학생들은 자신의 웹 페이지에 하이퍼링크와 trinket에 Scratch 프로젝트를 임베딩하는 법에 대해 배울 것입니다.
 
-## Online Resources
+## 온라인 자료들
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+이 자료에서는 [Trinket](https://trinket.io/)을 사용하여 HTML & CSS를 온라인으로 편집할 것을 권장합니다. 이 프로젝트에 포함된 Trinket은 다음과 같습니다:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['프로젝트 쇼케이스' 시작 -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+프로젝트의 샘플 정답이 다음 Trinket에 있습니다.
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['프로젝트 쇼케이스 완성본' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## 오프라인 자료들
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+여러분의 선호에 따라 프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)할 수 있습니다. 'Project Materials' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 학생들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 'Project Resource' 섹션이 있습니다. 학생들이 이러한 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다. 다음 파일이 있습니다:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(또한 위의 모든 자료는 프로젝트 및 자원봉사자 `.zip` 파일로 다운로드 할 수 있습니다.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+학생들이 이 프로젝트를 오프라인에서 완수한 경우, 작품을 embed 하는 기능을 사용할 순 없지만, 대신 해당 프로젝트에 링크를 걸 수 있음을 알아 두십시오.
 
-## Learning Objectives
+## 학습 목표
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* 이 프로젝트는 링크를 사용하여 다른 웹페이지와 웹페이지를 연결하고, id를 부여하는 방법에 대해 소개합니다. 또한 Trinket 프로젝트와 Scratch 프로젝트를 학생들의 웹페이지에 임베딩하는 방법 또한 배웁니다. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## 도전과제
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "새로운 링크 추가" - 여러 웹페이지에 링크 추가
+* "프로젝트 리스트 추가" - 전에 만든 웹 프로젝트 링크 추가
+* "더 많은 프로젝트 임베딩" - CSS를 이용하여 새로운 스타일 제작
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 프로젝트 자료
 
-## Project resources
+## 프로젝트 리소스
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/showcase-project-resources.zip)
+* [프로젝트 쇼케이스 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-showcase)
+* [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
+* [빈 Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## 교육자를 위한 자료
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
-* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
-* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/showcase-volunteer-resources.zip)
+* [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/1d4d4c5ce1)
+* [project-showcse-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcse-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- /collapse \---
+-- /collapse \---
