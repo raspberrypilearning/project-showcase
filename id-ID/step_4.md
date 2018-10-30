@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Tautkan ke Trinket
 
-You can link to the web page for a trinket.
+Anda dapat menautkan ke halaman web untuk trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Apakah Anda menyimpan tautan ke trinket Selamat Ulang Tahun Anda? Jika Anda melakukannya, buka trinket itu di tab atau jendela browser lain. Jika tidak, buka contoh selesai trinket: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Klik menu Bagikan di atas trinket Anda dan pilih Tautan:
 
-![screenshot](images/showcase-share1.png)
+![tangkapan layar](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![screenshot](images/showcase-share2.png)
+![tangkapan layar](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Pilih 'Hanya tampilkan kode atau hasil (biarkan pengguna beralih di antara mereka)' dan salin tautan ke trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![tangkapan layar](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Kembali ke rak Showcase Proyek dan tambahkan judul `<h2>` dan tautan ke Proyek Selamat Ulang Tahun Anda.
 
-![screenshot](images/showcase-link-trinket.png)
+![tangkapan layar](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Uji halaman web Anda; seharusnya terlihat seperti ini:
 
-![screenshot](images/showcase-link-output.png)
+![tangkapan layar](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Klik tautan Selamat Ulang Tahun untuk menguji bahwa Anda akan dibawa ke trinket.
