@@ -8,7 +8,7 @@
 
 ![screenshot](images/showcase-share1.png)
 
-Αν άνοιξες το trinket από το λογαριασμό σου, τότε ψάξε για την επιλογή Share στο κάτω μέρος:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
 ![screenshot](images/showcase-share2.png)
 
