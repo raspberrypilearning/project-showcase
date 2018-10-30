@@ -1,23 +1,23 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: Create a New Showcase
+## Tantangan: Buat Pameran Baru
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Pernak-pernik bukan satu-satunya hal yang dapat Anda tanamkan di laman web. Anda dapat menanamkan video, widget (seperti widget cuaca) atau proyek Scratch.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Buka contoh Trinket Perisi Penyematan dan Jalankan: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Pergi ke situs Scratch dan temukan proyek yang Anda sukai. Ini bisa menjadi milik Anda sendiri atau yang Anda temukan.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Jika Anda masuk Anda dapat mengklik tombol 'Embed' di bawah proyek untuk mendapatkan kode embed HTML.
 
-![screenshot](images/scratch-embed.png)
+![tangkapan layar](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Jika Anda belum masuk, cari nomor proyek Scratch di alamat webnya.
 
-![screenshot](images/scratch-project-number.png)
+![tangkapan layar](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Buat salinan kode `<iframe>` dalam contoh Awal Tergores dan ubah nomor proyek menjadi satu untuk proyek yang ingin Anda embed:
 
-![screenshot](images/scratch-iframe.png)
+![tangkapan layar](images/scratch-iframe.png)
 
-\--- /challenge \---
+\--- / tantangan \---
