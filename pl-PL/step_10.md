@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Wyzwanie: udoskonal swoją prezentację
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Wykorzystaj CSS, którego się nauczyliśmy, aby strona była bardziej interesująca. Spróbuj zmienić kolor tła strony lub czcionkę użytą w tytułach.
 
-You can also add some information about each project and what you liked about making it.
+Możesz też dodać trochę informacji n a temat każdego z projektów i co najbardziej podobało ci się w trakcie ich tworzenia.
 
 \--- /challenge \---
