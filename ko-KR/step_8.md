@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## 목차 추가하기
 
-Let's add a Table of Contents so we can easily get to each project.
+목차를 추가하여 사람들이 쉽게 프로젝트를 찾을 수 있도록 해 봅시다.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ 다른 웹페이지를 링크했듯이, 같은 페이지 안 id를 부여한 여러 부분에 링크를 추가할 수 있습니다. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+'생일 축하해요' 프로젝트의 `<h2>` 부분에 아래와 같이 id를 추가하세요.
 
-![screenshot](images/showcase-id.png)
+![스크린샷](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ 각 프로젝트에 간단한 id를 부여하세요: story, wanted, recipe 등...
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ 링크 앞에 '#'을 추가하는 것으로 페이지 내 id로 이동할 수 있습니다. 예로, `#birthday` 등을 사용할 수 있습니다.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+정렬된 프로젝트 리스트를 아래와 같이 제작하세요. (정렬된 리스트는 Recipe 프로젝트에 소개되어 있습니다.)
 
-![screenshot](images/showcase-list.png)
+![스크린샷](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ 프로젝트를 실행하여 페이지 내 id로 이동이 가능한지 확인해 보시기 바랍니다. 
 
-![screenshot](images/showcase-list-output.png)
+![스크린샷](images/showcase-list-output.png)
