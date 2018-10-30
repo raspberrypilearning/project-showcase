@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Stwórz spis treści
 
-Let's add a Table of Contents so we can easily get to each project.
+Dodajmy do twojego projektu spis treści, aby prościej poruszać się między projektami.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Jesteśmy w stanie stworzyć linki do innych stron internetowych, ale także odnośniki do części twojej strony internetowej, jeśli przypiszemy fragmentom kod id. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Dodaj kod id do `<h2>` tytułu projektu Wszystkiego Najlepszego:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Dodaj kody id do każdego ze swoich projektów i nadaj im krótkie nazwy: historia, poszukiwany, przepis i list.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Możesz dodać link do elementu posiadającego kod id dodając krzyżyk '#' przed jego nazwą. Na przykład, `#urodziny`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Stwórz posegregowaną listę linków do twoich projektów. (Takie listy zostały wprowadzone w projekcie Przepis.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Uruchom swój projekt i przetestuj go, klikając linki przenoszące do różnych części twojej strony. 
 
 ![screenshot](images/showcase-list-output.png)
