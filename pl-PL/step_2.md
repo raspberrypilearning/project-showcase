@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## Dodawanie linków do stron internetowych
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Linki tekstowe umożliwiają ci przeniesienie się do innych stron po kliknięciu; zwykle są podkreślone.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Otwórz edytor: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Twój projekt powinien wyglądać następująco:
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML wykorzystuje `<a>` tag dla linków.
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Znajdź `<a>` tag w swoim projekcie. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Dodaj adres Klubu Kodowania [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) i tekst do linku:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Kliknij Run, aby przetestować swój szablon.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Kliknij link Klubu Kodowania, aby przetestować swoją stronę internetową. Twój szablon będzie pokazywał stronę Klubu Kodowania: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Aby wrócić do swojej strony, możesz albo:
     
-    + Run your trinket again,
+    + Uruchomić szablon ponownie,
     
-    + Tap the Backspace key on the keyboard, or
+    + Wcisnąć Backspace na klawiaturze, lub
     
-    + Right-click and choose Back.
+    + Kliknąć prawy przycisk myszki i wybrać powrót.
 
-+ Now put your link into a sentence inside a paragraph:
++ Teraz dołącz swój link do zdania w akapicie:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+Przetestuj swoją stronę.
