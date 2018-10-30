@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Izazov: Napravi novi Prikaz
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Trinketi nisu jedina stvar koju možeš da ugradiš na veb-stranicu. Možeš da ugradiš video, vidžete (na primjer vidžet za vremensku prognozu) ili Scratch projekte.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Otvori trinket sa primjerom ugrađenog Scratch-a i pokreni ga: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Idi na veb-sajt Scratch i pronađi projekat koji ti se sviđa. Može da bude jedan od tvojih projekata ili neki projekat koji pronađeš.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Ako si prijavljen/prijavljena, klikni na dugme 'Embed' koje se nalazi ispod projekta da dobiješ HTML kôd za ugrađivanje.
 
 ![screenshot](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Ako nisi prijavljen/prijavljena, nađi broj Scratch projekta na njegovoj veb-adresi.
 
 ![screenshot](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Kopiraj `<iframe>` kôd u primjeru ugrađenog Scratch-a i broj projekta zamijeni brojem projekta koji želiš da ugradiš:
 
 ![screenshot](images/scratch-iframe.png)
 
