@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Trinket 링크 걸기
 
-You can link to the web page for a trinket.
+자신의 웹페이지에 Trinket 링크를 추가할 수 있습니다.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ 지난 시간에 같이 했었던 '생일 축하해요' 프로젝트의 링크를 가지고 계신가요? 만약 그렇다면 그 Trinket을 다른 탭이나 창에서 열어보세요. 아니면 그냥 완성된 프로젝트를 사용하셔도 됩니다. <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Share - Link 메뉴를 클릭하십시오.
 
-![screenshot](images/showcase-share1.png)
+![스크린샷](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![screenshot](images/showcase-share2.png)
+![스크린샷](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ 'Only show code or result (let users toggle between them)' 을 선택하여, 링크를 복사하십시오. 
 
-![screenshot](images/showcase-get-link.png)
+![스크린샷](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ 프로젝트 쇼케이스 Trinket으로 돌아가 `<h2>` 태그를 추가하고, '생일 축하해요' 프로젝트 링크를 추가하십시오.
 
-![screenshot](images/showcase-link-trinket.png)
+![스크린샷](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+아래와 같이 실행될 것입니다.
 
-![screenshot](images/showcase-link-output.png)
+![스크린샷](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+'생일 축하해요' 프로젝트 링크를 틀어 Trinket이 열리는지 테스트해 보세요.
