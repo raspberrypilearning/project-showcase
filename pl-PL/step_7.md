@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Wyzwanie: Osadź więcej projektów
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Osadź więcej swoich projektów do swojej listy projektów. Pamiętaj, że możesz w prosty sposób znaleźć szablony swoich projektów, klikając na linki do twojej strony internetowej.
 
 \--- /challenge \---
