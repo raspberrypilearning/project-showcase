@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Izazov: Poboljšaj svoj Prikaz
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Iskoristi CSS koji si naučio/naučila da napraviš svoju stranicu zanimljivijom. Pokušaj da promijeniš boju pozadine stranice ili font korišćen za naslove.
 
-You can also add some information about each project and what you liked about making it.
+Takođe možeš da dodaš neke informacije o svakom projektu i o tome šta ti se svidjelo tokom njegove izrade.
 
 \--- /challenge \---
