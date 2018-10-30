@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Link do szablonu
 
-You can link to the web page for a trinket.
+Możesz stworzyć link do szablonu.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Czy nadal masz link do szablonu projektu Wszystkiego Najlepszego? Jeśli tak, otwórz szablon w nowej karcie przeglądarki. Jeśli nie, otwórz ukończony szablon przykładowy: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Wybierz zakładkę Share nad wybranym szablonem i wybierz przycisk Link:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option below your trinket instead:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Wybierz 'Only show code or result (let users toggle between them)' (ang. Pokaż jedynie kod lub wynik (zezwól użytkownikom na wybór)) i skopiuj link do szablonu. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Wróć do szablonu listy projektów i dodaj `<h2>` tytuł i link do projektu Wszystkiego Najlepszego.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Przetestuj swoją stronę; powinna wyglądać mniej więcej tak:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Kliknij link Wszystkiego Najlepszego, aby sprawdzić, czy zabierze cię do wybranego szablonu.
