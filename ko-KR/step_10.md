@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## 과제: 쇼케이스 발전시키기
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+CSS를 사용하여 페이지를 더 인상 깊게 만들어 보세요. 배경을 바꾸거나 폰트를 바꾸는 등의 응용을 할 수 있습니다.
 
-You can also add some information about each project and what you liked about making it.
+아니면 프로젝트에 대한 간단한 소개(설명 등)를 각 프로젝트 항목에 기입해 보세요.
 
 \--- /challenge \---
