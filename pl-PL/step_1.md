@@ -70,8 +70,8 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 
 * [Plik.zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/showcase-project-resources.zip)
 * [Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Moje projekty"](http://jumpto.cc/web-showcase)
-* [Pusty szablon Trinket](http://jumpto.cc/trinket-template)
-* [Pusty szablon Trinket](http://jumpto.cc/trinket-blank)
+* [Szablon online edytora Trinket](http://jumpto.cc/trinket-template)
+* [Pusty szablon online edytora Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
@@ -80,7 +80,7 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 ## Zasoby dla lidera klubu
 
 * [Plik.zip zawierający zasoby z ukończonym projektem](resources/showcase-volunteer-resources.zip)
-* [Szablon zawierający ukończony projekt](https://trinket.io/html/1d4d4c5ce1)
+* [Ukończony online projekt Trinket](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcse-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcse-finished/style.css](resources/project-showcase-finished-style.css)
 
