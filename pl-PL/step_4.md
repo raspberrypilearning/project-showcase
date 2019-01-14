@@ -1,4 +1,4 @@
-## Link do szablonu
+## Link do edytora Trinket
 
 Możesz stworzyć link do szablonu.
 
@@ -6,22 +6,22 @@ Możesz stworzyć link do szablonu.
 
 + Wybierz zakładkę Share nad wybranym szablonem i wybierz przycisk Link:
 
-![screenshot](images/showcase-share1.png)
+![zrzut ekranu](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Jeśli uruchomiłeś szablon korzystając ze swojego konta, poszukaj przycisku Share poniżej szablonu:
 
-![screenshot](images/showcase-share2.png)
+![zrzut ekranu](images/showcase-share2.png)
 
 + Wybierz 'Only show code or result (let users toggle between them)' (ang. Pokaż jedynie kod lub wynik (zezwól użytkownikom na wybór)) i skopiuj link do szablonu. 
 
-![screenshot](images/showcase-get-link.png)
+![zrzut ekranu](images/showcase-get-link.png)
 
 + Wróć do szablonu listy projektów i dodaj `<h2>` tytuł i link do projektu Wszystkiego Najlepszego.
 
-![screenshot](images/showcase-link-trinket.png)
+![zrzut ekranu](images/showcase-link-trinket.png)
 
 Przetestuj swoją stronę; powinna wyglądać mniej więcej tak:
 
-![screenshot](images/showcase-link-output.png)
+![zrzut ekranu](images/showcase-link-output.png)
 
 Kliknij link Wszystkiego Najlepszego, aby sprawdzić, czy zabierze cię do wybranego szablonu.
