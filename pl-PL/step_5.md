@@ -2,9 +2,9 @@
 
 ## Wyzwanie: Stwórz listę swoich projektów
 
-Dodaj inne projekty CSS i HTML, które stworzyłeś w Klubie Kodowania. Użyj `<h2>` tytuły, aby poukładać rzeczy na stronie.
+Dodaj inne projekty CSS i HTML, które stworzyłeś w Code Club. Użyj `<h2>` nagłówków, aby poukładać rzeczy na stronie.
 
-Jeśli nie masz linków do projektów, które stworzyłeś, możesz użyć przykładów podanych poniżej:
+Jeśli nie masz linków do projektów, które stworzyłeś, możesz użyć przykładów z Code Club:
 
 + Wszystkiego Najlepszego!: <https://trinket.io/html/e996dc0380>
 
@@ -18,6 +18,6 @@ Jeśli nie masz linków do projektów, które stworzyłeś, możesz użyć przyk
 
 Twoja skończona strona powinna wyglądać mniej więcej tak:
 
-![screenshot](images/showcase-h2-projects.png)
+![zrzut ekranu](images/showcase-h2-projects.png)
 
 \--- /challenge \---
