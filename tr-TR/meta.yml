@@ -1,0 +1,41 @@
+---
+hero_image: images / banner.png
+title: Proje Vitrini
+theme: turkuaz
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
+description: Web projelerinizin bir vitrini oluşturun.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html CSS-JavaScript
+site_areas: projeler
+hardware: ''
+software: html CSS-JavaScript
+version: 3.1
+last_tested: 2017/01/01
+steps:
+  - 
+    title: Giriş
+  - 
+    title: Web Sayfalarına Bağlantı Ekleme
+  - 
+    title: 'Zorluk: Başka bir link ekle'
+  - 
+    title: Bir Biblo Bağlantısı
+  - 
+    title: 'Zorluk: Projelerinizin bir listesini oluşturun'
+  - 
+    title: Gömme Projeler
+  - 
+    title: 'Zorluk: Daha Fazla Proje Yerleştirme'
+  - 
+    title: İçindekiler Tablosu Oluşturma
+  - 
+    title: Başa Dön
+  - 
+    title: 'Zorluk: Vitrininizi Geliştirin'
+  - 
+    title: 'Zor Görev: Yeni Bir Vitrin Oluşturma'
