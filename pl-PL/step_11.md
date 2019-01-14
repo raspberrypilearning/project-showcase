@@ -10,14 +10,14 @@ Odwiedź stronę internetową Scratch i znajdź projekt, który podoba ci się n
 
 Jeśli jesteś zalogowany, możesz kliknąć przycisk 'Embed' (ang. osadź) poniżej wybranego projektu, aby uzyskać jego kod HTML.
 
-![screenshot](images/scratch-embed.png)
+![zrzut ekranu](images/scratch-embed.png)
 
 Jeśli nie jesteś zalogowany, poszukaj numeru projektu Scratch w adresie strony.
 
-![screenshot](images/scratch-project-number.png)
+![zrzut ekranu](images/scratch-project-number.png)
 
 Zrób kopię `<iframe>` kodu z przykładu osadzania projektu Scratch i zmień numer projektu na taki, który chcesz zobaczyć na swojej stronie:
 
-![screenshot](images/scratch-iframe.png)
+![zrzut ekranu](images/scratch-iframe.png)
 
 \--- /challenge \---
