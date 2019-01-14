@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Stwórz listę swoich projektów HTML.
+description: Stwórz listę swoich projektów.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,13 +18,13 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Moje projekty
+    title: Wprowadzenie
   - 
     title: Dodawanie linków do stron internetowych
   - 
     title: 'Wyzwanie: Dodaj kolejny link'
   - 
-    title: Link do szablonu
+    title: Link do edytora Trinket
   - 
     title: 'Wyzwanie: Stwórz listę swoich projektów'
   - 
