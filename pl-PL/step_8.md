@@ -4,9 +4,9 @@ Dodajmy do twojego projektu spis treści, aby prościej poruszać się między p
 
 + Jesteśmy w stanie stworzyć linki do innych stron internetowych, ale także odnośniki do części twojej strony internetowej, jeśli przypiszemy fragmentom kod id. 
 
-Dodaj kod id do `<h2>` tytułu projektu Wszystkiego Najlepszego:
+Dodaj kod id do `<h2>` nagłówka projektu Wszystkiego Najlepszego:
 
-![screenshot](images/showcase-id.png)
+![zrzut ekranu](images/showcase-id.png)
 
 + Dodaj kody id do każdego ze swoich projektów i nadaj im krótkie nazwy: historia, poszukiwany, przepis i list.
 
@@ -14,8 +14,8 @@ Dodaj kod id do `<h2>` tytułu projektu Wszystkiego Najlepszego:
 
 Stwórz posegregowaną listę linków do twoich projektów. (Takie listy zostały wprowadzone w projekcie Przepis.)
 
-![screenshot](images/showcase-list.png)
+![zrzut ekranu](images/showcase-list.png)
 
 + Uruchom swój projekt i przetestuj go, klikając linki przenoszące do różnych części twojej strony. 
 
-![screenshot](images/showcase-list-output.png)
+![zrzut ekranu](images/showcase-list-output.png)
