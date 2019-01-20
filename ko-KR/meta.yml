@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: 지금까지 제작한 Web 프로젝트의 쇼케이스를 제작해 봅시다.
+description: 웹 프로젝트의 쇼케이스를 만들어 봅시다.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
