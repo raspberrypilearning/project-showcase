@@ -1,6 +1,6 @@
 ## 소개
 
-이 프로젝트에서는 여러분이 제작한 HTML 프로젝트를 소개하는 쇼케이스를 만들어 보고, 링크와 임베딩에 대한 개념을 배울 것입니다.
+이 프로젝트에서 HTML프로젝트의 쇼케이스를 만들어 보고, 링크와 임베딩에 대한 개념을 배울 것입니다.
 
 ![screenshot](images/showcase-intro.png)
 
@@ -14,13 +14,13 @@
 
 ## 들어가며:
 
-이 프로젝트에서 학생들은 자신의 웹 페이지에 하이퍼링크와 trinket에 Scratch 프로젝트를 임베딩하는 법에 대해 배울 것입니다.
+이 프로젝트에서 학생들은 웹 페이지에서의 하이퍼링크와 trinket에 Scratch 프로젝트를 임베딩하는 법에 대해 배울 것입니다.
 
 ## 온라인 자료들
 
 이 자료에서는 [Trinket](https://trinket.io/)을 사용하여 HTML & CSS를 온라인으로 편집할 것을 권장합니다. 이 프로젝트에 포함된 Trinket은 다음과 같습니다:
 
-* ['프로젝트 쇼케이스' 시작 -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['프로젝트 쇼케이스' 시작점 -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -68,10 +68,10 @@
 
 ## 프로젝트 리소스
 
-* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/showcase-project-resources.zip)
-* [프로젝트 쇼케이스 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-showcase)
+* [모든 프로젝트 자료가 들어있는 .zip 파일](resources/showcase-project-resources.zip)
+* [모든 프로젝트 쇼케이스 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-showcase)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
-* [빈 Trinket](http://jumpto.cc/trinket-blank)
+* [온라인 빈 템플릿](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
