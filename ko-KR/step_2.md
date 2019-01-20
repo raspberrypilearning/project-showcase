@@ -4,7 +4,7 @@
 
 + 다음 Trinket 파일을 열어주세요: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    프로젝트는 아래와 같이 생겼습니다.
+    프로젝트는 아래와 같이 보일 것입니다:
     
     ![스크린샷](images/showcase-starter.png)
 
@@ -24,7 +24,7 @@
 
 ![스크린샷](images/showcase-cc-output.png)
 
-+ 코드클럽 링크를 눌러 자신이 제작한 페이지를 테스트 해 보세요. 코드클럽 링크를 누르면 아래와 같이 코드클럽 웹페이지가 뜹니다. 
++ 코드클럽 링크를 눌러 제작한 웹 페이지를 테스트 해 보세요. 코드클럽 링크를 누르면 아래와 같이 코드클럽 웹페이지가 뜹니다. 
 
 ![스크린샷](images/showcase-cc-website.png)
 
