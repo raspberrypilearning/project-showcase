@@ -6,7 +6,7 @@ Trinket에 웹페이지에 링크를 걸 수 있듯이, 아예 웹페이지를 �
 
 ![스크린샷](images/showcase-fullscreen.png)
 
-전체화면을 종료하려면 esc를 누르세요.
+전체 화면을 끝내려면 ESC 키를 누르세요.
 
 + Trinket을 실행해서 '생일 축하해요' 링크를 클릭하세요.
 
