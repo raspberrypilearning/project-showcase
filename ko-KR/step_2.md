@@ -16,7 +16,7 @@
 
 ![스크린샷](images/showcase-a-template.png)
 
-+ 그럼 코드클럽 웹사이트 주소를 한번 넣어보도록 하겠습니다. [`https://codeclub.org.uk`](https://www.codeclub.org.uk) 주소를 " " 안에다 넣어주세요.
++ 코드클럽 웹사이트 주소를 추가하세요. [`https://codeclub.org.uk`](https://www.codeclub.org.uk)와 연결문
 
 ![스크린샷](images/showcase-code-club.png)
 
@@ -28,7 +28,7 @@
 
 ![스크린샷](images/showcase-cc-website.png)
 
-+ 아래와 같은 방법으로 코드클럽 홈페이지를 빠져나갈 수 있습니다.
++ 아래와 같은 방법으로 페이지를 빠져나갈 수 있습니다.
     
     + Trinket 재실행
     
@@ -36,8 +36,8 @@
     
     + 오른쪽 버튼을 눌러 뒤로가기 버튼을 누르세요.
 
-+ 아래와 같이 문장을 추가해 봅시다!
++ 단락의 문장에 링크를 추가해 봅시다.
 
 ![스크린샷](images/showcase-paragraph.png)
 
-자신이 만든 웹페이지를 시험해 보세요.
+웹페이지를 테스트해 보세요.
