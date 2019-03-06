@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: प्रोजेक्ट शोकेस
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+description: अपने वेब प्रोजेक्ट्स का शोकेस बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: भूमिका
   - 
-    title: Adding Links to Webpages
+    title: वेब पेजों में लिंक जोड़ना
   - 
-    title: 'Challenge: Add another link'
+    title: 'चुनौती: अन्य लिंक जोड़ें'
   - 
-    title: Link to A Trinket
+    title: ट्रिंकेट से लिंक करें
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'चुनौती: अपने प्रोजेक्ट्स की सूची बनाएँ'
   - 
-    title: Embedding Projects
+    title: एम्बेड करने वाले प्रोजेक्ट्स
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'चुनौती: और प्रोजेक्ट्स एम्बेड करें'
   - 
-    title: Create a Table of Contents
+    title: विषय सूची बनाएँ
   - 
-    title: Getting Back to the Top
+    title: शीर्ष पर वापस जाना
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'चुनौती: अपने शोकेस में सुधार करें'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'चुनौती: नया शोकेस बनाएँ'
