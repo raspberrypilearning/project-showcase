@@ -20,7 +20,7 @@
 
 Ми рекомендуємо використовувати [ trinket ](https://trinket.io/), щоб написати HTML & CSS онлайн. Цей проект містить такий trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Відправна точка "Вітрина проекту"-- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Діти також можуть скористатися цим порожнім trinket [ (jumpto.cc / html-blank) ](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket[ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
