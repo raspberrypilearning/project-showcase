@@ -8,7 +8,7 @@
 
 ![скріншот](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Якщо ви відкрили Trinket з вашого облікового запису, шукайте опцію "Надати доступ" над своїм Trinket інструментом:
 
 ![скріншот](images/showcase-share2.png)
 
