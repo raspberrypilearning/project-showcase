@@ -8,7 +8,7 @@
 
 ![스크린샷](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+계정에 로그인해서 Trinket을 연 경우 Share 옵션을 아래와 같이 찾을 수 있습니다:
 
 ![스크린샷](images/showcase-share2.png)
 
