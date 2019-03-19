@@ -1,8 +1,8 @@
-## Introduction
+## परिचय
 
 In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
 
-![screenshot](images/showcase-intro.png)
+![स्क्रीनशॉट](images/showcase-intro.png)
 
 ### Additional information for club leaders
 
