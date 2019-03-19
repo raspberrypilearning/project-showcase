@@ -6,11 +6,11 @@ Text links allow you to click on words to go to another web page; they are usual
     
     The project should look like this:
     
-    ![screenshot](images/showcase-starter.png)
+    ![स्क्रीनशॉट](images/showcase-starter.png)
 
 + HTML uses the `<a>` tag for links.
 
-![screenshot](images/showcase-link.png)
+![स्क्रीनशॉट](images/showcase-link.png)
 
 + Find the `<a>` tag in your project. 
 
@@ -18,11 +18,11 @@ Text links allow you to click on words to go to another web page; they are usual
 
 + Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![screenshot](images/showcase-code-club.png)
+![स्क्रीनशॉट](images/showcase-code-club.png)
 
 + Click Run to test your trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![स्क्रीनशॉट](images/showcase-cc-output.png)
 
 + Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
