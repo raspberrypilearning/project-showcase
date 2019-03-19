@@ -1,8 +1,8 @@
 ---
 hero_image: images/banner.png
 title: प्रोजेक्ट शोकेस
-theme: turquoise
-duration: 2
+theme: फ़िरोज़ी
+duration: 0
 listed: true
 ingredient: false
 copyedit: false
@@ -11,7 +11,7 @@ description: अपने वेब प्रोजेक्ट्स का श
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: परियोजनाएं
 hardware: ''
 software: html-css-javascript
 version: 3.1
