@@ -26,7 +26,7 @@ Text links allow you to click on words to go to another web page; they are usual
 
 + Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![screenshot](images/showcase-cc-website.png)
+![स्क्रीनशॉट](images/showcase-cc-website.png)
 
 + To get back to your page you can either:
     
@@ -38,6 +38,6 @@ Text links allow you to click on words to go to another web page; they are usual
 
 + Now put your link into a sentence inside a paragraph:
 
-![screenshot](images/showcase-paragraph.png)
+![स्क्रीनशॉट](images/showcase-paragraph.png)
 
 Test your webpage.
