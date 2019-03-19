@@ -4,8 +4,8 @@
 
 + Add a link to `#top` after each embedded project in your webpage:
 
-![screenshot](images/showcase-top-code.png)
+![स्क्रीनशॉट](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![स्क्रीनशॉट](images/showcase-top-output.png)
 
 + Test your links by clicking on Top to get back to the top of the page.
