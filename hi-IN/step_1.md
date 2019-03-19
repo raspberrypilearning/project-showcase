@@ -54,7 +54,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## चुनौतियाँ
 
 * “Add another link” - Add links to more webpages;
 * “Create a List of Your Projects” - Create links to previous web projects;
@@ -64,7 +64,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: परियोजना सामग्री
 
 ## Project resources
 
