@@ -14,7 +14,7 @@ technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3.1
+version: 3
 last_tested: 2017-01-01
 steps:
   - 
@@ -22,7 +22,7 @@ steps:
   - 
     title: AAñadir enlaces a páginas web
   - 
-    title: 'Desafío: Añade otro enlace'
+    title: 'Desafío: Añadir otro enlace'
   - 
     title: Enlace a un trinket
   - 
