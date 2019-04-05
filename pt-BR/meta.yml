@@ -11,31 +11,31 @@ description: Nesse projeto, você irá criar um mostruário de seus projetos HTM
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projetos
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Projeto Mostruário
   - 
     title: Adicionando Links para Páginas da Web
   - 
-    title: 'Desafio: Adicione outro link'
+    title: 'Desafio: Adicionar outro link'
   - 
-    title: Link para Trinket
+    title: Link para um trinket
   - 
-    title: 'Desafio: Definir uma lista para seus projetos'
+    title: 'Desafio: Criar uma lista dos seus Projetos'
   - 
-    title: Projetos Integrados
+    title: Incorporando Projetos
   - 
-    title: 'Desafio: Mais projetos integrados'
+    title: 'Desafio: Mais Projetos Incorporados'
   - 
     title: Crie um índice
   - 
     title: Voltando ao topo
   - 
-    title: 'Desafio: Melhore seu mostruário'
+    title: 'Desafio: Melhore seu Mostruário'
   - 
     title: 'Desafio: Crie um novo Mostruário'
