@@ -2,20 +2,20 @@
 hero_image: images/banner.png
 title: प्रोजेक्ट शोकेस
 theme: फ़िरोज़ी
-duration: 0
+duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: अपने वेब प्रोजेक्ट्स का शोकेस बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
-technologies: html-css-javascript
-site_areas: परियोजनाएं
+technologies: html/css
+site_areas: प्रोजेक्ट
 hardware: ''
-software: html-css-javascript
+software: htmp-css-javascript
 version: 0
-last_tested: २०१७-०१-०१
+last_tested: 2017-01-01
 steps:
   - 
     title: भूमिका
