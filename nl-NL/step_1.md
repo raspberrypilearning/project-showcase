@@ -20,7 +20,7 @@ In dit project maken kinderen kennis met hyperlinks en integreren trinkets en Sc
 
 We raden het gebruik van [trinket](https://trinket.io/) aan om HTML & CSS online te schrijven. Dit project bevat de volgende trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Project Vitrine' startpunt - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Kinderen kunnen ook gebruik maken van dit lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloontrinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
