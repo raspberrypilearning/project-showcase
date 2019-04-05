@@ -1,20 +1,20 @@
-## Adding Links to Webpages
+## वेब पेजों में लिंक जोड़ना
 
 Text links allow you to click on words to go to another web page; they are usually underlined.
 
 + Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    परियोजना इस तरह दिखनी चाहिए:
     
     ![स्क्रीनशॉट](images/showcase-starter.png)
 
 + HTML uses the `<a>` tag for links.
 
-![स्क्रीनशॉट](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
 + Find the `<a>` tag in your project. 
 
-![screenshot](images/showcase-a-template.png)
+![स्क्रीनशॉट](images/showcase-a-template.png)
 
 + Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
