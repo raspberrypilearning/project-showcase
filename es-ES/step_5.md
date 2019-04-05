@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Create a List of Your Projects
+## Desafío: Crea una lista de tus proyectos
 
 Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
