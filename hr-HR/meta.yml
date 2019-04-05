@@ -1,7 +1,7 @@
 ---
 hero_image: images/banner.png
 title: Pregled projekata
-theme: turquoise
+theme: tirkizna
 duration: 2
 listed: true
 ingredient: false
@@ -11,14 +11,14 @@ description: U ovom projektu napravit ćeš pregled svojih HTML projekta, te uč
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Pregled projekata
+    title: Sretan rođendan
   - 
     title: Adding Links to Webpages
   - 
