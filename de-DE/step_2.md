@@ -1,16 +1,16 @@
-## Adding Links to Webpages
+## Links zu Webseiten hinzufügen
 
 Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Öffne diesen Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Das Projekt sollte so aussehen:
     
-    ![screenshot](images/showcase-starter.png)
+    ![Screenshot](images/showcase-starter.png)
 
 + HTML uses the `<a>` tag for links.
 
-![screenshot](images/showcase-link.png)
+![Screenshot](images/showcase-link.png)
 
 + Find the `<a>` tag in your project. 
 
@@ -22,11 +22,11 @@ Text links allow you to click on words to go to another web page; they are usual
 
 + Click Run to test your trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![Screenshot](images/showcase-cc-output.png)
 
 + Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![screenshot](images/showcase-cc-website.png)
+![Screenshot](images/showcase-cc-website.png)
 
 + To get back to your page you can either:
     
@@ -38,6 +38,6 @@ Text links allow you to click on words to go to another web page; they are usual
 
 + Now put your link into a sentence inside a paragraph:
 
-![screenshot](images/showcase-paragraph.png)
+![Screenshot](images/showcase-paragraph.png)
 
 Test your webpage.
