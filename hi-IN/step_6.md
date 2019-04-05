@@ -1,10 +1,10 @@
-## Embedding Projects
+## एम्बेड करने वाले प्रोजेक्ट्स
 
 As well as linking to trinkets as webpages we can also embed them in a web page.
 
 + You might want to try working in Fullscreen mode so you have more space:
 
-![स्क्रीनशॉट](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
 Press Esc to exit Fullscreen mode.
 
