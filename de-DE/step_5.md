@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Aufgabe: Erstelle eine Liste deiner Projekte
 
 Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
@@ -18,6 +18,6 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 Your finished page should look something like this:
 
-![screenshot](images/showcase-h2-projects.png)
+![Screenshot](images/showcase-h2-projects.png)
 
 \--- /challenge \---
