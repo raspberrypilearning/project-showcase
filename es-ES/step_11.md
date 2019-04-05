@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Create a New Showcase
+## Desafío: Crea una nueva presentación
 
 Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
@@ -10,11 +10,11 @@ Go to the Scratch website and find a project that you like. It can be one of you
 
 If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![screenshot](images/scratch-embed.png)
+![captura de pantalla](images/scratch-embed.png)
 
 If you are not logged in then look for the Scratch project number in its web address.
 
-![screenshot](images/scratch-project-number.png)
+![captura de pantalla](images/scratch-project-number.png)
 
 Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
