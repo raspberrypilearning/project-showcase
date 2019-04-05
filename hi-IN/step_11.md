@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## चुनौती: नया शोकेस बनाएँ
 
 Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
