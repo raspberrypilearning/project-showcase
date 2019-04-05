@@ -1,4 +1,4 @@
-## Create a Table of Contents
+## Erstelle ein Inhaltsverzeichnis
 
 Let's add a Table of Contents so we can easily get to each project.
 
@@ -14,8 +14,8 @@ Add an id to the `<h2>` heading for the Happy Birthday project:
 
 Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![screenshot](images/showcase-list.png)
+![Screenshot](images/showcase-list.png)
 
 + Run your project and test it by clicking on the links to move to your projects. 
 
-![screenshot](images/showcase-list-output.png)
+![Screenshot](images/showcase-list-output.png)
