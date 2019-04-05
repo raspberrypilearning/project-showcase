@@ -20,9 +20,9 @@ Neste projeto, as crianças são apresentadas a hiperlinks e incorporar compleme
 
 Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém o seguinte trinket:
 
-* [Ponto de partida 'Projeto Mostruário' -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Ponto de partida 'Projeto Mostruário' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-As crianças também podem fazer uso deste trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um trinket contendo uma solução de exemplo para os desafios:
 
