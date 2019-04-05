@@ -1,4 +1,4 @@
-## Create a Table of Contents
+## विषय सूची बनाएँ
 
 Let's add a Table of Contents so we can easily get to each project.
 
@@ -6,7 +6,7 @@ Let's add a Table of Contents so we can easily get to each project.
 
 Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![screenshot](images/showcase-id.png)
+![स्क्रीनशॉट](images/showcase-id.png)
 
 + Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
