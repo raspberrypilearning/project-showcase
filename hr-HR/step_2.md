@@ -2,9 +2,9 @@
 
 Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Otvori ovaj trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Projekt bi trebao izgledati ovako:
     
     ![screenshot](images/showcase-starter.png)
 
