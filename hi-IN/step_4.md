@@ -1,4 +1,4 @@
-## Link to A Trinket
+## ट्रिंकेट से लिंक करें
 
 You can link to the web page for a trinket.
 
@@ -6,7 +6,7 @@ You can link to the web page for a trinket.
 
 + Click on the Share menu above your trinket and choose Link:
 
-![स्क्रीनशॉट](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
 If you opened the trinket from your account then look for the Share option above your trinket instead:
 
