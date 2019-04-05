@@ -6,11 +6,11 @@ You can link to the web page for a trinket.
 
 + Click on the Share menu above your trinket and choose Link:
 
-![screenshot](images/showcase-share1.png)
+![スクリーンショット](images/showcase-share1.png)
 
 If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![screenshot](images/showcase-share2.png)
+![スクリーンショット](images/showcase-share2.png)
 
 + Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
@@ -18,10 +18,10 @@ If you opened the trinket from your account then look for the Share option above
 
 + Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![screenshot](images/showcase-link-trinket.png)
+![スクリーンショット](images/showcase-link-trinket.png)
 
 Test your webpage; it should look something like this:
 
-![screenshot](images/showcase-link-output.png)
+![スクリーンショット](images/showcase-link-output.png)
 
 Click the Happy Birthday link to test that it takes you to the trinket.
