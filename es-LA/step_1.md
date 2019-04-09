@@ -1,18 +1,18 @@
-## Introduction
+## Introducción
 
 In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
 
-![screenshot](images/showcase-intro.png)
+![captura de pantalla](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Si necesita imprimir este proyecto, use la [versión para imprimir](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
 In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
 
@@ -46,15 +46,15 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
 
-## Learning Objectives
+## Objetivos del Aprendizaje
 
 * This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafíos
 
 * “Add another link” - Add links to more webpages;
 * “Create a List of Your Projects” - Create links to previous web projects;
@@ -64,7 +64,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
 ## Project resources
 
@@ -77,7 +77,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Recursos del líder del club
 
 * [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
