@@ -8,15 +8,15 @@
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Αν άνοιξες το trinket από το λογαριασμό σου τότε ψάξε για την επιλογή Share πάνω από το trinket σου:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Επέλεξε 'Only show code or result (let users toggle between them') και αντέγραψε το σύνδεσμο προς το trinket. 
++ Επίλεξε 'Only show code or result (let users toggle between them') και αντίγραψε το σύνδεσμο προς το trinket. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Επέστρεψε στο trinket Παρουσίαση Έργων και πρόσθεσε μια επικεφαλίδα `<h2>` και ένα σύνδεσμο προς το έργο Ευτυχισμένα Γενέθλια.
++ Επίστρεψε στο trinket Παρουσίαση Έργων και πρόσθεσε μια επικεφαλίδα `<h2>` και ένα σύνδεσμο προς το έργο Ευτυχισμένα Γενέθλια.
 
 ![screenshot](images/showcase-link-trinket.png)
 
