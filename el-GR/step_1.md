@@ -20,7 +20,7 @@
 
 Συνιστούμε να χρησιμοποιήσεις την εφαρμογή [trinket](https://trinket.io/) για να γράψεις HTML & CSS online. Αυτό το έργο περιλαμβάνει το ακόλουθο trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Επίδειξη έργων' σημείο εκκίνησης -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Τα παιδιά μπορούν επίσης να χρησιμοποιήσουν αυτό το κενό trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) για να γράψουν το δικό τους HTML & CSS κώδικα, ή εναλλακτικά αυτό το trinket πρότυπο [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
