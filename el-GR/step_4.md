@@ -4,7 +4,7 @@
 
 + Κράτησες σύνδεσμο για το trinket Ευτυχισμένα Γενέθλια; Αν κράτησες, τότε άνοιξε αυτό το trinket σε άλλη καρτέλα ή παράθυρο του browser. Διαφορετικά, άνοιξε το τελειωμένο παράδειγμα trinket: <https://trinket.io/html/e996dc0380>
 
-+ Πάτησε στο μενού Share πάνω από το trinket σου και επέλεξε Link:
++ Πάτησε στο μενού Share πάνω από το trinket σου και επίλεξε Link:
 
 ![screenshot](images/showcase-share1.png)
 
