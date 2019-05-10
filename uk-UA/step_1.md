@@ -6,7 +6,7 @@
 
 ### Додаткова інформація для лідерів клубу
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/uk-UA/projects/project-showcase/print).
+Якщо вам потрібно роздрукувати цей проект, скористайтеся [Версія для друку](https://projects.raspberrypi.org/uk-UA/projects/project-showcase/print).
 
 --- collapse ---
 ---
@@ -22,7 +22,7 @@ title: Kерівник клубу відзначає
 
 * [Відправна точка "Вітрина проекту"-- trinket.io/html/11485d0234](http://trinket.io/html/11485d0234)
 
-Діти також можуть скористатися цим порожнім trinket [(jumpto.cc / html-blank)](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket[ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Діти також можуть скористатися цим порожнім trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket[ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 Існує також trinket, що містить вибіркове рішення для вирішення проблем:
 
@@ -42,7 +42,7 @@ title: Kерівник клубу відзначає
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(Усі вищезазначені ресурси також можна завантажувати як проектні та добровільні файли `.zip `.)
+(Усі вищезазначені ресурси також можна завантажувати як проектні та добровільні файли `.zip`.)
 
 Зауважте, що якщо діти завершили свої інші проекти в автономному режимі, вони не зможуть вставляти їх, але вони все одно зможуть зв'язати їх.
 
@@ -80,7 +80,7 @@ title: Mатеріали проекту
 ## Ресурси лідерів клубу
 
 * [.zip-файл, що містить всі завершені ресурси проекту](resources/showcase-volunteer-resources.zip)
-* [Онлайн завершив проект Trinket](https://trinket.io/html/1d4d4c5ce1)
+* [Онлайн завершив проект Trinket](https://trinket.io/html/6ebc8c6c77)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
