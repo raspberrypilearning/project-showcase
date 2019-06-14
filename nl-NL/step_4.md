@@ -8,7 +8,7 @@ Voor een trinket kun je naar een webpagina linken.
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Als je de trinket vanuit je eigen account geopend hebt, zoek je in plaats daarvan de optie Share (Engels voor Delen) boven je trinket:
 
 ![screenshot](images/showcase-share2.png)
 
