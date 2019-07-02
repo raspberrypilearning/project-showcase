@@ -28,16 +28,16 @@ Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken um zu einer an
 
 ![Screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Um zu deiner Seite zurück zu gelangen kannst du entweder:
     
-    + Run your trinket again,
+    + Dein Trinket erneut starten,
     
-    + Tap the Backspace key on the keyboard, or
+    + Die Rücktaste auf deiner Tastatur drücken, oder
     
-    + Right-click and choose Back.
+    + Die rechte Maustaste klicken und "Zurück" wählen.
 
-+ Now put your link into a sentence inside a paragraph:
++ Füge nun deinen Link in einen Satz innerhalb eines Absatzes ein:
 
 ![Screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+Teste deine Webseite.
