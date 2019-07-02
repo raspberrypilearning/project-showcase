@@ -18,7 +18,7 @@ In diesem Projekt werden Kinder an Hyperlinks und das Einbetten von Trinkets und
 
 ## Online-Ressourcen
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. Dieses Projekt enthält das folgende Trinket:
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
