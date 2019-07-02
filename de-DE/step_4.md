@@ -24,4 +24,4 @@ Teste deine Webseite; sie sollte in etwa so aussehen:
 
 ![Screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Klicke auf den "Happy Birthday" Link um zu testen dass dieser dich zu deinem Trinket führt.
