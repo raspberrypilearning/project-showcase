@@ -16,6 +16,6 @@ Erstelle eine nummerierte Liste mit Links zu deinen Projekten. (Nummerierte List
 
 ![Screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Starte dein Projekt und teste es indem du auf die Links klickst um zu deinen Projekten zu gelangen. 
 
 ![Screenshot](images/showcase-list-output.png)
