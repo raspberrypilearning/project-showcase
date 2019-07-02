@@ -56,9 +56,9 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Füge einen weiteren Verweis hinzu" - Verweise zu weiteren Webseiten hinzufügen;
-* "Erstelle eine Liste deiner Projekte" - Erstelle Verweise zu vorigen Webseiten;
-* “Embed More Projects” - Use CSS to create new styles.
+* "Füge einen weiteren Link hinzu" - Links zu weiteren Webseiten hinzufügen;
+* "Erstelle eine Liste deiner Projekte" - Erstelle Links zu vorigen Webseiten;
+* "Bette weitere Projekte ein" - Erstelle neue Styles mittels CSS.
 
 \--- /collapse \---
 
@@ -69,7 +69,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 ## Projektressourcen
 
 * [.zip-Datei mit allen Projektressourcen](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
+* [Online Trinket mit allen Projektressourcen für 'Projektübersicht'](http://jumpto.cc/web-showcase)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 * [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
