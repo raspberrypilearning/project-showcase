@@ -8,11 +8,11 @@ Füge deiner `<h2>`-Überschrift für das "Happy Birthday" Projekt eine id hinzu
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Füge jedem deiner Projekte eine id hinzu und gebe ihnen die Kurznamen "story", "wanted", "recipe" und "letter".
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Du kannst ein Element mit einer id verlinken indem du dem Namen ein Rautezeichen '#' voranstellst. Zum Beispiel `#birthday`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Erstelle eine nummerierte Liste mit Links zu deinen Projekten. (Nummerierte Listen werden im "Recipe" Projekt eingeführt.)
 
 ![Screenshot](images/showcase-list.png)
 
