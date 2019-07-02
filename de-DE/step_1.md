@@ -39,7 +39,7 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 
 Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
-* project-showcse-finished/index.html
+* project-showcase-finished/index.html
 * project-showcse-finished/style.css
 
 (Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
@@ -56,8 +56,8 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
+* "Füge einen weiteren Verweis hinzu" - Verweise zu weiteren Webseiten hinzufügen;
+* "Erstelle eine Liste deiner Projekte" - Erstelle Verweise zu vorigen Webseiten;
 * “Embed More Projects” - Use CSS to create new styles.
 
 \--- /collapse \---
