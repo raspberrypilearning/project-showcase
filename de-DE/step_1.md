@@ -1,10 +1,10 @@
 ## Einleitung
 
-In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen wie man Verlinkungen erstellt und andere Inhalte einbettet.
+In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen wie man Links erstellt und andere Inhalte einbettet.
 
 ![Screenshot](images/showcase-intro.png)
 
-### Zusätzliche Information für Clubleiter
+### Zusätzliche Informationen für Clubleiter
 
 Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
@@ -20,17 +20,17 @@ In diesem Projekt werden Kinder an Hyperlinks und das Einbetten von Trinkets und
 
 Wir empfehlen [Trinket](https://trinket.io/) als Online-Editor für HTML & CSS. Dieses Projekt enthält das folgende Trinket:
 
-* [Startpunkt 'Projekt-Übersicht' -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Startpunkt Projektübersicht' -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Die Kinder können auch [dieses leere Trinket](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können [dieses Trinket als Vorlage verwenden](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Fertige Projekt-Übersicht' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Fertige Projektübersicht' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Offline-Ressourcen
 
-Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen Sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
 * project-showcase/index.html
 * project-showcase/style.css
@@ -39,12 +39,12 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 
 Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
-* project-showcase-finished/index.html
+* project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
 (Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
-Bedenke, dass Kinder anderen Projekte, die sie offline erstellt haben, nicht einbetten aber dennoch verlinken können.
+Bedenken Sie dass Kinder anderen Projekte die sie offline erstellt haben nicht einbetten, aber dennoch verlinken können.
 
 ## Lernziele
 
