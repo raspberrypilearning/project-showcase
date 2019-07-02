@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Vorzeigeprojekt
+title: Projektübersicht
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Stelle ein Vorzeigeprojekt deiner Webprojekte her.
+description: Erstelle eine Übersicht deiner Webprojekte.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -36,6 +36,6 @@ steps:
   - 
     title: Zurück nach oben gelangen
   - 
-    title: 'Aufgabe: Verbessere dein Vorzeigeprojekt'
+    title: 'Aufgabe: Verbessere deine Projektübersicht'
   - 
-    title: 'Aufgabe: Ein neues Vorzeigeprojekt erstellen'
+    title: 'Aufgabe: Eine neue Projektübersicht erstellen'
