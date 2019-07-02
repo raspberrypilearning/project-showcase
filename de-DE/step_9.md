@@ -1,11 +1,11 @@
 ## Zurück nach oben gelangen
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Es ist zudem nützlich zum Anfang der Seite zurückgelangen zu können. HTML hat `#top` für diesen Zweck.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Füge einen Link zu `#top` nach jedem der eingebundenen Projekte auf deiner Webseite hinzu:
 
 ![Screenshot](images/showcase-top-code.png)
 
 ![Screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Teste deine Links indem du auf "Nach Oben" klickst um zurück zum Anfang der Seite zu gelangen.
