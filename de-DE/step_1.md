@@ -1,6 +1,6 @@
 ## Einleitung
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen wie man Verlinkungen erstellt und andere Inhalte einbettet.
 
 ![Screenshot](images/showcase-intro.png)
 
@@ -14,7 +14,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+In diesem Projekt werden Kinder an Hyperlinks und das Einbetten von Trinkets und Scratch-Projekten in einer Webseite herangeführt.
 
 ## Online-Ressourcen
 
