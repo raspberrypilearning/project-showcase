@@ -2,9 +2,9 @@
 
 ## Aufgabe: Erstelle eine Liste deiner Projekte
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Füge einige deiner anderen HTML & CSS Projekte hinzu, die du bei Code Club erstellt hast. Benutze `<h2>`-Überschriften um deine Webseite zu gliedern.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Falls du keine Links hast zu Projekten die du selbst erstellt hast kannst du die folgenden Code Club Beispielprojekte verwenden:
 
 + Happy Birthday: <https://trinket.io/html/e996dc0380>
 
@@ -16,7 +16,7 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 + Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Deine fertige Seite sollte in etwa so aussehen:
 
 ![Screenshot](images/showcase-h2-projects.png)
 
