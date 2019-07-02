@@ -1,26 +1,26 @@
 ## Link zu einem Trinket
 
-You can link to the web page for a trinket.
+Du kannst die Webseite für ein Trinket verlinken.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Hast du noch den Link zu deinem "Happy Birthday" Trinket? Wenn ja, dann öffne dieses Trinket in einem neuen Browser-Tab oder Fenster. Wenn nicht, dann öffne dieses Beispiel-Trinket: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Öffne das "Share"-Menü über deinem Trinket und wähle "Link":
 
 ![Screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Falls du ein Trinket von deinem Benutzerkonto geöffnet hast, dann verwende stattdessen die "Share" Option:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Wähle 'Only show code or result (let users toggle between them)' und kopiere den Link zu deinem Trinket. 
 
 ![Screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Gehe zurück zu deinem Projektübersicht Trinket und füge eine `<h2>` Überschrift mit einem Link zu deinem "Happy Birthday" Projekt hinzu.
 
 ![Screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Teste deine Webseite; sie sollte in etwa so aussehen:
 
 ![Screenshot](images/showcase-link-output.png)
 
