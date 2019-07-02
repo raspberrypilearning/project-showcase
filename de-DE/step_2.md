@@ -1,18 +1,18 @@
 ## Links zu Webseiten hinzufügen
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken um zu einer anderen Webseite zu gelangen; sie sind normalerweise unterstrichen.
 
-+ Öffne diesen Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Öffne dieses Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     Das Projekt sollte so aussehen:
     
     ![Screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ In HTML erstellst du Links mit dem Tag `<a>`.
 
 ![Screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Finde den Tag `<a>` in deinem Projekt. 
 
 ![screenshot](images/showcase-a-template.png)
 
