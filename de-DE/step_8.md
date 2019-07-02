@@ -1,10 +1,10 @@
 ## Erstelle ein Inhaltsverzeichnis
 
-Let's add a Table of Contents so we can easily get to each project.
+Lass uns ein Inhaltsverzeichnis erstellen um ganz einfach zu jedem Projekt zu gelangen.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Neben Links zu anderen Webseiten können wir auch bestimmte Abschnitten innerhalb einer Webseite verlinken indem wir ihnen eine eindeutige Kennung zuweisen, auch "id" genannt. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Füge deiner `<h2>`-Überschrift für das "Happy Birthday" Projekt eine id hinzu:
 
 ![screenshot](images/showcase-id.png)
 
