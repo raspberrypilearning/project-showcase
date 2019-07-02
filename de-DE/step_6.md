@@ -8,9 +8,9 @@ Anstatt Trinkets als Webseiten zu verlinken kannst du sie auch in deine Webseite
 
 Drücke Esc um den Vollbildmodus zu verlassen.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Starte dein Trinket und klicke auf den "Happy Birthday" Link.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist musst du eventuell scrollen. Use the scroll bar on the right or the down arrow on the keyboard.
 
 ![screenshot](images/showcase-embed-code.png)
 
