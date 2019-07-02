@@ -8,7 +8,7 @@ Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken um zu einer an
     
     ![Screenshot](images/showcase-starter.png)
 
-+ In HTML erstellst du Links mit dem Tag `<a>`.
++ In HTML erstellst du Links mit einem sogenannten "Tag", dem Tag `<a>`.
 
 ![Screenshot](images/showcase-link.png)
 
@@ -16,15 +16,15 @@ Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken um zu einer an
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Füge die Adresse der Code Club Webseite [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) und den Text der verlinkt werden soll hinzu:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Klicke auf "Run" um dein Trinket zu testen.
 
 ![Screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Klicke auf den Code Club Link um deine Webseite zu testen. Dein Trinket sollte nun die Code Club Webseite zeigen: 
 
 ![Screenshot](images/showcase-cc-website.png)
 
