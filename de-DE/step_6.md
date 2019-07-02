@@ -10,15 +10,15 @@ Drücke Esc um den Vollbildmodus zu verlassen.
 
 + Starte dein Trinket und klicke auf den "Happy Birthday" Link.
 
-+ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist musst du eventuell scrollen. Use the scroll bar on the right or the down arrow on the keyboard.
++ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist musst du eventuell scrollen. Benutze den Scrollbalken am rechten rand or die Nach Unten Taste auf deiner Tastatur.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Wähle 'Only show code or result (let users toggle between them)' und **kopiere** den Einbettungstext für dein Trinket. 
 
 ![Screenshot](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Trinket hat HTML-Text für dich erzeugt den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag mit dem du andere Inhalte in deine Seite einbetten kannst.
 
 + Now paste that code under the link to the Happy Birthday trinket:
 
