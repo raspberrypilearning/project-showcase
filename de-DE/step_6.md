@@ -2,11 +2,11 @@
 
 Anstatt Trinkets als Webseiten zu verlinken kannst du sie auch in deine Webseite einbetten.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Wechsle in den Vollbildmodus damit du mehr Platz hast:
 
 ![Screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Drücke Esc um den Vollbildmodus zu verlassen.
 
 + Run your trinket and click on the Happy Birthday link.
 
