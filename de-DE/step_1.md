@@ -18,15 +18,15 @@ In diesem Projekt werden Kinder an Hyperlinks und das Einbetten von Trinkets und
 
 ## Online-Ressourcen
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. Dieses Projekt enthält das folgende Trinket:
+Wir empfehlen [Trinket](https://trinket.io/) als Online-Editor für HTML & CSS. Dieses Projekt enthält das folgende Trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Startpunkt 'Projekt-Übersicht' -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Fertige Projekt-Übersicht' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Offline-Ressourcen
 
@@ -44,11 +44,11 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 (Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Bedenke, dass Kinder anderen Projekte, die sie offline erstellt haben, nicht einbetten aber dennoch verlinken können.
 
 ## Lernziele
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Dieses Projekt führt Textverweise zu anderen Webseiten und zu benannten Elementen der gleichen Seite ein. Es führt ebenfalls an die Einbettung von Trinkets und Scratch Projekten in eine Webseite heran. 
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
