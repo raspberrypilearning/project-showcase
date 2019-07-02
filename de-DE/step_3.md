@@ -2,7 +2,7 @@
 
 ## Aufgabe: Füge einen weiteren Link hinzu
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Füge einen Satz mit einem Link zu einer Webseite hinzu, die dir geholfen hat Webprojekte zu erstellen. Zum Beispiel: <https://trinket.io> oder <https://trinket.io/docs/colors>.
 
 ![screenshot](images/showcase-link-challenge.png)
 
