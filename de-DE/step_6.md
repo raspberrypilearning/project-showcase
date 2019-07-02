@@ -1,6 +1,6 @@
 ## Einbettung von Projekten
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Anstatt Trinkets als Webseiten zu verlinken kannst du sie auch in deine Webseite einbetten.
 
 + You might want to try working in Fullscreen mode so you have more space:
 
