@@ -18,7 +18,7 @@ In dit project maken kinderen kennis met hyperlinks en integreren trinkets en Sc
 
 ## Online bronnen
 
-We raden het gebruik van [trinket](https://trinket.io/) aan om HTML & CSS online te schrijven. Dit project bevat de volgende trinket:
+We raden het gebruik van [trinket](https://trinket.io/) aan om online HTML & CSS te schrijven. Dit project bevat de volgende trinket:
 
 * ['Project Vitrine' startpunt - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
