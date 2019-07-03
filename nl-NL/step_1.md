@@ -24,13 +24,13 @@ We raden het gebruik van [trinket](https://trinket.io/) aan om online HTML & CSS
 
 Kinderen kunnen ook gebruik maken van dit lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloontrinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
-Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
+Er is ook een trinket met een voorbeeldoplossing van de uitdagingen:
 
 * ['Project Vitrine afgerond' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Offline bronnen
 
-Dit project kan [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden als dit de voorkeur heeft. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+Dit project kan [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) worden gemaakt als dit de voorkeur heeft. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
 * project-showcase/index.html
 * project-showcase/style.css
@@ -66,7 +66,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## title: Projectmaterialen
 
-## Project bronnen
+## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/showcase-project-resources.zip)
 * [Online Trinket met alle projectbronnen van 'Project Vitrine'](http://jumpto.cc/web-showcase)
@@ -77,9 +77,9 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Clubleider bronnen
+## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectresources](resources/showcase-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbronnen](resources/showcase-volunteer-resources.zip)
 * [Online voltooid Trinket-project](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
