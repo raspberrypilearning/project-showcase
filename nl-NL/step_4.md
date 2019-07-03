@@ -2,7 +2,7 @@
 
 Voor een trinket kun je naar een webpagina linken.
 
-+ Heb je een link naar je trinket voor Gefeliciteerd bewaard? Zo ja, open dan die trinket in een ander browsertabblad of -venster. Anders kun je het voltooide voorbeeld-trinket openen: <https://trinket.io/html/e996dc0380>
++ Heb je een link naar je trinket voor Gefeliciteerd bewaard? Zo ja, open dan die trinket in een ander browsertabblad of -venster. Anders kun je het voltooide voorbeeld trinket openen: <https://trinket.io/html/e996dc0380>
 
 + Klik op het menu Share (Engels voor Delen) boven je trinket en kies Link:
 
