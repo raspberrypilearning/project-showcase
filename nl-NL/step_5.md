@@ -2,7 +2,7 @@
 
 ## Uitdaging: maak een lijst van je projecten
 
-Voeg een paar andere HTML & CSS-projecten toe die je bij Code Club hebt gemaakt. Gebruik `<h2>` koppen om je webpagina te structureren.
+Voeg een paar andere HTML- & CSS-projecten toe die je bij Code Club hebt gemaakt. Gebruik `<h2>` koppen om je webpagina te structureren.
 
 Als je geen links hebt naar afgeronde projecten kun je Code Club-voorbeelden gebruiken:
 
