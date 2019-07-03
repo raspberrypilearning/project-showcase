@@ -32,6 +32,6 @@ Druk op Esc om de modus Volledig scherm te verlaten.
 
 ![screenshot](images/showcase-embed-height.png)
 
-Stel de hoogte in op **400**. Als je het Gefeliciteerd-project hebt veranderd moet je mogelijk een andere waarde kiezen.
+Stel de hoogte in op **400**. Als je het Gefeliciteerd project hebt veranderd moet je mogelijk een andere waarde kiezen.
 
 ![screenshot](images/showcase-embed-fixed.png)
