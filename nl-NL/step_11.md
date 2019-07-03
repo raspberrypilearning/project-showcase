@@ -12,7 +12,7 @@ Als je bent ingelogd, kun je op de knop 'Insluiten' onder het project klikken om
 
 ![screenshot](images/scratch-embed.png)
 
-Als je niet bent aangemeld, zoekt je het Scratch-projectnummer in het webadres.
+Als je niet bent aangemeld, zoekt je het Scratch projectnummer in het webadres.
 
 ![screenshot](images/scratch-project-number.png)
 
