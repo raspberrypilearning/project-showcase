@@ -26,7 +26,7 @@ Die Kinder können auch [dieses leere Trinket](http://jumpto.cc/html-blank) verw
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Fertige Projektübersicht' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Fertige Projektübersicht' -- trinket.io/html/7fccd09543](https://trinket.io/html/5b815ab120)
 
 ## Offline-Ressourcen
 
