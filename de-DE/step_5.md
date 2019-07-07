@@ -6,7 +6,7 @@ Füge einige deiner anderen HTML & CSS Projekte hinzu, die du bei Code Club erst
 
 Falls du keine Links hast zu Projekten die du selbst erstellt hast kannst du die folgenden Code Club Beispielprojekte verwenden:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ Alles Gute zum Geburtstag: <https://trinket.io/html/e996dc0380>
 
 + Tell a Story: <https://trinket.io/html/c8afdef912>
 
@@ -14,7 +14,7 @@ Falls du keine Links hast zu Projekten die du selbst erstellt hast kannst du die
 
 + Recipe: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Geheimnisvoller Brief: <https://trinket.io/html/1d4d4c5ce1>
 
 Deine fertige Seite sollte in etwa so aussehen:
 
