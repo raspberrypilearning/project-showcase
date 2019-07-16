@@ -10,7 +10,7 @@ Her bir projeye kolayca ulaşabilmemiz için bir İçindekiler Tablosu ekleyelim
 
 + Projelerinizin her birine kimlikleri ekleyin ve onlara kısa adlar verin: hikaye, aranan, tarif ve mektup.
 
-+ Adının önüne bir '#' simgesi koyarak bir kimliğe sahip bir öğeye bağlantı verebilirsiniz. Örneğin, `#birinci doğum günü`.
++ Adının önüne bir '#' simgesi koyarak bir kimliğe sahip bir öğeye bağlantı verebilirsiniz. Örneğin, `#dogumgunu`.
 
 Projelerinize sıralı bir bağlantı listesi oluşturun. (Sıralı listeler Reçete projesinde tanıtılmıştır.)
 
