@@ -8,7 +8,7 @@ Bu projede, HTML projelerinizin bir vitrinini oluşturacak ve bağlantılar ve k
 
 Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
-## \--- çöküş \---
+## \--- collapse \---
 
 ## başlık: Kulüp lideri notları
 
