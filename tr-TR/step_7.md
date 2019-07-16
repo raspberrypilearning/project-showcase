@@ -4,4 +4,4 @@
 
 Projelerinizden daha fazlasını Vitrin'e yerleştirin. Web sayfanızdaki bağlantıları tıklayarak biblo sayfalarını kolayca bulabileceğinizi unutmayın.
 
-\--- /meydan okuma \---
+\--- /challenge \---
