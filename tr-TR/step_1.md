@@ -4,9 +4,9 @@ Bu projede, HTML projelerinizin bir vitrinini oluşturacak ve bağlantılar ve k
 
 ![ekran görüntüsü](images/showcase-intro.png)
 
-### Kulüp liderleri için ek bilgi
+### Kulüp liderleri için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/project-showcase/print)ü kullanın.
 
 ## \--- collapse \---
 
