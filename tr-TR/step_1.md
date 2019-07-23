@@ -22,25 +22,25 @@ Bu projede, çocuklar süper-bağlantılar, trinketler ve Scratch projelerinin b
 
 * ['Proje Vitrini' başlangıç noktası - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Çocuklar da bu boş biblo yararlanabilirler [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML yazmak için & CSS ya da alternatif olarak bu şablon biblo kullanabilirsiniz [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Çocuklar ayrıca bu trinketlerden yararlanarak [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML & CSS’lerini yazabilir ya da alternatif olarak bu şablon trinketleri[(jumpto.cc/html-template)](http://jumpto.cc/html-template) kullanabilirler.
 
-Ayrıca zorluklara örnek bir çözüm içeren bir biblo da var:
+Ayrıca meydan okumalar için örnek çözüm içeren bir trinket de var:
 
-* ['Proje Vitrin Tamamlandı' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Proje Vitrini Tamamlandı' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Çevrimdışı Kaynaklar
 
 Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
-* Proje-vitrin / index.html
-* Proje-vitrin / style.css
-* Şablon / template.html
-* Şablon / style.css
+* project-showcase/index.html
+* project-showcase/style.css
+* template/template.html
+* template/style.css
 
 Bu projenin zorluklarının tamamlanmış bir versiyonunu da içeren 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz:
 
-* Proje-showcse mamul / index.html
-* Proje-showcse mamul / style.css
+* project-showcse-finished/index.html
+* project-showcse-finished/style.css
 
 (Yukarıdaki kaynakların tümü proje olarak da indirilebilir ve gönüllü `.zip` dosyadır)
 
