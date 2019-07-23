@@ -1,8 +1,8 @@
 \--- meydan okuma \---
 
-## Zor Görev: Yeni Bir Vitrin Oluşturma
+## Meydan Okuma: Yeni Bir Vitrin Oluştur
 
-Biblolar, bir web sayfasına gömebileceğin tek şey değil. Videoları, widget'ları (hava durumu widget'ı gibi) veya Scratch projelerini gömebilirsiniz.
+Bir web sayfasına yerleştiremeyeceğin tek şey trinketler değil. Videoları, widget'ları (hava durumu widget'ı gibi) veya Scratch projelerini gömebilirsiniz.
 
 Embed Scratch Örnek bibloyu açın ve Çalıştırın: <https://trinket.io/html/9f7212b8fe>
 
