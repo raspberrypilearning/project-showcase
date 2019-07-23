@@ -1,12 +1,12 @@
 ---
-hero_image: images / banner.png
+hero_image: images/banner.png
 title: Proje Vitrini
 theme: turkuaz
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
+curriculum: 1, tasarım-1, programlama-0, fiziksel-hesaplama-0, üretim-0, topluluk-0
 description: Web projelerinizin bir vitrini oluşturun.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
