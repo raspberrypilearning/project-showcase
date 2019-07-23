@@ -2,7 +2,7 @@
 
 ## Meydan Okuma: Yeni Bir Vitrin Oluştur
 
-Bir web sayfasına yerleştiremeyeceğin tek şey trinketler değil. Videoları, widget'ları (hava durumu widget'ı gibi) veya Scratch projelerini gömebilirsiniz.
+Bir web sayfasına yerleştiremeyeceğin tek şey trinketler değil. Videoları, widget'ları (hava durumu widget'ı gibi) veya Scratch projelerini yerleştirebilirsiniz.
 
 Embed Scratch Örnek bibloyu açın ve Çalıştırın: <https://trinket.io/html/9f7212b8fe>
 
