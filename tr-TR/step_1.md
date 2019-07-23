@@ -14,13 +14,13 @@ Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://p
 
 ## Giriş:
 
-Bu projede, çocuklar bir köprüye, bibloların ve Scratch projelerinin bir web sayfasına gömülmesiyle tanıştırılıyor.
+Bu projede, çocuklar süper-bağlantılar, trinketler ve Scratch projelerinin bir web sayfasına yerleştirilmesiyle tanıştırılıyor.
 
 ## Çevrimiçi kaynaklar
 
-Çevrimiçi HTML & CSS yazmak için [biblo](https://trinket.io/) kullanmanızı öneririz. Bu proje aşağıdaki biblo içeriyor:
+[Trinket](https://trinket.io/) yazmak için çevrimiçi HTML & CSS kullanmanızı tavsiye ediyoruz. Bu proje aşağıdaki trinketleri içeriyor:
 
-* ['Proje Showcase' başlangıç noktası - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Proje Vitrini' başlangıç noktası - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Çocuklar da bu boş biblo yararlanabilirler [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML yazmak için & CSS ya da alternatif olarak bu şablon biblo kullanabilirsiniz [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
