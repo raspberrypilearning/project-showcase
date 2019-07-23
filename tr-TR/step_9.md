@@ -1,6 +1,6 @@
 ## Başa Dön
 
-+ Sayfanın en üstüne geri dönebilmek de faydalıdır. HTML, bu amaç için `#top` etiketine sahiptir.
++ Sayfanın en üstüne geri dönebilmek için de faydalıdır. HTML, bu amaç için `#top` etiketine sahiptir.
 
 + Web sayfanızdaki her gömülü projeden sonra `#top` bir bağlantı ekleyin:
 
