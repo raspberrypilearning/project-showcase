@@ -6,9 +6,9 @@ Bir web sayfasına yerleştiremeyeceğin tek şey trinketler değil. Videoları,
 
 Embed Scratch Örnek bibloyu açın ve Çalıştırın: <https://trinket.io/html/9f7212b8fe>
 
-Scratch web sitesine gidin ve sevdiğiniz bir proje bulun. Kendine ait biri olabilirsin ya da bulduğun biri.
+Scratch web sitesine gidin ve sevdiğiniz bir proje bulun. Sana ait veya senin bulduğun bir tane olabilir.
 
-Giriş yaptıysanız, HTML gömme kodunu almak için projenin altındaki 'Embed' (Katıştır) düğmesine tıklayabilirsiniz.
+Giriş yaptıysanız, HTML yerleştirme kodunu almak için projenin altındaki 'Embed' (Yerleştir) düğmesine tıklayabilirsiniz.
 
 ![ekran görüntüsü](images/scratch-embed.png)
 
