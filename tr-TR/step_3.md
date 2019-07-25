@@ -1,6 +1,6 @@
 \--- meydan okuma \---
 
-## Zorluk: Başka bir link ekle
+## Meydan okuma: Başka bir bağlantı ekle
 
 Web projeleri oluşturmak için yardımcı olan bir web sitesine bağlantı içeren bir cümle ekleyin. Örneğin: <https://trinket.io> veya <https://trinket.io/docs/colors>.
 
