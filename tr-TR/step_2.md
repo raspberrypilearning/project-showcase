@@ -1,8 +1,8 @@
 ## Web Sayfalarına Bağlantı Ekleme
 
-Metin bağlantıları, başka bir web sayfasına gitmek için kelimeleri tıklatmanıza izin verir; genellikle altı çizilidir.
+Metin bağlantıları, başka bir web sayfasına gitmek için kelimelerin üzerine tıklatmanıza izin verir; genellikle altı çizilidir.
 
-+ Bu bibloyu aç: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Bu Trinketi aç: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     Proje şöyle görünmeli:
     
@@ -16,21 +16,21 @@ Metin bağlantıları, başka bir web sayfasına gitmek için kelimeleri tıklat
 
 ![ekran görüntüsü](images/showcase-a-template.png)
 
-+ Code Club web sitesi adresini ziyaret edin [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ve link metni:
++ Code Club web sitesi adresini ekleyin [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ve metine bağlantı oluşturun:
 
 ![ekran görüntüsü](images/showcase-code-club.png)
 
-+ Ivır zıvırınızı test etmek için Çalıştır'ı tıklatın.
++ Trinketinizi test etmek için Çalıştır düğmesine tıklayın.
 
 ![ekran görüntüsü](images/showcase-cc-output.png)
 
-+ Web sayfanızı test etmek için Code Club linkini tıklayın. Ivır zıvırınız şimdi Code Club web sayfasını gösterecek: 
++ Web sayfanızı test etmek için Code Club linkini tıklayın. Trinketiniz şimdi Code Club web sayfasını gösterecek: 
 
 ![ekran görüntüsü](images/showcase-cc-website.png)
 
 + Sayfanıza geri dönmek için aşağıdakilerden birini yapabilirsiniz:
     
-    + Ivır zıvırını tekrar çalıştır,
+    + Trinketinizi tekrar çalıştırın,
     
     + Klavyede Geri tuşuna dokunun veya
     
