@@ -1,14 +1,14 @@
-## Bir Biblo Bağlantısı
+## Trinklet’e bağlantı oluştur
 
-Bir biblo için web sayfasına link verebilirsiniz.
+Bir Trinket için web sayfasına link verebilirsiniz.
 
-+ Doğum Günün Kutlu Olsun biblo ile bir link tuttun mu? Bunu yaptıysanız, bu bibloyu başka bir tarayıcı sekmesinde veya penceresinde açın. Aksi halde bitmiş örnek bibloyu açın: <https://trinket.io/html/e996dc0380>
++ Doğum Günün Kutlu Olsun biblo ile bir link tuttun mu? Bunu yaptıysanız, bu Trinket’i başka bir tarayıcı sekmesinde veya penceresinde açın. Aksi halde bitmiş örnek Trinket’i açın: <https://trinket.io/html/e996dc0380>
 
-+ Ivır zıvırınızın üstündeki Paylaş menüsüne tıklayın ve Bağlantı'yı seçin:
++ Trinket’in üstündeki Paylaş menüsüne tıklayın ve Bağlantı'yı seçin:
 
 ![ekran görüntüsü](images/showcase-share1.png)
 
-Eğer bibloyu hesabınızdan açtıysanız, bibloğunuzun üstündeki Paylaş seçeneğini bulun
+Eğer Trinket’i hesabınızdan açtıysanız, Trinket’inizin üstündeki Paylaş seçeneğini bulun:
 
 ![ekran görüntüsü](images/showcase-share2.png)
 
