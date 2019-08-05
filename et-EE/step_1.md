@@ -48,7 +48,7 @@ Pidage meeles, et kui lapsed on oma muud projektid võrguühenduseta lõpetanud,
 
 ## Õpieesmärgid
 
-* See projekt tutvustab teksti lehti teistele veebilehtedele ja nimega id-id lehel. Samuti tutvustab see veebisaidile sisseehitatud nipsu ja kriimustusprojekte. 
+* See projekt tutvustab tekstilinke teistele veebilehtedele ja lehel asuvatele nimega Id-idele. Samuti tutvustab see veebisaidile trinketite ja Scratchi projektide manustamist. 
 
 See projekt hõlmab elemente, mis on välja toodud järgmiselt: [raspberry pi digitaalse loomise õppekava](http://rpf.io/curriculum):
 
