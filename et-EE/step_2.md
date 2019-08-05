@@ -1,20 +1,20 @@
-## Veebilehtede linkide lisamine
+## Linkide lisamine veebilehtedele
 
-Tekstlingid võimaldavad teil klõpsata sõnadel, et minna teisele veebilehele; need on tavaliselt allajoonitud.
+Tekstlingid võimaldavad sul klõpsata sõnadel, et minna teisele veebilehele; need on tavaliselt allajoonitud.
 
-+ Avage see nipsus: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Ava see trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    Projekt peaks olema selline:
+    Projekt peaks välja nägema selline:
     
-    ![ekraanipilt](images/showcase-starter.png)
+    ![kuvatõmmis](images/showcase-starter.png)
 
-+ HTML kasutab linkide jaoks `<a>` märgistust.
++ HTML kasutab linkide jaoks `<a>` silti.
 
-![ekraanipilt](images/showcase-link.png)
+![kuvatõmmis](images/showcase-link.png)
 
-+ Leidke projektis `<a>` silt. 
++ Leia oma projektis `<a>` silt. 
 
-![ekraanipilt](images/showcase-a-template.png)
+![kuvatõmmis](images/showcase-a-template.png)
 
 + Lisage koodiklubi veebisaidi aadress [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ja link tekst:
 
