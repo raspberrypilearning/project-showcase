@@ -2,44 +2,44 @@
 
 Selles projektis lood oma HTML-projektide tutvustuse, saad teada linkide kohta ning õpid, kuidas kaasata ressursse.
 
-![ekraanipilt](images/showcase-intro.png)
+![kuvatõmmis](images/showcase-intro.png)
 
-### Lisateave klubi juhtidele
+### Lisainfo ringijuhendajatele
 
-Kui teil on vaja seda projekti printida, palun kasutage [Printerisõbralik versioon](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: Klubiliidri märkmed
+## title: Ringijuhendaja märkmed
 
 ## Sissejuhatus:
 
-Selles projektis tutvustatakse lapsi hüperlingidena ja veebilehtedel asuvate nipsakute ja kriipsuprojektidega.
+Selles projektis tutvustatakse lastele hüperlinke ja veebilehtedel asuvate trinketite ning Scratchi projektide kaasamist.
 
-## Online-vahendid
+## Internetiressursid
 
-HTML & CSS-i sisselülitamiseks soovitame kasutada [nippi](https://trinket.io/). See projekt sisaldab järgmist triketti:
+HTML-i & CSS-i kirjutamiseks võrgus soovitame kasutada [trinketit](https://trinket.io/). See projekt sisaldab järgmist trinketit:
 
-* ["Projekti vitriin" lähtepunkt - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ["Projekti tutvustuse" lähtepunkt -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Lapsed võivad kasutada seda tühja triketti [(jumpto.cc/html- blank)](http://jumpto.cc/html-blank) oma HTML & CSS-i kirjutamiseks või alternatiivina saavad nad seda malli trinket [(jumpto.cc/html-memplate) kasutada](http://jumpto.cc/html-template).
+Lapsed võivad kasutada ka seda tühja trinketit [(jumpto.cc/html- blank)](http://jumpto.cc/html-blank) oma HTML-i & CSS-i kirjutamiseks või alternatiivina saavad nad kasutada seda näidistrinketit [(jumpto.cc/html-memplate)](http://jumpto.cc/html-template).
 
-Samuti on nelisõnum, mis sisaldab väljavõttelist lahendust:
+Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
-* ["Projekti vitriin lõpetatud" - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["Projekti tutvustus lõpetatud" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline-ressursid
+## Võrguvälised ressursid
 
-See projekt saab [lõpetatud ühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , kui eelistatud. Saate ligipääsu projekti ressurssidele, klõpsates selle projekti lingil "Projekti materjalid". See link sisaldab jaotise "Projektide ressursid", mis sisaldab ressursse, mida lapsed peavad selle projekti väljalülitamiseks lõpule viima. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
+Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Saad ligipääsu projekti ressurssidele, klõpsates selle projekti "Projekti materjalide" lingil. See link sisaldab jaotist "Projekti ressursid", mis sisaldab ressursse, mida lapsed selle projekti võrguühenduseta lõpetamiseks vajavad. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
 
-* projekti-showcase / index.html
-* projekti-showcase / style.css
-* mall / mall.html
-* mall / style.css
+* project-showcase/index.html
+* project-showcase/style.css
+* template/template.html
+* template/style.css
 
-Selle projekti väljakutsete täieliku versiooni leiate ka jaotisest "Vabatahtlike ressursid", mis sisaldab järgmist:
+Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtlikud ressursid", mis sisaldab järgmist:
 
-* projekt-showcse-finished / index.html
+* project-showcase-finished/index.html
 * projekt-showcse-finished / style.css
 
 (Kõik ülaltoodud allikad on samuti alla laaditavad kui projekti ja vabatahtlikud `.zip` failid.)
