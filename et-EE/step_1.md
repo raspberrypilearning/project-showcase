@@ -1,6 +1,6 @@
 ## Sissejuhatus
 
-Selles projektis lood oma HTML-projektide tutvustuse, saad teada linkide kohta ning õpid, kuidas kaasata ressursse.
+Selles projektis lood oma HTML-projektide tutvustuse, saad teada linkide kohta ning õpid, kuidas manustada ressursse.
 
 ![kuvatõmmis](images/showcase-intro.png)
 
@@ -14,7 +14,7 @@ Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku ve
 
 ## Sissejuhatus:
 
-Selles projektis tutvustatakse lastele hüperlinke ja veebilehtedel asuvate trinketite ning Scratchi projektide kaasamist.
+Selles projektis tutvustatakse lastele hüperlinke ja veebilehel asuvate trinketite ning Scratchi projektide manustamist.
 
 ## Internetiressursid
 
@@ -46,7 +46,7 @@ Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtl
 
 Pidage meeles, et kui lapsed on oma muud projektid võrguühenduseta lõpetanud, ei saa nad neid manustada, kuid nad saavad need ikkagi linkida.
 
-## Õppe eesmärgid
+## Õpieesmärgid
 
 * See projekt tutvustab teksti lehti teistele veebilehtedele ja nimega id-id lehel. Samuti tutvustab see veebisaidile sisseehitatud nipsu ja kriimustusprojekte. 
 
