@@ -1,6 +1,6 @@
 ## Sissejuhatus
 
-Selles projektis luuakse oma HTML-projektide esitlus ja saate teada lingid ja ressursside varjamine.
+Selles projektis lood oma HTML-projektide tutvustuse, saad teada linkide kohta ning õpid, kuidas kaasata ressursse.
 
 ![ekraanipilt](images/showcase-intro.png)
 
