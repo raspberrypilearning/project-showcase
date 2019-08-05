@@ -40,11 +40,11 @@ Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codec
 Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtlikud ressursid", mis sisaldab järgmist:
 
 * project-showcase-finished/index.html
-* projekt-showcse-finished / style.css
+* project-showcase-finished/style.css
 
-(Kõik ülaltoodud allikad on samuti alla laaditavad kui projekti ja vabatahtlikud `.zip` failid.)
+(Kõik ülaltoodud ressursid on samuti alla laaditavad projekti ja vabatahtliku `.zip` failina.)
 
-Pidage meeles, et kui lapsed on oma muud projektid võrguühenduseta lõpetanud, ei saa nad neid manustada, kuid nad saavad ikkagi nendega linkida.
+Pidage meeles, et kui lapsed on oma muud projektid võrguühenduseta lõpetanud, ei saa nad neid manustada, kuid nad saavad need ikkagi linkida.
 
 ## Õppe eesmärgid
 
