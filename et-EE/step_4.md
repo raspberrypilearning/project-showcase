@@ -1,6 +1,6 @@
 ## Link trinketile
 
-Võid veebilehele trinketi linkida.
+Võid veebilehele linkida trinketi.
 
 + Kas hoidsite linki oma õnnelik sünnipäeva pruutmisega? Kui te siis avasite selle nipsu mõnes teises brauseri sakkis või aknas. Vastasel juhul avage valmis näpistüüp: <https://trinket.io/html/e996dc0380>
 
