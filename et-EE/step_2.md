@@ -16,28 +16,28 @@ Tekstlingid võimaldavad sul klõpsata sõnadel, et minna teisele veebilehele; n
 
 ![kuvatõmmis](images/showcase-a-template.png)
 
-+ Lisage koodiklubi veebisaidi aadress [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ja link tekst:
++ Lisa Code Clubi veebisaidi aadress [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ja lingi tekst:
 
-![ekraanipilt](images/showcase-code-club.png)
+![kuvatõmmis](images/showcase-code-club.png)
 
-+ Klõpsake käsku Käivita, et proovida oma nipsutit
++ Klõpsa nupul Käivita, et oma trinketit testida.
 
-![ekraanipilt](images/showcase-cc-output.png)
+![kuvatõmmis](images/showcase-cc-output.png)
 
-+ Veebilehe testimiseks klikkige lingil Code Club. Teie nurk näitab nüüd Code Clubi veebilehte: 
++ Veebilehe testimiseks klõpsa Code Clubi lingil. Sinu trinket näitab nüüd Code Clubi veebilehte: 
 
-![ekraanipilt](images/showcase-cc-website.png)
+![kuvatõmmis](images/showcase-cc-website.png)
 
-+ Teie lehele naasmiseks võite kas:
++ Oma lehele naasmiseks võid:
     
-    + Käivitage oma nipsu uuesti
+    + Oma trinketi uuesti käivitada,
     
-    + Puuduta klaviatuuri Backspace klahvi või
+    + Vajutada klaviatuuril Backspace klahvi või
     
-    + Paremklõpsake ja valige Tagasi.
+    + Paremklõpsata ja valida Tagasi.
 
-+ Nüüd panna oma link lõike sisusse:
++ Nüüd pane oma link lõigu lausesse:
 
-![ekraanipilt](images/showcase-paragraph.png)
+![kuvatõmmis](images/showcase-paragraph.png)
 
-Proovige oma veebilehte.
+Testi oma veebilehte.
