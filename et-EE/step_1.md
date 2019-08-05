@@ -50,38 +50,38 @@ Pidage meeles, et kui lapsed on oma muud projektid võrguühenduseta lõpetanud,
 
 * See projekt tutvustab tekstilinke teistele veebilehtedele ja lehel asuvatele nimega Id-idele. Samuti tutvustab see veebisaidile trinketite ja Scratchi projektide manustamist. 
 
-See projekt hõlmab elemente, mis on välja toodud järgmiselt: [raspberry pi digitaalse loomise õppekava](http://rpf.io/curriculum):
+Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum) järgmistest valdkondadest:
 
-* [Disaini põhilised 2D ja 3D varad](https://www.raspberrypi.org/curriculum/design/creator).
+* [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Väljakutsed
 
-* "Lisage teine ​​link" - lisage linke rohkematele veebilehtedele;
+* "Lisa veel üks ​​link" - lisa linke rohkematele veebilehtedele;
 * "Loo oma projektide loend" - loo lingid eelmistele veebiprojektidele;
-* "Embed rohkem projekte" - kasutage CSS-i uute stiilide loomiseks.
+* "Manusta rohkem projekte" - kasuta CSS-i uute stiilide loomiseks.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: projekti materjalid
+## title: Projekti materjalid
 
 ## Projekti ressursid
 
 * [.zip-fail, mis sisaldab kõiki projekti ressursse](resources/showcase-project-resources.zip)
-* [Online kinkekomplekt, mis sisaldab kõiki projektiekriessursse](http://jumpto.cc/web-showcase)
-* [Online trikke mall](http://jumpto.cc/trinket-template)
-* [Hetkel tühi trikk](http://jumpto.cc/trinket-blank)
-* [mall / indeks.html](resources/template-index.html)
-* [mall / style.css](resources/template-style.css)
-* [projekti-showcase / index.html](resources/project-showcase-index.html)
-* [projekti-showcase / style.css](resources/project-showcase-style.css)
+* [Trinket veebis, mis sisaldab kõiki projekti "Projekti tutvustus" ressursse](http://jumpto.cc/web-showcase)
+* [Veebi-trinketi näidis](http://jumpto.cc/trinket-template)
+* [Tühi trinket veebis](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [project-showcase/index.html](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Klubi liidri ressursid
+## Ringijuhendaja ressursid
 
 * [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](resources/showcase-volunteer-resources.zip)
-* [Online lõpetas kalliskivi projekti](https://trinket.io/html/1d4d4c5ce1)
-* [projekt-showcase-finished / index.html](resources/project-showcase-finished-index.html)
-* [projekt-showcase-finished / style.css](resources/project-showcase-finished-style.css)
+* [Lõpetatud Trinketi projekt veebis](https://trinket.io/html/1d4d4c5ce1)
+* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- / kollaps \---
+\--- /collapse \---
