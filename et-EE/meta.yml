@@ -1,17 +1,17 @@
 ---
-hero_image: images / banner.png
-title: Projekti vitriin
-theme: türkiissinine
+hero_image: images/banner.png
+title: Projekti tutvustus
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, disain-1, programmeerimine-0, phys-comp-0, production-0, community-0
-description: Loo veebiprojektide esitlus.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Loo oma veebiprojektide tutvustus.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projektid
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3.1
@@ -20,11 +20,11 @@ steps:
   - 
     title: Sissejuhatus
   - 
-    title: Veebilehtede linkide lisamine
+    title: Linkide lisamine veebilehtedele
   - 
-    title: 'Väljakutse: lisa veel üks link'
+    title: 'Väljakutse: Lisa veel üks link'
   - 
-    title: Link to Trinket
+    title: Link Trinketile
   - 
     title: 'Väljakutse: loo oma projektide nimekiri'
   - 
