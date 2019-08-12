@@ -8,7 +8,7 @@ Võid veebilehele linkida trinketi.
 
 ![ekraanipilt](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Kui sa avasid trinketi oma kontolt, siis otsi selle asemel sinu trinketi kohal olevat suvandit Share:
 
 ![ekraanipilt](images/showcase-share2.png)
 
