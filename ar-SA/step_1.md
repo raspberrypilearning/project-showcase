@@ -1,6 +1,6 @@
 ## المقدمة
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+في هذا المشروع ، ستقوم بإنشاء عرض لمشاريع HTML الخاصة بك والتعرف على الروابط وتضمين المصادر.
 
 ![لقطة شاشة](images/showcase-intro.png)
 
@@ -14,7 +14,7 @@ In this project, you will create a showcase of your HTML projects and learn abou
 
 ## مقدمة:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+في هذا المشروع ، يتم تعريف الأطفال على hyperlinks وتضمين trinket ومشاريع scratch داخل صفحة ويب.
 
 ## الموارد المتوفرة على الإنترنت
 
