@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: معرض المشروع
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: إنشاء عرض لمشاريع الويب الخاصة بك.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -20,13 +20,13 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Adding Links to Webpages
+    title: إضافة روابط إلى صفحات الويب
   - 
-    title: 'Challenge: Add another link'
+    title: 'التحدي: اضافة رابط اخر'
   - 
-    title: Link to A Trinket
+    title: الرابط الى trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'التحدي: انشاء قائمة مشاريعك'
   - 
     title: Embedding Projects
   - 
