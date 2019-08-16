@@ -8,7 +8,7 @@ Trinkets ليست الشيء الوحيد الذي يمكنك تضمينه في 
 
 انتقل إلى موقع scratch واعثر على مشروع يعجبك. يمكن أن يكون واحدا من الخاص بك أو واحدا وجدته.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+إذا اتممت تسجيل الدخول يمكنك النقر فوق الزر "تضمين" أسفل المشروع للحصول على رمز التضمين HTML.
 
 ![لقطة الشاشة](images/scratch-embed.png)
 
