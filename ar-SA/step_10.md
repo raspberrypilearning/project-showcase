@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## التحدي: تحسين المعرض الخاص بك
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+استخدام css حيث تعلمت جعل صفحتك أكثر إثارة للاهتمام. حاول تغيير لون الخلفية الخاص بالصفحة أو الخطوط المستخدمة للتاكيد.
 
 You can also add some information about each project and what you liked about making it.
 
