@@ -12,16 +12,16 @@
 
 ![لقطة الشاشة](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ اختر "فقط عرض الكود أو النتيجة (اسمح للمستخدمين بالتبديل بينهم)" وانسخ الرابط إلى trinket. 
 
 ![لقطة الشاشة](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ ارجع إلى trinket عرض المشروع وأضف عنوان `<h2>` وارتباطًا بمشروع Happy Birthday Project.
 
 ![لقطة الشاشة](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+اختبار صفحة الويب الخاصة بك ؛ يجب أن يبدو مثل هذا:
 
 ![لقطة الشاشة](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+انقر على الرابط عيد ميلاد سعيد لاختبار أنه يأخذك إلى trinket.
