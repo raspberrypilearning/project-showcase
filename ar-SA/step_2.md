@@ -34,7 +34,7 @@
     
     + اضغط على مفتاح Backspace على لوحة المفاتيح ، أو
     
-    + Right-click and choose Back.
+    + انقر بزر الماوس الأيمن واختر الرجوع.
 
 + Now put your link into a sentence inside a paragraph:
 
