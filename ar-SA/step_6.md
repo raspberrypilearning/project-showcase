@@ -2,25 +2,25 @@
 
 بالإضافة إلى الارتباط ب trinket كصفحات ويب ، يمكننا أيضًا تضمينها في صفحة ويب.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ قد ترغب في محاولة العمل في وضع ملء الشاشة بحيث يكون لديك مساحة أكبر:
 
 ![لقطة شاشة](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+اضغط على Esc للخروج من وضع ملء الشاشة.
 
-+ Run your trinket and click on the Happy Birthday link.
++ تشغيل trinket الخاص بك وانقر على رابط العيد ميلاد سعيد.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ انقر على قائمة trinket وحدد ** تضمين **. إذا لم تكن في وضع ملء الشاشة ، فقد تضطر إلى التمرير. استخدم شريط التمرير الموجود على اليمين أو السهم الأسفل على لوحة المفاتيح.
 
 ![لقطة الشاشة](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ اختر "فقط عرض الكود أو النتيجة (اسمح للمستخدمين بالتبديل بينهم)" و ** انسخ ** رمز التضمين ل trinket. 
 
 ![لقطة الشاشة](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ أنشأ Trinket بعض HTML لتضمينها في صفحة الويب الخاصة بك. يستخدم الاشارة `<iframe>` التي تسمح بتضمين المحتوى داخل الصفحة.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ الآن الصق هذا الكود أسفل رابط trinket العيد ميلاد سعيد:
 
 ![لقطة الشاشة](images/showcase-paste-embed.png)
 
