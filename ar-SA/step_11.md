@@ -6,7 +6,7 @@ Trinkets ليست الشيء الوحيد الذي يمكنك تضمينه في 
 
 افتح مثال scratch المتضمن trinket وقم بتشغيله:  https://trinket.io/html/9f7212b8f </ 0></p> 
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+انتقل إلى موقع scratch واعثر على مشروع يعجبك. يمكن أن يكون واحدا من الخاص بك أو واحدا وجدته.
 
 If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
