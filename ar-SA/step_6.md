@@ -1,6 +1,6 @@
-## Embedding Projects
+## تضمين المشاريع
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+بالإضافة إلى الارتباط ب trinket كصفحات ويب ، يمكننا أيضًا تضمينها في صفحة ويب.
 
 + You might want to try working in Fullscreen mode so you have more space:
 
