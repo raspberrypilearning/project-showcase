@@ -36,8 +36,8 @@
     
     + انقر بزر الماوس الأيمن واختر الرجوع.
 
-+ Now put your link into a sentence inside a paragraph:
++ الآن ضع الرابط الخاص بك في جملة داخل فقرة:
 
 ![لقطة الشاشة](images/showcase-paragraph.png)
 
-Test your webpage.
+اختبار صفحة الويب الخاصة بك.
