@@ -24,14 +24,14 @@
 
 ![لقطة الشاشة](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ قم بتشغيل trinket الخاص بك لاختباره وسترى مشروع عيد ميلاد سعيد مضمنًا في صفحة الويب. 
 
 ![لقطة الشاشة](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ قد تجد أن الجزء السفلي من trinket الخاص بك لا يتم عرضه. يمكنك إصلاح ذلك عن طريق تغيير قيمة الارتفاع على `<iframe>`. 
 
 ![لقطة الشاشة](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+تعيين الارتفاع إلى ** 400 </ 0>. إذا قمت بإجراء تغييرات على مشروع عيد ميلاد سعيد قد تحتاج إلى اختيار قيمة مختلفة.</p> 
 
 ![لقطة الشاشة](images/showcase-embed-fixed.png)
