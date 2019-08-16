@@ -1,11 +1,13 @@
-## Getting Back to the Top
+## العودة إلى الأعلى
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ ومن المفيد أيضا أن تكون قادرة على التنقل إلى أعلى الصفحة. HTML لديه  #top </ 0> لهذا الغرض.</p></li>
+<li><p>إضافة رابط إلى <code> #top </ 0> بعد كل مشروع المضمن من صفحة الويب:</p></li>
+</ul>
 
-+ Add a link to `#top` after each embedded project in your webpage:
+<p><img src="images/showcase-top-code.png" alt="لقطة الشاشة" /></p>
 
-![لقطة الشاشة](images/showcase-top-code.png)
+<p><img src="images/showcase-top-output.png" alt="لقطة شاشة" /></p>
 
-![لقطة شاشة](images/showcase-top-output.png)
-
-+ Test your links by clicking on Top to get back to the top of the page.
+<ul>
+<li>اختبار الروابط بالنقر على الاعلى للعودة إلى أعلى الصفحة. </li>
+</ul>
