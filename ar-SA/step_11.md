@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## التحدي: إنشاء عرض جديد
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Trinkets ليست الشيء الوحيد الذي يمكنك تضمينه في صفحة ويب. يمكنك تضمين أشرطة الفيديو، widgets (مثل widget الطقس) أو مشاريع scratch.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+افتح مثال scratch المتضمن trinket وقم بتشغيله:  https://trinket.io/html/9f7212b8f </ 0></p> 
 
 Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
