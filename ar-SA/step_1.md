@@ -56,8 +56,8 @@
 
 ## التحديات
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
+* "إضافة رابط آخر" - إضافة روابط إلى المزيد من صفحات الويب ؛  ;
+* "إنشاء قائمة بمشروعاتك" - إنشاء روابط لمشاريع الويب السابقة;
 * “Embed More Projects” - Use CSS to create new styles.
 
 \--- /collapse \---
