@@ -1,14 +1,14 @@
-## Link to A Trinket
+## الرابط الى trinket
 
-You can link to the web page for a trinket.
+يمكنك الارتباط بصفحة الويب لـ trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ هل حافظت على رابط إلى عيد ميلاد سعيد trinket؟ إذا قمت بذلك ، افتح trinket في علامة تبويب أو نافذة متصفح أخرى. أو افتح trinket الخاص بالمثال المكتمل: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Click on the Share menu above your trinket and choose Link:
++ انقر على قائمة المشاركة أعلى trinket الخاص بك واختر رابط:
 
 ![لقطة شاشة](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+إذا فتحت trinket من حسابك ، فابحث عن خيار المشاركة أعلى trinket بدلاً من ذلك:
 
 ![لقطة الشاشة](images/showcase-share2.png)
 
