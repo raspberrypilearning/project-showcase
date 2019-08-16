@@ -12,11 +12,11 @@ Trinkets ليست الشيء الوحيد الذي يمكنك تضمينه في 
 
 ![لقطة الشاشة](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+إذا لم تقم بتسجيل الدخول ابحث عن رقم مشروع scratch في عنوان الويب.
 
 ![لقطة الشاشة](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+قم بإجراء نسخة من كود `<iframe>` في مثال scratch المتضمن وتغيير رقم المشروع إلى أحد المشاريع التي تريد تضمينها:
 
 ![لقطة الشاشة](images/scratch-iframe.png)
 
