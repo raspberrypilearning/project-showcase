@@ -44,11 +44,11 @@
 
 (جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+لاحظ أنه إذا كان الأطفال قد أكملوا مشاريعهم الأخرى في وضع عدم الاتصال بالانترنت ، فلن يتمكنوا من تضمينها ولكنهم سيظلون قادرين على الارتباط بها.
 
 ## أهداف التعلم
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* يقدم هذا المشروع روابط نصية لصفحات ويب أخرى ومعرفات معيّنة داخل الصفحة. يقدم أيضًا تضمين trinkets ومشاريع سكراتش في صفحة ويب. 
 
 يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
