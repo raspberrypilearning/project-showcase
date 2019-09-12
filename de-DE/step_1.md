@@ -1,12 +1,12 @@
 ## Einleitung
 
-In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen wie man Links erstellt und andere Inhalte einbettet.
+In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen, wie man Links erstellt und andere Inhalte einbettet.
 
 ![Screenshot](images/showcase-intro.png)
 
 ### Zusätzliche Informationen für Clubleiter
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Falls du dieses Projekt ausdrucken möchtest, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
@@ -14,7 +14,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt werden Kinder an Hyperlinks und das Einbetten von Trinkets und Scratch-Projekten in einer Webseite herangeführt.
+In diesem Projekt werden Kinder an Hyperlinks sowie das Einbetten von Trinkets und Scratch-Projekten in einer Webseite herangeführt.
 
 ## Online-Ressourcen
 
