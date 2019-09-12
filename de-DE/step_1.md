@@ -48,23 +48,23 @@ Bedenken Sie, dass Kinder ihre eigene Projekte, die sie offline erstellt haben, 
 
 ## Lernziele
 
-* Dieses Projekt führt Textverweise zu anderen Webseiten und zu benannten Elementen der gleichen Seite ein. Es führt ebenfalls an die Einbettung von Trinkets und Scratch Projekten in eine Webseite heran. 
+* Einführungen in das Thema Textverweise zu anderen Webseiten und zu benannten Elementen der gleichen Seite. Einführung zur Einbettung von Trinkets und Scratch Projekten in eine Webseite. 
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
+* [Entwurf von grundlegenden 2D- and 3D-Objekten](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Herausforderungen
 
 * "Füge einen weiteren Link hinzu" - Links zu weiteren Webseiten hinzufügen;
-* "Erstelle eine Liste deiner Projekte" - Erstelle Links zu vorigen Webseiten;
+* "Erstelle eine Liste deiner Projekte" - Erstelle Links zu vorigen Webprojekten;
 * "Bette weitere Projekte ein" - Erstelle neue Styles mittels CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projektmaterial
+## title: Projektmaterialien
 
 ## Projektressourcen
 
