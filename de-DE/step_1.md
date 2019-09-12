@@ -20,11 +20,11 @@ In diesem Projekt werden Kinder an Hyperlinks sowie das Einbetten von Trinkets u
 
 Wir empfehlen [Trinket](https://trinket.io/) als Online-Editor für HTML & CSS. Dieses Projekt enthält das folgende Trinket:
 
-* ['Startpunkt Projektübersicht' -- trinket.io/html/2d1c14edda](http://jumpto.cc/web-showcase)
+* [Startpunkt 'Projektübersicht' -- trinket.io/html/2d1c14edda](http://jumpto.cc/web-showcase)
 
-Die Kinder können auch [dieses leere Trinket](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können [dieses Trinket als Vorlage verwenden](http://jumpto.cc/html-template).
+Die Kinder können auch [dieses leere Trinket](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können [dieses Trinket](http://jumpto.cc/html-template) als Vorlage verwenden.
 
-Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
+Es gibt auch ein Trinket mit einer Musterlösung für die Aufgaben:
 
 * ['Fertige Projektübersicht' -- trinket.io/html/7fccd09543](https://trinket.io/html/5b815ab120)
 
