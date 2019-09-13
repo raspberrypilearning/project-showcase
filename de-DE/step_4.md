@@ -1,6 +1,6 @@
 ## Link zu einem Trinket
 
-Du kannst die Webseite für ein Trinket verlinken.
+Du kannst die Webseite zu einem Trinket verlinken.
 
 + Hast du noch den Link zu deinem "Happy Birthday" Trinket? Wenn ja, dann öffne dieses Trinket in einem neuen Browser-Tab oder Fenster. Wenn nicht, dann öffne dieses Beispiel-Trinket: <https://trinket.io/html/e996dc0380>
 
@@ -16,7 +16,7 @@ Falls du ein Trinket von deinem Benutzerkonto geöffnet hast, dann verwende stat
 
 ![Screenshot](images/showcase-get-link.png)
 
-+ Gehe zurück zu deinem Projektübersicht Trinket und füge eine `<h2>` Überschrift mit einem Link zu deinem "Happy Birthday" Projekt hinzu.
++ Gehe zurück zu deinem Projektübersicht-Trinket und füge eine `<h2>` Überschrift mit einem Link zu deinem "Happy Birthday" Projekt hinzu.
 
 ![Screenshot](images/showcase-link-trinket.png)
 
@@ -24,4 +24,4 @@ Teste deine Webseite; sie sollte in etwa so aussehen:
 
 ![Screenshot](images/showcase-link-output.png)
 
-Klicke auf den "Happy Birthday" Link um zu testen dass dieser dich zu deinem Trinket führt.
+Klicke auf den "Happy Birthday" Link, um zu testen, dass dieser dich zu deinem Trinket führt.
