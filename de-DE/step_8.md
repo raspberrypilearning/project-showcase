@@ -1,6 +1,6 @@
 ## Erstelle ein Inhaltsverzeichnis
 
-Lass uns ein Inhaltsverzeichnis erstellen um ganz einfach zu jedem Projekt zu gelangen.
+Lass uns ein Inhaltsverzeichnis erstellen, um ganz einfach zu jedem Projekt zu gelangen.
 
 + Neben Links zu anderen Webseiten können wir auch bestimmte Abschnitten innerhalb einer Webseite verlinken indem wir ihnen eine eindeutige Kennung zuweisen, auch "id" genannt. 
 
