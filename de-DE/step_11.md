@@ -16,7 +16,7 @@ Wenn du nicht eingeloggt bist, suche nach der Scratch-Projektnummer in der Inter
 
 ![Screenshot](images/scratch-project-number.png)
 
-Kopiere den `<iframe>` Text auf der "Scratch Embed" Beispielseite und ersetze die Projektnummer mit derjenigen des Projekts das du einbinden möchtest:
+Kopiere den `<iframe>` Text auf der "Scratch Embed" Beispielseite und ersetze die Projektnummer mit derjenigen des Projekts, das du einbinden möchtest:
 
 ![Screenshot](images/scratch-iframe.png)
 
