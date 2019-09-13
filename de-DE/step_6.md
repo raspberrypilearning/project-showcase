@@ -18,20 +18,20 @@ Drücke Esc-Taste, um den Vollbildmodus zu verlassen.
 
 ![Screenshot](images/showcase-embed.png)
 
-+ Das Trinket hat den HTML-Text für dich erzeugt, den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag mit dem du andere Inhalte in deine Seite einbetten kannst.
++ Das Trinket hat den HTML-Text für dich erzeugt, den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag, mit dem du andere Inhalte in deine Seite einbetten kannst.
 
-+ Füge diese Code unter dem Link zu deinem "Happy Birthday" Trinket ein:
++ Füge diesen Code unter dem Link zu deinem "Happy Birthday" Trinket ein:
 
 ![Screenshot](images/showcase-paste-embed.png)
 
-+ Starte dein Trinket um es zu testend. Du solltest dein "Happy Birthday" Projekt in deine Webseite eingebettet sehen. 
++ Starte dein Trinket, um es zu testen. Jetzt solltest du dein "Happy Birthday" Projekt in deine Webseite eingebettet sehen. 
 
 ![Screenshot](images/showcase-embed-output.png)
 
-+ Der untere Teil deines Trinkets wird möglicherweise nicht angezeigt. Das kannst du beheben indem du den Wert der Eigenschaft 'height' des `<iframe>`-Tags änderst. 
++ Der untere Teil deines Trinkets wird möglicherweise nicht angezeigt. Das kannst du beheben, indem du die Höhe 'height' des `<iframe>`-Tags änderst. 
 
 ![Screenshot](images/showcase-embed-height.png)
 
-Setze 'height' auf **400**. Falls du Änderungen an deinem "Happy Birthday" Projekt vorgenommen hast musst du eventuell einen anderen Wert wählen.
+Setze 'height' auf **400**. Falls du Änderungen an deinem "Happy Birthday" Projekt vorgenommen hast, musst du eventuell einen anderen Wert wählen.
 
 ![Screenshot](images/showcase-embed-fixed.png)
