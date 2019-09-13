@@ -1,16 +1,16 @@
 ## Einbettung von Projekten
 
-Anstatt Trinkets als Webseiten zu verlinken kannst du sie auch in deine Webseite einbetten.
+Anstatt Trinkets als Webseiten zu verlinken, kannst du sie auch in deine Webseite einbetten.
 
-+ Wechsle in den Vollbildmodus damit du mehr Platz hast:
++ Du kannst auch in den Vollbildmodus wechseln, damit du mehr Platz hast:
 
 ![Screenshot](images/showcase-fullscreen.png)
 
-Drücke Esc um den Vollbildmodus zu verlassen.
+Drücke Esc-Taste, um den Vollbildmodus zu verlassen.
 
 + Starte dein Trinket und klicke auf den "Happy Birthday" Link.
 
-+ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist musst du eventuell scrollen. Benutze den Scrollbalken am rechten rand or die Nach Unten Taste auf deiner Tastatur.
++ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist, musst du eventuell scrollen. Benutze den Scrollbalken am rechten Rand oder die Nach-Unten-Taste auf deiner Tastatur.
 
 ![screenshot](images/showcase-embed-code.png)
 
@@ -18,7 +18,7 @@ Drücke Esc um den Vollbildmodus zu verlassen.
 
 ![Screenshot](images/showcase-embed.png)
 
-+ Trinket hat HTML-Text für dich erzeugt den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag mit dem du andere Inhalte in deine Seite einbetten kannst.
++ Das Trinket hat den HTML-Text für dich erzeugt, den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag mit dem du andere Inhalte in deine Seite einbetten kannst.
 
 + Füge diese Code unter dem Link zu deinem "Happy Birthday" Trinket ein:
 
