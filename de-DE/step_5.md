@@ -2,9 +2,9 @@
 
 ## Aufgabe: Erstelle eine Liste deiner Projekte
 
-Füge einige deiner anderen HTML & CSS Projekte hinzu, die du bei Code Club erstellt hast. Benutze `<h2>`-Überschriften um deine Webseite zu gliedern.
+Füge einige deiner anderen HTML & CSS Projekte hinzu, die du bei Code Club erstellt hast. Benutze `<h2>`-Überschriften, um deine Webseite zu gliedern.
 
-Falls du keine Links hast zu Projekten die du selbst erstellt hast kannst du die folgenden Code Club Beispielprojekte verwenden:
+Falls du keine Links zu Projekten hast, die du selbst erstellt hast, kannst du die folgenden Code Club Beispielprojekte verwenden:
 
 + Alles Gute zum Geburtstag: <https://trinket.io/html/e996dc0380>
 
