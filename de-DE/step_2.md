@@ -1,6 +1,6 @@
 ## Links zu Webseiten hinzufügen
 
-Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken um zu einer anderen Webseite zu gelangen; sie sind normalerweise unterstrichen.
+Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken, um zu einer anderen Webseite zu gelangen; sie sind normalerweise unterstrichen.
 
 + Öffne dieses Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
