@@ -8,11 +8,11 @@ Falls du keine Links zu Projekten hast, die du selbst erstellt hast, kannst du d
 
 + Alles Gute zum Geburtstag: <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Geschichte erzählen: <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Fahndung: <https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Rezept: <https://trinket.io/html/c0fd9b40cd>
 
 + Geheimnisvoller Brief: <https://trinket.io/html/1d4d4c5ce1>
 
