@@ -20,4 +20,4 @@ Kopiere den `<iframe>` Text auf der "Scratch Embed" Beispielseite und ersetze di
 
 ![Screenshot](images/scratch-iframe.png)
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
+\--- /challenge \---
