@@ -1,25 +1,32 @@
 --- challenge ---
-## Aufgabe: Ein neues Vorzeigeprojekt erstellen
 
-Trinkets sind nicht das Einzige, was du in einer Webseite einbetten kannst. Du kannst Videos, Widgets (wie z. B. ein Wetter-Widget) oder Scratch Projekte einbetten. 
+## Aufgabe: Erstelle eine neue Projektübersicht
 
-Öffne“eingebettetes Scratch-Beispiel Trinket öffnen” und lass es laufen: <a href="https://trinket.io/html/9f7212b8fe">https://trinket.io/html/9f7212b8fe</a>
+Trinkets sind nicht das Einzige, das du in eine Webseite einbinden kannst. Du kannst auch Videos, sogenannte "Widgets" (z. B. ein Wetter-Widget) oder Scratch-Projekte einbinden.
 
-Gehe zur Scratch Webseite und suche nach einem Projekt, das dir gefällt. Es kann eins von deinen sein oder eins, das du entdeckt hast.
+Öffne das "Embed Scratch Example" Trinket und starte es: <https://trinket.io/html/9f7212b8fe>
 
-Wenn du angemeldet bist, kannst du auf die 'Embed' (einbetten) Taste unter dem Projekt klicken, um den HTML Einbettungscode zu erhalten. 
+Besuche die Scratch Webseite und finde ein Projekt, das dir gefällt. Das kann sowohl eines deiner eigenen sein oder eines das du gefunden hast.
 
-![screenshot](images/scratch-embed.png)
+Wenn du eingeloggt bist, kannst du auf den "Embed" Knopf unterhalb des Projektes klicken, um den HTML-Text zum Einbinden zu erhalten.
 
-Falls du nicht angemeldet bist, suche nach der Scratch Projektzahl in dessen Webadresse. 
+![Screenshot](images/scratch-embed.png)
 
-![screenshot](images/scratch-project-number.png)
+Wenn du nicht eingeloggt bist, suche nach der Scratch-Projektnummer in der Internetadresse der Webseite.
 
-Fertige eine Kopie des `<iframe>` Codes im Scratch Einbettungsbeispiel an und tausche die Projektzahl gegen eine Zahl für das Projekt, das du einbetten willst, aus:
+![Screenshot](images/scratch-project-number.png)
 
-![screenshot](images/scratch-iframe.png)
+Kopiere den `<iframe>` Text auf der "Scratch Embed" Beispielseite und ersetze die Projektnummer mit derjenigen des Projekts, das du einbinden möchtest:
 
-
+![Screenshot](images/scratch-iframe.png)
 
 
 --- /challenge ---
+
+
+
+**Von der Community übersetzt**
+
+Dieses Projekt wurde von **Florian Rathgeber** übersetzt und von **Jegor kern** überprüft.
+
+Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translate](https://rpf.io/translate).

@@ -1,47 +1,89 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du ein Vorzeigeprojekt deiner HTML-Projekte erstellen und etwas über Links sowie die Einbettung von Ressourcen lernen. 
+In diesem Projekt wirst du eine Übersicht deiner HTML-Projekte erstellen und lernen, wie man Links erstellt und andere Inhalte einbettet.
 
-![screenshot](images/showcase-intro.png)
+![Screenshot](images/showcase-intro.png)
 
-## Online Ressourcen
+### Zusätzliche Informationen für Clubleiter
 
-Wir empfehlen [trinket](https://trinket.io/) zu nutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält das folgende Trinket:
+Falls du dieses Projekt ausdrucken möchtest, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/project-showcase/print).
 
-+ ['Project Showcase' starting point  -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+--- collapse ---
+---
+title: Anmerkungen für Clubleiter
+---
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML- und CSS-Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+## Einleitung:
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+In diesem Projekt werden Kinder an Hyperlinks sowie das Einbetten von Trinkets und Scratch-Projekten in einer Webseite herangeführt.
 
-+ ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+## Online-Ressourcen
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), falls bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Wir empfehlen [Trinket](https://trinket.io/) als Online-Editor für HTML & CSS. Dieses Projekt enthält das folgende Trinket:
 
-+ project-showcase/index.html
-+ project-showcase/style.css
-+ template/template.html
-+ template/style.css
+* [Startpunkt 'Projektübersicht' -- trinket.io/html/4fc04b63c5](https://trinket.io/html/4fc04b63c5)
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+Die Kinder können auch [dieses leere Trinket](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können [dieses Trinket](http://jumpto.cc/html-template) als Vorlage verwenden.
 
-+ project-showcse-finished/index.html
-+ project-showcse-finished/style.css
+Es gibt auch ein Trinket mit einer Musterlösung für die Aufgaben:
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+* ['Fertige Projektübersicht' -- trinket.io/html/3fe155ab99](https://trinket.io/html/3fe155ab99)
 
-Beachten Sie bitte, dass, falls die Kinder ihre anderen Projekte offline fertig gestellt haben sollten, sie dann nicht in der Lage sein werden, diese einzubetten, sie können aber immer noch eine Verbindung zu ihnen herstellen. 
+## Offline-Ressourcen
+
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterialien" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen Sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+
+* project-showcase/index.html
+* project-showcase/style.css
+* template/template.html
+* template/style.css
+
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
+
+* project-showcse-finished/index.html
+* project-showcse-finished/style.css
+
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
+
+Bedenken Sie, dass Kinder ihre eigene Projekte, die sie offline erstellt haben, nicht einbetten aber dennoch verlinken können.
 
 ## Lernziele
-+ Dieses Projekt führt die Text-Links zu anderen Webseiten sowie zu spezifischen IDs innerhalb einer Webseite ein. Es führt auch die Einbettung von Trinkets und Scratch Projekten in einer Webseite ein.  
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+* Einführungen in das Thema Textverweise zu anderen Webseiten und zu benannten Elementen der gleichen Seite. Einführung zur Einbettung von Trinkets und Scratch Projekten in eine Webseite. 
 
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-## Aufgaben
-+ „Füge einen weiteren Link hinzu“: Füge Links zu weiteren Webseiten hinzu;
-+ „Erstelle eine Liste deiner Projekte“: Stelle Links zu vorherigen Web-Projekten her;
-+ „Einbettung weiterer Projekte“: Benutze CSS, um neue Stile herzustellen.
+* [Entwurf von grundlegenden 2D- and 3D-Objekten](https://www.raspberrypi.org/curriculum/design/creator).
 
+## Herausforderungen
+
+* "Füge einen weiteren Link hinzu" - Links zu weiteren Webseiten hinzufügen;
+* "Erstelle eine Liste deiner Projekte" - Erstelle Links zu vorigen Webprojekten;
+* "Bette weitere Projekte ein" - Erstelle neue Styles mittels CSS.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterialien
+---
+
+## Projektressourcen
+
+* [.zip-Datei mit allen Projektressourcen](resources/showcase-project-resources.zip)
+* [Online Trinket mit allen Projektressourcen für 'Projektübersicht'](https://trinket.io/html/4fc04b63c5)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [project-showcase/index.html](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
+
+## Ressourcen für Clubleiter
+
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/showcase-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/3fe155ab99)
+* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
+
+--- /collapse ---

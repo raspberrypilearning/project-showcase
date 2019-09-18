@@ -1,44 +1,43 @@
 ## Links zu Webseiten hinzufügen
 
-Text-Links ermöglichen dir auf Worte zu klicken, um zu einer anderen Webseite zu gelangen, diese sind normalerweise unterstrichen.
+Mit Hilfe von Textverweisen kannst du auf bestimmte Worte klicken, um zu einer anderen Webseite zu gelangen; sie sind normalerweise unterstrichen.
 
-+ Dieses Trinket öffnen: <a href="https://jumpto.cc/web-showcase">jumpto.cc/web-showcase</a>. 
++ Öffne dieses Trinket: [https://trinket.io/html/4fc04b63c5](https://trinket.io/html/4fc04b63c5).
+    
+    Das Projekt sollte so aussehen:
+    
+    ![Screenshot](images/showcase-starter.png)
 
-	Das Projekt sollte so aussehen:
++ In HTML erstellst du Links mit einem sogenannten "Tag", dem Tag `<a>`.
 
-	![screenshot](images/showcase-starter.png)
+![Screenshot](images/showcase-link.png)
 
-+ HTML benutzt das `<a>` Tag für die Links. 
-
-![screenshot](images/showcase-link.png)
-
-+ Finde das `<a>` Tag in deinem Projekt. 
++ Finde den Tag `<a>` in deinem Projekt. 
 
 ![screenshot](images/showcase-a-template.png)
 
-
-+ Füge die Code Club Webseitenadresse hinzu <a href="https://www.codeclub.org.uk">`https://www.codeclub.org.uk`</a> sowie den Link Text:
++ Füge die Adresse der Code Club Webseite [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) und den Link-Text hinzu:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Klicke auf „Run“ (laufen lassen), um dein Trinket zu testen.
++ Klicke auf "Run", um dein Trinket zu testen.
 
-![screenshot](images/showcase-cc-output.png)
+![Screenshot](images/showcase-cc-output.png)
 
-+ Klicke auf den Code Club Link, um deine Webseite zu testen. Dein Trinket wird jetzt die Code Club Webseite anzeigen: 	
++ Klicke auf den Code Club Link, um deine Webseite zu testen. Dein Trinket sollte nun die Webseite des Code Clubs anzeigen: 
 
-![screenshot](images/showcase-cc-website.png)
+![Screenshot](images/showcase-cc-website.png)
 
-+ Um zurück zu deiner Seite zu gelangen, kannst du entweder: 
++ Um zu deiner Seite zurück zu gelangen, kannst du entweder:
+    
+    + Dein Trinket erneut starten,
+    
+    + Die Rücktaste auf deiner Tastatur drücken, oder
+    
+    + Die rechte Maustaste klicken und "Zurück" wählen.
 
-	+ dein Trinket erneut laufen lassen,
++ Füge nun deinen Link in einen Satz innerhalb eines Absatzes ein:
 
-	+ auf die Rückwärts-Taste auf der Tastatur drücken oder
+![Screenshot](images/showcase-paragraph.png)
 
-	+ auf die rechte Maustaste klicken und „Zurück“ wählen. 
-
-+ Stelle deinen Link jetzt in einen Satz innerhalb eines Absatzes:
-
-![screenshot](images/showcase-paragraph.png)
-
-Teste deine Webseite. 
+Teste deine Webseite.
