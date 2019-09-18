@@ -1,40 +1,37 @@
 ## Einbettung von Projekten
 
-Zusätzlich zum Link zu Trinkets als Webseiten können wir diese auch in einer Webseite einbetten.
+Anstatt Trinkets als Webseiten zu verlinken, kannst du sie auch in deine Webseite einbetten.
 
-+ Du solltest vielleicht versuchen, im Vollbildanzeigemodus zu arbeiten, damit du mehr Platz hast:
++ Du kannst auch in den Vollbildmodus wechseln, damit du mehr Platz hast:
 
-![screenshot](images/showcase-fullscreen.png)
+![Screenshot](images/showcase-fullscreen.png)
 
-Drücke auf die Esc-Taste, um aus dem Vollbildmodus herauszukommen.
+Drücke Esc-Taste, um den Vollbildmodus zu verlassen.
 
-+ Lasse dein Trinket laufen und klicke auf den „Happy Birthday“ Link. 
++ Starte dein Trinket und klicke auf den "Happy Birthday" Link.
 
-+ Klicke auf das Trinket-Menü und wähle __einbetten__. Wenn du nicht im Vollbildmodus bist, musst du eventuell hoch oder runter scrollen. Benutze die Bildlaufleiste rechts oder den Pfeil nach unten auf deiner Tastatur.
++ Öffne das Trinket Menü und wähle **embed**. Falls du nicht im Vollbildmodus bist, musst du eventuell scrollen. Benutze den Scrollbalken am rechten Rand oder die Nach-Unten-Taste auf deiner Tastatur.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Wähle 'Only show code or result (let users toggle between them)' (Nur Code oder Ergebnis zeigen (Nutzer zwischen diesen beiden umschalten lassen) und __kopiere__ den eingebetteten Code für das Trinket. 
++ Wähle 'Only show code or result (let users toggle between them)' und **kopiere** den Einbettungstext für dein Trinket. 
 
-![screenshot](images/showcase-embed.png)
+![Screenshot](images/showcase-embed.png)
 
-+ Trinket hat ein wenig HTML-Code für dich erstellt, den du in deine Webseite mit einbeziehen kannst. Es benutzt ein `<iframe>` Tag, welches ermöglicht, dass der Inhalt auf einer Seite eingebettet werden kann. 
++ Das Trinket hat den HTML-Text für dich erzeugt, den du in deine Webseite einfügen kannst. Dieser Code verwendet einen `<iframe>`-Tag, mit dem du andere Inhalte in deine Seite einbetten kannst.
 
-+ Füge jetzt diesen Code unter  dem Link zum „Happy Birthday“ Trinket ein:
++ Füge diesen Code unter dem Link zu deinem "Happy Birthday" Trinket ein:
 
-![screenshot](images/showcase-paste-embed.png)
+![Screenshot](images/showcase-paste-embed.png)
 
-+ Lasse dein Trinket laufen, um es zu testen und du solltest jetzt dein „Happy Birthday“ Projekt in der Webseite eingebettet sehen können. 
++ Starte dein Trinket, um es zu testen. Jetzt solltest du dein "Happy Birthday" Projekt in deine Webseite eingebettet sehen. 
 
-![screenshot](images/showcase-embed-output.png)
+![Screenshot](images/showcase-embed-output.png)
 
-+ Du wirst eventuell sehen, dass die Unterseite deines Trinkets nicht angezeigt wird. Du kannst dies beheben, indem du den Höhenwert im `<iframe>` einstellst. 
++ Der untere Teil deines Trinkets wird möglicherweise nicht angezeigt. Das kannst du beheben, indem du die Höhe 'height' des `<iframe>`-Tags änderst. 
 
-![screenshot](images/showcase-embed-height.png)
+![Screenshot](images/showcase-embed-height.png)
 
-Stelle die Höhe zu __400__ ein. Falls du Änderungen am „Happy Birthday“ Projekt vorgenommen hast, müsstest du eventuell einen anderen Wert benutzen. 
+Setze 'height' auf **400**. Falls du Änderungen an deinem "Happy Birthday" Projekt vorgenommen hast, musst du eventuell einen anderen Wert wählen.
 
-![screenshot](images/showcase-embed-fixed.png)
-
-
-
+![Screenshot](images/showcase-embed-fixed.png)

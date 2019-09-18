@@ -1,25 +1,23 @@
 --- challenge ---
-## Aufgabe: Erstelle eine Liste deiner Projekte 
 
-Füge manche der anderen HTML &amp; CSS Projekte hinzu, die du im Code Club erstellt hast. Benutze die `<h2>` Titel, um deine Webseite zu organisieren. 
+## Aufgabe: Erstelle eine Liste deiner Projekte
 
-Falls du keine Links zu deinen Projekte haben solltest, dann kannst du die Code Club Beispiele benutzen:
+Füge einige deiner anderen HTML & CSS Projekte hinzu, die du bei Code Club erstellt hast. Benutze `<h2>`-Überschriften, um deine Webseite zu gliedern.
 
-+ Happy Birthday: <a href="https://trinket.io/html/e996dc0380">https://trinket.io/html/e996dc0380</a>
+Falls du keine Links zu Projekten hast, die du selbst erstellt hast, kannst du die folgenden Code Club Beispielprojekte verwenden:
 
-+ Eine Geschichte erzählen: <a href="https://trinket.io/html/c8afdef912">https://trinket.io/html/c8afdef912</a>
++ Alles Gute zum Geburtstag: <https://trinket.io/html/e996dc0380>
 
-+ Gesucht!: <a href="https://trinket.io/html/ebeb56398a">https://trinket.io/html/ebeb56398a</a>
++ Geschichte erzählen: <https://trinket.io/html/c8afdef912>
 
-+ Rezept: <a href="https://trinket.io/html/c0fd9b40cd">https://trinket.io/html/c0fd9b40cd</a>
++ Fahndung: <https://trinket.io/html/ebeb56398a>
 
-+ Geheimnisvoller Brief: <a href="https://trinket.io/html/1d4d4c5ce1">https://trinket.io/html/1d4d4c5ce1</a>
++ Rezept: <https://trinket.io/html/c0fd9b40cd>
 
-Deine fertige Seite sollte dann etwa so aussehen:
++ Geheimnisvoller Brief: <https://trinket.io/html/1d4d4c5ce1>
 
-![screenshot](images/showcase-h2-projects.png)
+Deine fertige Seite sollte in etwa so aussehen:
 
-
-
+![Screenshot](images/showcase-h2-projects.png)
 
 --- /challenge ---

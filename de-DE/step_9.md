@@ -1,14 +1,11 @@
 ## Zurück nach oben gelangen
 
-+ Es ist auch hilfreich, in der Lage zu sein, wieder zurück nach oben auf einer Seite zu gelangen. HTML hat ein `#top` (oben) für diesen Zweck. 
++ Es ist zudem nützlich zum Anfang der Seite zurückgelangen zu können. HTML hat `#top` für diesen Zweck.
 
-+ Füge einen Link zu `#top` (oben) nach jedem eingebetteten Projekt in deiner Webseite hinzu:
++ Füge einen Link zu `#top` nach jedem eingebundenen Projekt auf deiner Webseite hinzu:
 
-![screenshot](images/showcase-top-code.png)
+![Screenshot](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![Screenshot](images/showcase-top-output.png)
 
-+ Teste deine Links, indem du auf „Oben“ klickst, um zurück nach oben auf der Seite zu gelangen. 
-
-
-
++ Teste deine Links, indem du auf "Nach Oben" klickst, um zurück zum Anfang der Seite zu gelangen.

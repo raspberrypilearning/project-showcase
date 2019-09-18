@@ -1,24 +1,21 @@
 ## Erstelle ein Inhaltsverzeichnis
 
-Lass uns ein Inhaltsverzeichnis hinzufügen, damit wir schnell und einfach zu jedem Projekt gelangen können. 
+Lass uns ein Inhaltsverzeichnis erstellen, um ganz einfach zu jedem Projekt zu gelangen.
 
-+ Zusätzlich zum Link zu anderen Webseiten können wir zu einem bestimmten Teil einer Webseite gelangen, wenn wir ihm eine ID geben. 
++ Neben Links zu anderen Webseiten, können wir auch bestimmte Abschnitte der Webseite verlinken, indem wir ihnen eine eindeutige Kennung zuweisen, auch "id" genannt. 
 
-Füge eine ID zum `<h2>` Titel des „Happy Birthday“ Projekts hinzu:
+Füge der `<h2>`-Überschrift für das "Happy Birthday" Projekt eine id hinzu:
 
 ![screenshot](images/showcase-id.png)
 
-+ Füge eine je eine ID für jedes einzelne Projekt hinzu und gib jeder davon einen Kurznamen, wie z. B. Geschichte, Gesucht, Rezept und Brief. 
++ Füge jedem deiner Projekte eine id hinzu und gebe ihnen die Kurznamen "story", "wanted", "recipe" und "letter".
 
-+ Du kannst mit Hilfe einer ID einen Link zu einem Element herstellen, indem du das Rautensymbol â€˜#â€™ vor dessen Namen stellst. Z. B. , `#birthday`. 
++ Du kannst ein Element mit einer id verlinken, indem du dem Namen ein Rautezeichen '#' voranstellst. Zum Beispiel `#birthday`.
 
-Erstelle eine geordnete Liste an Links für deine Projekte. (Die geordneten Listen sind im „Rezept“ Projekt eingeführt worden.)
+Erstelle eine nummerierte Liste mit Links zu deinen Projekten. (Nummerierte Listen werden im Projekt "Recipe" erklärt.)
 
-![screenshot](images/showcase-list.png)
+![Screenshot](images/showcase-list.png)
 
-+ Lass dein Projekt laufen und teste es, indem du auf die Links klickst, um zu deinen Projekten zu gelangen. 
++ Starte dein Projekt und teste es durch den Klick auf den Link, um zu deinen Projekten zu gelangen. 
 
-![screenshot](images/showcase-list-output.png)
-
-
-
+![Screenshot](images/showcase-list-output.png)

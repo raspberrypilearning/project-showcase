@@ -1,7 +1,9 @@
 --- challenge ---
-## Aufgabe: Verbessere dein Vorzeigeprojekt
-Benutze den CSS-Code, den du gelernt hast, um deine Seite noch interessanter zu gestalten. Probiere mal, die Hintergrundfarbe der Seite oder die Schriftart für die Überschriften zu ändern. 
 
-Du kannst auch zusätzliche Informationen über jedes Projekt hinzufügen und sagen, was dir daran besonders gut gefallen hat. 
+## Aufgabe: Verbessere deine Projektübersicht
+
+Nutze deine CSS-Kenntnisse, um deine Seite interessanter zu gestalten. Versuche die Hintergrundfarbe der Webseite oder die Schriftart der Überschriften zu ändern.
+
+Du kannst auch weitere Informationen über jedes Projekt ergänzen oder was dir beim Erstellen am besten gefallen hat.
 
 --- /challenge ---
