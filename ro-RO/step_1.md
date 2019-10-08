@@ -1,12 +1,12 @@
-## Introduction
+## Introducere
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+În acest proiect, vei crea o prezentare a proiectelor tale HTML și vei învăța despre link-uri și încorporarea resurselor.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Informații suplimentare pentru liderii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pentru imprimare](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
