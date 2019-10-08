@@ -10,15 +10,15 @@ Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pe
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul de club
 
-## Introduction:
+## Introducere:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+În acest proiect, copiii vor învăța despre hyperlink-uri și încorporarea trinket-urilor și a proiectelor Scratch într-o pagină web.
 
-## Online Resources
+## Resurse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Îți recomandăm să folosești [trinket](https://trinket.io/) pentru a scrie HTML și CSS online. Acest proiect conține următorul trinket:
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
