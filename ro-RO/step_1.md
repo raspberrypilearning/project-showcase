@@ -56,9 +56,9 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Provocări
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* „Adaugă încă un link” - Adaugă link-uri către mai multe pagini web;
+* „Creează o listă a proiectelor tale” - Creează link-uri către proiectele tale web anterioare;
+* „Încorporează mai multe proiecte” - Folosește CSS pentru a crea stiluri noi.
 
 \--- /collapse \---
 
