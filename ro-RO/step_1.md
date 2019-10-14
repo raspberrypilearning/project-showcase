@@ -2,7 +2,7 @@
 
 În acest proiect, vei crea o prezentare a proiectelor tale HTML și vei învăța despre link-uri și încorporarea resurselor.
 
-![screenshot](images/showcase-intro.png)
+![captură de ecran](images/showcase-intro.png)
 
 ### Informații suplimentare pentru liderii de club
 
@@ -48,13 +48,13 @@ Este bine de știut că în cazul în care copiii și-au completat celelalte pro
 
 ## Obiective de învățare
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Acest proiect prezintă noțiuni legate de link-uri text către alte pagini web și id-uri denumite dintr-o pagină. De asemenea, prezintă și noțiuni legate de încorporarea trinket-urilor și proiectelor Scratch într-o pagină web. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Provocări
 
 * “Add another link” - Add links to more webpages;
 * “Create a List of Your Projects” - Create links to previous web projects;
@@ -64,23 +64,23 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Project resources
+## Resursele proiectului
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [fișier .zip care conține toate resursele proiectului](resources/showcase-project-resources.zip)
+* [Trinket online care conține toate resursele proiectului „Proiectele mele”](http://jumpto.cc/web-showcase)
+* [Șablon Trinket online](http://jumpto.cc/trinket-template)
+* [Trinket online gol](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Resursele liderului de club
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [fișier .zip care conține toate resursele proiectului, completate](resources/showcase-volunteer-resources.zip)
+* [Proiect Trinket online, completat](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
