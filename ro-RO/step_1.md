@@ -20,33 +20,33 @@ Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pe
 
 Îți recomandăm să folosești [trinket](https://trinket.io/) pentru a scrie HTML și CSS online. Acest proiect conține următorul trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punct de plecare "Proiectele mele" -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["Proiectele mele terminat" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) dacă dorești. Poți accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului”, care include resurse de care copiii vor avea nevoie pentru a completa acest proiect offline. Asigură-te că fiecare copil are acces la câte o copie din aceste resurse. Secțiunea include următoarele fișiere:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune completă a provocărilor din acest proiect în secțiunea „Resursele voluntarilor”, care conține:
 
-* project-showcse-finished/index.html
-* project-showcse-finished/style.css
+* project-showcase-finished/index.html
+* project-showcase-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca și fișiere `.zip` pentru proiecte și voluntari.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Este bine de știut că în cazul în care copiii și-au completat celelalte proiecte offline, ei nu le vor putea încorpora însă vor putea crea link-uri către ele.
 
-## Learning Objectives
+## Obiective de învățare
 
 * This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
