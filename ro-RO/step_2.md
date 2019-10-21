@@ -6,38 +6,38 @@ Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină
     
     Proiectul ar trebui să arate așa:
     
-    ![screenshot](images/showcase-starter.png)
+    ![captură de ecran](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML folosește tag-ul `<a>` pentru link-uri.
 
-![screenshot](images/showcase-link.png)
+![captură de ecran](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Găsește tag-ul `<a>` în proiectul tău. 
 
-![screenshot](images/showcase-a-template.png)
+![captură de ecran](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Adaugă adresa site-ului web Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) și textul link-ului:
 
-![screenshot](images/showcase-code-club.png)
+![captură de ecran](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Apasă pe Run pentru a testa trinket-ul.
 
-![screenshot](images/showcase-cc-output.png)
+![captură de ecran](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Apasă pe link-ul Code Club pentru a testa pagina ta web. Trinket-ul tău va arăta acum pagina web Code Club: 
 
-![screenshot](images/showcase-cc-website.png)
+![captură de ecran](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Pentru a te întoarce la pagina ta, poți să:
     
-    + Run your trinket again,
+    + Rulezi trinket-ul din nou,
     
-    + Tap the Backspace key on the keyboard, or
+    + Apeși tasta Backspace pe tastatură sau să
     
-    + Right-click and choose Back.
+    + Dai click-dreapta și să selectezi Înapoi.
 
-+ Now put your link into a sentence inside a paragraph:
++ Acum pune link-ul tău într-o propoziție înăuntrul unui paragraf:
 
-![screenshot](images/showcase-paragraph.png)
+![captură de ecran](images/showcase-paragraph.png)
 
-Test your webpage.
+Testează-ți pagina web.
