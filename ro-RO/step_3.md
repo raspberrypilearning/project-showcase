@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Provocare: Adaugă încă un link
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Adaugă o propoziție cu un link către un site web care ți-a fost de ajutor în crearea proiectelor web. De exemplu: <https://trinket.io> sau <https://trinket.io/docs/colors>.
 
-![screenshot](images/showcase-link-challenge.png)
+![captură de ecran](images/showcase-link-challenge.png)
 
 \--- /challenge \---
