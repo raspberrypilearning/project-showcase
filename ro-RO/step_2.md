@@ -1,10 +1,10 @@
-## Adding Links to Webpages
+## Adăugarea link-urilor către pagini web
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină web; de cele mai multe ori sunt subliniate.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Deschide acest trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    Proiectul ar trebui să arate așa:
     
     ![screenshot](images/showcase-starter.png)
 
