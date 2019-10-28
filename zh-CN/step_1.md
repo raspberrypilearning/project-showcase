@@ -1,60 +1,60 @@
-## Introduction
+## 简介
 
 In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
 
-![screenshot](images/showcase-intro.png)
+![截图](images/showcase-intro.png)
 
-### Additional information for club leaders
+### 俱乐部导师的附加信息
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/project-showcase/print) 。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 俱乐部导师说明
 
-## Introduction:
+## 介绍：
 
 In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
 
-## Online Resources
+## 在线资源
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+孩子们也可以用这个空白 trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) 来编写自己的 HTML & CSS，或者他们可以用 trinket 模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
 
-There is also a trinket containing a sample solution to the challenges:
+以下的trinket代码包含编写挑战的示范解决方案：
 
 * ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## 离线资源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+如果愿意的话，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)。 你可以点击本项目的“项目资料”链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+你也可以在 “志愿者资源'”部分找到该项目挑战的完整版本，里面包含：
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(上述所有资源均可下载为项目和志愿者`.zip`文件。)
 
 Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
 
-## Learning Objectives
+## 学习目标
 
 * This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator) 。
 
-## Challenges
+## 挑战
 
 * “Add another link” - Add links to more webpages;
 * “Create a List of Your Projects” - Create links to previous web projects;
@@ -64,23 +64,23 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 项目资源
 
-## Project resources
+## 项目资源
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
+* [包含所有项目资源的.zip文件](resources/showcase-project-resources.zip)
 * [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [在线 Trinket 模板](http://jumpto.cc/trinket-template)
+* [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## 俱乐部导师资源
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [包含所有完成项目资源的.zip文件](resources/showcase-volunteer-resources.zip)
+* [在线已完成的Trinket项目](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
