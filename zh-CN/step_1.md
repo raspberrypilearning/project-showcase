@@ -1,6 +1,6 @@
 ## 简介
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+你将在这个项目中创建一个你的HTML的展示页面，并学习链接和嵌入资源。
 
 ![截图](images/showcase-intro.png)
 
