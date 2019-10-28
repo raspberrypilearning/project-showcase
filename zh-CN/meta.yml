@@ -1,28 +1,28 @@
 ---
 hero_image: images/banner.png
 title: Project Showcase
-theme: turquoise
+theme: 青绿色
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
-technologies: html-css-javascript
-site_areas: projects
+technologies: html/css
+site_areas: codeclub, webdev
 hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 介绍
   - 
     title: Adding Links to Webpages
   - 
-    title: 'Challenge: Add another link'
+    title: '挑战：添加另一个链接'
   - 
     title: Link to A Trinket
   - 
