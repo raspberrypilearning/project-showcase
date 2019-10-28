@@ -8,19 +8,19 @@ Text links allow you to click on words to go to another web page; they are usual
     
     ![截屏](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML 使用 `<a>` 标签来表示链接
 
 ![截图](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ 在你的项目查找 `<a>` 标签 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ 添加 Code Club 网址链接 [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) 和文字链接
 
 ![截屏](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ 点击 Run 来测试你的 trinket
 
 ![截图](images/showcase-cc-output.png)
 
