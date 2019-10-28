@@ -14,7 +14,7 @@
 
 ## 介绍：
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+在这个项目中将向孩子们介绍如何在这个页面嵌入 trinkets 链接和 Scratch 项目。
 
 ## 在线资源
 
