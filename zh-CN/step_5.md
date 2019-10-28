@@ -18,6 +18,6 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 Your finished page should look something like this:
 
-![screenshot](images/showcase-h2-projects.png)
+![截图](images/showcase-h2-projects.png)
 
 \--- /challenge \---
