@@ -32,6 +32,6 @@
     
     ![截屏](images/showcase-embed-height.png)
     
-    将设置高度为**400**, If you made changes to the Happy Birthday project you might need to choose a different value.
+    将设置高度为**400**。 如果你对 Happy Birthday（生日快乐）的项目做了修改，你可能需要选择不同的数值。
     
     ![截屏](images/showcase-embed-fixed.png)
