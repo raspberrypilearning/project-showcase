@@ -1,14 +1,14 @@
-## Embedding Projects
+## 项目嵌入
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+除了可以将trinkets作为网页链接，我们还可以将它嵌入到网页中。
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ 你可能想要尝试全屏操作，以得到更多的操作空间。
 
 ![截屏](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+按ESC退出全屏
 
-+ Run your trinket and click on the Happy Birthday link.
++ 运行你的 trinket 并点击Happy Birthday（生日快乐）的链接。
 
 + Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
