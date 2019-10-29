@@ -1,6 +1,6 @@
 ## 链接到Trinket
 
-你可以链接到一个 trinket 的页面。
+你可以添加一个到trinket页面的连接
 
 + 你还保存着生日快乐的 trinket 的链接吗？ 如果你有可以新建一个浏览器标签或者窗口来打开它。 否则，请打开我们已经完成的示例：<https://trinket.io/html/e996dc0380>
 
@@ -8,7 +8,7 @@
 
 ![截屏](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+如果你是从你的账号中打开的此trinket 则应该在tinket上方寻找Share：
 
 ![截屏](images/showcase-share2.png)
 
