@@ -20,24 +20,24 @@ Text links allow you to click on words to go to another web page; they are usual
 
 ![截屏](images/showcase-code-club.png)
 
-+ 点击 Run 来测试你的 trinket
++ 点击 Run 来测试你的 trinket。
 
 ![截图](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ 在你的网页中点击 Code Club 来测试你的连接。 你的 trinket 现在应该显示的是Code Club的网页： 
 
 ![截屏](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ 你可以通过以下方式来返回你的页面：
     
-    + Run your trinket again,
+    + 重新运行你的 tinket，
     
-    + Tap the Backspace key on the keyboard, or
+    + 按键盘上的 Backspace 键，或者
     
-    + Right-click and choose Back.
+    + 鼠标右键选择返回。
 
 + Now put your link into a sentence inside a paragraph:
 
 ![截屏](images/showcase-paragraph.png)
 
-Test your webpage.
+测试你的页面。
