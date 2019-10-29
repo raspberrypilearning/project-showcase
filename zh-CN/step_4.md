@@ -12,16 +12,16 @@ If you opened the trinket from your account then look for the Share option above
 
 ![截屏](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ 选择'Only show code or result (let users toggle between them)’或者直接复制trinket的分享链接。 
 
 ![截图](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ 返回你的Project Showcase项目中添加一个`<h2>`标签和到你的生日快乐的项目链接。
 
 ![截屏](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+测试你的页面，它现在看起来应该是这样:
 
 ![截屏](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+点击 Happy Birthday 的链接来测试是否会跳转到你的trinket的项目上。
