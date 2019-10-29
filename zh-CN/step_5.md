@@ -1,23 +1,23 @@
 \--- 挑战 \---
 
-## 挑战：在你的项目中创建一个列表。
+## 挑战：创建你的项目列表
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+添加一些你在 Code Club 创建的 HTML & 和 CSS 项目， 你可以使用`<h2>`标签来组织你的网页。
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+如果你没有你所创建的项目链接，你可以使用 Code Club 的示例：
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ 生日快乐： <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ 讲故事： <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ 寻物启事：<https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ 食谱： <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ 神秘信件： <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+你完成的页面看起来应该是这样：
 
 ![截图](images/showcase-h2-projects.png)
 
-\--- /challenge \---
+-/挑战\---
