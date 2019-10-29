@@ -1,6 +1,6 @@
 ## 在网页中添加链接
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+可以通过点击文本超链接来实现网页之间跳转；文本超链接通常带有下划线。
 
 + 打开这个Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)。
     
@@ -36,7 +36,7 @@ Text links allow you to click on words to go to another web page; they are usual
     
     + 鼠标右键选择返回。
 
-+ Now put your link into a sentence inside a paragraph:
++ 现在，在你的段落中插入带有连接的句子:
 
 ![截屏](images/showcase-paragraph.png)
 
