@@ -1,8 +1,8 @@
-## Link to A Trinket
+## 链接到Trinket
 
-You can link to the web page for a trinket.
+你可以链接到一个 trinket 的页面。
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ 你还保存着生日快乐的 trinket 的链接吗？ If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
 + Click on the Share menu above your trinket and choose Link:
 
