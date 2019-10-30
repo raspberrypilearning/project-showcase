@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: 展示项目
 theme: 青绿色
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: 创建你的web项目展示。
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html/css
@@ -20,22 +20,22 @@ steps:
   - 
     title: 介绍
   - 
-    title: Adding Links to Webpages
+    title: 在网页中添加链接
   - 
     title: '挑战：添加另一个链接'
   - 
-    title: Link to A Trinket
+    title: 链接到Trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: '挑战：创建你的项目列表'
   - 
-    title: Embedding Projects
+    title: 项目嵌入
   - 
-    title: 'Challenge: Embed More Projects'
+    title: '挑战：嵌入更多项目'
   - 
-    title: Create a Table of Contents
+    title: 创建目录
   - 
-    title: Getting Back to the Top
+    title: 回到顶部
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: '挑战：完善你的展示页面'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: '挑战：创建一个新的展示'
