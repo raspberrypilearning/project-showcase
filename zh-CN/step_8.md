@@ -1,10 +1,10 @@
-## Create a Table of Contents
+## 创建目录
 
-Let's add a Table of Contents so we can easily get to each project.
+让我们来添加一个目录，这样我们可以更轻松的进入我们的项目。
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ 除了可以链接到网页以外，我们还可以通过赋予 id 属性来使我们链接到网页的多个部分。 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+在你的 Happy Birthday（生日快乐）的项目标题`<h2>`中添加一个 id：
 
 ![截屏](images/showcase-id.png)
 
