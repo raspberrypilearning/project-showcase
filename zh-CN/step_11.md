@@ -1,23 +1,23 @@
-\--- challenge \---
+\--- 挑战 \---
 
-## Challenge: Create a New Showcase
+## 挑战：创建一个新的展示
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+在网页中并不是只能嵌入 Trinkets， 你还可以嵌入视频，小部件（比如天气小组件）或者Scratch项目。
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+打开这个嵌入 Scratch 的示例 trinket 并运行：<https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+进入 Scratch 网站并找到一个你喜欢的项目， 它可以是你的项目，也可以是你在网站中找到的。
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+如果你已经登录了 Scratch 网站，那么可以通过点击 'Embed' （嵌入）按钮来获取项目的嵌入代码。
 
 ![截屏](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+如果你没有登录，则可以查看网址中的 Scratch 项目编号。
 
 ![截屏](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+复制嵌入 Scratch 示例中的`<iframe>`代码，将项目编号替换为你想要嵌入的Scratch项目编号。
 
 ![截屏](images/scratch-iframe.png)
 
-\--- /challenge \---
+\--- /挑战\---
