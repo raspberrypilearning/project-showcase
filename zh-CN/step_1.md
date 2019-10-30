@@ -48,7 +48,7 @@
 
 ## 学习目标
 
-* 这个项目主要是讲如何在页面中引入指向其他网页的文本链接和指向页面中的ID属性链接， It also introduces embedding trinkets and Scratch projects into a webpage. 
+* 这个项目主要是讲如何在页面中引入指向其他网页的文本链接和指向页面中的ID属性链接， 我们将在页面中将嵌入 trinkets 和 Scratch项目。 
 
 本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
@@ -56,20 +56,20 @@
 
 ## 挑战
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "添加其他链接" - 添加更多的网页链接
+* ”创建你的项目列表“-创建跳转到以前web项目的连接；
+* ”嵌入更多项目“- 使用CSS来创建新的样式。
 
-\--- /collapse \---
+\--- /挑战 \---
 
-## \--- collapse \---
+## \--- 折叠 \---
 
-## title: 项目资源
+## 标题: 项目资源
 
 ## 项目资源
 
 * [包含所有项目资源的.zip文件](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
+* [包含所有“Project Showcase”项目资源的在线 Trinket](http://jumpto.cc/web-showcase)
 * [在线 Trinket 模板](http://jumpto.cc/trinket-template)
 * [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -84,4 +84,4 @@
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- /collapse \---
+\--- /挑战 \---
