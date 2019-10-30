@@ -18,7 +18,7 @@
 
 ## 在线资源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+我们建议使用[trinket](https://trinket.io/)来在线编写 HTML & CSS 这个项目包含如下Trinket代码:
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
@@ -42,13 +42,13 @@ We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. Th
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(上述所有资源均可下载为项目和志愿者`.zip`文件。)
+(上述所有资源均可下载为项目和压缩包`.zip`文件。)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+值得注意的是，如果孩子们的其他项目是离线状态下完成的，那么将无法进行项目的嵌入，但是在页面中依然可以链接到它们。
 
 ## 学习目标
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* 这个项目主要是讲如何在页面中引入指向其他网页的文本链接和指向页面中的ID属性链接， It also introduces embedding trinkets and Scratch projects into a webpage. 
 
 本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
