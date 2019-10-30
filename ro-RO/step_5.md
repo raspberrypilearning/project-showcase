@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## Provocare: Creează o listă a proiectelor tale
 
 Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
