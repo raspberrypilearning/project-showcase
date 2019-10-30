@@ -2,22 +2,22 @@
 
 ## Provocare: Creează o listă a proiectelor tale
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Adaugă câteva dintre celelalte proiecte HTML și CSS pe care le-ai creat la Code Club. Folosește heading-uri `<h2>` pentru a îți organiza pagina web.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+Dacă nu ai link-uri către proiectele pe care le-ai creat atunci poți folosi exemplele Code Club:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ La mulți ani: <https://trinket.io/html/e996dc0380>
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ Spune o poveste: <https://trinket.io/html/c8afdef912>
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ Căutat: <https://trinket.io/html/ebeb56398a>
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ Rețetă: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ Scrisoare misterioasă: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+Pagina ta finală ar trebui să arate cam așa:
 
-![screenshot](images/showcase-h2-projects.png)
+![captură de ecran](images/showcase-h2-projects.png)
 
 \--- /challenge \---
