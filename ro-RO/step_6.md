@@ -1,16 +1,16 @@
-## Embedding Projects
+## Încorporarea proiectelor
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Pe lângă redirecționarea către trinket-uri ca pagini web, putem, de asemenea, să le încorporăm într-o pagină web.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Dacă vrei, poți lucra în modul Fullscreen pentru a avea mai mult spațiu:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Apasă Esc pentru a ieși din modul Fullscreen.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Rulează trinket-ul și apasă pe link-ul „La mulți ani”.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Apasă pe meniul trinket și selectează **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
 ![screenshot](images/showcase-embed-code.png)
 
