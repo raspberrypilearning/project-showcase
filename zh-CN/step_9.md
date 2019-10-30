@@ -1,6 +1,6 @@
-## Getting Back to the Top
+## 回到顶部
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ 通过导航快速回到页面顶部也是非常有用的， 在 HTML 中可以使用 `#top`来完成这个功能。
 
 + Add a link to `#top` after each embedded project in your webpage:
 
