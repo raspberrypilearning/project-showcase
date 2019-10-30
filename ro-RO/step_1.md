@@ -39,8 +39,8 @@ Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-G
 
 De asemenea, poți găsi o versiune completă a provocărilor din acest proiect în secțiunea „Resursele voluntarilor”, care conține:
 
-* project-showcase-finished/index.html
-* project-showcase-finished/style.css
+* project-showcse-finished/index.html
+* project-showcse-finished/style.css
 
 (Toate resursele de mai sus se pot descărca ca și fișiere `.zip` pentru proiecte și voluntari.)
 
