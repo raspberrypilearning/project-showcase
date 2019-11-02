@@ -4,17 +4,17 @@
 
 + افتح مشروع trinket هذا: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    الآن يجب أن يبدو المشروع الخاص بك مثل هذا:
+    يجب أن يبدو المشروع مثل هذا:
     
     ![لقطة الشاشة](images/showcase-starter.png)
 
 + يستخدم HTML الاشارة `<a>` للروابط.
 
-![لقطة شاشة](images/showcase-link.png)
+![لقطة الشاشة](images/showcase-link.png)
 
 + ابحث عن الاشارة `<a>` في مشروعك. 
 
-![لقطة شاشة](images/showcase-a-template.png)
+![لقطة الشاشة](images/showcase-a-template.png)
 
 + أضف عنوان موقع Code Club على الويب [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) ونص الرابط:
 
