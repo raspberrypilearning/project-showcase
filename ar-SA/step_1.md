@@ -26,7 +26,7 @@
 
 كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
-* ["عرض المشروع انتهى" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["انتهى عرض المشروع" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
