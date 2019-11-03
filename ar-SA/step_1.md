@@ -75,7 +75,7 @@
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
-* [project-showcase/style.css](resources/project-showcase-style.css)
+* [project-showcase/style.css](resources/project-showcase-index.html)
 
 ## موارد قادة النادي
 
