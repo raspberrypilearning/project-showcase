@@ -69,7 +69,7 @@
 ## موارد المشروع
 
 * [ملف.zip يحتوي على جميع موارد المشروع](resources/showcase-project-resources.zip)
-* [Trinket على الإنترنت يحتوي على جميع موارد مشروع "معرض المشاريع"](http://jumpto.cc/web-showcase)
+* [Trinket على الإنترنت يحتوي على جميع موارد مشروع "عرض المشاريع"](http://jumpto.cc/web-showcase)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
