@@ -1,12 +1,12 @@
 ## परिचय
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+इस परियोजना में आप आपके HTML परियोजना की प्रदर्शनी बनाएंगे और लिंक्स तथा संसाधनों को HTML में जोड़ने के बारे में सीखेंगे।
 
 ![screenshot](images/showcase-intro.png)
 
 ### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/project-showcase/print) का उपयोग करें।
+यदि आप इस परियोजना को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/project-showcase/print) का उपयोग करें।
 
 ## \--- collapse \---
 
@@ -14,7 +14,7 @@ In this project, you will create a showcase of your HTML projects and learn abou
 
 ## परिचय:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+इस परियोजना में बच्चों को हाइप... और ट्र... और स्क... परियोजनाएं को वेबपेज में जोड़ने से परिचित किया जाता हैं।
 
 ## ऑनलाइन संसाधन
 
