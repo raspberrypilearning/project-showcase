@@ -11,10 +11,10 @@ description: إنشاء عرض لمشاريع الويب الخاصة بك.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: codeclub, python
+site_areas: المشاريع
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,18 +24,18 @@ steps:
   - 
     title: 'التحدي: أضف رابطًا آخر'
   - 
-    title: الرابط الى trinket
+    title: إضافة رابط إلى مشروع Trinket
   - 
-    title: 'التحدي: انشاء قائمة مشاريعك'
+    title: 'التحدي: أنشئ قائمة بمشاريعك'
   - 
     title: تضمين المشاريع
   - 
-    title: 'التحدي: تضمين المزيد من المشاريع'
+    title: 'التحدي: قم بتضمين مشاريع أخرى'
   - 
     title: إنشاء جدول المحتويات
   - 
-    title: العودة إلى الأعلى
+    title: العودة إلى أعلى الصفحة
   - 
-    title: 'التحدي: تحسين المعرض الخاص بك'
+    title: 'التحدي: حسِّن عرضك'
   - 
-    title: 'التحدي: إنشاء معرض جديد'
+    title: 'التحدي: أنشئ عرضًا جديدًا'
