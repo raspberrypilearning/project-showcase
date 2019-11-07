@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Moje projekty
 theme: turquoise
@@ -6,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Stwórz listę swoich projektów HTML.
+description: Stwórz listę swoich projektów.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -15,5 +16,15 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
-- title: Moje projekty
+steps:
+  - title: Wprowadzenie
+  - title: Dodawanie linków do stron internetowych
+  - title: 'Wyzwanie: dodaj kolejny link'
+  - title: Link do edytora Trinket
+  - title: 'Wyzwanie: stwórz listę swoich projektów'
+  - title: Osadzenie projektów
+  - title: 'Wyzwanie: osadź więcej projektów'
+  - title: Stwórz spis treści
+  - title: Powrót na górę
+  - title: 'Wyzwanie: udoskonal swoją prezentację'
+  - title: 'Wyzwanie: stwórz nową prezentację'
