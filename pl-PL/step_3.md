@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Wyzwanie: Dodaj kolejny link
+## Wyzwanie: dodaj kolejny link
 
 Dodaj zdanie z linkiem do strony, która była ci pomocna przy tworzeniu projektów internetowych. Na przykład: <https://trinket.io> lub <https://trinket.io/docs/colors>.
 
