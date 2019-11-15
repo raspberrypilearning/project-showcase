@@ -69,9 +69,9 @@ Note that if the children have completed their other projects offline then they 
 ## प्रोजेक्ट संसाधन
 
 * [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' परियोजना संसाधन हैं](http://jumpto.cc/web-showcase)
+* [ऑनलाइन trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
+* [ऑनलाइन खाली trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
