@@ -20,7 +20,7 @@
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ अपने trinket का परीक्षण करने के लिए 'run' (चलाएँ) पर क्लिक करें।
 
 ![screenshot](images/showcase-cc-output.png)
 
