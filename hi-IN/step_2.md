@@ -8,11 +8,11 @@
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML में `<a>` टैग लिंक्स के लिए इस्तेमाल किया जाता हैं।
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ अपने परियोजना में `<a>` टैग को ढूंढे 
 
 ![screenshot](images/showcase-a-template.png)
 
