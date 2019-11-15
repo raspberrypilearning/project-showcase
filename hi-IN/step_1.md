@@ -37,14 +37,14 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+आप इस परियोजना की चुनौतियों का पूर्ण संस्करण ‘स्वयंसेवक संसाधन’ भाग में भी देख सकते हैं, जिसमें ये शामिल हैं:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
 (उपर्युक्त सभी संसाधन प्रोजेक्ट और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+ध्यान दें कि यदि बच्चों ने अपनी अन्य परियोजनाओं को ऑफ़लाइन पूरा कर लिया है, तो वे उन्हें एम्बेड नहीं कर पाएंगे, लेकिन फिर भी वे उनसे लिंक कर पाएंगे।
 
 ## सीखने के उद्देश्य
 
@@ -52,13 +52,13 @@ Note that if the children have completed their other projects offline then they 
 
 इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [बुनियादी 2D और 3D एसेट डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator)
 
 ## चुनौतियाँ
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "एक और लिंक जोड़ें" - अधिक वेबपृष्ठों को लिंक जोड़ें;
+* "अपनी परियोजनाओं की एक सूची बनाएँ" - पिछले वेब परियोजनाओं के लिए लिंक बनाएँ;
+* "अधिक परियोजनाओं को एम्बेड करें" - नई शैली बनाने के लिए CSS का उपयोग करें।
 
 \--- /collapse \---
 
