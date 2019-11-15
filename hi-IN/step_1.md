@@ -48,7 +48,7 @@ Note that if the children have completed their other projects offline then they 
 
 ## सीखने के उद्देश्य
 
-* यह परियोजना अन्य वेबपेजों और एक पृष्ठ के भीतर नामित आईडी के लिए पाठ लिंक पर परिचय देती है। It also introduces embedding trinkets and Scratch projects into a webpage. 
+* यह परियोजना अन्य वेबपेजों और एक पृष्ठ के भीतर नामित आईडी के लिए पाठ लिंक पर परिचय देती है। यह एक वेबपेज में trinkets और Scratch परियोजनाओं को एम्बेड(embed) करने का परिचय देता है। 
 
 इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
