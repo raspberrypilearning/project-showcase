@@ -16,7 +16,7 @@
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ कोड क्लब वेबसाइट का पता [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) और लिंक पाठ जोड़ें:
 
 ![screenshot](images/showcase-code-club.png)
 
