@@ -24,7 +24,7 @@
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ अपने वेबपृष्ठ का परीक्षण करने के लिए Code Club लिंक पर क्लिक करें। Your trinket will now show the Code Club webpage: 
 
 ![screenshot](images/showcase-cc-website.png)
 
