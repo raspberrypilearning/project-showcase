@@ -24,13 +24,13 @@
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ अपने वेबपृष्ठ का परीक्षण करने के लिए Code Club लिंक पर क्लिक करें। Your trinket will now show the Code Club webpage: 
++ अपने वेबपृष्ठ का परीक्षण करने के लिए Code Club लिंक पर क्लिक करें। आपका trinket अब Code Club वेबपेज दिखाएगा: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ अपने पृष्ठ पर वापस जाने के लिए आप या तो:
     
-    + Run your trinket again,
+    + अपना trinket फिर से चलाएं,
     
     + Tap the Backspace key on the keyboard, or
     
