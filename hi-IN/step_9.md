@@ -1,6 +1,6 @@
 ## शीर्ष पर वापस जाना
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ पृष्ठ के शीर्ष पर वापस नेविगेट करने में सक्षम होना भी उपयोगी है। HTML में इस उद्देश्य के लिए `#top` है।
 
 + Add a link to `#top` after each embedded project in your webpage:
 
