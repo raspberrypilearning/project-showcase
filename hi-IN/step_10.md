@@ -2,8 +2,8 @@
 
 ## चुनौती: अपने शोकेस में सुधार करें
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+अपने पृष्ठ को अधिक रोचक बनाने के लिए आपने जो सीएसएस(CSS) सीखा है उसका उपयोग करें। पृष्ठ का पृष्ठभूमि रंग या शीर्षकों के लिए उपयोग किए जाने वाले फ़ॉन्ट को बदलने का प्रयास करें।
 
-You can also add some information about each project and what you liked about making it.
+आप प्रत्येक परियोजना के बारे में कुछ जानकारी भी जोड़ सकते हैं और इसे बनाने के बारे में आपको क्या पसंद है।
 
 \--- /challenge \---
