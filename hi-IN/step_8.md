@@ -10,12 +10,12 @@
 
 + अपनी प्रत्येक परियोजना में आईडी जोड़ें और उन्हें संक्षिप्त नाम दे: story, wanted, recipe और letter।
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ अपने एलीमेंट को लिंक करने के लिए उसके नाम के सामने हैश '#' चिन्ह लगाकर एक आईडी जोड़े। उदाहरण के लिए, `#birthday`।
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+अपनी परियोजनाओं के लिंक की एक क्रमबद्ध सूची बनाएं। (क्रमबद्ध सूचियाँ रेसिपी परियोजना में प्रस्तुत की गई हैं।)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ अपनी परियोजना को चलाएं और अपनी परियोजनाओं की ओर बढ़ने के लिए लिंक पर क्लिक करके इसका परीक्षण करें। 
 
 ![screenshot](images/showcase-list-output.png)
