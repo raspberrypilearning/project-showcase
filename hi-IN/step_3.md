@@ -2,7 +2,7 @@
 
 ## चुनौती: अन्य लिंक जोड़ें
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+एक वेबसाइट की लिंक और एक वाक्य जोड़े जो आपको आपकी वेब परियोजा बनाने में उपयोगी थी। For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
 ![स्क्रीनशॉट](images/showcase-link-challenge.png)
 
