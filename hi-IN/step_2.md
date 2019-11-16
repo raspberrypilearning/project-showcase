@@ -32,12 +32,12 @@
     
     + अपना trinket फिर से चलाएं,
     
-    + Tap the Backspace key on the keyboard, or
+    + कीबोर्ड पर बैकस्पेस बटन टैप करें, या
     
-    + Right-click and choose Back.
+    + दाहिना-क्लिक करें और वापस(Back) चुनें।
 
-+ Now put your link into a sentence inside a paragraph:
++ अब अपने लिंक को अनुच्छेद के अंदर एक वाक्य में रखें:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+अपनी पृष्ठी का परीक्षण करें।
