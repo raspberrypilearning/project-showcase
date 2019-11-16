@@ -1,12 +1,12 @@
-## विषय सूची बनाएँ
+## विषय की सूची बनाएँ
 
-Let's add a Table of Contents so we can easily get to each project.
+आइए सामग्री के विषयों की सूची जोड़ें, ताकि हम आसानी से प्रत्येक परियोजना पर पहुँच सकें।
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ अन्य वेबपृष्ठों से लिंक करने में सक्षम होने के साथ-साथ, यदि हम किसी हिस्से को एक आईडी देते हैं, तो हम एक वेबपेज के उन हिस्सों से लिंक कर सकते हैं। 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+"जन्मदिन की बधाई" परियोजना के लिए `<h2>` शीर्षक के लिए एक आईडी जोड़ें:
 
-![स्क्रीनशॉट](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
 + Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
