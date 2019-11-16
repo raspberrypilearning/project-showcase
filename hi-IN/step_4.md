@@ -2,17 +2,17 @@
 
 आप एक trinket के लिए वेब पेज से लिंक कर सकते हैं।
 
-+ क्या आपने अपने हैप्पी बर्थडे trinket का लिंक रखा है? यदि आपने किया है तो उस trinket को दूसरे ब्राउज़र टैब या विंडो में खोलें। Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ क्या आपने अपने हैप्पी बर्थडे trinket का लिंक रखा है? यदि आपने किया है तो उस trinket को दूसरे ब्राउज़र टैब या विंडो में खोलें। अन्यथा समाप्त उदाहरण trinket खोलें: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ अपनी trinket के ऊपर स्थित शेयर मेनू पर क्लिक करें और लिंक(Link) चुनें:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+यदि आपने अपने खाते से Trinket खोला है, तो इसके बजाय अपने Trinket के ऊपर शेयर विकल्प को खोजें:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ 'Only show code or result (let users toggle between them)' चुने और लिंक को Trinket में कॉपी करें। 
 
 ![screenshot](images/showcase-get-link.png)
 
