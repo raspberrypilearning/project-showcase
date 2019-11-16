@@ -6,17 +6,17 @@ Trinkets केवल एक चीज नहीं है जिसे आप �
 
 "एंबेड Scratch" उदाहरण Trinket खोलें और इसे चलाएं: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Scratch वेबसाइट पर जाएं और आपकी एक पसंदीदा परियोजना खोजें। यह आपका अपना या आपके द्वारा पाया गया एक हो सकता है।
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+यदि आपने लॉग इन किया हैं तो HTML एम्बेड कोड प्राप्त करने के लिए परियोजना के नीचे 'Embed' बटन पर क्लिक कर सकते हैं।
 
 ![screenshot](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+यदि आपने लॉग इन नहीं किया हैं, तो इसके वेब पते में Scratch परियोजना नंबर देखें।
 
 ![screenshot](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Scratch एंबेड उदाहरण में `<iframe>` कोड की एक प्रति बनाएं और जिस परियोजना को एम्बेड करना चाहते हैं, उसके लिए परियोजना नंबर को बदलें:
 
 ![screenshot](images/scratch-iframe.png)
 
