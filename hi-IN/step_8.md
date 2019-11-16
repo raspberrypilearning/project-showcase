@@ -14,8 +14,8 @@ Add an id to the `<h2>` heading for the Happy Birthday project:
 
 Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![स्क्रीनशॉट](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
 + Run your project and test it by clicking on the links to move to your projects. 
 
-![स्क्रीनशॉट](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
