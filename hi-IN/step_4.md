@@ -16,12 +16,12 @@
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ अपने प्रोजेक्ट शोकेस Trinket पर वापस जाएं और `<h2>` शीर्षक और अपने हैप्पी बर्थडे परियोजना का लिंक जोड़ें।
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+अपने वेब पेज का परीक्षण करें; वह कुछ इस तरह दिखना चाहिए:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+परीक्षण करने के लिए हैप्पी बर्थडे लिंक पर क्लिक करें जो आपको Trinket पर ले जाता है।
