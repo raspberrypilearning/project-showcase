@@ -2,10 +2,10 @@
 
 + पृष्ठ के शीर्ष पर वापस नेविगेट करने में सक्षम होना भी उपयोगी है। HTML में इस उद्देश्य के लिए `#top` है।
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ अपने वेबपृष्ठ में प्रत्येक एम्बेडेड परियोजना के बाद `#top` का लिंक जोड़ें:
 
-![स्क्रीनशॉट](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ पृष्ठ के शीर्ष पर वापस जाने के लिए Top पर क्लिक करके अपने लिंक का परीक्षण करें।
