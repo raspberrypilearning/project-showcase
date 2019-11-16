@@ -14,10 +14,10 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 + रेसिपी: <https://trinket.io/html/c0fd9b40cd>
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ रहस्यमय पत्र: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+आपका पूर्ण वेबपेज कुछ इस तरह दिखाई देना चाहिए:
 
-![स्क्रीनशॉट](images/showcase-h2-projects.png)
+![screenshot](images/showcase-h2-projects.png)
 
 \--- /challenge \---
