@@ -8,7 +8,7 @@
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ अपनी प्रत्येक परियोजना में आईडी जोड़ें और उन्हें संक्षिप्त नाम दे: story, wanted, recipe और letter।
 
 + You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
