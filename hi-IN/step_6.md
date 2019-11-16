@@ -1,6 +1,6 @@
 ## परियोजाएं एंबेड करना
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Trinket को वेबपेज के रूप में जोड़ने के साथ-साथ हम उन्हें एक वेब पेज में भी एम्बेड कर सकते हैं।
 
 + You might want to try working in Fullscreen mode so you have more space:
 
