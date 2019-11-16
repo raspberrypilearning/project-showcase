@@ -14,24 +14,24 @@ Trinket को वेबपेज के रूप में जोड़ने 
     
     ![screenshot](images/showcase-embed-code.png)
     
-    + Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
+    + 'Only show code or result (let users toggle between them)' और Trinket के लिए एम्बेड कोड को **कॉपी** करें। 
     
     ![screenshot](images/showcase-embed.png)
     
-    + Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
+    + Trinket ने आपके वेबपेज में शामिल करने के लिए कुछ HTML बनाई है। यह एक `<iframe>` टैग का उपयोग करता है जो सामग्री को एक पृष्ठ के भीतर एम्बेड करने की अनुमति देता है।
     
-    + Now paste that code under the link to the Happy Birthday trinket:
+    + अब उस कोड को "जन्मदिन की बधाई" trinket के लिंक के नीचे पेस्ट करें:
     
     ![screenshot](images/showcase-paste-embed.png)
     
-    + Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
+    + इसे जांचने के लिए अपना Trinket चलाएं और आपको वेब पेज में अपनी "जन्मदिन की बधाई" परियोजना दिखाई देना चाहिए। 
     
     ![screenshot](images/showcase-embed-output.png)
     
-    + You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
+    + आप देख सकते हैं कि आपके Trinket के निचले भाग को प्रदर्शित नहीं किया गया है। आप `<iframe>` पर ऊंचाई मान बदलकर इसे ठीक कर सकते हैं। 
     
     ![screenshot](images/showcase-embed-height.png)
     
-    Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+    ऊंचाई(Height) को **400** पर सेट करें। यदि आपने "जन्मदिन की बधाई" परियोजना में बदलाव किए हैं तो आपको एक अलग मूल्य चुनने की आवश्यकता हो सकती है।
     
     ![screenshot](images/showcase-embed-fixed.png)
