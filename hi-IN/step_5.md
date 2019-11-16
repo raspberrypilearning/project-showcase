@@ -2,9 +2,9 @@
 
 ## चुनौती: अपने प्रोजेक्ट्स की सूची बनाएँ
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+Code Club में आपके द्वारा बनाई गई कुछ अन्य HTML & CSS परियोजनाओं को जोड़ें। अपने वेबपृष्ठ को व्यवस्थित करने के लिए `<h2>` शीर्षकों का उपयोग करें।
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+यदि आपके पास आपके द्वारा बनाई गई परियोजनाओं के लिंक नहीं हैं तो आप Code Club के उदाहरणों का उपयोग कर सकते हैं:
 
 + जन्मदिन की बधाई:<https://trinket.io/html/e996dc0380>
 
