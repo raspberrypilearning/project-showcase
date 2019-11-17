@@ -2,7 +2,7 @@
 
 पाठ लिंक आपको दूसरे वेब पेज पर जाने के लिए शब्दों पर क्लिक करने की अनुमति देता है; वे आमतौर पर रेखांकित होते हैं।
 
-+ इस trincket को खोलें: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ इस trinket को खोलें: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     यह परियोजना इस तरह दिखनी चाहिए:
     
