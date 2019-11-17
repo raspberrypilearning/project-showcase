@@ -1,7 +1,7 @@
 ---
 hero_image: images/banner.png
 title: प्रोजेक्ट शोकेस
-theme: फ़िरोज़ी
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
@@ -10,11 +10,11 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: अपने वेब प्रोजेक्ट्स का शोकेस बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
-technologies: html/css
-site_areas: प्रोजेक्ट
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
 software: htmp-css-javascript
-version: 0
+version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
@@ -24,7 +24,7 @@ steps:
   - 
     title: 'चुनौती: अन्य लिंक जोड़ें'
   - 
-    title: ट्रिंकेट से लिंक करें
+    title: Trinket से लिंक करें
   - 
     title: 'चुनौती: अपने प्रोजेक्ट्स की सूची बनाएँ'
   - 
