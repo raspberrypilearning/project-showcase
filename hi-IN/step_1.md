@@ -30,7 +30,7 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 
 ## ऑफ़लाइन संसाधन
 
-यदि चाहें तो इस प्रोजेक्ट को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की प्रतिलिपि तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
+यदि चाहें तो इस परियोजना को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस परियोजना के लिए 'परियोजना सामग्री' लिंक पर क्लिक करके परियोजना के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'परियोजना संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस परियोजना को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की प्रतिलिपि तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * project-showcase/index.html
 * project-showcase/style.css
@@ -42,7 +42,7 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(उपर्युक्त सभी संसाधन प्रोजेक्ट और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
+(उपर्युक्त सभी संसाधन परियोजना और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
 
 ध्यान दें कि यदि बच्चों ने अपनी अन्य परियोजनाओं को ऑफ़लाइन पूरा कर लिया है, तो वे उन्हें एम्बेड नहीं कर पाएंगे, लेकिन फिर भी वे उनसे लिंक कर पाएंगे।
 
@@ -64,11 +64,11 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: परियोजना सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](resources/showcase-project-resources.zip)
+* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](resources/showcase-project-resources.zip)
 * [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' परियोजना संसाधन हैं](http://jumpto.cc/web-showcase)
 * [ऑनलाइन trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
 * [ऑनलाइन खाली trinket](http://jumpto.cc/trinket-blank)
@@ -79,8 +79,8 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 
 ## क्लब लीडर संसाधन
 
-* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](resources/showcase-volunteer-resources.zip)
-* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/html/1d4d4c5ce1)
+* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](resources/showcase-volunteer-resources.zip)
+* [ऑनलाइन पूर्ण Trinket परियोजना](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
