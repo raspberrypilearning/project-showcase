@@ -6,16 +6,16 @@ Hai să adăugăm un cuprins pentru a putea ajunge cu ușurință la fiecare pro
 
 Adaugă un id heading-ului `<h2>` al proiectului „La mulți ani”:
 
-![screenshot](images/showcase-id.png)
+![captură de ecran](images/showcase-id.png)
 
 + Adaugă id-uri fiecărui proiect și dă-le denumiri scurte: poveste, cautat, reteta și scrisoare.
 
-+ Poți crea un link către un element cu un id folosind simbolul „#” în fața numelui său. For example, `#birthday`.
++ Poți crea un link către un element cu un id folosind simbolul „#” în fața numelui său. De exemplu, `#zidenastere`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Creează o listă ordonată de link-uri către proiectele tale. (Listele ordonate sunt explicate în proiectul „Rețetă”.)
 
-![screenshot](images/showcase-list.png)
+![captură de ecran](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Rulează proiectul și testează-l apăsând pe link-urile care duc la proiectele tale. 
 
-![screenshot](images/showcase-list-output.png)
+![captură de ecran](images/showcase-list-output.png)
