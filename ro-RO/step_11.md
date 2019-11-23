@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Provocare: Creează o prezentare nouă
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Trinket-urile nu sunt singurele lucruri pe care le poți încorpora într-o pagină web. Poți încorpora videoclipuri, widget-uri (cum ar fi widget-uri despre vreme) sau proiecte Scratch.
 
 Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
