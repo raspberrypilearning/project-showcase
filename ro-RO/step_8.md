@@ -1,16 +1,16 @@
-## Create a Table of Contents
+## Creează un cuprins
 
-Let's add a Table of Contents so we can easily get to each project.
+Hai să adăugăm un cuprins pentru a putea ajunge cu ușurință la fiecare proiect.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Putem crea, pe lângă link-uri către alte pagini web, link-uri către părți ale unei pagini web dacă le dăm un id. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Adaugă un id heading-ului `<h2>` al proiectului „La mulți ani”:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Adaugă id-uri fiecărui proiect și dă-le denumiri scurte: poveste, cautat, reteta și scrisoare.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Poți crea un link către un element cu un id folosind simbolul „#” în fața numelui său. For example, `#birthday`.
 
 Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
