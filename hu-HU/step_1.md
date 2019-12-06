@@ -1,87 +1,87 @@
-## Introduction
+## Bevezetés
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+Ebben a projektben elkészíti a HTML-projektek kirakatát, és megismerheti a linkeket és az erőforrások beágyazását.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### További információk klubvezetőknek
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/project-showcase/print)verziót.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## cím: A klubvezető megjegyzi
 
-## Introduction:
+## Bevezetés:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+Ebben a projektben a gyerekek megismerkednek a hivatkozásokkal, valamint a csecsebecsék és a Scratch-projektek beágyazásával egy weboldalon.
 
-## Online Resources
+## Online források
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Javasoljuk a [csecsebecsét](https://trinket.io/) írjunk HTML & CSS az interneten. A projekt a következő csecsebecsét tartalmazza:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [A „Projektbemutató” kezdőpontja - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+A gyermekek felhasználhatják ezt az üres [csecsebecsét (jumpto.cc/html-blank)](http://jumpto.cc/html-blank) saját HTML & CSS-jük írására is, vagy alternatívaként használhatják ezt a sablonos csecsebecsét [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Van egy csecsebecsét tartalmazó mintamegoldás a kihívásokra:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* [„Projektbemutató kész” - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## Offline források
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ez a projekt [elérhető,](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ha teljesíthető. A projekt erőforrásaihoz a projekt 'Anyagok' linkjére kattintva férhet hozzá. Ez a link egy „Projekt-források” szakaszt tartalmaz, amely olyan forrásokat tartalmaz, amelyek a gyermekek számára szükségesek lesznek a projekt offline eléréséhez. Győződjön meg arról, hogy minden gyermek rendelkezik hozzáféréssel ezeknek az erőforrásoknak a másolatához. Ez a szakasz a következő fájlokat tartalmazza:
 
-* project-showcase/index.html
-* project-showcase/style.css
-* template/template.html
-* template/style.css
+* projekt-kirakat / index.html
+* projekt-kirakat / style.css
+* template / template.html
+* template / style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+A projekt kihívásainak komplett változatát az „Önkéntes erőforrások” szakaszban is megtalálhatja, amely a következőket tartalmazza:
 
-* project-showcse-finished/index.html
-* project-showcse-finished/style.css
+* projekt-showcse-kész / index.html
+* projekt-showcse kész / style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Az összes fenti erőforrás projekt- és önkéntes `.zip` fájlként letölthető.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Vegye figyelembe, hogy ha a gyerekek offline módon befejezték más projektüket, akkor nem tudják beágyazni őket, ám továbbra is kapcsolódni tudnak velük.
 
-## Learning Objectives
+## Tanulási célok
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Ez a projekt szöveges linkeket vezet be más weboldalakhoz és az oldalon található megnevezett azonosítókhoz. Bemutatja továbbá a csecsebecsék és a Scratch projektek beágyazását egy weboldalra. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ez a projekt magában foglalja az elemeket a következő területekre vonatkozik a [Raspberry Pi Digital készítése Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Alapvető 2D és 3D eszközök tervezése](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## kihívások
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* „Új link hozzáadása” - linkek hozzáadása további weboldalakhoz;
+* „Projektek listájának létrehozása” - hivatkozások létrehozása a korábbi internetes projektekhez;
+* „További projektek beágyazása” - Használjon CSS-t új stílusok létrehozásához.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## cím: Projekt anyagok
 
-## Project resources
+## Projekt források
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [template/index.html](resources/template-index.html)
-* [template/style.css](resources/template-style.css)
-* [project-showcase/index.html](resources/project-showcase-index.html)
-* [project-showcase/style.css](resources/project-showcase-style.css)
+* [.zip fájl, amely tartalmazza az összes projekt erőforrást](resources/showcase-project-resources.zip)
+* [Online csecsebecse, amely tartalmazza az összes 'Project Showcase' projekt forrását](http://jumpto.cc/web-showcase)
+* [Online talizmán sablon](http://jumpto.cc/trinket-template)
+* [Online üres talizmán](http://jumpto.cc/trinket-blank)
+* [template / index.html](resources/template-index.html)
+* [template / style.css](resources/template-style.css)
+* [projekt-kirakat / index.html](resources/project-showcase-index.html)
+* [projekt-kirakat / style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## A klubvezető forrásai
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
-* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
-* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
+* [.zip fájl, amely tartalmazza az összes kitöltött projekt erőforrást](resources/showcase-volunteer-resources.zip)
+* [Online befejezett Trinket projekt](https://trinket.io/html/1d4d4c5ce1)
+* [projekt-kirakat-kész / index.html](resources/project-showcase-finished-index.html)
+* [projekt-kirakat kész / style.css](resources/project-showcase-finished-style.css)
 
 \--- /collapse \---
