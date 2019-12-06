@@ -37,7 +37,7 @@
 * template/template.html
 * template/style.css
 
-你也可以在 “压缩包资源'”部分找到该项目挑战的完整版本，里面包含：
+你也可以在 “项目资源压缩包'”部分找到该项目挑战的完整版本，里面包含：
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
