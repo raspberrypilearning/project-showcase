@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Link egy talizmánhoz
 
-You can link to the web page for a trinket.
+Linket mutathat a weboldalra a csecsebecsékkel kapcsolatban.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Megtartotta a linket a Happy Birthday csecsebecséhez? Ha mégis, akkor egy másik böngésző lapon vagy ablakban nyitotta meg az csecsebecsét. Egyébként nyissa meg a kész csecsebecsét: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Kattintson a csecsebecsék feletti Megosztás menüre, és válassza a Link:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Ha a fiókjából nyitotta meg az csecsebecsét, akkor inkább keresse meg a csecsebecsék feletti Megosztás lehetőséget:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Válassza a "Csak a kódot vagy az eredményt jelenítse meg (hagyja, hogy a felhasználók váltsanak közöttük") lehetőséget, és másolja át a linket az csecsebecséhez. 
 
-![screenshot](images/showcase-get-link.png)
+![képernyőkép](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Menjen vissza a Project Showcase csecsebecséhez, és adjon hozzá egy `<h2>` címsort és egy linket a Happy Birthday Projecthez.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Tesztelje weboldalát; úgy néz ki, mint ez:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Kattintson a Boldog születésnapot linkre, és ellenőrizze, hogy eljuttatja-e a csecsebecsékhez.
