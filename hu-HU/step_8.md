@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Hozzon létre egy tartalomjegyzéket
 
-Let's add a Table of Contents so we can easily get to each project.
+Adjunk hozzá egy Tartalomjegyzéket, hogy könnyen hozzáférhessünk az egyes projektekhez.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Amellett, hogy más weboldalakra is hivatkozhatunk, a weboldal egyes részeire is hivatkozhatunk, ha azonosítót adunk nekik. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Adjon hozzá egy azonosítót a Happy Birthday projekt `<h2>` címsorához:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Adja hozzá az egyes projektek azonosítóit, és adja meg a rövid neveket: történet, keresett, recept és levél.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Összekapcsolható egy azonosítójú elemmel, ha egy név előtt egy hash "#" szimbólumot helyez el. Például `# születésnap`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Készítsen rendezett linket a projektekhez. (A rendezett listákat a Recipe projekt tartalmazza.)
 
-![screenshot](images/showcase-list.png)
+![képernyőkép](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Futtassa a projektet, és tesztelje azt a linkekre kattintva, hogy a projektbe lépjen. 
 
 ![screenshot](images/showcase-list-output.png)
