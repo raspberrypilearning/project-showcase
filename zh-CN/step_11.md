@@ -2,9 +2,9 @@
 
 ## 挑战：创建一个新的展示
 
-在网页中并不是只能嵌入 Trinkets， 你还可以嵌入视频，小部件（比如天气小组件）或者Scratch项目。
+在网页中并不是只能嵌入 Trinkets， 你还可以嵌入视频，小组件（比如天气小组件）或者Scratch项目。
 
-打开这个嵌入 Scratch 的示例 trinket 并运行：<https://trinket.io/html/9f7212b8fe>
+打开这个嵌入 Scratch 的 trinket 示例并运行：<https://trinket.io/html/9f7212b8fe>
 
 进入 Scratch 网站并找到一个你喜欢的项目， 它可以是你的项目，也可以是你在网站中找到的。
 
