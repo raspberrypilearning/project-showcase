@@ -1,6 +1,6 @@
 ## 在网页中添加链接
 
-可以通过点击文本超链接来实现网页之间跳转；文本超链接通常带有下划线。
+可以通过点击文本超链接来实现网页之间跳转，文本超链接通常带有下划线。
 
 + 打开这个Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)。
     
@@ -8,7 +8,7 @@
     
     ![截屏](images/showcase-starter.png)
 
-+ HTML 使用 `<a>` 标签来表示链接
++ HTML中使用 `<a>` 标签来表示链接
 
 ![截图](images/showcase-link.png)
 
@@ -24,7 +24,7 @@
 
 ![截图](images/showcase-cc-output.png)
 
-+ 在你的网页中点击 Code Club 来测试你的连接。 你的 trinket 现在应该显示的是Code Club的网页： 
++ 在你的网页中点击 Code Club 来测试你的连接， 你的 trinket 现在应该显示的是Code Club的网页： 
 
 ![截屏](images/showcase-cc-website.png)
 
