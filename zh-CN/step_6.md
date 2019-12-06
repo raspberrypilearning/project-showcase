@@ -2,7 +2,7 @@
 
 除了可以将trinkets作为网页链接，我们还可以将它嵌入到网页中。
 
-+ 你可能想要尝试全屏操作，以得到更多的操作空间。
++ 你可能需要尝试全屏操作，以得到更多的操作空间。
 
 ![截屏](images/showcase-fullscreen.png)
 
@@ -10,7 +10,7 @@
 
 + 运行你的 trinket 并点击Happy Birthday（生日快乐）的链接。
 
-+ 点击 trinket 菜单，选择** embed </ 0>， 如果你不是全屏模式则可能需要滚动菜单栏。 可以使用右侧的滚动条或者键盘中的下箭头键。</p></li> </ul> 
++ 点击 trinket 菜单，选择** embed </ 0>， 如果你不是全屏模式则可能需要滚动菜单栏， 可以使用右侧的滚动条或者键盘中的下箭头键。</p></li> </ul> 
     
     ![截屏](images/showcase-embed-code.png)
     
@@ -32,6 +32,6 @@
     
     ![截屏](images/showcase-embed-height.png)
     
-    将设置高度为**400**。 如果你对 Happy Birthday（生日快乐）的项目做了修改，你可能需要选择不同的数值。
+    将height（高度）设置为**400**， 如果你对 Happy Birthday（生日快乐）的项目做了修改，你可能需要选择不同的数值。
     
     ![截屏](images/showcase-embed-fixed.png)
