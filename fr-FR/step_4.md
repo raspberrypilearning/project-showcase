@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Lien vers un trinket
 
-You can link to the web page for a trinket.
+Vous pouvez créer un lien vers la page Web pour un bijou.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Avez-vous gardé un lien vers votre bijou joyeux anniversaire? Si vous avez ensuite ouvert ce bijou dans un autre onglet ou une autre fenêtre du navigateur. Sinon, ouvrez l'exemple de bijou terminé: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Cliquez sur le menu Partager au-dessus de votre babiole et choisissez Lien:
 
-![screenshot](images/showcase-share1.png)
+![capture d'écran](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Si vous avez ouvert le bibelot à partir de votre compte, recherchez l'option Partager au-dessus de votre bibelot:
 
-![screenshot](images/showcase-share2.png)
+![capture d'écran](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Choisissez "Afficher uniquement le code ou le résultat (laissez les utilisateurs basculer entre eux)" et copiez le lien dans le bibelot. 
 
-![screenshot](images/showcase-get-link.png)
+![capture d'écran](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Retournez à votre babiole Project Showcase et ajoutez une rubrique `<h2>` et un lien vers votre projet Happy Birthday.
 
-![screenshot](images/showcase-link-trinket.png)
+![capture d'écran](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Testez votre page Web. Ça devrait ressembler a quelque chose comme ca:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Cliquez sur le lien Joyeux anniversaire pour vérifier qu'il vous mènera au bibelot.
