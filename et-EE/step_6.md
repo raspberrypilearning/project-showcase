@@ -2,23 +2,23 @@
 
 Lisaks trinketite linkimisele veebilehtedele saame need ka veebilehel manustada.
 
-+ Võite proovida töötada täisekraanirežiimis, nii et teil on rohkem ruumi:
++ Võid proovida täisekraanirežiimis töötamist, et sul oleks rohkem ruumi:
 
-![ekraanipilt](images/showcase-fullscreen.png)
+![kuvatõmmis](images/showcase-fullscreen.png)
 
-Täisekraani režiimi väljumiseks vajutage Esc.
+Täisekraanirežiimist väljumiseks vajuta Esc.
 
-+ Käivitage oma nips ja klõpsake linki Happy Birthday.
++ Käivita oma trinket ja klõpsa lingil Palju õnne sünnipäevaks.
 
-+ Klõpsake hiireklõpsu menüül ja valige **embed**. Kui te pole täisekraanirežiimis, võib teil olla vaja kerida. Klõpsake klaviatuuri paremal või alla all oleval noolel olevat kerimisriba.
++ Klõpsa trinketi menüül ja vali **manusta**. Kui sa pole täisekraanirežiimis, pead võib-olla kerima. Kasuta paremal olevat kerimisriba või noolt alla klaviatuuril.
 
-![ekraanipilt](images/showcase-embed-code.png)
+![kuvatõmmis](images/showcase-embed-code.png)
 
-+ Vali "Näita ainult koodi või tulemust (lubage kasutajatel nende vahel vahetada)" ja **kopeeri** prindikasse sisestatud koodi. 
++ Vali "Näita ainult koodi või tulemust (luba kasutajatel nende vahel lülitada)" ja **kopeeri** manustatud kood trinketile. 
 
-![ekraanipilt](images/showcase-embed.png)
+![kuvatõmmis](images/showcase-embed.png)
 
-+ Trinket on loonud mõne HTML-i, mida saaksite oma veebilehel lisada. Selles kasutatakse märgistust `<iframe>` mis lubab sisu sisestada lehele.
++ Trinket on loonud veidi HTML-i, mida saad oma veebilehele lisada. Selles kasutatakse märgistust `<iframe>` mis lubab sisu sisestada lehele.
 
 + Nüüd kleepige see kood Happy Birthday kleebise lingile all:
 
