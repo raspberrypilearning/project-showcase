@@ -1,6 +1,6 @@
-## Projektide kaasamine
+## Projektide manustamine
 
-Samuti võite veebilehtede nööbritega linkimisega lisada need ka veebilehele.
+Lisaks trinketite linkimisele veebilehtedele saame need ka veebilehel manustada.
 
 + Võite proovida töötada täisekraanirežiimis, nii et teil on rohkem ruumi:
 
