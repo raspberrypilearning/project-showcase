@@ -1,9 +1,9 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: täiustage oma showcase'i
+## Väljakutse: täiusta oma tutvustust
 
-Kasutage oma õpitu CSSi, et muuta teie leht huvitavamaks. Proovige muuta lehe taustavärvi või rubriiki kasutatud fonti.
+Kasuta õpitud CSSi, et muuta oma leht huvitavamaks. Proovi muuta lehe taustavärvi või rubriikide jaoks kasutatud fonti.
 
-Võite lisada ka mõningaid andmeid iga projekti kohta ja selle kohta, mis teile meeldis selle tegemiseks.
+Võid lisada ka pisut infot iga projekti kohta ja selle kohta, mis sulle selle projekti tegemise juures meeldis.
 
-\--- / väljakutse \---
+\--- /challenge \---
