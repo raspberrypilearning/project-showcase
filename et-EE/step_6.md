@@ -18,20 +18,20 @@ Täisekraanirežiimist väljumiseks vajuta Esc.
 
 ![kuvatõmmis](images/showcase-embed.png)
 
-+ Trinket on loonud veidi HTML-i, mida saad oma veebilehele lisada. Selles kasutatakse märgistust `<iframe>` mis lubab sisu sisestada lehele.
++ Trinket on loonud veidi HTML-i, mida saad oma veebilehele lisada. Selles kasutatakse silti `<iframe>`, mis lubab lehe piirides sisu manustada.
 
-+ Nüüd kleepige see kood Happy Birthday kleebise lingile all:
++ Nüüd kleebi see kood Palju õnne sünnipäevaks trinketini viiva lingi alla:
 
-![ekraanipilt](images/showcase-paste-embed.png)
+![kuvatõmmis](images/showcase-paste-embed.png)
 
-+ Proovige oma nippe katsetamiseks ja näed oma veebilehel põgusat õnne sünnipäeva projekti. 
++ Käivita oma trinket, et seda katsetada ja peaksid nägema Palju õnne sünnipäevaks projekti veebilehele manustatuna. 
 
-![ekraanipilt](images/showcase-embed-output.png)
+![kuvatõmmis](images/showcase-embed-output.png)
 
-+ Võite avastada, et teie nipsümboli põhja ei kuvata. Seda saab parandada `<iframe>`kõrguse väärtuse muutmisega. 
++ Võid avastada, et sinu trinketi alaosa ei kuvata. Seda saab parandada kõrguse väärtuse muutmisega `<iframe>`-l. 
 
-![ekraanipilt](images/showcase-embed-height.png)
+![kuvatõmmis](images/showcase-embed-height.png)
 
-Määrake kõrgus **400**. Kui te tegite muudatusi õnnelik sünnipäeva projektis, peate võib-olla valima teise väärtuse.
+Määra kõrguseks **400**. Kui tegid muudatusi Palju õnne sünnipäevaks projektis, pead võib-olla teise väärtuse valima.
 
-![ekraanipilt](images/showcase-embed-fixed.png)
+![kuvatõmmis](images/showcase-embed-fixed.png)
