@@ -2,9 +2,9 @@
 
 Võid veebilehele linkida trinketi.
 
-+ Kas hoidsite linki oma õnnelik sünnipäeva pruutmisega? Kui te siis avasite selle nipsu mõnes teises brauseri sakkis või aknas. Vastasel juhul avage valmis näpistüüp: <https://trinket.io/html/e996dc0380>
++ Kas hoidsite linki oma õnnelik sünnipäeva pruutmisega? Kui te siis avasite selle nipsu mõnes teises brauseri sakkis või aknas. Vastasel juhul ava valmis näidistrinket: <https://trinket.io/html/e996dc0380>
 
-+ Klõpsake oma privaatsuses oleval jagamise menüül ja valige link:
++ Klõpsa oma trinketi kohal oleval Jaga menüül ja vali link:
 
 ![ekraanipilt](images/showcase-share1.png)
 
