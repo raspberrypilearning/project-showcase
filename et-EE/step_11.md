@@ -1,23 +1,23 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: looge uus vitriin
+## Väljakutse: loo uus tutvustus
 
-Nutikaid ei ole ainus asi, mida saate veebisaidile lisada. Saate lisada videoid, vidinaid (nt ilmastiku vidinaid) või kriipsuprojekte.
+Trinketid pole ainus asi, mida saad veebilehele manustada. Saad lisada videoid, vidinaid (nt ilmastiku vidina) või Scratchi projekte.
 
-Avage Embed Scratch Näite pink ja aseta käsk: <https://trinket.io/html/9f7212b8fe>
+Ava Manusta Scratchi näidistrinket ja Käivita see: <https://trinket.io/html/9f7212b8fe>
 
-Mine Scratchi veebisaidile ja leidke projekt, mis teile meeldib. See võib olla üks teie või üks, mille olete leidnud.
+Mine Scratchi veebisaidile ja leia projekt, mis sulle meeldib. See võib olla üks sinu omadest või üks, mille oled leidnud.
 
-Kui olete sisse logitud, võite HTML-i manustamise koodi saamiseks klõpsata projekti allosas oleval nupul "Mandaat".
+Kui oled sisse loginud, võid HTML-i manustamise koodi saamiseks klõpsata projekti allosas oleval nupul "Manusta".
 
-![ekraanipilt](images/scratch-embed.png)
+![kuvatõmmis](images/scratch-embed.png)
 
-Kui te pole sisse loginud, siis otsige oma veebiaadressis Scratchi projekti numbrit.
+Kui sa pole sisse loginud, siis otsi Scratchi projekti numbrit selle veebiaadressis.
 
-![ekraanipilt](images/scratch-project-number.png)
+![kuvatõmmis](images/scratch-project-number.png)
 
-Koosta koodi `<iframe>` koopia Scratch Embed'i näites ja muutke projekti number selle projekti jaoks, mida soovite lisada.
+Tee koodi `<iframe>` koopia Scratchi Manustamise näites ja muuda projekti number selle projekti numbriks, mida soovid lisada:
 
-![ekraanipilt](images/scratch-iframe.png)
+![kuvatõmmis](images/scratch-iframe.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
