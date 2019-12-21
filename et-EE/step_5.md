@@ -1,4 +1,4 @@
-\--- väljakutse \---
+\--- challenge \---
 
 ## Väljakutse: loo oma projektide nimekiri
 
