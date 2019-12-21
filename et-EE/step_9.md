@@ -1,11 +1,11 @@
-## Tagasi üles
+## Tagasi üles saamine
 
-+ Samuti on kasulik minna lehe ülaossa. Selle HTML-i jaoks on `#top`.
++ Samuti on kasulik osata minna tagasi lehe ülaossa. HTML-il on selle jaoks on `#top`.
 
-+ Lisage oma veebilehele iga manustatud projekti jaoks link `#top`:
++ Lisa oma veebilehele link `#üles` peale iga manustatud projekti:
 
-![ekraanipilt](images/showcase-top-code.png)
+![kuvatõmmis](images/showcase-top-code.png)
 
-![ekraanipilt](images/showcase-top-output.png)
+![kuvatõmmis](images/showcase-top-output.png)
 
-+ Katsetage oma linke, klikkides lehe ülaosas asuval nupul Top.
++ Katseta oma linke, klikkides Üles, et minna tagasi lehe ülaossa.
