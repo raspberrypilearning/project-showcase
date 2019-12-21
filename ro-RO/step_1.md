@@ -20,13 +20,13 @@ Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pe
 
 Îți recomandăm să folosești [trinket](https://trinket.io/) pentru a scrie HTML și CSS online. Acest proiect conține următorul trinket:
 
-* [Punct de plecare "Proiectele mele" -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punct de plecare "Prezentarea proiectelor" -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* ["Proiectele mele terminat" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["Prezentarea proiectelor terminat" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Resurse offline
 
@@ -69,7 +69,7 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 ## Resursele proiectului
 
 * [fișier .zip care conține toate resursele proiectului](resources/showcase-project-resources.zip)
-* [Trinket online care conține toate resursele proiectului „Proiectele mele”](http://jumpto.cc/web-showcase)
+* [Trinket online care conține toate resursele proiectului „Prezentarea proiectelor”](http://jumpto.cc/web-showcase)
 * [Șablon Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online gol](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
