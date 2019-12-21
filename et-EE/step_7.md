@@ -1,7 +1,7 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Challenge: Embed rohkem projekte
+## Väljakutse: Manusta rohkem projekte
 
-Lisage rohkem oma projekte esile. Pidage meeles, et saate hõlpsasti oma nalja lehti leida, klikkides oma veebisaidi linkidel.
+Lisa Tutvustusse rohkem oma projekte. Pea meeles, et saad oma veebisaidi linkidel klõpsates hõlpsasti nende trinketi-lehed leida.
 
-\--- / väljakutse \---
+\--- /challenge \---
