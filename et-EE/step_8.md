@@ -1,10 +1,10 @@
 ## Loo sisukord
 
-Lisame sisukorra, et saaksime igale projektile kergesti juurde pääseda.
+Lisame sisukorra, et saaksime igale projektile kergesti ligi pääseda.
 
 + Lisaks sellele, et meil on võimalik linkida ka teisi veebilehti, võime linkida veebilehe osi, kui anname neile ID. 
 
-Palju õnne sünnipäeva projekti jaoks lisage ID-i rubriiki `<h2>`:
+Palju õnne sünnipäevaks projekti jaoks lisage Id rubriiki `<h2>`:
 
 ![ekraanipilt](images/showcase-id.png)
 
