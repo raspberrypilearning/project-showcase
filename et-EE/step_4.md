@@ -16,7 +16,7 @@ Kui sa avasid trinketi oma kontolt, siis otsi selle asemel sinu trinketi kohal o
 
 ![kuvatõmmis](images/showcase-get-link.png)
 
-+ Mine tagasi oma Projekti tutvustamise trinketisse ja lisa `<h2>` pealkiri ja link oma Palju õnne sünnipäevaks projektile.
++ Mine tagasi oma Projekti tutvustamise trinketisse ja lisa `<h2>` rubriik ja link oma Palju õnne sünnipäevaks projektile.
 
 ![kuvatõmmis](images/showcase-link-trinket.png)
 
