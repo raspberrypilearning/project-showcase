@@ -22,7 +22,7 @@ Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS onli
 
 * [Ponto de partida 'Projeto Mostruário' -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, elas podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um trinket contendo uma solução de exemplo para os desafios:
 
@@ -44,7 +44,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 (Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e voluntário.)
 
-Observe que, se as crianças concluírem seus outros projetos offline, elas não poderão incorporá-los, mas ainda assim poderão vinculá-los a elas.
+Observe que, se as crianças concluírem seus outros projetos offline, elas não poderão incorporá-los, mas ainda assim poderão vinculá-los a eles.
 
 ## Objetivos do Aprendizado
 
