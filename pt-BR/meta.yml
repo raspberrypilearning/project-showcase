@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Nesse projeto, você irá criar um mostruário de seus projetos HTML e aprender sobre links e recursos embutidos.
+description: Crie um mostruário de seus projetos.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,7 +18,7 @@ version: 3
 last_tested: 01/01/2017
 steps:
   - 
-    title: Projeto Mostruário
+    title: Introdução
   - 
     title: Adicionando Links para Páginas da Web
   - 
@@ -30,7 +30,7 @@ steps:
   - 
     title: Incorporando Projetos
   - 
-    title: 'Desafio: Mais Projetos Incorporados'
+    title: 'Desafio: Incorpore Mais Projetos'
   - 
     title: Crie um índice
   - 
