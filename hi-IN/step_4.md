@@ -8,11 +8,11 @@
 
 ![screenshot](images/showcase-share1.png)
 
-यदि आपने अपने खाते से Trinket खोला है, तो इसके बजाय अपने Trinket के ऊपर शेयर विकल्प को खोजें:
+यदि आपने अपने खाते से ट्रिंकेट खोला है, तो इसके बजाय अपने ट्रिंकेट के ऊपर शेयर विकल्प को खोजें:
 
 ![screenshot](images/showcase-share2.png)
 
-+ 'Only show code or result (let users toggle between them)' चुने और लिंक को Trinket में कॉपी करें। 
++ 'Only show code or result (let users toggle between them)' चुने और लिंक को ट्रिंकेट में कॉपी करें। 
 
 ![screenshot](images/showcase-get-link.png)
 
