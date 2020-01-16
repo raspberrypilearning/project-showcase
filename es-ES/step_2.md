@@ -1,18 +1,18 @@
-## AAñadir enlaces a páginas web
+## Añadir enlaces a páginas web
 
 Text links allow you to click on words to go to another web page; they are usually underlined.
 
 + Abre este Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    El proyecto debería parecerse a esto:
+    El proyecto debería tener este aspecto:
     
     ![captura de pantalla](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ En HTML se utiliza la etiqueta `<a>` para los enlaces.
 
 ![captura de pantalla](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Encuentra la etiqueta `<a>` en tu proyecto. 
 
 ![captura de pantalla](images/showcase-a-template.png)
 
@@ -20,23 +20,23 @@ Text links allow you to click on words to go to another web page; they are usual
 
 ![captura de pantalla](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Haz clic en “Run” (ejecutar) para probar tu trinket.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Haz clic en el enlace de Code Club para probar tu página web. Tu trinket mostrará la página de Code Club: 
 
 ![captura de pantalla](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Para volver a tu página web puedes:
     
-    + Run your trinket again,
+    + Run (ejecutar) tu trinket de nuevo,
     
-    + Tap the Backspace key on the keyboard, or
+    + Pulsar la tecla de Retroceso (Backspace) en el teclado, o
     
-    + Right-click and choose Back.
+    + Hacer clic en el botón derecho del ratón y seleccionar Atrás.
 
-+ Now put your link into a sentence inside a paragraph:
++ Ahora incluye el enlace en una frase dentro de un párrafo:
 
 ![captura de pantalla](images/showcase-paragraph.png)
 
