@@ -50,15 +50,15 @@ Hay que tener en cuenta que si los niños completan sus otros proyectos sin cone
 
 * Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. También muestra cómo incrustar trinkets y proyectos de Scratch en una página web. 
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto trata elementos de las siguientes ramas del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Retos
+## Desafíos
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* “Añade otro enlace” - Añadir enlaces a más páginas web;
+* “Crea una lista de tus proyectos” - Crear enlaces a proyectos web anteriores;
+* “Incrusta más proyectos” - Usar CSS para crear nuevos estilos.
 
 \--- /collapse \---
 
@@ -69,9 +69,9 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 ## Recursos del proyecto
 
 * [Archivo .zip que contiene todos los recursos del proyecto](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Trinket en línea que contiene todos los recursos del proyecto 'Presentación de Proyectos'](http://jumpto.cc/web-showcase)
+* [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
+* [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
