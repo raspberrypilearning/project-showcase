@@ -48,7 +48,7 @@ Hay que tener en cuenta que si los niños completan sus otros proyectos sin cone
 
 ## Objetivos de Aprendizaje
 
-* Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. También muestra cómo incrustar trinkets y proyectos de Scratch en una página web. 
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
