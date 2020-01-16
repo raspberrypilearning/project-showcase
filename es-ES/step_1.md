@@ -10,7 +10,7 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## \--- collapse \---
 
-## título: Notas del líder del club
+## título: Notas para el líder del club
 
 ## Introducción:
 
@@ -18,15 +18,15 @@ En este proyecto se introduce a los niños en los hiperenlaces y la incrustraci�
 
 ## Recursos en línea
 
-Recomendamos usar [trinket](https://trinket.io/) para programar en HTML & CSS en línea. Este proyecto contiene el siguiente trinket:
+Se recomienda usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea. Este proyecto contiene el siguiente trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punto de partida 'Presentación de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Los niños también puede usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También hay un trinket que contiene una solución de ejemplo para los desafíos:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Presentación de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Recursos sin conexión
 
@@ -77,7 +77,7 @@ Este proyecto trata elementos de las siguientes ramas del [Currículo de creaci�
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Recursos para los líderes de clubes
+## Recursos para el líder del club
 
 * [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/showcase-volunteer-resources.zip)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/1d4d4c5ce1)
