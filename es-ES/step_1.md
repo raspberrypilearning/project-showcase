@@ -14,7 +14,7 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto se introduce a los niños en los hiperenlaces y la incorporación dentro de una página web de trinkets y projectos de Scratch.
+En este proyecto se introduce a los niños en los hiperenlaces y la incrustración dentro de una página web de trinkets y projectos de Scratch.
 
 ## Recursos en línea
 
@@ -30,25 +30,25 @@ También hay un trinket que contiene una solución de ejemplo para los desafíos
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' en este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto'. Este enlace contiene una sección denominada 'Recursos del Proyecto', que incluye aquellos recursos que los niños necesitarán para poder completar el proyecto sin conexión. Hay que asegurarse de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-También puede encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
+También se puede encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para Voluntarios', que contiene:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
 (Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Hay que tener en cuenta que si los niños completan sus otros proyectos sin conexión, entonces no podrán incrustrarlos, aunque sí podrán enlazarlos.
 
-## Objetivos del Aprendizaje
+## Objetivos de Aprendizaje
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
