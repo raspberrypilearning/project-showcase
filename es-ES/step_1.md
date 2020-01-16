@@ -22,9 +22,9 @@ Recomendamos usar [trinket](https://trinket.io/) para programar en HTML & CSS en
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Los niños también pueden hacer uso de esta baratija en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también puede usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-También hay una baratija que contiene una solución de muestra para los desafíos:
+También hay un trinket que contiene una solución de ejemplo para los desafíos:
 
 * ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
