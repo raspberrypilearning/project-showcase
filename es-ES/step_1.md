@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto crearás una presentación de tus proyectos HTML y aprenderás sobre enlaces y recursos incrustrados.
+En este proyecto vas a crear una presentación de tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
 
 ![captura de pantalla](images/showcase-intro.png)
 
@@ -14,11 +14,11 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## Introducción:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+En este proyecto se introduce a los niños en los hiperenlaces y la incorporación dentro de una página web de trinkets y projectos de Scratch.
 
 ## Recursos en línea
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Recomendamos usar [trinket](https://trinket.io/) para programar en HTML & CSS en línea. Este proyecto contiene el siguiente trinket:
 
 * ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
