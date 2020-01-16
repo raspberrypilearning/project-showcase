@@ -1,12 +1,12 @@
 ## Introducción
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+En este proyecto crearás una presentación de tus proyectos HTML y aprenderás sobre enlaces y recursos incrustrados.
 
 ![captura de pantalla](images/showcase-intro.png)
 
 ### Información adicional para líderes de club
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
