@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto vas a crear una presentación de tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
+En este proyecto vas a crear un escaparate de tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
 
 ![captura de pantalla](images/showcase-intro.png)
 
@@ -20,13 +20,13 @@ En este proyecto se introduce a los niños en los hiperenlaces y la incrustraci�
 
 Se recomienda usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea. Este proyecto contiene el siguiente trinket:
 
-* [Punto de partida 'Presentación de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punto de partida 'Escaparate de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Los niños también puede usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También hay un trinket que contiene una solución de ejemplo para los desafíos:
 
-* ['Presentación de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Escaparate de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Recursos sin conexión
 
