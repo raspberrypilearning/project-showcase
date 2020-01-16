@@ -1,6 +1,6 @@
 ## Añadir enlaces a páginas web
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras páginas web. Normalmente están subrayados.
 
 + Abre este Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
@@ -16,7 +16,7 @@ Text links allow you to click on words to go to another web page; they are usual
 
 ![captura de pantalla](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Añade la dirección de tu Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) y el texto del enlace:
 
 ![captura de pantalla](images/showcase-code-club.png)
 
@@ -40,4 +40,4 @@ Text links allow you to click on words to go to another web page; they are usual
 
 ![captura de pantalla](images/showcase-paragraph.png)
 
-Test your webpage.
+Prueba tu página web.
