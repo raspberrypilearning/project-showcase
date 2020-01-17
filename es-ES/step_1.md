@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto vas a crear un escaparate de tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
+En este proyecto vas a crear un expositor para tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
 
 ![captura de pantalla](images/showcase-intro.png)
 
@@ -50,7 +50,7 @@ Hay que tener en cuenta que si los niños completan sus otros proyectos sin cone
 
 * Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. También muestra cómo incrustar trinkets y proyectos de Scratch en una página web. 
 
-Este proyecto trata elementos de las siguientes ramas del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto trata elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
@@ -69,7 +69,7 @@ Este proyecto trata elementos de las siguientes ramas del [Currículo de creaci�
 ## Recursos del proyecto
 
 * [Archivo .zip que contiene todos los recursos del proyecto](resources/showcase-project-resources.zip)
-* [Trinket en línea que contiene todos los recursos del proyecto 'Presentación de Proyectos'](http://jumpto.cc/web-showcase)
+* [Trinket en línea que contiene todos los recursos del proyecto 'Expositor de Proyectos'](http://jumpto.cc/web-showcase)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
 * [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
