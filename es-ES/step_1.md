@@ -14,23 +14,23 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto se introduce a los niños en los hiperenlaces y la incrustración dentro de una página web de trinkets y projectos de Scratch.
+En este proyecto se presenta a los niños los hiperenlaces y la incrustración de trinkets y projectos de Scratch dentro de una página web.
 
 ## Recursos en línea
 
 Se recomienda usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea. Este proyecto contiene el siguiente trinket:
 
-* [Punto de partida 'Escaparate de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punto de partida 'Expositor de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
 Los niños también puede usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-También hay un trinket que contiene una solución de ejemplo para los desafíos:
+También existe un trinket que contiene una solución de ejemplo de los desafíos:
 
-* ['Escaparate de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Expositor de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto'. Este enlace contiene una sección denominada 'Recursos del Proyecto', que incluye aquellos recursos que los niños necesitarán para poder completar el proyecto sin conexión. Hay que asegurarse de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto'. Este enlace contiene una sección denominada 'Recursos del Proyecto', que incluye aquellos recursos que los niños necesitarán para poder completar el proyecto sin conexión. Debes asegurarte de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * project-showcase/index.html
 * project-showcase/style.css
