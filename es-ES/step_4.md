@@ -4,11 +4,11 @@ Puedes enlazar la página web con un trinket.
 
 + ¿Guardaste un enlace a tu trinket de Feliz Cumpleaños? Si lo hiciste, entonces abre ese trinket en otra pestaña o ventana del navegador. Si no, abre el trinket de ejemplo ya terminado: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Haz clic en el menú Share (compartir) que hay en la parte superior de la pantalla, y selecciona Link (enlace):
 
 ![captura de pantalla](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Si has abierto el trinket desde tu cuenta, entonces la opción de Share se encontrará encima de tu trinket:
 
 ![captura de pantalla](images/showcase-share2.png)
 
