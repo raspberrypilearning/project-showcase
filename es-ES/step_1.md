@@ -22,7 +22,7 @@ Se recomienda usar [trinket](https://trinket.io/) para programar en HTML y CSS e
 
 * [Punto de partida 'Expositor de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Los niños también puede usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También existe un trinket que contiene una solución de ejemplo de los desafíos:
 
@@ -37,18 +37,18 @@ Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.or
 * template/template.html
 * template/style.css
 
-También se puede encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para Voluntarios', que contiene:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
 (Todos los recursos anteriores también se pueden descargar como archivos `.zip` de proyectos y voluntarios.)
 
-Hay que tener en cuenta que si los niños completan sus otros proyectos sin conexión, entonces no podrán incrustrarlos, aunque sí podrán enlazarlos.
+Hay que tener en cuenta que si los niños completan sus otros proyectos sin conexión, entonces no los podrán incrustrar, aunque sí los podrán enlazar.
 
 ## Objetivos de Aprendizaje
 
-* Este proyecto trata sobre enlaces de texto a otras páginas web y a ids con nombre dentro de una página. También muestra cómo incrustar trinkets y proyectos de Scratch en una página web. 
+* Este proyecto presenta los enlaces de texto a otras páginas web y a ids con nombre dentro de una página. También muestra cómo incrustar trinkets y proyectos de Scratch en una página web. 
 
 Este proyecto trata elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
@@ -57,8 +57,8 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 ## Desafíos
 
 * “Añade otro enlace” - Añadir enlaces a más páginas web;
-* “Crea una lista de tus proyectos” - Crear enlaces a proyectos web anteriores;
-* “Incrusta más proyectos” - Usar CSS para crear nuevos estilos.
+* “Crea una lista de tus proyectos” - Crea enlaces a proyectos web anteriores;
+* “Incrusta más proyectos” - Utiliza CSS para crear nuevos estilos.
 
 \--- /collapse \---
 
@@ -79,8 +79,8 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 
 ## Recursos para el líder del club
 
-* [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/showcase-volunteer-resources.zip)
-* [Proyecto Trinket terminado en línea](https://trinket.io/html/1d4d4c5ce1)
+* [Archivo.zip que contiene todos los recursos de proyecto completado](resources/showcase-volunteer-resources.zip)
+* [Proyecto Trinket completado en línea](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
