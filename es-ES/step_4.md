@@ -12,16 +12,16 @@ Si has abierto el trinket desde tu cuenta, entonces la opción de Share se encon
 
 ![captura de pantalla](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Selecciona la opción ‘Only show code or result (let users toggle between them)’, que significa: 'Sólo muestra código o resultado (permitir que los usuarios alternen entre los dos)', y copia el enlace al trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![captura de pantalla](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Vuelve a tu trinket del Expositor de Proyectos y añade una etiqueta de encabezado (o cabecera) `<h2>` y un enlace a tu proyecto de Feliz Cumpleaños.
 
 ![captura de pantalla](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Prueba tu página web. Debería tener un aspecto como éste:
 
 ![captura de pantalla](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Haz clic en el enlace de Feliz Cumpleaños para comprobar que te lleve al trinket.
