@@ -1,8 +1,8 @@
 ## Enlace a un trinket
 
-You can link to the web page for a trinket.
+Puedes enlazar la página web con un trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ ¿Guardaste un enlace a tu trinket de Feliz Cumpleaños? Si lo hiciste, entonces abre ese trinket en otra pestaña o ventana del navegador. Si no, abre el trinket de ejemplo ya terminado: <https://trinket.io/html/e996dc0380>
 
 + Click on the Share menu above your trinket and choose Link:
 
