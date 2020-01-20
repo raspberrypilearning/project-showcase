@@ -22,7 +22,7 @@ Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras p�
 
 + Haz clic en el botón Run (ejecutar) para probar tu trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![captura de pantalla](images/showcase-cc-output.png)
 
 + Haz clic en el enlace de Code Club para probar tu página web. Tu trinket mostrará la página de Code Club: 
 
