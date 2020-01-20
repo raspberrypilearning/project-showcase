@@ -8,30 +8,30 @@ Además de crear enlaces a trinkets como páginas web, también se pueden incrus
 
 Presiona la tecla Esc para salir del modo de pantalla completa.
 
-+ Run (ejecuta) tu trinket y haz clic en el enlace de Cumpleaños Feliz.
++ Ejecuta (Run) tu trinket y haz clic en el enlace de Cumpleaños Feliz.
 
 + Haz clic en el menú de trinket y selecciona **embed**. Es posible que tengas que desplazarte hacia abajo si no estás en modo de pantalla completa. Utiliza la barra de desplazamiento de la derecha o la flecha hacia abajo del teclado.
 
 ![captura de pantalla](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Selecciona ‘Only show code or result (let users toggle between them)’, que significa “Sólo muestra código o resultado (permitir que los usuarios alternen entre los dos) y copia el código incrustado para el trinket. 
 
 ![screenshot](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Trinket ha creado código HTML para que lo incluyas en tu página web. Éste utiliza una etiqueta `<iframe>` que permite que se pueda incrustrar contenido dentro de una página web.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ Ahora pega ese código debajo del enlace al trinket de Cumpleaños Feliz:
 
 ![captura de pantalla](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ Ejecuta (Run) tu trinket para probarlo. Deberías ver el proyecto de Feliz Cumpleaños incrustrado en la página web. 
 
 ![captura de pantalla](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ Podría ser que la parte inferior de tu trinket no se vea. Puedes solucionarlo cambiando el valor de la altura (height) en la etiqueta `<iframe>`. 
 
 ![captura de pantalla](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Establece el valor de la altura en **400**. Si realizaste algún cambio en el proyecto de Feliz Cumpleaños es posible que necesites seleccionar un valor diferente.
 
 ![screenshot](images/showcase-embed-fixed.png)
