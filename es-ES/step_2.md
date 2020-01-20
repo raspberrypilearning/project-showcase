@@ -20,7 +20,7 @@ Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras p�
 
 ![captura de pantalla](images/showcase-code-club.png)
 
-+ Haz clic en “Run” (ejecutar) para probar tu trinket.
++ Haz clic en el botón Run (ejecutar) para probar tu trinket.
 
 ![screenshot](images/showcase-cc-output.png)
 
@@ -36,7 +36,7 @@ Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras p�
     
     + Hacer clic en el botón derecho del ratón y seleccionar Atrás.
 
-+ Ahora incluye el enlace en una frase dentro de un párrafo:
++ Ahora pon tu enlace en una frase dentro de un párrafo:
 
 ![captura de pantalla](images/showcase-paragraph.png)
 
