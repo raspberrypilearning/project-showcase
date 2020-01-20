@@ -1,6 +1,6 @@
 \--- desafío \---
 
-## Desafío: Mejora tu Expositor
+## Desafío: Mejora tu expositor
 
 Utiliza el CSS que has aprendido para hacer tu página más interesante. Prueba cambiando el color de fondo de la página o el tipo de fuente de los encabezados.
 
