@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto vas a crear un expositor para tus proyectos HTML y vas a aprender sobre enlaces e incrustración de recursos.
+En este proyecto vas a crear un expositor para tus proyectos HTML y vas a aprender acerca de enlaces e incrustración de recursos.
 
 ![captura de pantalla](images/showcase-intro.png)
 
@@ -10,11 +10,11 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## \--- collapse \---
 
-## título: Notas para el líder del club
+## title: Notas para el líder del club
 
 ## Introducción:
 
-En este proyecto se presenta a los niños los hiperenlaces y la incrustración de trinkets y projectos de Scratch dentro de una página web.
+En este proyecto se va a explicar a los niños los hiperenlaces y la incrustración de trinkets y projectos de Scratch dentro de una página web.
 
 ## Recursos en línea
 
