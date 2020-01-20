@@ -14,15 +14,15 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto se va a explicar a los niños los hiperenlaces y la incrustración de trinkets y projectos de Scratch dentro de una página web.
+En este proyecto se introduce a los niños los hiperenlaces y la incrustración de trinkets y projectos de Scratch dentro de una página web.
 
 ## Recursos en línea
 
-Se recomienda usar [trinket](https://trinket.io/) para programar en HTML y CSS en línea. Este proyecto contiene el siguiente trinket:
+Recomendamos usar [trinket](https://trinket.io/) para programar en HTML & CSS en línea. Este proyecto contiene el siguiente trinket:
 
-* [Punto de partida 'Expositor de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punto de partida para 'Expositor de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Los niños también pueden usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML y CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o bien esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También existe un trinket que contiene una solución de ejemplo de los desafíos:
 
