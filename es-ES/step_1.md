@@ -80,7 +80,7 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 ## Recursos para los líderes de clubes
 
 * [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/showcase-volunteer-resources.zip)
-* [Proyecto Trinket completado en línea](https://trinket.io/html/1d4d4c5ce1)
+* [Proyecto Trinket terminado en línea](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
