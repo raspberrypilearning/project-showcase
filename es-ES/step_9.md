@@ -1,11 +1,11 @@
-## Volver al principio
+## Volver arriba o volver al inicio
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ También resulta práctico poder volver al inicio de la página. HTML tiene `#top` con este propósito.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Añade un enlace para volver arriba `#top` después de cada proyecto incrustrado en tu página web:
 
 ![captura de pantalla](images/showcase-top-code.png)
 
 ![captura de pantalla](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Prueba tus enlaces haciendo clic en Arriba (Top) para volver al inicio de la página.
