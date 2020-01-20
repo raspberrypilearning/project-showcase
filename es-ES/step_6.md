@@ -1,16 +1,16 @@
 ## Incrustar proyectos
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Además de crear enlaces a trinkets como páginas web, también se pueden incrustrar dentro deuna página web.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Es posible que prefieras trabajar en modo pantalla completa para tener más espacio:
 
 ![captura de pantalla](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Presiona la tecla Esc para salir del modo de pantalla completa.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Run (ejecuta) tu trinket y haz clic en el enlace de Cumpleaños Feliz.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Haz clic en el menú de trinket y selecciona **embed**. Es posible que tengas que desplazarte hacia abajo si no estás en modo de pantalla completa. Utiliza la barra de desplazamiento de la derecha o la flecha hacia abajo del teclado.
 
 ![captura de pantalla](images/showcase-embed-code.png)
 
