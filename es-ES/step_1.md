@@ -26,7 +26,7 @@ Los niños también pueden usar este trinket en blanco [(jumpto.cc/html-blank)](
 
 También existe un trinket que contiene una solución de ejemplo de los desafíos:
 
-* ['Expositor de Proyectos Completado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Expositor de Proyectos Terminado' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Recursos sin conexión
 
