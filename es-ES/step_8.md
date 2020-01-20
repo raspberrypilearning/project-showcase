@@ -14,7 +14,7 @@ Añade un id a la cabecera `<h2>` del proyecto Feliz Cumpleaños:
 
 Crea una lista ordenada de los enlaces a tus proyectos. (Las listas ordenadas se explican en el proyecto Receta.)
 
-![screenshot](images/showcase-list.png)
+![captura de pantalla](images/showcase-list.png)
 
 + Ejecuta (Run) tu proyecto y pruébalo haciendo clic en los enlaces para moverte por tus proyectos. 
 
