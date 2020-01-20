@@ -10,12 +10,12 @@ Añade un id a la cabecera `<h2>` del proyecto Feliz Cumpleaños:
 
 + Añade ids a cada uno de tus proyectos y asígnales nombres cortos: cuento, busca, receta y carta.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Puedes crear un enlace a un elemento con un id insertando el símbolo de la almohadilla ‘#’ delante de su nombre. Por ejemplo, `#cumpleaños`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Crea una lista ordenada de los enlaces a tus proyectos. (Las listas ordenadas se explican en el proyecto Receta.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Ejecuta (Run) tu proyecto y pruébalo haciendo clic en los enlaces para moverte por tus proyectos. 
 
 ![captura de pantalla](images/showcase-list-output.png)
