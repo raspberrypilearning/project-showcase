@@ -16,8 +16,8 @@ Si no tienes los enlaces a los proyectos que has creado, entonces puedes utiliza
 
 + Carta Misteriosa: <https://trinket.io/html/1d4d4c5ce1>
 
-Tu página web debería tener un aspecto como éste:
+Tu página web terminada debería tener un aspecto como éste:
 
-![screenshot](images/showcase-h2-projects.png)
+![captura de pantalla](images/showcase-h2-projects.png)
 
 \--- /challenge \---
