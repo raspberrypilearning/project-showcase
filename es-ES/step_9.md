@@ -1,6 +1,6 @@
-## Volver arriba o volver al inicio
+## Volver arriba
 
-+ También resulta práctico poder volver al inicio de la página. HTML tiene `#top` con este propósito.
++ También resulta práctico poder volver al inicio de la página. En HTML se puede utilizar `#top` para este propósito.
 
 + Añade un enlace para volver arriba `#top` después de cada proyecto incrustrado en tu página web:
 
@@ -8,4 +8,4 @@
 
 ![captura de pantalla](images/showcase-top-output.png)
 
-+ Prueba tus enlaces haciendo clic en Arriba (Top) para volver al inicio de la página.
++ Prueba tus enlaces haciendo clic en Arriba para volver al inicio de la página.
