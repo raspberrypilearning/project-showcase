@@ -18,6 +18,6 @@ Si no has iniciado sesión, entonces busca el número de proyecto de Scratch en 
 
 Haz una copia del código `<iframe>` en el trinket del ejemplo de incrustración de Scratch y cambia el número del proyecto por el del proyecto que quieres incrustar:
 
-![screenshot](images/scratch-iframe.png)
+![captura de pantalla](images/scratch-iframe.png)
 
 \--- /challenge \---
