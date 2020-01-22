@@ -56,7 +56,7 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 
 ## Desafíos
 
-* “Añade otro enlace” - Añadir enlaces a más páginas web;
+* “Añade otro enlace” - Añade enlaces a más páginas web;
 * “Crea una lista de tus proyectos” - Crea enlaces a proyectos web anteriores;
 * “Incrusta más proyectos” - Utiliza CSS para crear nuevos estilos.
 
