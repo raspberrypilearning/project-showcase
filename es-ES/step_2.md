@@ -2,7 +2,7 @@
 
 Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras páginas web. Normalmente están subrayados.
 
-+ Abre este Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Abre este trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     El proyecto debería tener este aspecto:
     
