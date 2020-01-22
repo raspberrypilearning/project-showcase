@@ -2,7 +2,7 @@
 
 ## Desafío: Crea un nuevo expositor
 
-Trinkets no es lo único que se puede incrustar en una página web. También puedes incrustar vídeos, widgets (como un widget del tiempo) o proyectos de Scratch.
+Trinkets no es lo único que se puede incrustar en una página web. También puedes incrustar vídeos, widgets (por ejemplo un widget del tiempo) o proyectos de Scratch.
 
 Abre este trinket incrustado de Scratch de ejemplo y ejecútalo: <https://trinket.io/html/9f7212b8fe>
 
