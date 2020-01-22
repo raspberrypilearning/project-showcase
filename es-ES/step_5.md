@@ -8,9 +8,9 @@ Si no tienes los enlaces a los proyectos que has creado, entonces puedes utiliza
 
 + Feliz Cumpleaños: <https://trinket.io/html/e996dc0380>
 
-+ Cuenta un Cuento: <https://trinket.io/html/c8afdef912>
++ Cuenta una historia: <https://trinket.io/html/c8afdef912>
 
-+ Se Busca: <https://trinket.io/html/ebeb56398a>
++ ¡Se busca!: <https://trinket.io/html/ebeb56398a>
 
 + Receta: <https://trinket.io/html/c0fd9b40cd>
 
