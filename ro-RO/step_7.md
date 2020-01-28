@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Provocare: Încorporează mai multe proiecte
+## Challenge: Embed More Projects
 
-Încorporează mai multe dintre proiectele tale în prezentare. Ține minte că poți găsi cu ușurință paginile trinket-urilor prin apăsarea link-urilor de pe pagina ta web.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
 \--- /challenge \---
