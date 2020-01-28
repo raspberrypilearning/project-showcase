@@ -1,7 +1,7 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Meydan Okuma: Daha Fazla Proje Yerleştirme
+## Challenge: Embed More Projects
 
-Projelerinizden daha fazlasını Vitrin'e yerleştirin. Web sayfanızdaki bağlantıları tıklayarak trinket sayfalarını kolayca bulabileceğinizi unutmayın.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
 \--- /challenge \---
