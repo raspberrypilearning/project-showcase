@@ -1,37 +1,37 @@
-## Projektek beágyazása
+## Embedding Projects
 
-A csecsebecsékhez és a weboldalakhoz történő hivatkozás mellett beágyazhatjuk őket egy weboldalba.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Lehet, hogy megpróbálhatja teljes képernyős módban dolgozni, hogy több hely maradjon:
++ You might want to try working in Fullscreen mode so you have more space:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Nyomja meg az Esc gombot a teljes képernyős módból való kilépéshez.
+Press Esc to exit Fullscreen mode.
 
-+ Futtassa az csecsebecsét, és kattintson a Boldog születésnapot linkre.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Kattintson a csecsebecsék menüre, és válassza a **beágyazást**. Ha nem teljes képernyős módban van, akkor lehet, hogy görgetnie kell. Használja a jobb oldali görgetősávot vagy a billentyűzet lefelé mutató nyílát.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Válassza a "Csak a kódot vagy az eredményt jelenítse meg (hagyja, hogy a felhasználók váltsanak köztük") lehetőséget, és **másolja az** es beillesztési kódot. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![képernyőkép](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ A Trinket létrehozott néhány HTML-kódot az Ön weboldalához való beillesztéshez. `<iframe>` címkét használ, amely lehetővé teszi a tartalom beágyazását az oldalba.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Most illessze be ezt a kódot a Happy Birthday csecsebecsére mutató hivatkozás alá:
++ Now paste that code under the link to the Happy Birthday trinket:
 
 ![screenshot](images/showcase-paste-embed.png)
 
-+ Futtassa az csecsebecsét tesztelés céljából, és látnia kell a Happy Birthday projektet a weboldalba ágyazottan. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
 ![screenshot](images/showcase-embed-output.png)
 
-+ Előfordulhat, hogy a csecsebecsék alja nem jelenik meg. Ezt úgy javíthatja, ha megváltoztatja a `<iframe>`magassági értékét. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Állítsa a magasságot **400**értékre. Ha módosította a Happy Birthday projektet, akkor lehet, hogy más értéket kell választania.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
 ![screenshot](images/showcase-embed-fixed.png)
