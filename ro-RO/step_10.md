@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Provocare: Îmbunătățește-ți prezentarea
+## Challenge: Improve Your Showcase
 
-Folosește noținuile CSS pe care le-ai învățat pentru a face pagina ta mai interesantă. Încearcă să schimbi culoarea de fundal a paginii sau fontul utilizat pentru heading-uri.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-De asemenea, poți adăuga informații despre fiecare proiect și ce ți-a plăcut în crearea acestora.
+You can also add some information about each project and what you liked about making it.
 
 \--- /challenge \---
