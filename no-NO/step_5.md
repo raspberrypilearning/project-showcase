@@ -1,23 +1,23 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Opprett en liste over dine prosjekter
+## Challenge: Create a List of Your Projects
 
-Legg til noen av de andre HTML & CSS-prosjektene du har opprettet på Code Club. Bruk `<h2>` overskrifter for å organisere nettsiden din.
+Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
-Hvis du ikke har koblinger til prosjektene du opprettet, kan du bruke Code Club-eksemplene:
+If you don't have links to the projects you created then you can use the Code Club examples:
 
-+ Gratulerer med dagen: <https://trinket.io/html/e996dc0380>
++ Happy Birthday: <https://trinket.io/html/e996dc0380>
 
-+ Fortell en historie: <https://trinket.io/html/c8afdef912>
++ Tell a Story: <https://trinket.io/html/c8afdef912>
 
-+ Ønsket: <https://trinket.io/html/ebeb56398a>
++ Wanted: <https://trinket.io/html/ebeb56398a>
 
-+ Oppskrift: <https://trinket.io/html/c0fd9b40cd>
++ Recipe: <https://trinket.io/html/c0fd9b40cd>
 
 + Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Din ferdige side skal se slik ut:
+Your finished page should look something like this:
 
-![skjermbilde](images/showcase-h2-projects.png)
+![screenshot](images/showcase-h2-projects.png)
 
-\--- /utfordring \---
+\--- /challenge \---
