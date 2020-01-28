@@ -1,21 +1,21 @@
-## Crée un sommaire
+## Create a Table of Contents
 
-Ajoutons une table des matières pour pouvoir accéder facilement à chaque projet.
+Let's add a Table of Contents so we can easily get to each project.
 
-+ En plus de pouvoir créer des liens vers d'autres pages Web, nous pouvons créer des liens vers des parties d'une page Web si nous leur donnons un identifiant. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-Ajoutez un identifiant à l'en-tête `<h2>` du projet Happy Birthday:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
 ![screenshot](images/showcase-id.png)
 
-+ Ajoutez des identifiants à chacun de vos projets et attribuez-leur des noms abrégés: histoire, recherche, recette et lettre.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ Vous pouvez créer un lien vers un élément avec un identifiant en plaçant un symbole dièse '#' devant son nom. Par exemple, `#naissance`.
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-Créez une liste ordonnée de liens vers vos projets. (Les listes ordonnées sont introduites dans le projet de recette.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![capture d'écran](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ Exécutez votre projet et testez-le en cliquant sur les liens pour accéder à vos projets. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![capture d'écran](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
