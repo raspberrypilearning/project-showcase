@@ -1,41 +1,41 @@
 ---
-hero_image: images / banner.png
-title: نمایشگاه پروژه
-theme: فیروزه
+hero_image: images/banner.png
+title: Project Showcase
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1، design-1، programming-0، phys-comp-0، manufacture-0، community-0
-description: ایجاد یک نمایشگاه از پروژه های وب خود را.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: پروژه ها
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: معرفی
+    title: Introduction
   - 
-    title: اضافه کردن لینک به صفحات وب
+    title: Adding Links to Webpages
   - 
-    title: 'چالش: یک لینک دیگر اضافه کنید'
+    title: 'Challenge: Add another link'
   - 
-    title: لینک به یک نینجا
+    title: Link to A Trinket
   - 
-    title: 'چالش: لیستی از پروژه های خود را ایجاد کنید'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: کدهای پروژه
+    title: Embedding Projects
   - 
-    title: 'چالش: پیاده سازی پروژه های بیشتر'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: یک جدول محتوی ایجاد کنید
+    title: Create a Table of Contents
   - 
-    title: بازگشت به بالا
+    title: Getting Back to the Top
   - 
-    title: 'چالش: بهبود نمایشگاه شما'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'چالش: ایجاد یک نمایشگاه جدید'
+    title: 'Challenge: Create a New Showcase'
