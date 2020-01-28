@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: Dodaj još jedan link
+## Challenge: Add another link
 
-Dodaj rečenicu sa linkom neke veb-stranice koja je korisna za izradu veb-projekata. Na primjer: <https://trinket.io> ili <https://trinket.io/docs/colors>.
+Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
 ![screenshot](images/showcase-link-challenge.png)
 
