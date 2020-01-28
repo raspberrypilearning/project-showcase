@@ -1,27 +1,27 @@
-## Trinklet’e bağlantı oluştur
+## Link to A Trinket
 
-Bir Trinket için web sayfasına link verebilirsiniz.
+You can link to the web page for a trinket.
 
-+ Doğum Günün Kutlu Olsun biblo ile bir link tuttun mu? Bunu yaptıysanız, bu Trinket’i başka bir tarayıcı sekmesinde veya penceresinde açın. Aksi halde bitmiş örnek Trinket’i açın: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ Trinket’in üstündeki Paylaş menüsüne tıklayın ve Bağlantı'yı seçin:
++ Click on the Share menu above your trinket and choose Link:
 
-![ekran görüntüsü](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
-Eğer Trinket’i hesabınızdan açtıysanız, Trinket’inizin üstündeki Paylaş seçeneğini bulun:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![ekran görüntüsü](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ 'Yalnızca kodu veya sonucu göster (kullanıcıların aralarında geçiş yapmasına izin ver)' seçeneğini seçin ve bağlantıyı bibloya kopyalayın. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![ekran görüntüsü](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ Project Showcase bibloya geri dön ve `<h2>` başlık ve İyi ki Doğdun Projene bağlantı ekle
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![ekran görüntüsü](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-Web sayfanızı test edin; Bunun gibi bir şeye benzemeli:
+Test your webpage; it should look something like this:
 
-![ekran görüntüsü](images/showcase-link-output.png)
+![screenshot](images/showcase-link-output.png)
 
-Seni bibloya götürdüğünü test etmek için Doğum Günün Kutlu Olsun bağlantısını tıklayın.
+Click the Happy Birthday link to test that it takes you to the trinket.
