@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Défi: Embarque encore plus de projets
+## Challenge: Embed More Projects
 
-Intégrez davantage de vos projets dans la vitrine. Rappelez-vous que vous pouvez facilement trouver leurs pages de bibelots en cliquant sur les liens de votre page Web.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
 \--- /challenge \---
