@@ -1,7 +1,7 @@
-\--- 挑战 \---
+\--- challenge \---
 
-## 挑战：嵌入更多项目
+## Challenge: Embed More Projects
 
-在你的项目中嵌入更多的项目进行展示。 请记住，你可以通过点击网页上的链接来很轻松的找到它们的 trinket 页面。
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
-\--- /挑战 \---
+\--- /challenge \---
