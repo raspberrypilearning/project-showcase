@@ -1,8 +1,8 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: Adj hozzá egy másik linket
+## Challenge: Add another link
 
-Adjon hozzá egy mondatot egy linkkel egy webhelyhez, amely hasznos volt a webprojektek létrehozásában. Például: <https://trinket.io> vagy <https://trinket.io/docs/colors>.
+Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
 ![screenshot](images/showcase-link-challenge.png)
 
