@@ -1,8 +1,8 @@
 ## Web Sayfalarına Bağlantı Ekleme
 
-Metin bağlantıları, başka bir web sayfasına gitmek için kelimelerin üzerine tıklatmanıza izin verir; genellikle altı çizilidir.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Bu Trinketi aç: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
     Proje şöyle görünmeli:
     
@@ -16,21 +16,21 @@ Metin bağlantıları, başka bir web sayfasına gitmek için kelimelerin üzeri
 
 ![ekran görüntüsü](images/showcase-a-template.png)
 
-+ Code Club web sitesi adresini ekleyin [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ve metine bağlantı oluşturun:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
 ![ekran görüntüsü](images/showcase-code-club.png)
 
-+ Trinketinizi test etmek için Çalıştır düğmesine tıklayın.
++ Click Run to test your trinket.
 
 ![ekran görüntüsü](images/showcase-cc-output.png)
 
-+ Web sayfanızı test etmek için Code Club linkini tıklayın. Trinketiniz şimdi Code Club web sayfasını gösterecek: 
++ Web sayfanızı test etmek için Code Club linkini tıklayın. Your trinket will now show the Code Club webpage: 
 
 ![ekran görüntüsü](images/showcase-cc-website.png)
 
 + Sayfanıza geri dönmek için aşağıdakilerden birini yapabilirsiniz:
     
-    + Trinketinizi tekrar çalıştırın,
+    + Run your trinket again,
     
     + Klavyede Geri tuşuna dokunun veya
     
