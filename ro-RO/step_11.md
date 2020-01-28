@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Provocare: Creează o prezentare nouă
+## Challenge: Create a New Showcase
 
-Trinket-urile nu sunt singurele lucruri pe care le poți încorpora într-o pagină web. Poți încorpora videoclipuri, widget-uri (cum ar fi widget-uri despre vreme) sau proiecte Scratch.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Deschide trinket-ul exemplu pentru încorporarea proiectelor Scratch și rulează-l: [https://trinket.io/html/9f7212b8fe/](https://trinket.io/html/9f7212b8fe)
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Mergi pe site-ul Scratch și găsește un proiect care îți place. Poate fi al tău sau unul pe care l-ai găsit.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-Dacă ești autentificat, poți apăsa pe butonul „Embed” de sub proiect pentru a obține codul de încorporare HTML.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![captură de ecran](images/scratch-embed.png)
+![screenshot](images/scratch-embed.png)
 
-Dacă nu ești autentificat, caută numărul proiectului Scratch în adresa sa web.
+If you are not logged in then look for the Scratch project number in its web address.
 
-![captură de ecran](images/scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
-Creează o copie a codului `<iframe>` din exemplul încorporării proiectelor Scratch și schimbă numărul proiectului cu cel al proiectului pe care vrei să îl încorporezi:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
-![captură de ecran](images/scratch-iframe.png)
+![screenshot](images/scratch-iframe.png)
 
 \--- /challenge \---
