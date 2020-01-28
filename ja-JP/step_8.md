@@ -6,7 +6,7 @@ Let's add a Table of Contents so we can easily get to each project.
 
 Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![スクリーンショット](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
 + Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
@@ -18,4 +18,4 @@ Create an ordered list of links to your projects. (Ordered lists are introduced 
 
 + Run your project and test it by clicking on the links to move to your projects. 
 
-![スクリーンショット](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
