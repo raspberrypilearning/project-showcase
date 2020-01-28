@@ -20,4 +20,4 @@ Your finished page should look something like this:
 
 ![screenshot](images/showcase-h2-projects.png)
 
-\--- challenge \---
+\--- /challenge \---
