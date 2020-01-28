@@ -1,87 +1,87 @@
-## pengantar
+## Introduction
 
-Dalam proyek ini, Anda akan membuat pajangan proyek HTML Anda dan belajar tentang tautan dan menyematkan sumber daya.
+In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
 
-![tangkapan layar](images/showcase-intro.png)
+![screenshot](images/showcase-intro.png)
 
-### Informasi tambahan untuk pemimpin klub
+### Additional information for club leaders
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Catatan pemimpin klub
+## title: Club leader notes
 
-## Pengantar:
+## Introduction:
 
-Dalam proyek ini, anak-anak diperkenalkan ke hyperlink dan embedding pernak-pernik dan proyek Scratch dalam halaman web.
+In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
 
-## Sumber Daya Online
+## Online Resources
 
-Kami merekomendasikan menggunakan [trinket](https://trinket.io/) untuk menulis HTML & CSS secara online. Proyek ini mengandung trinket berikut:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-* [Titik awal 'Project Showcase' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Anak-anak juga dapat menggunakan perhiasan kosong ini [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) untuk menulis HTML & CSS mereka sendiri, atau secara alternatif mereka dapat menggunakan trinket template [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Ada juga trinket yang berisi solusi sampel untuk tantangan:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Proyek Showcase Selesai' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Sumber Daya Offline
+## Offline Resources
 
-Proyek ini dapat [selesai offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) jika disukai. Anda dapat mengakses sumber daya proyek dengan mengklik tautan 'Project Materials' untuk proyek ini. Tautan ini berisi bagian 'Sumber Proyek', yang mencakup sumber daya yang dibutuhkan anak-anak untuk menyelesaikan proyek ini secara offline. Pastikan bahwa setiap anak memiliki akses ke salinan sumber daya ini. Bagian ini termasuk file-file berikut:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* proyek-showcase / index.html
-* proyek-showcase / style.css
-* template / template.html
-* template / style.css
+* project-showcase/index.html
+* project-showcase/style.css
+* template/template.html
+* template/style.css
 
-Anda juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sumber Relawan', yang berisi:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* project-showcse-finished / index.html
-* project-showcse-finished / style.css
+* project-showcse-finished/index.html
+* project-showcse-finished/style.css
 
-(Semua sumber daya di atas juga dapat diunduh sebagai proyek dan relawan `file .zip`).
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-Perhatikan bahwa jika anak-anak telah menyelesaikan proyek lain secara offline, mereka tidak akan dapat menyematkan mereka tetapi mereka masih dapat menautkannya.
+Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
 
-## Tujuan Pembelajaran
+## Learning Objectives
 
-* Proyek ini memperkenalkan tautan teks ke halaman web lain dan ke id yang disebutkan dalam satu halaman. Ini juga memperkenalkan pernak-pernik dan proyek Scratch ke dalam halaman web. 
+* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
-Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Tantangan
+## Challenges
 
-* “Tambahkan tautan lain” - Tambahkan tautan ke lebih banyak halaman web;
-* “Buat Daftar Proyek Anda” - Buat tautan ke proyek web sebelumnya;
-* "Embed More Projects" - Gunakan CSS untuk membuat gaya baru.
+* “Add another link” - Add links to more webpages;
+* “Create a List of Your Projects” - Create links to previous web projects;
+* “Embed More Projects” - Use CSS to create new styles.
 
-\--- /jatuh \---
+\--- /collapse \---
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Materi proyek
+## title: Project materials
 
-## Sumber daya proyek
+## Project resources
 
-* [file .zip yang berisi semua sumber daya proyek](resources/showcase-project-resources.zip)
-* [Trinket Online berisi semua sumber daya proyek 'Proyek Showcase'](http://jumpto.cc/web-showcase)
-* [Template Trinket Online](http://jumpto.cc/trinket-template)
-* [Trinket kosong daring](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [template / style.css](resources/template-style.css)
-* [proyek-showcase / index.html](resources/project-showcase-index.html)
-* [proyek-showcase / style.css](resources/project-showcase-style.css)
+* [.zip file containing all project resources](resources/showcase-project-resources.zip)
+* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [project-showcase/index.html](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Sumber daya pemimpin klub
+## Club leader resources
 
-* [file .zip yang berisi semua sumber daya proyek yang telah selesai](resources/showcase-volunteer-resources.zip)
-* [Proyek Trinket yang diselesaikan secara daring](https://trinket.io/html/1d4d4c5ce1)
-* [proyek-selesai-pajangan / index.html](resources/project-showcase-finished-index.html)
-* [proyek-selesai-pajangan / style.css](resources/project-showcase-finished-style.css)
+* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- /jatuh \---
+\--- /collapse \---
