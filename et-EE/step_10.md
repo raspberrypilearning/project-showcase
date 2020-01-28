@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Väljakutse: täiusta oma tutvustust
+## Challenge: Improve Your Showcase
 
-Kasuta õpitud CSSi, et muuta oma leht huvitavamaks. Proovi muuta lehe taustavärvi või rubriikide jaoks kasutatud fonti.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-Võid lisada ka pisut infot iga projekti kohta ja selle kohta, mis sulle selle projekti tegemise juures meeldis.
+You can also add some information about each project and what you liked about making it.
 
 \--- /challenge \---
