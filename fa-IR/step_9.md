@@ -1,11 +1,11 @@
-## بازگشت به بالا
+## Getting Back to the Top
 
-+ همچنین مفید است که قادر به حرکت به بالای صفحه باشد. HTML دارای `#top` برای این منظور است.
++ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
-+ یک پیوند به `#top` بعد از هر پروژه جاسازی شده در صفحه وب خود اضافه کنید:
++ Add a link to `#top` after each embedded project in your webpage:
 
-![تصویری](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
-![تصویری](images/showcase-top-output.png)
+![screenshot](images/showcase-top-output.png)
 
-+ لینک های خود را با کلیک بر روی بالا برای بازگشت به بالای صفحه تست کنید.
++ Test your links by clicking on Top to get back to the top of the page.
