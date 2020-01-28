@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Défi: Crée un nouveau showcase
+## Challenge: Create a New Showcase
 
-Les babioles ne sont pas la seule chose que vous pouvez intégrer dans une page Web. Vous pouvez intégrer des vidéos, des widgets (tels qu'un widget météo) ou des projets Scratch.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Ouvrez le bibelot Embed Scratch Example et exécutez-le: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Allez sur le site Web Scratch et trouvez un projet que vous aimez. Ce peut être l'un des vôtres ou celui que vous avez trouvé.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-Si vous êtes connecté, vous pouvez cliquer sur le bouton "Incorporer" sous le projet pour obtenir le code HTML incorporé.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![capture d'écran](images/scratch-embed.png)
+![screenshot](images/scratch-embed.png)
 
-Si vous n'êtes pas connecté, recherchez le numéro du projet Scratch dans son adresse Web.
+If you are not logged in then look for the Scratch project number in its web address.
 
 ![screenshot](images/scratch-project-number.png)
 
-Faites une copie du code `<iframe>` dans l'exemple Scratch Embed et remplacez le numéro de projet par celui du projet que vous souhaitez incorporer:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
-![capture d'écran](images/scratch-iframe.png)
+![screenshot](images/scratch-iframe.png)
 
 \--- /challenge \---
