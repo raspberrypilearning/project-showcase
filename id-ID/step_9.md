@@ -1,11 +1,11 @@
-## Kembali ke Atas
+## Getting Back to the Top
 
-+ Ini juga berguna untuk dapat menavigasi kembali ke bagian atas halaman. HTML memiliki `#top` untuk tujuan ini.
++ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
-+ Tambahkan tautan ke `#top` setelah setiap proyek tertanam di halaman web Anda:
++ Add a link to `#top` after each embedded project in your webpage:
 
-![tangkapan layar](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
-![tangkapan layar](images/showcase-top-output.png)
+![screenshot](images/showcase-top-output.png)
 
-+ Uji tautan Anda dengan mengklik di Atas untuk kembali ke bagian atas halaman.
++ Test your links by clicking on Top to get back to the top of the page.
