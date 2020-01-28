@@ -1,21 +1,21 @@
-## إنشاء جدول محتويات
+## Create a Table of Contents
 
 دعونا نضيف جدول المحتويات حتى نتمكن من الوصول بسهولة إلى كل مشروع.
 
-+ بالإضافة إلى إمكانية إضافة روابط إلى صفحات الويب الأخرى، يمكننا إضافة رابط إلى جزء من صفحة ويب إذا قمنا بتعيين معرف له. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-أضف معرفًا إلى العنوان الموجود داخل الوسم `<h2>` الخاص بمشروع “عيد ميلاد سعيد”:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
 ![لقطة شاشة](images/showcase-id.png)
 
-+ أضف معرفًا إلى كل مشروع من مشاريعك وأعطه اسمًا قصيرًا: قصة ومطلوب ووَصفة ورسالة.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ يمكنك إضافة رابط إلى كل عنصر له معرف بوضع رمز ‘#’ قبل اسم العنصر. على سبيل المثال، `#عيد ميلاد`.
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-أنشئ قائمة مرتبة بروابط إلى مشاريعك. (تم تناول القوائم المرتبة في المشروع وصفة طعام.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
 ![لقطة الشاشة](images/showcase-list.png)
 
-+ شغِّل مشروعك واختبره بالنقر فوق الروابط للانتقال إلى مشاريعك. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
 ![لقطة الشاشة](images/showcase-list-output.png)
