@@ -1,37 +1,37 @@
-## Projektide manustamine
+## Embedding Projects
 
-Lisaks trinketite linkimisele veebilehtedele saame need ka veebilehel manustada.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Võid proovida täisekraanirežiimis töötamist, et sul oleks rohkem ruumi:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![kuvatõmmis](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-Täisekraanirežiimist väljumiseks vajuta Esc.
+Press Esc to exit Fullscreen mode.
 
-+ Käivita oma trinket ja klõpsa lingil Palju õnne sünnipäevaks.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Klõpsa trinketi menüül ja vali **manusta**. Kui sa pole täisekraanirežiimis, pead võib-olla kerima. Kasuta paremal olevat kerimisriba või noolt alla klaviatuuril.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![kuvatõmmis](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ Vali "Näita ainult koodi või tulemust (luba kasutajatel nende vahel lülitada)" ja **kopeeri** manustatud kood trinketile. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![kuvatõmmis](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ Trinket on loonud veidi HTML-i, mida saad oma veebilehele lisada. Selles kasutatakse silti `<iframe>`, mis lubab lehe piirides sisu manustada.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Nüüd kleebi see kood Palju õnne sünnipäevaks trinketini viiva lingi alla:
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![kuvatõmmis](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ Käivita oma trinket, et seda katsetada ja peaksid nägema Palju õnne sünnipäevaks projekti veebilehele manustatuna. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![kuvatõmmis](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ Võid avastada, et sinu trinketi alaosa ei kuvata. Seda saab parandada kõrguse väärtuse muutmisega `<iframe>`-l. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
-![kuvatõmmis](images/showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
-Määra kõrguseks **400**. Kui tegid muudatusi Palju õnne sünnipäevaks projektis, pead võib-olla teise väärtuse valima.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![kuvatõmmis](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
