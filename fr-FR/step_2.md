@@ -1,43 +1,43 @@
-## Ajouter des liens à ta page
+## Adding Links to Webpages
 
-Les liens de texte vous permettent de cliquer sur des mots pour accéder à une autre page Web. ils sont généralement soulignés.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Ouvre ce trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    Le projet devrait ressembler à ceci:
+    The project should look like this:
     
-    ![capture d'écran](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML utilise la balise `<a>` pour les liens.
++ HTML uses the `<a>` tag for links.
 
-![capture d'écran](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ Trouvez la balise `<a>` dans votre projet. 
++ Find the `<a>` tag in your project. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Ajoutez l'adresse du site Web du Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) et le texte du lien:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![capture d'écran](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ Cliquez sur Exécuter pour tester votre bijou.
++ Click Run to test your trinket.
 
-![capture d'écran](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ Cliquez sur le lien Code Club pour tester votre page Web. Votre bibelot affichera maintenant la page Web Code Club: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![capture d'écran](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ Pour revenir à votre page, vous pouvez soit:
++ To get back to your page you can either:
     
-    + Relancez votre babiole,
+    + Run your trinket again,
     
-    + Appuyez sur la touche Retour arrière du clavier ou
+    + Tap the Backspace key on the keyboard, or
     
-    + Cliquez avec le bouton droit et choisissez Retour.
+    + Right-click and choose Back.
 
-+ Maintenant, mettez votre lien dans une phrase à l'intérieur d'un paragraphe:
++ Now put your link into a sentence inside a paragraph:
 
-![capture d'écran](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-Testez votre page Web.
+Test your webpage.
