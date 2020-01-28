@@ -1,21 +1,21 @@
-## Lag en innholdsfortegnelse
+## Create a Table of Contents
 
-La oss legge til en innholdsfortegnelse slik at vi enkelt kan komme til hvert prosjekt.
+Let's add a Table of Contents so we can easily get to each project.
 
-+ I tillegg til å kunne koble til andre nettsider, kan vi koble til deler av en nettside hvis vi gir dem et id. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-Legg til et id til `<h2>` overskriften til Gratulerer med dagen:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![skjermbilde](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
-+ Legg til ids til hvert av prosjektene dine og gi dem korte navn: historie, ønsket, oppskrift og brev.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ Du kan lenke til et element med et id ved å sette et hash '#' symbol foran navnet sitt. For eksempel `#birthday`.
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-Lag en bestilt liste over lenker til prosjektene dine. (Bestilte lister blir introdusert i oppskriftsprosjektet.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![skjermbilde](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ Kjør prosjektet ditt og test det ved å klikke på linkene for å flytte til prosjektene dine. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![skjermbilde](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
