@@ -1,37 +1,37 @@
-## Embarque encore plus de projets
+## Embedding Projects
 
-En plus de créer des liens vers des babioles sous forme de pages Web, nous pouvons également les intégrer dans une page Web.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Vous voudrez peut-être essayer de travailler en mode plein écran pour avoir plus d'espace:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![capture d'écran](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-Appuyez sur Echap pour quitter le mode plein écran.
+Press Esc to exit Fullscreen mode.
 
-+ Lancez votre bibelot et cliquez sur le lien Joyeux anniversaire.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Cliquez sur le menu du bibelot et sélectionnez **incorporer**. Si vous n'êtes pas en mode plein écran, vous devrez peut-être faire défiler. Utilisez la barre de défilement à droite ou la flèche vers le bas du clavier.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![capture d'écran](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ Choisissez "Afficher uniquement le code ou le résultat (laissez les utilisateurs basculer entre eux)" et **copiez** le code intégré pour le bibelot. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![capture d'écran](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ Trinket a créé du HTML à inclure dans votre page Web. Il utilise une balise `<iframe>` qui permet d’intégrer du contenu dans une page.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Maintenant, collez ce code sous le lien vers le bijou Happy Birthday:
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![capture d'écran](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ Exécutez votre bijou pour le tester et vous devriez voir votre projet Joyeux anniversaire intégré dans la page Web. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![capture d'écran](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ Vous constaterez peut-être que le bas de votre bibelot n'est pas affiché. Vous pouvez résoudre ce problème en modifiant la valeur de hauteur sur le `<iframe>`. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Réglez la hauteur sur **400**. Si vous apportez des modifications au projet Happy Birthday, vous devrez peut-être choisir une valeur différente.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![capture d'écran](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
