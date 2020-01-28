@@ -1,37 +1,37 @@
-## Încorporarea proiectelor
+## Embedding Projects
 
-Pe lângă redirecționarea către trinket-uri ca pagini web, putem, de asemenea, să le încorporăm într-o pagină web.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Dacă vrei, poți lucra în modul Fullscreen pentru a avea mai mult spațiu:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![captură de ecran](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-Apasă Esc pentru a ieși din modul Fullscreen.
+Press Esc to exit Fullscreen mode.
 
-+ Rulează trinket-ul și apasă pe link-ul „La mulți ani”.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Apasă pe meniul trinket și selectează **embed**. Dacă nu ești în modul Fullscreen, e posibil să fie nevoie să folosești scroll-ul. Folosește bara de scroll din dreapta sau săgeata în jos de pe tastatură.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![captură de ecran](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ Alege „Only show code or result (let users toggle between them)” și **copiază** codul de încorporare pentru trinket. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![captură de ecran](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ Trinket a creat niște HTML pentru a îl putea include în pagina ta web. Folosește tag-ul `<iframe>`, care permite conținutului să fie încorporat într-o pagină.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Acum lipește acel cod sub link-ul către trinket-ul „La mulți ani”:
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![captură de ecran](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ Rulează trinket-ul pentru a îl testa și ar treubi să vezi proiectul tău „La mulți ani” încorporat în pagina web. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![captură de ecran](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ Este posibil ca partea inferioară a trinket-ului să nu fie afișată. Poți rezolva acest lucru prin schimbarea valorii „height” în `<iframe>`. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
-![captură de ecran](images/showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
-Setează „height” ca **400**. Dacă ai făcut schimbări la proiectul „La mulți ani”, e posibil să fie necesară alegerea altei valori.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![captură de ecran](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
