@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Väljakutse: Manusta rohkem projekte
+## Challenge: Embed More Projects
 
-Lisa Tutvustusse rohkem oma projekte. Pea meeles, et saad oma veebisaidi linkidel klõpsates hõlpsasti nende trinketi-lehed leida.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
 \--- /challenge \---
