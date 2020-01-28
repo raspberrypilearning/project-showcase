@@ -1,24 +1,24 @@
 ---
 hero_image: images/banner.png
-title: Pregled projekata
-theme: tirkizna
+title: Project Showcase
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: U ovom projektu napravit ćeš pregled svojih HTML projekta, te učiti o poveznicama i ugrađivanju izvora.
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projekti
+site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Sretan rođendan
+    title: Introduction
   - 
     title: Adding Links to Webpages
   - 
