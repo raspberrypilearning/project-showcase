@@ -1,7 +1,7 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: پیاده سازی پروژه های بیشتر
+## Challenge: Embed More Projects
 
-بیشتر پروژه های خود را به نمایشگاه اضافه کنید. به یاد داشته باشید که شما می توانید به راحتی صفحات طنز خود را با کلیک بر روی لینک در صفحه وب خود پیدا کنید.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
-\--- \--- چالش \---
+\--- /challenge \---
