@@ -1,43 +1,43 @@
-## Legge til lenker til websider
+## Adding Links to Webpages
 
-Tekstkoblinger lar deg klikke på ord for å gå til en annen nettside; de er vanligvis understreket.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Åpne denne pyntet: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    Prosjektet skal se slik ut:
+    The project should look like this:
     
-    ![skjermbilde](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML bruker `<a>` taggen for koblinger.
++ HTML uses the `<a>` tag for links.
 
-![skjermbilde](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ Finn `<a>` taggen i prosjektet ditt. 
++ Find the `<a>` tag in your project. 
 
-![skjermbilde](images/showcase-a-template.png)
+![screenshot](images/showcase-a-template.png)
 
-+ Legg til koden Klubbens nettadresse [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) og lenketekst:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![skjermbilde](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ Klikk Kjør for å teste din sirkel.
++ Click Run to test your trinket.
 
-![skjermbilde](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ Klikk på koblingen Kodeklubb for å teste din nettside. Nåtidens nåle vil nå vise Code Club-nettsiden: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![skjermbilde](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ For å komme tilbake til siden kan du enten:
++ To get back to your page you can either:
     
-    + Kjør din pynte igjen,
+    + Run your trinket again,
     
-    + Trykk på Backspace-tasten på tastaturet, eller
+    + Tap the Backspace key on the keyboard, or
     
-    + Høyreklikk og velg Tilbake.
+    + Right-click and choose Back.
 
-+ Legg nå lenken din inn i en setning i et avsnitt:
++ Now put your link into a sentence inside a paragraph:
 
-![skjermbilde](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-Test nettsiden din.
+Test your webpage.
