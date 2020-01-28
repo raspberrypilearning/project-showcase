@@ -1,41 +1,41 @@
 ---
-hero_image: images / banner.png
-title: Pameran Proyek
-theme: pirus
+hero_image: images/banner.png
+title: Project Showcase
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, desain-1, pemrograman-0, phys-comp-0, manufacture-0, community-0
-description: Buat pajangan proyek web Anda.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: proyek
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: pengantar
+    title: Introduction
   - 
-    title: Menambahkan Tautan ke Halaman Web
+    title: Adding Links to Webpages
   - 
-    title: 'Tantangan: Tambahkan tautan lain'
+    title: 'Challenge: Add another link'
   - 
-    title: Tautkan ke Trinket
+    title: Link to A Trinket
   - 
-    title: 'Tantangan: Buat Daftar Proyek Anda'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Menyematkan Proyek
+    title: Embedding Projects
   - 
-    title: 'Tantangan: Tanamkan Lebih Banyak Proyek'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Buat Daftar Isi
+    title: Create a Table of Contents
   - 
-    title: Kembali ke Atas
+    title: Getting Back to the Top
   - 
-    title: 'Tantangan: Tingkatkan Etalase Anda'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Tantangan: Buat Pameran Baru'
+    title: 'Challenge: Create a New Showcase'
