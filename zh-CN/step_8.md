@@ -1,21 +1,21 @@
-## 创建目录
+## Create a Table of Contents
 
-让我们来添加一个目录，这样我们可以更轻松的进入我们的项目。
+Let's add a Table of Contents so we can easily get to each project.
 
-+ 除了可以链接到网页以外，我们还可以通过赋予 id 属性来使我们链接到网页的多个部分。 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-在你的 Happy Birthday（生日快乐）的项目标题`<h2>`中添加一个 id：
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![截屏](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
-+ 给你的每一个项目中添加一个 id 并尽量以简短的单词来形容，例如：story，wanted，recipe， latter。
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ 你可以通过在某个元素名称前面添加‘#’号来使该元素与id相关联。 例如，`#birthday`。
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-为你的项目中创建一个有序列表。 （在食谱这个项目（Recipe projec）中有介绍有序列表。）
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![截图](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ 现在运行你的项目并点击链接测试能否成功跳转到你的其他项目中。 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![截屏](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
