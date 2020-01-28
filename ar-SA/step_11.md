@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## التحدي: أنشئ عرضًا جديدًا
+## Challenge: Create a New Showcase
 
-ليست مشاريع trinkets هي الأشياء الوحيدة التي يمكنك تضمينها في صفحة ويب. يمكنك أيضًا إضافة مقاطع فيديو أو عناصر واجهة المستخدم (مثل عنصر واجهة المستخدم المرتبط بأحوال الطقس) أو مشاريع Scratch.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-افتح نموذج تضمين مشروع Scratch على trinket وشغِّله: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-انتقل إلى صفحة الويب لـ Scratch وابحث عن مشروع تفضله. ويمكنك اختيار أحد مشاريعك أو أي مشروع تجده.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-إذا قمت بالوصول عن طريق تسجيل الدخول، فيمكنك النقر فوق الزر ‘Embed’ أسفل المشروع للحصول على تعليمات التضمين البرمجية لـ HTML.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
 ![لقطة الشاشة](images/scratch-embed.png)
 
-إذا لم تصل عن طريق تسجيل الدخول، فابحث عن رقم مشروع Scratch في عنوان الويب الخاص به.
+If you are not logged in then look for the Scratch project number in its web address.
 
-![لقطة الشاشة](images/scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
-انسخ تعليمات `<iframe>` البرمجية في نموذج تضمين Scratch وغيِّر رقم المشروع إلى رقم المشروع الذي تريد تضمينه:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
 ![لقطة الشاشة](images/scratch-iframe.png)
 
