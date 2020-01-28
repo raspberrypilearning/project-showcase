@@ -1,87 +1,87 @@
-## Introduksjon
+## Introduction
 
-I dette prosjektet vil du opprette et showcase av HTML-prosjektene dine, og lære om koblinger og embedding av ressurser.
+In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
 
-![skjermbilde](images/showcase-intro.png)
+![screenshot](images/showcase-intro.png)
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [Utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Klubbleder notater
+## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
-I dette prosjektet blir barn introdusert til hyperkoblinger og innebygde pyntegjenstander og skrapprosjekter innenfor en nettside.
+In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
 
-## Online ressurser
+## Online Resources
 
-Vi anbefaler at du bruker [trinket](https://trinket.io/) til å skrive HTML & CSS online. Dette prosjektet inneholder følgende trinket:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-* ['Prosjektfremvisning' utgangspunkt - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Barn kan også benytte seg av denne tomme pynten [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) å skrive sin egen HTML & CSS, eller alternativt kan de bruke denne malepinken [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Det er også en pyntegjenstander som inneholder en prøveoppløsning til utfordringene:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Prosjektfremvisning ferdig' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Offline Resources
 
-Dette prosjektet kan være [fullført offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) hvis det er foretrukket. Du kan få tilgang til prosjektressursene ved å klikke på lenken "Project Materials" for dette prosjektet. Denne lenken inneholder en del "Prosjektressurser", som inneholder ressurser som barn trenger for å fullføre dette prosjektet uten nett. Sørg for at hvert barn har tilgang til en kopi av disse ressursene. Denne delen inneholder følgende filer:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* prosjekt-presentasjon / index.html
-* prosjekt-presentasjon / style.css
-* mal / template.html
-* mal / style.css
+* project-showcase/index.html
+* project-showcase/style.css
+* template/template.html
+* template/style.css
 
-Du kan også finne en fullført versjon av prosjektets utfordringer i delen Frivillige ressurser, som inneholder:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* prosjekt showcse ferdig / index.html
-* prosjekt showcse ferdig / style.css
+* project-showcse-finished/index.html
+* project-showcse-finished/style.css
 
-(Alle ressursene ovenfor er også nedlastbare som prosjekt og frivillig `.zip` filer.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-Merk at hvis barna har fullført sine andre prosjekter offline, vil de ikke kunne legge dem inn, men de vil fortsatt kunne koble til dem.
+Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
 
-## Læringsmål
+## Learning Objectives
 
-* Dette prosjektet introduserer tekstforbindelser til andre nettsider og til navngitte ids innenfor en side. Det introduserer også innebygde pyntegjenstander og Skrapprosjekter inn i en nettside. 
+* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
-Dette prosjektet dekker elementer fra følgende tråder av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design grunnleggende 2D og 3D eiendeler](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## utfordringer
+## Challenges
 
-* "Legg til en annen lenke" - Legg til linker til flere nettsider;
-* "Opprett en liste over dine prosjekter" - Opprett linker til tidligere webprosjekter;
-* "Integrer flere prosjekter" - Bruk CSS til å lage nye stiler.
+* “Add another link” - Add links to more webpages;
+* “Create a List of Your Projects” - Create links to previous web projects;
+* “Embed More Projects” - Use CSS to create new styles.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Prosjektmaterialer
+## title: Project materials
 
-## Prosjektressurser
+## Project resources
 
-* [.zip-fil som inneholder alle prosjektressurser](resources/showcase-project-resources.zip)
-* [Online Trinket som inneholder alle prosjektressurser for Project Showcase](http://jumpto.cc/web-showcase)
-* [Online Trinket-mal](http://jumpto.cc/trinket-template)
+* [.zip file containing all project resources](resources/showcase-project-resources.zip)
+* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [mal / index.html](resources/template-index.html)
-* [mal / style.css](resources/template-style.css)
-* [prosjekt-presentasjon / index.html](resources/project-showcase-index.html)
-* [prosjekt-presentasjon / style.css](resources/project-showcase-style.css)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [project-showcase/index.html](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Klubblederressurser
+## Club leader resources
 
-* [.zip-fil som inneholder alle ferdige prosjektressurser](resources/showcase-volunteer-resources.zip)
-* [Online gjennomført Trinket-prosjekt](https://trinket.io/html/1d4d4c5ce1)
-* [prosjekt-presentasjon ferdig / index.html](resources/project-showcase-finished-index.html)
-* [prosjekt-presentasjon ferdig / style.css](resources/project-showcase-finished-style.css)
+* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- / kollaps \---
+\--- /collapse \---
