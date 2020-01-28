@@ -1,9 +1,9 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: بهبود نمایشگاه شما
+## Challenge: Improve Your Showcase
 
-استفاده از CSS که یاد گرفته اید تا صفحه شما جالب تر شود. تغییر رنگ پسزمینه صفحه یا فونت مورد استفاده برای عنوانها را امتحان کنید.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-شما همچنین می توانید اطلاعاتی را درباره هر پروژه و آنچه که در مورد ساخت آن به آن علاقه دارید اضافه کنید.
+You can also add some information about each project and what you liked about making it.
 
-\--- \--- چالش \---
+\--- /challenge \---
