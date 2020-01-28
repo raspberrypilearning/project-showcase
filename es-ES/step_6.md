@@ -1,37 +1,37 @@
-## Incrustar proyectos
+## Embedding Projects
 
-Además de enlazar los trinkets como páginas web, también podemos incrustrarlos dentro de una página web.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Es posible que prefieras trabajar en modo pantalla completa para tener más espacio:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![captura de pantalla](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-Presiona la tecla Esc para salir del modo de pantalla completa.
+Press Esc to exit Fullscreen mode.
 
-+ Ejecuta (Run) tu trinket y haz clic en el enlace de Feliz Cumpleaños.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Haz clic en el menú de trinket y selecciona **embed**. Es posible que tengas que desplazarte hacia abajo si no estás en modo de pantalla completa. Utiliza la barra de desplazamiento de la derecha o la flecha hacia abajo del teclado.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![captura de pantalla](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ Selecciona ‘Only show code or result (let users toggle between them)’, que significa “Sólo muestra código o resultado (permitir que los usuarios alternen entre los dos) y copia el código incrustado para el trinket. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![captura de pantalla](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ Trinket ha creado código HTML para que lo incluyas en tu página web. Éste utiliza una etiqueta `<iframe>` que permite que se pueda incrustrar contenido dentro de una página web.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Ahora pega ese código debajo del enlace al trinket de Feliz Cumpleaños:
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![captura de pantalla](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ Ejecuta (Run) tu trinket para probarlo. Deberías ver el proyecto de Feliz Cumpleaños incrustrado en la página web. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![captura de pantalla](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ Podría ser que la parte inferior de tu trinket no se vea. Puedes solucionarlo cambiando el valor de la altura (height) en la etiqueta `<iframe>`. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
-![captura de pantalla](images/showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
-Establece el valor de la altura en **400**. Si realizaste algún cambio en el proyecto de Feliz Cumpleaños es posible que necesites seleccionar un valor diferente.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![captura de pantalla](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
