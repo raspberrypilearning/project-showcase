@@ -1,9 +1,9 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: یک لینک دیگر اضافه کنید
+## Challenge: Add another link
 
-یک جمله را با یک لینک به یک وب سایت اضافه کنید که برای ایجاد پروژه های وب مفید بوده است. به عنوان مثال: <https://trinket.io> یا <https://trinket.io/docs/colors>.
+Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
-![تصویری](images/showcase-link-challenge.png)
+![screenshot](images/showcase-link-challenge.png)
 
-\--- \--- چالش \---
+\--- /challenge \---
