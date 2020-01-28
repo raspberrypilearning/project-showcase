@@ -1,42 +1,42 @@
 ## إضافة روابط إلى صفحات الويب
 
-تسمح لك الروابط النصية بالنقر فوق كلمات للانتقال إلى صفحة ويب أخرى؛ وعادة ما يكون تحتها خط.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ افتح مشروع trinket هذا: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    يجب أن يبدو المشروع مثل هذا:
+    The project should look like this:
     
     ![لقطة الشاشة](images/showcase-starter.png)
 
-+ تستخدم لغة HTML الوسم `<a>` للروابط.
++ HTML uses the `<a>` tag for links.
 
 ![لقطة الشاشة](images/showcase-link.png)
 
-+ ابحث عن الوسم `<a>` في مشروعك. 
++ Find the `<a>` tag in your project. 
 
 ![لقطة الشاشة](images/showcase-a-template.png)
 
-+ أضف عنوان موقع Code Club على الويب [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) ونص الرابط:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
 ![لقطة الشاشة](images/showcase-code-club.png)
 
-+ انقر فوق Run لتختبر مشروع trinket الخاص بك.
++ Click Run to test your trinket.
 
 ![لقطة الشاشة](images/showcase-cc-output.png)
 
-+ انقر فوق الرابط Code Club لتختبر صفحة الويب الخاصة بك. سيعرض trinket الآن صفحة الويب Code Club: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
 ![لقطة الشاشة](images/showcase-cc-website.png)
 
-+ للعودة إلى صفحتك، يمكنك أن تفعل أيًّا مما يلي:
++ To get back to your page you can either:
     
     + النقر فوق Run في مشروع trinket مرة أخرى،
     
-    + الضغط على المفتاح Backspace في لوحة المفاتيح، أو
+    + Tap the Backspace key on the keyboard, or
     
-    + الضغط على زر الفأرة الأيمن واختيار Back.
+    + Right-click and choose Back.
 
-+ ضع الرابط الآن في جملة داخل وسم فقرة:
++ Now put your link into a sentence inside a paragraph:
 
 ![لقطة الشاشة](images/showcase-paragraph.png)
 
