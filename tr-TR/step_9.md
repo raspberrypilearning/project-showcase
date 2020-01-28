@@ -1,11 +1,11 @@
 ## Başa Dön
 
-+ Sayfanın en üstüne geri dönebilmek için de faydalıdır. HTML, bu amaç için `#top` etiketine sahiptir.
++ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
-+ Web sayfanızdaki her gömülü projeden sonra `#top` bir bağlantı ekleyin:
++ Add a link to `#top` after each embedded project in your webpage:
 
-![ekran görüntüsü](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
-![ekran görüntüsü](images/showcase-top-output.png)
+![screenshot](images/showcase-top-output.png)
 
-+ Sayfanın en üstüne geri dönmek için Bağlantıları tıklatarak bağlantılarınızı test edin.
++ Test your links by clicking on Top to get back to the top of the page.
