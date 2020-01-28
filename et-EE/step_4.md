@@ -1,27 +1,27 @@
-## Link trinketile
+## Link to A Trinket
 
-Võid veebilehele trinketi linkida.
+You can link to the web page for a trinket.
 
-+ Kas säilitasid lingi oma Palju õnne sünnipäevaks trinketile? Kui jah, siis ava see trinket mõne teise brauseri vahelehel või aknas. Vastasel juhul ava valmis näidistrinket: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ Klõpsa oma trinketi kohal oleval Jaga menüül ja vali link:
++ Click on the Share menu above your trinket and choose Link:
 
-![kuvatõmmis](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
-Kui sa avasid trinketi oma kontolt, siis otsi selle asemel sinu trinketi kohal olevat suvandit Share:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![kuvatõmmis](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ Vali "Näita ainult koodi või tulemust (luba kasutajatel nende vahel lülitada)" ja kopeeri link trinketisse. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![kuvatõmmis](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ Mine tagasi oma Projekti tutvustamise trinketisse ja lisa `<h2>` rubriik ja link oma Palju õnne sünnipäevaks projektile.
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![kuvatõmmis](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-Testi oma veebilehte; see peaks välja nägema umbes selline:
+Test your webpage; it should look something like this:
 
-![kuvatõmmis](images/showcase-link-output.png)
+![screenshot](images/showcase-link-output.png)
 
-Klõpsa lingil Palju õnne sünnipäevaks, et kontrollida, kas see viib sind trinketini.
+Click the Happy Birthday link to test that it takes you to the trinket.
