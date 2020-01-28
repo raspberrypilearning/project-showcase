@@ -1,23 +1,23 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Lag en ny utstillingsvindu
+## Challenge: Create a New Showcase
 
-Trinkets er ikke det eneste du kan legge inn på en nettside. Du kan legge inn videoer, widgets (for eksempel en vær-widget) eller Scratch-prosjekter.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Åpne Embed Scratch Example trinket og Kjør det: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Gå til Scratch-nettstedet og finn et prosjekt du liker. Det kan være en av dine egne eller en du har funnet.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-Hvis du er logget inn, kan du klikke på 'Embed' -knappen under prosjektet for å få HTML-embedkoden.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![skjermbilde](images/scratch-embed.png)
+![screenshot](images/scratch-embed.png)
 
-Hvis du ikke er logget inn, så søk etter Scratch-prosjektnummeret i sin webadresse.
+If you are not logged in then look for the Scratch project number in its web address.
 
-![skjermbilde](images/scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
-Lag en kopi av `<iframe>` koden i Eksemplet for Skrap Innlegg, og endre prosjektnummeret til det prosjektet du vil legge inn:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
-![skjermbilde](images/scratch-iframe.png)
+![screenshot](images/scratch-iframe.png)
 
-\--- /utfordring \---
+\--- /challenge \---
