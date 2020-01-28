@@ -1,7 +1,7 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: Tanamkan Lebih Banyak Proyek
+## Challenge: Embed More Projects
 
-Tanamkan lebih banyak proyek Anda ke dalam Etalase. Ingat bahwa Anda dapat dengan mudah menemukan halaman-halaman trinket mereka dengan mengklik tautan di halaman web Anda.
+Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
 
-\--- / tantangan \---
+\--- /challenge \---
