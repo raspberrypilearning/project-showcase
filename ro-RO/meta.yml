@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Prezentarea proiectelor
+title: Project Showcase
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Creează o prezentare a proiectelor tale web.
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introducere
+    title: Introduction
   - 
-    title: Adăugarea link-urilor către pagini web
+    title: Adding Links to Webpages
   - 
-    title: 'Provocare: Adaugă încă un link'
+    title: 'Challenge: Add another link'
   - 
-    title: Creează un link către un Trinket
+    title: Link to A Trinket
   - 
-    title: 'Provocare: Creează o listă a proiectelor tale'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Încorporarea proiectelor
+    title: Embedding Projects
   - 
-    title: 'Provocare: Încorporează mai multe proiecte'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Creează un cuprins
+    title: Create a Table of Contents
   - 
-    title: Revenirea la început
+    title: Getting Back to the Top
   - 
-    title: 'Provocare: Îmbunătățește-ți prezentarea'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Provocare: Creează o prezentare nouă'
+    title: 'Challenge: Create a New Showcase'
