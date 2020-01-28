@@ -1,37 +1,37 @@
-## کدهای پروژه
+## Embedding Projects
 
-همچنین با پیوند دادن به دلایلی به عنوان صفحات وب، می توانیم آنها را در یک صفحه وب جاسازی کنیم.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ شما ممکن است بخواهید سعی کنید در حالت تمام صفحه کار کنید تا فضای بیشتری داشته باشید:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![تصویری](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-برای خروج از حالت تمام صفحه، Esc را فشار دهید.
+Press Esc to exit Fullscreen mode.
 
-+ نازک خود را اجرا کنید و روی لینک تولدت مبارک کلیک کنید.
++ Run your trinket and click on the Happy Birthday link.
 
-+ روی منوی نازک کلیک کنید و **جاسازی**انتخاب کنید. اگر شما در حالت Fullscreen نیستید، ممکن است مجبور شوید آن را مرور کنید. از نوار پیمایش در پیکان راست یا پایین در صفحه کلید استفاده کنید.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![تصویری](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ را انتخاب کنید 'فقط کد نمایش یا نتیجه (اجازه دهید کاربران بین آنها را تغییر دهید)' و **کپی** کد جاسازی برای نیشکر. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![تصویری](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ بلوتوث برخی از HTML ها را برای شما در صفحه وب شما ایجاد کرده است. این تگ یک تگ `<iframe>` که اجازه می دهد محتوا در یک صفحه جاسازی شود.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ حالا کد زیر را در زیر لینک زیر به نام Blinket Happy Birthday بگذارید:
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![تصویری](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ نکته جالب خود را برای آزمایش آن انجام دهید و باید پروژه تولدت مبارک خود را که در صفحه وب جاسازی شده مشاهده کنید. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![تصویری](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ شما ممکن است متوجه شوید که پایین شلوار شما نمایش داده نمی شود. شما می توانید این را با تغییر مقدار ارتفاع در `<iframe>`تعمیر کنید. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
-![تصویری](images/showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
-ارتفاع را به **400**تنظیم کنید. اگر به پروژه تولدت مبارک تغییراتی داده اید ممکن است نیاز به انتخاب یک مقدار متفاوت داشته باشید.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![تصویری](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
