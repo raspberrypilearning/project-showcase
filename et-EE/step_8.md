@@ -1,21 +1,21 @@
-## Loo sisukord
+## Create a Table of Contents
 
-Lisame sisukorra, et saaksime igale projektile kergesti ligi pääseda.
+Let's add a Table of Contents so we can easily get to each project.
 
-+ Lisaks sellele, et meil on võimalik linkida ka teisi veebilehti, võime linkida veebilehe osi, kui anname neile ID. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-Palju õnne sünnipäevaks projekti jaoks lisa ID rubriiki `<h2>`:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![kuvatõmmis](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
-+ Lisa igale oma projektile ID-d ja anna neile lühikesed nimed: lugu, tagaotsitav, retsept ja kiri.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ Saad ID-ga elemendi linkida, pannes selle nime ette räsi "#" sümboli. Näiteks `#sünnipäev`.
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-Loo oma projektide linkidest korrastatud loend. (Korrastatud loendeid tutvustatakse projektis Retsept.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![kuvatõmmis](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ Käivita oma projekt ja katseta seda, klõpsates linkidel, et oma projekte liigutada. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![kuvatõmmis](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
