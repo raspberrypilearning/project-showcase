@@ -1,27 +1,27 @@
-## Creează un link către un Trinket
+## Link to A Trinket
 
-Poți crea un link către pagina web a unui trinket.
+You can link to the web page for a trinket.
 
-+ Ai păstrat un link de la trinket-ul tău de „La mulți ani”? Dacă da, deschide acel trinket în altă fereastră. Dacă nu, deschide acest exemplu finalizat: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ Apasă pe meniul Share de deasupra trinket-ului și alege Link:
++ Click on the Share menu above your trinket and choose Link:
 
-![captură de ecran](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
-Dacă ai deschis trinket-ul de pe contul tău, atunci uită-te după opțiunea Share deasupra trinket-ului tău:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![captură de ecran](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ Alege „Only show code or result (let users toggle between them)” și copiază link-ul către trinket. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![captură de ecran](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ Întoarce-te la trinket-ul tău „Proiectele mele” și adaugă un heading `<h2>` și un link către proiectul tău de „La mulți ani”.
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![captură de ecran](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-Testează pagina ta web; ar trebui să arate asemănător:
+Test your webpage; it should look something like this:
 
-![captură de ecran](images/showcase-link-output.png)
+![screenshot](images/showcase-link-output.png)
 
-Apasă pe link-ul de „La mulți ani” pentru a testa dacă te duce către trinket.
+Click the Happy Birthday link to test that it takes you to the trinket.
