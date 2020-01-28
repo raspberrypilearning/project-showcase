@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Väljakutse: loo oma projektide nimekiri
+## Challenge: Create a List of Your Projects
 
-Lisa mõned teised endaloodud HTML & CSS-i projektid, mille oled loonud Code Club'is. Kasuta oma veebilehe korrastamiseks `<h2>` pealkirju.
+Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
-Kui sul pole linke endaloodud projektidele, võid kasutada Code Club'i näiteid:
+If you don't have links to the projects you created then you can use the Code Club examples:
 
-+ Palju õnne sünnipäevaks: <https://trinket.io/html/e996dc0380>
++ Happy Birthday: <https://trinket.io/html/e996dc0380>
 
-+ Räägi lugu: <https://trinket.io/html/c8afdef912>
++ Tell a Story: <https://trinket.io/html/c8afdef912>
 
-+ Tagaotsitav: <https://trinket.io/html/ebeb56398a>
++ Wanted: <https://trinket.io/html/ebeb56398a>
 
-+ Retsept: <https://trinket.io/html/c0fd9b40cd>
++ Recipe: <https://trinket.io/html/c0fd9b40cd>
 
-+ Salakiri: <https://trinket.io/html/1d4d4c5ce1>
++ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Su valmis leht peaks välja nägema umbes selline:
+Your finished page should look something like this:
 
-![kuvatõmmis](images/showcase-h2-projects.png)
+![screenshot](images/showcase-h2-projects.png)
 
 \--- /challenge \---
