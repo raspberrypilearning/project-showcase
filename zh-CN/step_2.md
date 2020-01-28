@@ -1,43 +1,43 @@
-## 在网页中添加链接
+## Adding Links to Webpages
 
-可以通过点击文本超链接来实现网页之间跳转，文本超链接通常带有下划线。
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ 打开这个Trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)。
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    效果应该是这样：
+    The project should look like this:
     
-    ![截屏](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML中使用 `<a>` 标签来表示链接
++ HTML uses the `<a>` tag for links.
 
-![截图](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ 在你的项目查找 `<a>` 标签 
++ Find the `<a>` tag in your project. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ 添加 Code Club 网址链接 [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) 和文字链接
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![截屏](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ 点击 Run 来测试你的 trinket。
++ Click Run to test your trinket.
 
-![截图](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ 在你的网页中点击 Code Club 来测试你的连接， 你的 trinket 现在应该显示的是Code Club的网页： 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![截屏](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ 你可以通过以下方式来返回你的页面：
++ To get back to your page you can either:
     
-    + 重新运行你的 tinket，
+    + Run your trinket again,
     
-    + 按键盘上的 Backspace 键，或者
+    + Tap the Backspace key on the keyboard, or
     
-    + 鼠标右键选择返回。
+    + Right-click and choose Back.
 
-+ 现在，在你的段落中插入带有连接的句子:
++ Now put your link into a sentence inside a paragraph:
 
-![截屏](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-测试你的页面。
+Test your webpage.
