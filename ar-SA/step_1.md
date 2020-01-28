@@ -26,7 +26,7 @@
 
 كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
-* ["انتهى عرض المشروع" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
@@ -56,9 +56,9 @@
 
 ## التحديات
 
-* "إضافة رابط آخر" - إضافة روابط إلى المزيد من صفحات الويب;
-* "إنشاء قائمة بمشاريعك" - إنشاء روابط لمشاريع الويب السابقة;
-* “قم بتضمين مشاريع أخرى” - استخدام CSS لإنشاء أنماط جديدة.
+* “Add another link” - Add links to more webpages;
+* “Create a List of Your Projects” - Create links to previous web projects;
+* “Embed More Projects” - Use CSS to create new styles.
 
 \--- /collapse \---
 
@@ -69,13 +69,13 @@
 ## موارد المشروع
 
 * [ملف.zip يحتوي على جميع موارد المشروع](resources/showcase-project-resources.zip)
-* [Trinket على الإنترنت يحتوي على جميع موارد مشروع "عرض المشاريع"](http://jumpto.cc/web-showcase)
+* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
-* [project-showcase/style.css](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
 
 ## موارد قادة النادي
 
