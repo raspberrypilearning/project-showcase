@@ -1,27 +1,27 @@
-## Lien vers un trinket
+## Link to A Trinket
 
-Vous pouvez créer un lien vers la page Web pour un bijou.
+You can link to the web page for a trinket.
 
-+ Avez-vous gardé un lien vers votre bijou joyeux anniversaire? Si vous avez ensuite ouvert ce bijou dans un autre onglet ou une autre fenêtre du navigateur. Sinon, ouvrez l'exemple de bijou terminé: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ Cliquez sur le menu Partager au-dessus de votre babiole et choisissez Lien:
++ Click on the Share menu above your trinket and choose Link:
 
-![capture d'écran](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
-Si vous avez ouvert le bibelot à partir de votre compte, recherchez l'option Partager au-dessus de votre bibelot:
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![capture d'écran](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ Choisissez "Afficher uniquement le code ou le résultat (laissez les utilisateurs basculer entre eux)" et copiez le lien dans le bibelot. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![capture d'écran](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ Retournez à votre babiole Project Showcase et ajoutez une rubrique `<h2>` et un lien vers votre projet Happy Birthday.
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![capture d'écran](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-Testez votre page Web. Ça devrait ressembler a quelque chose comme ca:
+Test your webpage; it should look something like this:
 
 ![screenshot](images/showcase-link-output.png)
 
-Cliquez sur le lien Joyeux anniversaire pour vérifier qu'il vous mènera au bibelot.
+Click the Happy Birthday link to test that it takes you to the trinket.
