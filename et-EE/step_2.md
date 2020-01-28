@@ -1,43 +1,43 @@
-## Linkide lisamine veebilehtedele
+## Adding Links to Webpages
 
-Tekstlingid võimaldavad sul klõpsata sõnadel, et minna teisele veebilehele; need on tavaliselt allajoonitud.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Ava see trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    Projekt peaks välja nägema selline:
+    The project should look like this:
     
-    ![kuvatõmmis](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML kasutab linkide jaoks `<a>` silti.
++ HTML uses the `<a>` tag for links.
 
-![kuvatõmmis](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ Leia oma projektis `<a>` silt. 
++ Find the `<a>` tag in your project. 
 
-![kuvatõmmis](images/showcase-a-template.png)
+![screenshot](images/showcase-a-template.png)
 
-+ Lisa Code Clubi veebisaidi aadress [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) ja lingi tekst:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![kuvatõmmis](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ Klõpsa nupul Käivita, et oma trinketit testida.
++ Click Run to test your trinket.
 
-![kuvatõmmis](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ Veebilehe testimiseks klõpsa Code Clubi lingil. Sinu trinket näitab nüüd Code Clubi veebilehte: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![kuvatõmmis](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ Oma lehele naasmiseks võid:
++ To get back to your page you can either:
     
-    + Oma trinketi uuesti käivitada,
+    + Run your trinket again,
     
-    + Vajutada klaviatuuril Backspace klahvi või
+    + Tap the Backspace key on the keyboard, or
     
-    + Paremklõpsata ja valida Tagasi.
+    + Right-click and choose Back.
 
-+ Nüüd pane oma link lõigu lausesse:
++ Now put your link into a sentence inside a paragraph:
 
-![kuvatõmmis](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-Testi oma veebilehte.
+Test your webpage.
