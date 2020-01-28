@@ -1,21 +1,21 @@
-## یک جدول محتوی ایجاد کنید
+## Create a Table of Contents
 
-اجازه دهید یک جدول از مطالب اضافه کنیم تا بتوانیم به راحتی به هر پروژه دسترسی پیدا کنیم.
+Let's add a Table of Contents so we can easily get to each project.
 
-+ همچنین با داشتن امکان پیوند به سایر صفحات وب، اگر بتوانیم یک شناسه را به آنها بدهیم، می توانیم به قسمت های یک وب سایت لینک دهیم. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-یک عدد را به عنوان مثال `<h2>` برای پروژه تولدت مبارک اضافه کنید:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![تصویری](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
-+ اضافه کردن شناسه به هر یک از پروژه های خود و نام آنها را کوتاه: داستان، می خواستم، دستور العمل و نامه.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ شما می توانید به یک عنصر با شناسه پیوندی با قرار دادن نماد هش "#" در مقابل نام آن. به عنوان مثال، ``تولد </code> .
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-یک لیست مرتب شده از لینک به پروژه های خود را ایجاد کنید. (فهرست مرتب شده در پروژه دستور العمل معرفی شده است.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![تصویری](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ پروژه خود را اجرا کنید و آن را با کلیک روی پیوندها برای حرکت به پروژه هایتان تست کنید. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![تصویری](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
