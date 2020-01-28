@@ -1,23 +1,23 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Projelerinizin bir listesini oluşturun
+## Challenge: Create a List of Your Projects
 
-Code Club'da oluşturduğunuz diğer HTML & CSS projelerinden bazılarını ekleyin. Web sayfanızı düzenlemek için `<h2>` başlıkları kullanın.
+Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
-Oluşturduğunuz projelerle bağlantınız yoksa Code Club örneklerini kullanabilirsiniz:
+If you don't have links to the projects you created then you can use the Code Club examples:
 
-+ Doğum Günün Kutlu Olsun: <https://trinket.io/html/e996dc0380>
++ Happy Birthday: <https://trinket.io/html/e996dc0380>
 
-+ Bir Hikaye Anlat: <https://trinket.io/html/c8afdef912>
++ Tell a Story: <https://trinket.io/html/c8afdef912>
 
-+ Aranıyor: <https://trinket.io/html/ebeb56398a>
++ Wanted: <https://trinket.io/html/ebeb56398a>
 
-+ Tarif: <https://trinket.io/html/c0fd9b40cd>
++ Recipe: <https://trinket.io/html/c0fd9b40cd>
 
-+ Gizemli Mektup: <https://trinket.io/html/1d4d4c5ce1>
++ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Bitmiş sayfanız şöyle görünmelidir:
+Your finished page should look something like this:
 
-![ekran görüntüsü](images/showcase-h2-projects.png)
+![screenshot](images/showcase-h2-projects.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
