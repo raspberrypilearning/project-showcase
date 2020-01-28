@@ -1,9 +1,9 @@
-\--- 挑战 \---
+\--- challenge \---
 
-## 挑战：完善你的展示页面
+## Challenge: Improve Your Showcase
 
-使用你所学到的CSS来使你的页面变得更加有趣， 你可以尝试改变页面的背景颜色或者你的标题使用的字体。
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-你还可以添加一些每个项目的介绍信息或者你创作它的理由。
+You can also add some information about each project and what you liked about making it.
 
 \--- /challenge \---
