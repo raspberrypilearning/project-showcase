@@ -1,37 +1,37 @@
-## 项目嵌入
+## Embedding Projects
 
-除了可以将trinkets作为网页链接，我们还可以将它嵌入到网页中。
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ 你可能需要尝试全屏操作，以得到更多的操作空间。
++ You might want to try working in Fullscreen mode so you have more space:
 
-![截屏](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-按ESC退出全屏
+Press Esc to exit Fullscreen mode.
 
-+ 运行你的 trinket 并点击Happy Birthday（生日快乐）的链接。
++ Run your trinket and click on the Happy Birthday link.
 
-+ 点击 trinket 菜单，选择** embed </ 0>， 如果你不是全屏模式则可能需要滚动菜单栏， 可以使用右侧的滚动条或者键盘中的下箭头键。</p></li> </ul> 
-    
-    ![截屏](images/showcase-embed-code.png)
-    
-    + 选择'Only show code or result (let users toggle between them)’ 并**复制**这个 trinket的嵌入代码。 
-    
-    ![截图](images/showcase-embed.png)
-    
-    + Trinket 已经创建了一些HTML供你添加到你的网页中， 它使用`<iframe>` 标记来使内容嵌入到页面中。
-    
-    + 现在将代码粘贴到Happy Birthday（生日快乐）的trinket链接下方：
-    
-    ![截屏](images/showcase-paste-embed.png)
-    
-    + 运行你的 trinket来进行测试，你会看到你的Happy Birthday（生日快乐）项目已经嵌入到网页中。 
-    
-    ![截屏](images/showcase-embed-output.png)
-    
-    + 你可能会发现没有显示 trinket 的底部， 你可以通过修改`<iframe>`的高度来解决这个问题。 
-    
-    ![截屏](images/showcase-embed-height.png)
-    
-    将height（高度）设置为**400**， 如果你对 Happy Birthday（生日快乐）的项目做了修改，你可能需要选择不同的数值。
-    
-    ![截屏](images/showcase-embed-fixed.png)
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
+
+![screenshot](images/showcase-embed-code.png)
+
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
+
+![screenshot](images/showcase-embed.png)
+
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
+
++ Now paste that code under the link to the Happy Birthday trinket:
+
+![screenshot](images/showcase-paste-embed.png)
+
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
+
+![screenshot](images/showcase-embed-output.png)
+
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
+
+![screenshot](images/showcase-embed-height.png)
+
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+
+![screenshot](images/showcase-embed-fixed.png)
