@@ -1,14 +1,14 @@
 \--- meydan okuma \---
 
-## Meydan Okuma: Yeni Bir Vitrin Oluştur
+## Challenge: Create a New Showcase
 
-Bir web sayfasına yerleştiremeyeceğin tek şey trinketler değil. Videoları, widget'ları (hava durumu widget'ı gibi) veya Scratch projelerini yerleştirebilirsiniz.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Embed Scratch Örnek bibloyu açın ve Çalıştırın: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Scratch web sitesine gidin ve sevdiğiniz bir proje bulun. Sana ait veya senin bulduğun bir tane olabilir.
+Scratch web sitesine gidin ve sevdiğiniz bir proje bulun. It can be one of your own or one you've found.
 
-Giriş yaptıysanız, HTML yerleştirme kodunu almak için projenin altındaki 'Embed' (Yerleştir) düğmesine tıklayabilirsiniz.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
 ![ekran görüntüsü](images/scratch-embed.png)
 
@@ -16,7 +16,7 @@ Giriş yapmadıysanız, Scratch proje numarasını web adresinde arayın.
 
 ![ekran görüntüsü](images/scratch-project-number.png)
 
-Scratch Embed örneğindeki `<iframe>` kodunun bir kopyasını alın ve gömmek istediğiniz projenin proje numarasını değiştirin:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
 ![ekran görüntüsü](images/scratch-iframe.png)
 
