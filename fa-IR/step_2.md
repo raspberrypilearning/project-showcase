@@ -1,43 +1,43 @@
-## اضافه کردن لینک به صفحات وب
+## Adding Links to Webpages
 
-لینک های متنی به شما اجازه می دهد بر روی کلمات کلیک کنید تا به یک صفحه وب دیگر بروید؛ آنها معمولا تحت تأثیر قرار می گیرند
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ این نکته را باز کنید: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    این پروژه باید چنین باشد:
+    The project should look like this:
     
-    ![تصویری](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML با استفاده از تگ `<a>` برای لینک ها.
++ HTML uses the `<a>` tag for links.
 
-![تصویری](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ تگ `<a>` را در پروژه خود پیدا کنید. 
++ Find the `<a>` tag in your project. 
 
-![تصویری](images/showcase-a-template.png)
+![screenshot](images/showcase-a-template.png)
 
-+ آدرس وب سایت Code Club را اضافه کنید [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) و متن لینک:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![تصویری](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ روی Run کلیک کنید تا نکته خود را تست کنید.
++ Click Run to test your trinket.
 
-![تصویری](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ برای تست وب سایت خود، روی لینک Code Club کلیک کنید. شلوار ناز شما اکنون صفحه وب Code Club را نشان می دهد: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![تصویری](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ برای بازگشت به صفحه شما می توانید:
++ To get back to your page you can either:
     
-    + دوباره لباس خود را اجرا کنید
+    + Run your trinket again,
     
-    + روی کلید Backspace روی صفحه کلید ضربه بزنید، یا
+    + Tap the Backspace key on the keyboard, or
     
-    + راست کلیک کنید و Back را انتخاب کنید.
+    + Right-click and choose Back.
 
-+ اکنون لینک خود را به یک جمله در داخل یک پاراگراف قرار دهید:
++ Now put your link into a sentence inside a paragraph:
 
-![تصویری](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-تست وب سایت خود را.
+Test your webpage.
