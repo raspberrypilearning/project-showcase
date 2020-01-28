@@ -1,9 +1,9 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: Javítani kell a kirakatot
+## Challenge: Improve Your Showcase
 
-Használja a megtanult CSS-t az oldal érdekesebbé tételéhez. Próbálja meg megváltoztatni az oldal háttér színét vagy a fejlécekhez használt betűtípust.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-Hozzáadhat némi információt az egyes projektekről és arról, hogy mi tetszett a megvalósításuk során.
+You can also add some information about each project and what you liked about making it.
 
 \--- /challenge \---
