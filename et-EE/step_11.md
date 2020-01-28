@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Väljakutse: loo uus tutvustus
+## Challenge: Create a New Showcase
 
-Trinketid pole ainus asi, mida saad veebilehele manustada. Saad lisada videoid, vidinaid (nt ilmastiku vidina) või Scratchi projekte.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Ava Manusta Scratchi näidistrinket ja Käivita see: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Mine Scratchi veebisaidile ja leia projekt, mis sulle meeldib. See võib olla üks sinu omadest või üks, mille oled leidnud.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-Kui oled sisse loginud, võid HTML-i manustamise koodi saamiseks klõpsata projekti allosas oleval nupul "Manusta".
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![kuvatõmmis](images/scratch-embed.png)
+![screenshot](images/scratch-embed.png)
 
-Kui sa pole sisse loginud, siis otsi Scratchi projekti numbrit selle veebiaadressis.
+If you are not logged in then look for the Scratch project number in its web address.
 
-![kuvatõmmis](images/scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
-Tee koodi `<iframe>` koopia Scratchi Manustamise näites ja muuda projekti number selle projekti numbriks, mida soovid lisada:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
-![kuvatõmmis](images/scratch-iframe.png)
+![screenshot](images/scratch-iframe.png)
 
 \--- /challenge \---
