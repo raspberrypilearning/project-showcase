@@ -1,43 +1,43 @@
-## Linkek hozzáadása a weboldalakhoz
+## Adding Links to Webpages
 
-A szöveges hivatkozások lehetővé teszik a szavak kattintását egy másik weboldalra lépéshez; általában aláhúzva vannak.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Nyissa meg ezt az csecsebecsét: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    A projektnek így kell kinéznie:
+    The project should look like this:
     
     ![screenshot](images/showcase-starter.png)
 
-+ A HTML a `<a>` címkét használja a linkekhez.
++ HTML uses the `<a>` tag for links.
 
 ![screenshot](images/showcase-link.png)
 
-+ Keresse meg a `<a>` címkét a projektben. 
++ Find the `<a>` tag in your project. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Adja hozzá a Code Club webhelyének [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) címét és a hivatkozás szövegét:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Kattintson a Futtatás gombra az csecsebecsék teszteléséhez.
++ Click Run to test your trinket.
 
-![képernyőkép](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ Kattintson a Code Club linkre a weboldal teszteléséhez. A csecsebecse most megmutatja a Code Club weboldalát: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ Az oldalra való visszatéréshez tegye a következőket:
++ To get back to your page you can either:
     
-    + Futtassa újra az csecsebecsét,
+    + Run your trinket again,
     
-    + Érintse meg a Backspace gombot a billentyűzeten, vagy
+    + Tap the Backspace key on the keyboard, or
     
-    + Kattintson a jobb gombbal, és válassza a Vissza lehetőséget.
+    + Right-click and choose Back.
 
-+ Most tedd a linket egy mondatba egy bekezdésben:
++ Now put your link into a sentence inside a paragraph:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Tesztelje weboldalát.
+Test your webpage.
