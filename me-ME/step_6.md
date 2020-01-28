@@ -1,37 +1,37 @@
-## Ugrađivanje projekata
+## Embedding Projects
 
-Osim povezivanja trinketa kao veb-stranica, možemo ih i ugraditi na veb-stranicu.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Možeš da probaš da radiš u režimu cijelog ekrana (Fullscreen mode), kako bi imao/imala više prostora:
++ You might want to try working in Fullscreen mode so you have more space:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Za izlazak iz režima cijelog ekrana pritisni taster Esc.
+Press Esc to exit Fullscreen mode.
 
-+ Pokreni svoj trinket i klikni na link Srećan rođendan.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Klikni na meni trinketa i izaberi **embed** (ugraditi). Ako ne radiš u režimu cijelog ekrana, možda ćeš morati da pomjeraš sadržaj. Koristi kliznu traku sa desne strane ili strelicu nadolje na tastaturi.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Izaberi 'Only show code or result (let users toggle between them)' i **kopiraj** kôd za ugrađivanje trinketa. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
 ![screenshot](images/showcase-embed.png)
 
-+ Trinket je kreirao HTML koji treba da uneseš na svoju veb-stranicu. On koristi oznaku `<iframe>` koja omogućuje da se sadržaj ugradi na stranicu.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Sada prenesi taj kôd ispod linka za trinket Srećan rođendan:
++ Now paste that code under the link to the Happy Birthday trinket:
 
 ![screenshot](images/showcase-paste-embed.png)
 
-+ Pokreni svoj trinket da ga isprobaš. Trebalo bi da vidiš svoj projekat Srećan rođendan ugrađen na veb-stranicu. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
 ![screenshot](images/showcase-embed-output.png)
 
-+ Može se desiti da se ne prikazuje donji dio tvog trinketa. To možeš popraviti tako što ćeš promijeniti vrijednost visine (height) u `<iframe>`. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Postavi visinu na **400**. Ako si napravio/napravila izmjene u projektu Srećan rođendan, možda će biti potrebno da izabereš neku drugu vrijednost.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
 ![screenshot](images/showcase-embed-fixed.png)
