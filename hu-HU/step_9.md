@@ -1,11 +1,11 @@
-## Visszatérés a tetejére
+## Getting Back to the Top
 
-+ Hasznos az is, ha vissza tudunk navigálni az oldal tetejére. A HTML-nek `# top` erre a célra.
++ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
-+ Adjon hozzá egy linket a `#` tetejére, minden egyes weboldalon található beágyazott projekt után:
++ Add a link to `#top` after each embedded project in your webpage:
 
 ![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Tesztelje linkeit a Top gombra kattintva, hogy visszatérjen az oldal tetejére.
++ Test your links by clicking on Top to get back to the top of the page.
