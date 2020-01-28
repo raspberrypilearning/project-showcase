@@ -1,41 +1,41 @@
 ---
-hero_image: images / banner.png
-title: Prosjektfremvisning
-theme: turkis
+hero_image: images/banner.png
+title: Project Showcase
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
-description: Lag et utstillingsvindu av dine webprosjekter.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: prosjekter
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduksjon
+    title: Introduction
   - 
-    title: Legge til lenker til websider
+    title: Adding Links to Webpages
   - 
-    title: 'Utfordring: Legg til en annen lenke'
+    title: 'Challenge: Add another link'
   - 
-    title: Link til A Trinket
+    title: Link to A Trinket
   - 
-    title: 'Utfordring: Opprett en liste over dine prosjekter'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Embedding Prosjekter
+    title: Embedding Projects
   - 
-    title: 'Utfordring: Embed flere prosjekter'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Lag en innholdsfortegnelse
+    title: Create a Table of Contents
   - 
-    title: Komme tilbake til toppen
+    title: Getting Back to the Top
   - 
-    title: 'Utfordring: Forbedre presentasjonen din'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Utfordring: Lag en ny utstillingsvindu'
+    title: 'Challenge: Create a New Showcase'
