@@ -1,13 +1,13 @@
 ---
-hero_image: images / banner.png
-title: Projektbemutató
+hero_image: images/banner.png
+title: Project Showcase
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Készítsen kirakatot webes projektjeiről.
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Bevezetés
+    title: Introduction
   - 
-    title: Linkek hozzáadása a weboldalakhoz
+    title: Adding Links to Webpages
   - 
-    title: 'Kihívás: Adj hozzá egy másik linket'
+    title: 'Challenge: Add another link'
   - 
-    title: Link egy talizmánhoz
+    title: Link to A Trinket
   - 
-    title: 'Kihívás: Készítsen projektek listáját'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Projektek beágyazása
+    title: Embedding Projects
   - 
-    title: 'Kihívás: Több projekt beágyazása'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Hozzon létre egy tartalomjegyzéket
+    title: Create a Table of Contents
   - 
-    title: Visszatérés a tetejére
+    title: Getting Back to the Top
   - 
-    title: 'Kihívás: Javítani kell a kirakatot'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Kihívás: hozzon létre egy új kirakatot'
+    title: 'Challenge: Create a New Showcase'
