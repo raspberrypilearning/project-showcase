@@ -1,27 +1,27 @@
-## Tautkan ke Trinket
+## Link to A Trinket
 
-Anda dapat menautkan ke halaman web untuk trinket.
+You can link to the web page for a trinket.
 
-+ Apakah Anda menyimpan tautan ke trinket Selamat Ulang Tahun Anda? Jika Anda melakukannya, buka trinket itu di tab atau jendela browser lain. Jika tidak, buka contoh selesai trinket: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ Klik menu Bagikan di atas trinket Anda dan pilih Tautan:
++ Click on the Share menu above your trinket and choose Link:
 
-![tangkapan layar](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
 If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![tangkapan layar](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ Pilih 'Hanya tampilkan kode atau hasil (biarkan pengguna beralih di antara mereka)' dan salin tautan ke trinket. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![tangkapan layar](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ Kembali ke rak Showcase Proyek dan tambahkan judul `<h2>` dan tautan ke Proyek Selamat Ulang Tahun Anda.
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![tangkapan layar](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-Uji halaman web Anda; seharusnya terlihat seperti ini:
+Test your webpage; it should look something like this:
 
-![tangkapan layar](images/showcase-link-output.png)
+![screenshot](images/showcase-link-output.png)
 
-Klik tautan Selamat Ulang Tahun untuk menguji bahwa Anda akan dibawa ke trinket.
+Click the Happy Birthday link to test that it takes you to the trinket.
