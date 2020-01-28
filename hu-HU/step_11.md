@@ -1,23 +1,23 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: hozzon létre egy új kirakatot
+## Challenge: Create a New Showcase
 
-A csecsebecse nem az egyetlen dolog, amelyet beágyazhat egy weboldalba. Beágyazhat videókat, kütyüket (például időjárási widget) vagy Scratch-projekteket.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-Nyissa meg a Beágyazott Scratch példaértékű csecsebecsét és futtassa azt: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Látogasson el a Scratch webhelyre, és keressen egy kedvelt projektet. Lehet, hogy a saját vagy a megtalált.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-Ha be van jelentkezve, akkor kattintson a 'Beágyazás' gombra a projekt alatt, hogy megkapja a HTML beágyazási kódot.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
 ![screenshot](images/scratch-embed.png)
 
-Ha még nincs bejelentkezve, keresse meg a Scratch projekt számát a webcímében.
+If you are not logged in then look for the Scratch project number in its web address.
 
 ![screenshot](images/scratch-project-number.png)
 
-Készítsen másolatot a `<iframe>` kódról a Scratch Embed példában, és változtassa meg a beágyazni kívánt projekt számát:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
 ![screenshot](images/scratch-iframe.png)
 
-\--- / challenge \---
+\--- /challenge \---
