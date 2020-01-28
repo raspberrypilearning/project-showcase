@@ -1,23 +1,23 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: ایجاد یک نمایشگاه جدید
+## Challenge: Create a New Showcase
 
-لوازم جانبی تنها چیزی که می توانید در یک صفحه وب جاسازی کنید نیستند. شما می توانید فیلم ها، ویدجت ها (مانند ویدجت آب و هوا) یا پروژه های خراش را جاسازی کنید.
+Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
 
-نکته جاسازی Scratch Example را باز کنید و آنرا اجرا کنید: <https://trinket.io/html/9f7212b8fe>
+Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-به وب سایت خراش بروید و پروژه ای پیدا کنید که دوست دارید. این می تواند یکی از خود شما یا یکی از شما را پیدا کرده است.
+Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
 
-اگر شما وارد سیستم شوید می توانید بر روی دکمه "قراردادن" در زیر پروژه کلیک کنید تا کد HTML جاسازی شود.
+If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
 
-![تصویری](images/scratch-embed.png)
+![screenshot](images/scratch-embed.png)
 
-اگر شما وارد نشده اید، سپس شماره پروژه را در آدرس وب سایت خود مشاهده کنید.
+If you are not logged in then look for the Scratch project number in its web address.
 
-![تصویری](images/scratch-project-number.png)
+![screenshot](images/scratch-project-number.png)
 
-یک کپی از کد `<iframe>` را در Scratch Embed example ایجاد کنید و شماره پروژه را برای پروژه مورد نظر خود تغییر دهید:
+Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
 
-![تصویری](images/scratch-iframe.png)
+![screenshot](images/scratch-iframe.png)
 
-\--- \--- چالش \---
+\--- /challenge \---
