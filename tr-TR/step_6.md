@@ -1,37 +1,37 @@
-## Gömme Projeler
+## Embedding Projects
 
-Web sayfalarındaki biblolara bağlantı sağlamanın yanı sıra, onları bir web sayfasına gömebiliriz.
+As well as linking to trinkets as webpages we can also embed them in a web page.
 
-+ Tam ekran modunda çalışmayı denemek isteyebilirsiniz, böylece daha fazla alanınız olur:
++ You might want to try working in Fullscreen mode so you have more space:
 
-![ekran görüntüsü](images/showcase-fullscreen.png)
+![screenshot](images/showcase-fullscreen.png)
 
-Tam ekran modundan çıkmak için Esc tuşuna basın.
+Press Esc to exit Fullscreen mode.
 
-+ Trinketinizi çalıştırın ve Doğum günün kutlu olsun bağlantısını tıklayın.
++ Run your trinket and click on the Happy Birthday link.
 
-+ Trinket menüsüne tıklayın ve **embed**i seçin. Tam Ekran modunda değilseniz kaydırma yapmanız gerekebilir. Sağdaki kaydırma çubuğunu veya klavyedeki aşağı oku kullanın.
++ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
 
-![ekran görüntüsü](images/showcase-embed-code.png)
+![screenshot](images/showcase-embed-code.png)
 
-+ 'Yalnızca kodu veya sonucu göster (kullanıcıların aralarında geçiş yapmasına izin ver)' seçeneğini belirleyin ve **trinket için embed kodunu** kopyalayın. 
++ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
 
-![ekran görüntüsü](images/showcase-embed.png)
+![screenshot](images/showcase-embed.png)
 
-+ Trinket, web sayfanıza eklemeniz için bazı HTML'ler oluşturdu. İçeriğin bir sayfaya gömülmesine izin veren `<iframe>` etiketi kullanır.
++ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
-+ Şimdi bu kodu Mutlu yıllar biblo bağlantısına ekleyin
++ Now paste that code under the link to the Happy Birthday trinket:
 
-![ekran görüntüsü](images/showcase-paste-embed.png)
+![screenshot](images/showcase-paste-embed.png)
 
-+ Test etmek için trinketinizi çalıştırın ve Happy Birthday projenizi web sayfasına yerleştirilmiş olarak görmelisiniz. 
++ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
 
-![ekran görüntüsü](images/showcase-embed-output.png)
+![screenshot](images/showcase-embed-output.png)
 
-+ Trinketinizin en alt kısmının görünmediğini görebilirsiniz. Bunu `<iframe>`yükseklik değerini değiştirerek düzeltebilirsiniz. 
++ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
 
-![ekran görüntüsü](images/showcase-embed-height.png)
+![screenshot](images/showcase-embed-height.png)
 
-Yüksekliği **400**'e ayarlayın. Doğum Günün Kutlu Olsun projesinde değişiklik yaptıysanız, farklı bir değer seçmeniz gerekebilir.
+Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
 
-![ekran görüntüsü](images/showcase-embed-fixed.png)
+![screenshot](images/showcase-embed-fixed.png)
