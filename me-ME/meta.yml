@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Prikaz projekata
+title: Project Showcase
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Napravi prikaz svojih veb-projekata.
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Dodavanje linkova za veb-stranice
+    title: Adding Links to Webpages
   - 
-    title: 'Izazov: Dodaj još jedan link'
+    title: 'Challenge: Add another link'
   - 
-    title: Link za trinket
+    title: Link to A Trinket
   - 
-    title: 'Izazov: Napravi spisak svojih projekata'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Ugrađivanje projekata
+    title: Embedding Projects
   - 
-    title: 'Izazov: Ugradi više projekata'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Napravi sadržaj
+    title: Create a Table of Contents
   - 
-    title: Povratak na vrh
+    title: Getting Back to the Top
   - 
-    title: 'Izazov: Poboljšaj svoj Prikaz'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Izazov: Napravi novi Prikaz'
+    title: 'Challenge: Create a New Showcase'
