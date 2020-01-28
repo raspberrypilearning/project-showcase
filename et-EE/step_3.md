@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Väljakutse: Lisa veel üks link
+## Challenge: Add another link
 
-Lisa linki sisaldav lause veebisaidile, mis on olnud kasulik veebiprojektide loomisel. Näiteks: <https://trinket.io> või <https://trinket.io/docs/colors>.
+Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
-![kuvatõmmis](images/showcase-link-challenge.png)
+![screenshot](images/showcase-link-challenge.png)
 
 \--- /challenge \---
