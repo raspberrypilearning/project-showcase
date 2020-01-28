@@ -2,11 +2,11 @@
 
 Bu projede, HTML projelerinizin bir vitrinini oluşturacak ve bağlantılar ve kaynakları yerleştirme hakkında bilgi edineceksiniz.
 
-![ekran görüntüsü](images/showcase-intro.png)
+![screenshot](images/showcase-intro.png)
 
-### Kulüp liderleri için ek bilgiler
+### Additional information for club leaders
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/project-showcase/print)ü kullanın.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
@@ -14,74 +14,74 @@ Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://p
 
 ## Giriş:
 
-Bu projede, çocuklar süper-bağlantılar, trinketler ve Scratch projelerinin bir web sayfasına yerleştirilmesiyle tanıştırılıyor.
+In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
 
 ## Çevrimiçi kaynaklar
 
-[Trinket](https://trinket.io/) yazmak için çevrimiçi HTML & CSS kullanmanızı tavsiye ediyoruz. Bu proje aşağıdaki trinketleri içeriyor:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-* ['Proje Vitrini' başlangıç noktası - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Çocuklar ayrıca bu trinketlerden yararlanarak [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML & CSS’lerini yazabilir ya da alternatif olarak bu şablon trinketleri[(jumpto.cc/html-template)](http://jumpto.cc/html-template) kullanabilirler.
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Ayrıca meydan okumalar için örnek çözüm içeren bir trinket de var:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Proje Vitrini Tamamlandı' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Çevrimdışı Kaynaklar
 
-Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-Bu projenin zorluklarının tamamlanmış bir versiyonunu da içeren 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(Yukarıdaki kaynakların tümü proje olarak da indirilebilir ve gönüllü `.zip` dosyadır)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-Çocuklar diğer projelerini çevrimdışı olarak tamamladılarsa, onları gömemezler, ancak yine de onlarla bağlantı kurabileceklerini unutmayın.
+Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
 
-## Öğrenme hedefleri
+## Learning Objectives
 
-* Bu proje, diğer web sayfalarına ve bir sayfadaki adlandırılmış kimlik numaralarına metin bağlantıları sunmaktadır. Aynı zamanda bibloların ve Scratch projelerinin bir web sayfasına gömülmesini de sağlar. 
+* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
-Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum)aşağıdaki bölümlerinden elemanları içermektedir:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Temel 2B ve 3B varlıkların tasarlanması](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Zorluklar
+## Challenges
 
-* “Başka bir bağlantı ekle” - Daha fazla web sayfasına bağlantı ekleyin;
-* “Projelerinizin Bir Listesini Oluşturun” - Önceki web projelerine bağlantılar oluşturun;
-* “Daha Fazla Proje Katıştır” - Yeni stiller oluşturmak için CSS kullanın.
+* “Add another link” - Add links to more webpages;
+* “Create a List of Your Projects” - Create links to previous web projects;
+* “Embed More Projects” - Use CSS to create new styles.
 
-\--- /çöküş \---
+\--- /collapse \---
 
-## \--- çöküş \---
+## \--- collapse \---
 
-## başlık: Proje malzemeleri
+## title: Project materials
 
-## Proje kaynakları
+## Project resources
 
-* [tüm proje kaynaklarını içeren .zip dosyası](resources/showcase-project-resources.zip)
-* [Tüm 'Proje Vitrinini' proje kaynaklarını içeren çevrimiçi Biblo](http://jumpto.cc/web-showcase)
-* [Çevrimiçi Biblo şablonu](http://jumpto.cc/trinket-template)
-* [Çevrimiçi boş biblo](http://jumpto.cc/trinket-blank)
-* [Şablon / index.html](resources/template-index.html)
-* [Şablon / style.css](resources/template-style.css)
-* [Proje-vitrin / index.html](resources/project-showcase-index.html)
-* [Proje-vitrin / style.css](resources/project-showcase-style.css)
+* [.zip file containing all project resources](resources/showcase-project-resources.zip)
+* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [project-showcase/index.html](resources/project-showcase-index.html)
+* [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Kulüp lideri kaynakları
+## Club leader resources
 
-* [tamamlanan tüm proje kaynaklarını içeren .zip dosyası](resources/showcase-volunteer-resources.zip)
-* [Online biblo projesi tamamlandı](https://trinket.io/html/1d4d4c5ce1)
-* [proje vitrin mamul / index.html](resources/project-showcase-finished-index.html)
-* [proje vitrin mamul / style.css](resources/project-showcase-finished-style.css)
+* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
+* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
-\--- /çöküş \---
+\--- /collapse \---
