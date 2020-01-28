@@ -1,23 +1,23 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: Készítsen projektek listáját
+## Challenge: Create a List of Your Projects
 
-Adjon hozzá néhány más HTML & CSS-projektet, amelyeket a Code Club-ban hozott létre. A weboldal rendezéséhez használja a `<h2>` címsort.
+Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
 
-Ha nincs linke a létrehozott projektekhez, akkor használhatja a Code Club példákat:
+If you don't have links to the projects you created then you can use the Code Club examples:
 
-+ Boldog születésnapot: <https://trinket.io/html/e996dc0380>
++ Happy Birthday: <https://trinket.io/html/e996dc0380>
 
-+ Mondj egy történetet: <https://trinket.io/html/c8afdef912>
++ Tell a Story: <https://trinket.io/html/c8afdef912>
 
-+ Keresünk: <https://trinket.io/html/ebeb56398a>
++ Wanted: <https://trinket.io/html/ebeb56398a>
 
-+ Receptek: <https://trinket.io/html/c0fd9b40cd>
++ Recipe: <https://trinket.io/html/c0fd9b40cd>
 
-+ Rejtélyes levél: <https://trinket.io/html/1d4d4c5ce1>
++ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-A kész oldalának így kell kinéznie:
+Your finished page should look something like this:
 
-![képernyőkép](images/showcase-h2-projects.png)
+![screenshot](images/showcase-h2-projects.png)
 
-\--- / challenge \---
+\--- /challenge \---
