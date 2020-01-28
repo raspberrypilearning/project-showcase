@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Projekti tutvustus
+title: Project Showcase
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Loo oma veebiprojektide tutvustus.
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Sissejuhatus
+    title: Introduction
   - 
-    title: Linkide lisamine veebilehtedele
+    title: Adding Links to Webpages
   - 
-    title: 'Väljakutse: Lisa veel üks link'
+    title: 'Challenge: Add another link'
   - 
-    title: Link trinketile
+    title: Link to A Trinket
   - 
-    title: 'Väljakutse: Loo oma projektide nimekiri'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Projektide manustamine
+    title: Embedding Projects
   - 
-    title: 'Väljakutse: Manusta rohkem projekte'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: Loo sisukord
+    title: Create a Table of Contents
   - 
-    title: Tagasi üles saamine
+    title: Getting Back to the Top
   - 
-    title: 'Väljakutse: täiusta oma tutvustust'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Väljakutse: Loo uus tutvustus'
+    title: 'Challenge: Create a New Showcase'
