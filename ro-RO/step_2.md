@@ -1,43 +1,43 @@
-## Adăugarea link-urilor către pagini web
+## Adding Links to Webpages
 
-Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină web; de cele mai multe ori sunt subliniate.
+Text links allow you to click on words to go to another web page; they are usually underlined.
 
-+ Deschide acest trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    Proiectul ar trebui să arate așa:
+    The project should look like this:
     
-    ![captură de ecran](images/showcase-starter.png)
+    ![screenshot](images/showcase-starter.png)
 
-+ HTML folosește tag-ul `<a>` pentru link-uri.
++ HTML uses the `<a>` tag for links.
 
-![captură de ecran](images/showcase-link.png)
+![screenshot](images/showcase-link.png)
 
-+ Găsește tag-ul `<a>` în proiectul tău. 
++ Find the `<a>` tag in your project. 
 
-![captură de ecran](images/showcase-a-template.png)
+![screenshot](images/showcase-a-template.png)
 
-+ Adaugă adresa site-ului web Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) și textul link-ului:
++ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
 
-![captură de ecran](images/showcase-code-club.png)
+![screenshot](images/showcase-code-club.png)
 
-+ Apasă pe Run pentru a testa trinket-ul.
++ Click Run to test your trinket.
 
-![captură de ecran](images/showcase-cc-output.png)
+![screenshot](images/showcase-cc-output.png)
 
-+ Apasă pe link-ul Code Club pentru a testa pagina ta web. Trinket-ul tău va arăta acum pagina web Code Club: 
++ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
 
-![captură de ecran](images/showcase-cc-website.png)
+![screenshot](images/showcase-cc-website.png)
 
-+ Pentru a te întoarce la pagina ta, poți să:
++ To get back to your page you can either:
     
-    + Rulezi trinket-ul din nou,
+    + Run your trinket again,
     
-    + Apeși tasta Backspace pe tastatură sau să
+    + Tap the Backspace key on the keyboard, or
     
-    + Dai click-dreapta și să selectezi Înapoi.
+    + Right-click and choose Back.
 
-+ Acum pune link-ul tău într-o propoziție înăuntrul unui paragraf:
++ Now put your link into a sentence inside a paragraph:
 
-![captură de ecran](images/showcase-paragraph.png)
+![screenshot](images/showcase-paragraph.png)
 
-Testează-ți pagina web.
+Test your webpage.
