@@ -1,11 +1,11 @@
-## Komme tilbake til toppen
+## Getting Back to the Top
 
-+ Det er også nyttig å kunne navigere tilbake til toppen av siden. HTML har `#top` for dette formålet.
++ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
-+ Legg til en link til `#top` etter hvert embedded prosjekt i websiden din:
++ Add a link to `#top` after each embedded project in your webpage:
 
-![skjermbilde](images/showcase-top-code.png)
+![screenshot](images/showcase-top-code.png)
 
-![skjermbilde](images/showcase-top-output.png)
+![screenshot](images/showcase-top-output.png)
 
-+ Test koblingene dine ved å klikke på Top for å komme tilbake til toppen av siden.
++ Test your links by clicking on Top to get back to the top of the page.
