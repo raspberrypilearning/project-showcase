@@ -6,8 +6,8 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-1, programlama-0, fiziksel-hesaplama-0, üretim-0, topluluk-0
-description: Web projelerinizin için bir vitrin oluşturun.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a showcase of your web projects.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -22,20 +22,20 @@ steps:
   - 
     title: Web Sayfalarına Bağlantı Ekleme
   - 
-    title: 'Meydan okuma: Başka bir bağlantı ekle'
+    title: 'Challenge: Add another link'
   - 
-    title: Trinklet’e bağlantı oluştur
+    title: Link to A Trinket
   - 
-    title: 'Meydan okuma: Projelerinizin bir listesini oluşturun'
+    title: 'Challenge: Create a List of Your Projects'
   - 
-    title: Yerleşik Projeler
+    title: Embedding Projects
   - 
-    title: 'Meydan okuma: Daha Fazla Proje Yerleştir'
+    title: 'Challenge: Embed More Projects'
   - 
-    title: İçerikler Tablosu Oluştur
+    title: Create a Table of Contents
   - 
     title: Başa Dön
   - 
-    title: 'Meydan Okuma: Vitrininizi Geliştirin'
+    title: 'Challenge: Improve Your Showcase'
   - 
-    title: 'Meydan Okuma: Yeni Bir Vitrin Oluştur'
+    title: 'Challenge: Create a New Showcase'
