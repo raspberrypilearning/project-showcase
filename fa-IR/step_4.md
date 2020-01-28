@@ -1,27 +1,27 @@
-## لینک به یک نینجا
+## Link to A Trinket
 
-شما می توانید برای یک صفحه وب به صفحه وب لینک کنید.
+You can link to the web page for a trinket.
 
-+ آیا شما پیوندی را با تی شرت تولدت مبارک دارید؟ اگر بعد از آن باز شدید آن را در یک برگه یا پنجره دیگر مرورگر باز کنید. در غیر اینصورت نکته به پایان رسیده را باز کنید: <https://trinket.io/html/e996dc0380>
++ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
 
-+ با کلیک بر روی منوی اشتراک گذاری در بالا از شلوار خود را انتخاب کنید و لینک را انتخاب کنید:
++ Click on the Share menu above your trinket and choose Link:
 
-![تصویری](images/showcase-share1.png)
+![screenshot](images/showcase-share1.png)
 
-اگر نکته را از حساب کاربری خود باز کردید، به جای آن گزینه گزینه Share را در بالای صفحه انتخاب کنید.
+If you opened the trinket from your account then look for the Share option above your trinket instead:
 
-![تصویری](images/showcase-share2.png)
+![screenshot](images/showcase-share2.png)
 
-+ را انتخاب کنید "فقط کد نمایش یا نتیجه (اجازه دهید کاربران بین آنها را تغییر دهید)" و کپی لینک به نیشکر. 
++ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
 
-![تصویری](images/showcase-get-link.png)
+![screenshot](images/showcase-get-link.png)
 
-+ بازگشت به پروژه نامناسب پروژه شما و اضافه کردن یک عنوان `<h2>` و یک پیوند به پروژه تولد تولدت مبارک.
++ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
 
-![تصویری](images/showcase-link-trinket.png)
+![screenshot](images/showcase-link-trinket.png)
 
-وب سایت خود را آزمایش کنید این باید چیزی شبیه به این باشد:
+Test your webpage; it should look something like this:
 
-![تصویری](images/showcase-link-output.png)
+![screenshot](images/showcase-link-output.png)
 
-روی پیوند تولدت مبارک کلیک کنید تا تست کنید که شما را به نینجا می برد
+Click the Happy Birthday link to test that it takes you to the trinket.
