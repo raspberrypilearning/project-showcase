@@ -1,9 +1,9 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Forbedre presentasjonen din
+## Challenge: Improve Your Showcase
 
-Bruk CSS du har lært å gjøre siden din mer interessant. Prøv å endre bakgrunnsfargen på siden eller skrifttypen som brukes til overskriftene.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-Du kan også legge til litt informasjon om hvert prosjekt og hva du likte om å gjøre det.
+You can also add some information about each project and what you liked about making it.
 
-\--- /utfordring \---
+\--- /challenge \---
