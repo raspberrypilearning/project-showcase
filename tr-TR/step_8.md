@@ -1,21 +1,21 @@
-## İçindekiler Tablosu Oluşturma
+## Create a Table of Contents
 
-Her bir projeye kolayca ulaşabilmemiz için bir İçindekiler Tablosu ekleyelim.
+Let's add a Table of Contents so we can easily get to each project.
 
-+ Başka web sayfalarına link verebilmenin yanı sıra, bir kimlik verirsek web sayfasının bölümlerine link verebiliriz. 
++ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
 
-İyi ki doğdun projesi için `<h2>` başlığına bir kimlik ekleyin:
+Add an id to the `<h2>` heading for the Happy Birthday project:
 
-![ekran görüntüsü](images/showcase-id.png)
+![screenshot](images/showcase-id.png)
 
-+ Projelerinizin her birine kimlikleri ekleyin ve onlara kısa adlar verin: hikaye, aranan, tarif ve mektup.
++ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
 
-+ Adının önüne bir '#' simgesi koyarak bir kimliğe sahip bir öğeye bağlantı verebilirsiniz. Örneğin, `#dogumgunu`.
++ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
 
-Projelerinize sıralı bir bağlantı listesi oluşturun. (Sıralı listeler Reçete projesinde tanıtılmıştır.)
+Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
-![ekran görüntüsü](images/showcase-list.png)
+![screenshot](images/showcase-list.png)
 
-+ Projenizi çalıştırın ve projelerinize taşımak için linklere tıklayarak test edin. 
++ Run your project and test it by clicking on the links to move to your projects. 
 
-![ekran görüntüsü](images/showcase-list-output.png)
+![screenshot](images/showcase-list-output.png)
