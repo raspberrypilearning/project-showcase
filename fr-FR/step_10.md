@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Défi: Améliore ton portfolio
+## Challenge: Improve Your Showcase
 
-Utilisez le CSS que vous avez appris pour rendre votre page plus intéressante. Essayez de changer la couleur d'arrière-plan de la page ou la police utilisée pour les en-têtes.
+Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
 
-Vous pouvez également ajouter des informations sur chaque projet et sur ce que vous avez aimé faire.
+You can also add some information about each project and what you liked about making it.
 
 \--- /challenge \---
