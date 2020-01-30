@@ -23,10 +23,11 @@ Kopiere den `<iframe>` Text auf der "Scratch Embed" Beispielseite und ersetze di
 
 --- /challenge ---
 
+***
+Dieses Projekt wurde von freiwilligen Helfern übersetzt:
 
+**Florian Rathgeber**
 
-**Von der Community übersetzt**
+**Jegor Kern**
 
-Dieses Projekt wurde von **Florian Rathgeber** übersetzt und von **Jegor kern** überprüft.
-
-Unsere großartigen Freiwilligen helfen uns, Kindern auf der ganzen Welt die Möglichkeit zu geben, coden zu lernen. Sie können uns helfen, mehr Kinder zu erreichen, indem Sie unsere Projekte übersetzen - lesen Sie mehr unter [rpf.io/translate](https://rpf.io/translate).
+Dank freiwilliger Helfer können wir Menschen auf der ganzen Welt die Möglichkeit geben, in ihrer eigenen Sprache zu lernen. Du kannst uns helfen, mehr Menschen zu erreichen, indem Du dich freiwillig zum Übersetzen meldest - weitere Informationen unter [rpf.io/translate](https://rpf.io/translate).
