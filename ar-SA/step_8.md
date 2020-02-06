@@ -12,10 +12,10 @@
 
 + يمكنك إضافة رابط إلى كل عنصر له معرف بوضع رمز ‘#’ قبل اسم العنصر. على سبيل المثال، `#عيد ميلاد`.
 
-أنشئ قائمة مرتبة بروابط إلى مشاريعك. (Ordered lists are introduced in the Recipe project.)
+أنشئ قائمة مرتبة بروابط إلى مشاريعك. (تم تناول القوائم المرتبة في المشروع وصفة طعام.)
 
 ![لقطة الشاشة](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ شغِّل مشروعك واختبره بالنقر فوق الروابط للانتقال إلى مشاريعك. 
 
 ![لقطة الشاشة](images/showcase-list-output.png)
