@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## التحدي: أنشئ قائمة بمشاريعك
 
-أضف بعضًا من مشاريع HTML & amp؛ CSS التي قمت بإنشائها في Code Club. Use `<h2>` headings to organise your webpage.
+أضف بعضًا من مشاريع HTML & amp؛ CSS التي قمت بإنشائها في Code Club. استخدم أوسمة `<h2>` الخاصة بالعناوين لتنظيم صفحة الويب.
 
 إذا لم يكن لديك روابط للمشاريع التي أنشأتها ، فيمكنك استخدام أمثلة Code Club:
 
@@ -16,7 +16,7 @@
 
 + رسالة غامضة: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+ستكون صفحتك النهائية بهذا الشكل تقريبًا:
 
 ![لقطة الشاشة](images/showcase-h2-projects.png)
 
