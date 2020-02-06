@@ -1,27 +1,27 @@
-## Link to A Trinket
+## إضافة رابط إلى مشروع Trinket
 
-You can link to the web page for a trinket.
+يمكنك إضافة رابط إلى صفحة الويب لمشروع على trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ هل احتفظتَ برابط مشروع “عيد ميلاد سعيد” على trinket؟ إذا قمت بذلك، فافتح هذا المشروع في علامة تبويب أو نافذة أخرى على المتصفح. أو افتح نموذج المشروع المكتمل على trinket: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Click on the Share menu above your trinket and choose Link:
++ انقر فوق القائمة Share الموجودة أعلى مشروع trinket واختر Link:
 
 ![لقطة شاشة](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+إذا فتحتَ مشروع trinket من حسابك، فابحث عن الخيار Share أسفل المشروع:
 
 ![لقطة الشاشة](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ اختر ‘Only show code or result (let users toggle between them)’ وانسخ الرابط إلى مشروع trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![لقطة الشاشة](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ عُد إلى مشروع “عرض المشاريع” على trinket وأضف عنوانًا داخل الوسم `<h2>` ورابطًا إلى مشروع “عيد ميلاد سعيد”.
 
 ![لقطة الشاشة](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+اختبر صفحة الويب؛ ستكون بالشكل التالي تقريبًا:
 
 ![لقطة الشاشة](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+انقر فوق الرابط مشروع “عيد ميلاد سعيد” لتتأكد من أنه ينقلك إلى trinket.
