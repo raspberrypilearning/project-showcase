@@ -2,7 +2,7 @@
 
 إلى جانب إنشاء روابط إلى مشاريع trinket كصفحات ويب، يمكننا أيضًا تضمين هذه المشاريع في صفحة ويب.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ ربما تريد أن تجرِّب الوضع ملء الشاشة للعمل في مساحة أكبر:
 
 ![لقطة شاشة](images/showcase-fullscreen.png)
 
@@ -10,25 +10,25 @@
 
 + شغِّل trinket وانقر فوق الرابط “عيد ميلاد سعيد”.
 
-+ Click on the trinket menu and select **embed**. وإذا لم تكن تستخدم الوضع ملء الشاشة Fullscreen، فقد تحتاج إلى التمرير. Use the scroll bar on the right or the down arrow on the keyboard.
++ انقر فوق قائمة trinket وحدد ** embed **. وإذا لم تكن تستخدم الوضع ملء الشاشة Fullscreen، فقد تحتاج إلى التمرير. استخدم شريط التمرير الموجود على اليمين أو مفتاح سهم إلى أسفل في لوحة المفاتيح.
 
 ![لقطة الشاشة](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ اختر ‘Only show code or result (let users toggle between them)’ وقم بعملية نسخ ** copy **تعليمات embed البرمجية لـ trinket. 
 
 ![لقطة الشاشة](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ لقد أنشأ Trinket بعض تعليمات HTML البرمجية لاستخدامها في صفحة الويب. فهو يستخدم الوسم `<iframe>` الذي يسمح بتضمين المحتوى في الصفحة.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ ألصق الآن هذه التعليمات البرمجية أسفل الرابط إلى مشروع “عيد ميلاد سعيد” على trinket:
 
 ![لقطة الشاشة](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ شغِّل trinket لاختباره. سترى مشروع “عيد ميلاد سعيد” مضمنًا في صفحة الويب. 
 
 ![لقطة الشاشة](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ من المتحمل أن تجد الجزء السفلي من الصفحة على trinket غير معروض. يمكنك إصلاح ذلك بتغيير قيمة الطول في الوسم `<iframe>`. 
 
 ![لقطة الشاشة](images/showcase-embed-height.png)
 
