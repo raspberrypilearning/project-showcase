@@ -2,7 +2,7 @@
 
 ## التحدي: أضف رابطًا آخر
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+أضف جملة تحتوي على رابط إلى موقع ويب مفيد في إنشاء مشاريع الويب. على سبيل المثال:<https://trinket.io> أو <https://trinket.io/docs/colors>.
 
 ![لقطة شاشة](images/showcase-link-challenge.png)
 
