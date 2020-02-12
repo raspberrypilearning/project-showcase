@@ -1,4 +1,4 @@
-## Link to A Trinket
+## Enlace a un trinket
 
 You can link to the web page for a trinket.
 
