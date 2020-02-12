@@ -1,25 +1,23 @@
 --- challenge ---
+
 ## चुनौती: अपने प्रोजेक्ट्स की सूची बनाएँ
 
-कुछ HTML व CSS प्रोजेक्ट जोड़ें, जिन्हें आपने कोड क्लब में बनाया था। अपने वेबपेज को व्यवस्थित करने के लिए `<h2>` शीर्षकों का उपयोग करें।
+Code Club में आपके द्वारा बनाई गई कुछ अन्य HTML & CSS परियोजनाओं को जोड़ें। अपने वेबपृष्ठ को व्यवस्थित करने के लिए `<h2>` शीर्षकों का उपयोग करें।
 
-यदि आपके पास अपने बनाए प्रोजेक्ट पर जाने के लिए लिंक न हों, तो आप कोड क्लब के उदाहरणों का उपयोग कर सकते हैं:
+यदि आपके पास आपके द्वारा बनाई गई परियोजनाओं के लिंक नहीं हैं तो आप Code Club के उदाहरणों का उपयोग कर सकते हैं:
 
-+ हैपी बर्थडे: <a href="https://trinket.io/html/e996dc0380">https://trinket.io/html/e996dc0380</a>
++ जन्मदिन मुबारक: <https://trinket.io/html/46cc3d8e83>
 
-+ कहानी सुनाएँ: <a href="https://trinket.io/html/c8afdef912">https://trinket.io/html/c8afdef912</a>
++ एक कहानी सुनाओ: <https://trinket.io/html/03006be97d>
 
-+ वांटेड: <a href="https://trinket.io/html/ebeb56398a">https://trinket.io/html/ebeb56398a</a>
++ वांटेड: <https://trinket.io/html/ebeb56398a>
 
-+ रेसिपी: <a href="https://trinket.io/html/c0fd9b40cd">https://trinket.io/html/c0fd9b40cd</a>
++ रेसिपी: <https://trinket.io/html/bd59ff1afb>
 
-+ रहस्यमय पत्र: <a href="https://trinket.io/html/1d4d4c5ce1">https://trinket.io/html/1d4d4c5ce1</a>
++ रहस्यमय पत्र: <https://trinket.io/html/1d4d4c5ce1>
 
-आपका तैयार पेज कुछ ऐसा दिखाई देना चाहिए:
+आपका पूर्ण वेबपेज कुछ इस तरह दिखाई देना चाहिए:
 
 ![screenshot](images/showcase-h2-projects.png)
-
-
-
 
 --- /challenge ---
