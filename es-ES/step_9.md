@@ -1,4 +1,4 @@
-## Getting Back to the Top
+## Volver arriba
 
 + It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
