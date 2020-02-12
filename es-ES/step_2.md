@@ -1,43 +1,43 @@
 ## Añadir enlaces a páginas web
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras páginas web. Normalmente están subrayados.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ Abre este trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    El proyecto debería tener este aspecto:
     
-    ![screenshot](images/showcase-starter.png)
+    ![captura de pantalla](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ En HTML se utiliza la etiqueta `<a>` para los enlaces.
 
-![screenshot](images/showcase-link.png)
+![captura de pantalla](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Encuentra la etiqueta `<a>` en tu proyecto. 
 
-![screenshot](images/showcase-a-template.png)
+![captura de pantalla](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Añade la dirección de tu Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) y el texto del enlace:
 
-![screenshot](images/showcase-code-club.png)
+![captura de pantalla](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Haz clic en el botón Run (ejecutar) para probar tu trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![captura de pantalla](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Haz clic en el enlace de Code Club para probar tu página web. Tu trinket mostrará la página de Code Club: 
 
-![screenshot](images/showcase-cc-website.png)
+![captura de pantalla](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Para volver a tu página web puedes:
     
-    + Run your trinket again,
+    + Run (ejecutar) tu trinket de nuevo,
     
-    + Tap the Backspace key on the keyboard, or
+    + Pulsar la tecla de Retroceso (Backspace) en el teclado, o
     
-    + Right-click and choose Back.
+    + Hacer clic en el botón derecho del ratón y seleccionar Atrás.
 
-+ Now put your link into a sentence inside a paragraph:
++ Ahora pon tu enlace en una frase dentro de un párrafo:
 
-![screenshot](images/showcase-paragraph.png)
+![captura de pantalla](images/showcase-paragraph.png)
 
-Test your webpage.
+Prueba tu página web.
