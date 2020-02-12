@@ -1,6 +1,6 @@
 ## Introducción
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+En este proyecto vas a crear un expositor para tus proyectos HTML y aprenderás acerca de enlaces e incrustación de recursos.
 
 ![captura de pantalla](images/showcase-intro.png)
 
@@ -14,7 +14,7 @@ Si necesitas imprimir este proyecto, usa la [Versión para imprimir](https://pro
 
 ## Introducción:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+En este proyecto se introduce a los niños en los hiperenlaces y en la incrustación de trinkets y proyectos de Scratch dentro de una página web.
 
 ## Recursos en línea
 
@@ -22,7 +22,7 @@ Recomendamos usar [trinket](https://trinket.io/) para programar en HTML & CSS en
 
 * [Punto de partida para 'Expositor de Proyectos' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Los niños también pueden usar este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o bien como alternativa usar esta plantilla de trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También existe un trinket que contiene una solución de ejemplo de los desafíos:
 
@@ -64,23 +64,23 @@ Este proyecto trata elementos de los siguientes aspectos del [Currículo de crea
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Archivo .zip que contiene todos los recursos del proyecto](resources/showcase-project-resources.zip)
+* [Trinket en línea que contiene todos los recursos del proyecto 'Expositor de Proyectos'](http://jumpto.cc/web-showcase)
+* [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
+* [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Recursos para los líderes de clubes
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/showcase-volunteer-resources.zip)
+* [Proyecto Trinket terminado en línea](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
