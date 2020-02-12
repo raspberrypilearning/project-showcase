@@ -1,4 +1,4 @@
-## Embedding Projects
+## Incrustar proyectos
 
 As well as linking to trinkets as webpages we can also embed them in a web page.
 
