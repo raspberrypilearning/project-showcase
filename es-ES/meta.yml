@@ -1,6 +1,6 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: Expositor de Proyectos
 theme: turquoise
 duration: 2
 listed: true
@@ -14,28 +14,28 @@ technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3.1
+version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: Introducción
   - 
-    title: Adding Links to Webpages
+    title: Añadir enlaces a páginas web
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafío: Añade otro enlace'
   - 
-    title: Link to A Trinket
+    title: Enlace a un trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'Desafío: Crea una lista de tus proyectos'
   - 
-    title: Embedding Projects
+    title: Incrustar proyectos
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Desafío: Incrusta más proyectos'
   - 
-    title: Create a Table of Contents
+    title: Crea un índice de contenidos
   - 
-    title: Getting Back to the Top
+    title: Volver arriba
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'Desafío: Mejora tu expositor'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'Desafío: Crea un nuevo expositor'
