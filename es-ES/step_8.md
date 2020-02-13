@@ -8,7 +8,7 @@ Añade un id a la cabecera `<h2>` del proyecto Feliz Cumpleaños:
 
 ![captura de pantalla](images/showcase-id.png)
 
-+ Añade ids a cada uno de tus proyectos y asígnales nombres cortos: cuento, se busca, receta y carta.
++ Añade ids a cada uno de tus proyectos y asígnales nombres cortos: cuento, busca, receta y carta.
 
 + Puedes crear un enlace a un elemento con un id insertando el símbolo de la almohadilla ‘#’ delante de su nombre. Por ejemplo, `#cumpleaños`.
 
