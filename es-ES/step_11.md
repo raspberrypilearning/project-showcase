@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Desafío: Crea un nuevo expositor
 
 Trinkets no es lo único que se puede incrustar en una página web. También puedes incrustar vídeos, widgets (por ejemplo un widget del tiempo) o proyectos de Scratch.
 
