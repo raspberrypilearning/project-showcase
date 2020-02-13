@@ -2,22 +2,22 @@
 
 ## Challenge: Create a New Showcase
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Trinkets no es lo único que se puede incrustar en una página web. También puedes incrustar vídeos, widgets (por ejemplo un widget del tiempo) o proyectos de Scratch.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Abre este trinket incrustado de Scratch de ejemplo y ejecútalo: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Ve a la página web de Scratch y busca un proyecto que te guste. Puede ser un proyecto tuyo u otro que hayas encontrado.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Si has iniciado sesión, puedes hacer clic en el botón ‘Embebido’ que está debajo del proyecto para obtener el código HTML de incrustación.
 
-![screenshot](images/scratch-embed.png)
+![captura de pantalla](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Si no has iniciado sesión, entonces busca el número de proyecto de Scratch en su dirección web.
 
-![screenshot](images/scratch-project-number.png)
+![captura de pantalla](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Haz una copia del código `<iframe>` en el trinket del ejemplo de incrustración de Scratch y cambia el número del proyecto por el del proyecto que quieres incrustar:
 
-![screenshot](images/scratch-iframe.png)
+![captura de pantalla](images/scratch-iframe.png)
 
 \--- /challenge \---
