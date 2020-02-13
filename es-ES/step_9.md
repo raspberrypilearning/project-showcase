@@ -8,4 +8,4 @@
 
 ![captura de pantalla](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Prueba tus enlaces haciendo clic en Arriba para volver al inicio de la página.
