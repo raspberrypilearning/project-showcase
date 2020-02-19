@@ -1,29 +1,30 @@
+---
 hero_image: images/banner.png
-title: Presentación de Proyectos
+title: Expositor de Proyectos
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Crea una exhibición de tus proyectos web.
+description: Crea un expositor para tus proyectos web.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3.1
+version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introducción
-- title: AAñadir enlaces a páginas web
-- title: 'Desafío: Añade otro enlace'
-- title: Enlace a un trinket
-- title: 'Desafío: Crea una lista de tus proyectos'
-- title: Incrustar proyectos
-- title: 'Desafío: Incrusta más proyectos'
-- title: Crea un índice de contenidos
-- title: Volver al principio
-- title: 'Desafío: Mejora tu presentación'
-- title: 'Desafío: Crea una nueva presentación'
+steps:
+  - title: Introducción
+  - title: Añadir enlaces a páginas web
+  - title: 'Desafío: Añade otro enlace'
+  - title: Enlace a un trinket
+  - title: 'Desafío: Crea una lista de tus proyectos'
+  - title: Incrustar proyectos
+  - title: 'Desafío: Incrusta más proyectos'
+  - title: Crea un índice de contenidos
+  - title: Volver arriba
+  - title: 'Desafío: Mejora tu expositor'
+  - title: 'Desafío: Crea un nuevo expositor'

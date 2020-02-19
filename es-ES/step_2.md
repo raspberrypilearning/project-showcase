@@ -2,46 +2,42 @@
 
 Los enlaces de texto te permiten hacer clic en palabras que te llevan a otras páginas web. Normalmente están subrayados.
 
-+ Abre este trinket: <a href="https://trinket.io/html/9ad31460f0">https://trinket.io/html/9ad31460f0</a>. Si estás leyendo este proyecto en línea, eso es un enlace. También puedes usar el trinket incrustado que verás a continuación. 
++ Abre este trinket: [trinket.io/html/0c34002af3](https://trinket.io/html/0c34002af3).
+    
+    El proyecto debería tener este aspecto:
+    
+    ![captura de pantalla](images/showcase-starter.png)
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/9ad31460f0" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
++ En HTML se utiliza la etiqueta `<a>` para los enlaces.
 
-+ HTML utiliza la etiqueta `<a>` para los enlaces. 
-
-![screenshot](images/showcase-link.png)
+![captura de pantalla](images/showcase-link.png)
 
 + Encuentra la etiqueta `<a>` en tu proyecto. 
 
-![screenshot](images/showcase-a-template.png)
+![captura de pantalla](images/showcase-a-template.png)
 
++ Añade la dirección de tu Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) y el texto del enlace:
 
-+ Añade la dirección de la página web de Code Club <a href="https://www.codeclubworld.org">`https://www.codeclubworld.org`</a> y el texto del enlace:
+![captura de pantalla](images/showcase-code-club.png)
 
-![screenshot](images/showcase-code-club.png)
++ Haz clic en el botón Run (ejecutar) para probar tu trinket.
 
-+ Haz clic en "Run" (ejecutar) para probar tu trinket.
+![captura de pantalla](images/showcase-cc-output.png)
 
-![screenshot](images/showcase-cc-output.png)
++ Haz clic en el enlace de Code Club para probar tu página web. Tu trinket mostrará la página de Code Club: 
 
-+ Haz clic en el enlace de Code Club para probar la página web. Tu trinket mostrará la página de Code Club: 	
+![captura de pantalla](images/showcase-cc-website.png)
 
-![screenshot](images/showcase-cc-website.png)
++ Para volver a tu página web puedes:
+    
+    + Run (ejecutar) tu trinket de nuevo,
+    
+    + Pulsar la tecla de Retroceso (Backspace) en el teclado, o
+    
+    + Hacer clic en el botón derecho del ratón y seleccionar Atrás.
 
-+ Para volver a tu página web tienes varias opciones: 
++ Ahora pon tu enlace en una frase dentro de un párrafo:
 
-	+ Ejecuta tu trinket otra vez,
+![captura de pantalla](images/showcase-paragraph.png)
 
-	+ Pulsa la tecla de Retroceso (Backspace) en el teclado, o
-
-	+ Haz clic en el botón derecho del ratón y selecciona Atrás. 
-
-## Lista de tareas de la actividad { .check}
-
-+ Ahora incluye el enlace en una frase dentro de un párrafo:
-
-![screenshot](images/showcase-paragraph.png)
-
-Prueba tu página web. 
+Prueba tu página web.

@@ -1,23 +1,23 @@
 --- challenge ---
+
 ## Desafío: Crea una lista de tus proyectos
 
-Añade algún otro proyecto de HTML y CSS que hayas creado en Code Club. Usa encabezados `<h2>` para organizar tu página web. 
+Añade alguno de los otros proyectos HTML y CSS que has creado en el Code Club. Utiliza etiquetas de cabecera `<h2>` para organizar tu página web.
 
-Si no tienes los enlaces de los proyectos que has creado, puedes usar los ejemplos de Code Club:
+Si no tienes los enlaces a los proyectos que has creado, entonces puedes utilizar los ejemplos de Code Club:
 
-+ Feliz cumpleaños: <a href="https://trinket.io/html/e996dc0380">https://trinket.io/html/e996dc0380</a>
++ Feliz Cumpleaños: <https://trinket.io/html/b00d619d49>
 
-+ Cuenta una historia: <a href="https://trinket.io/html/c8afdef912">https://trinket.io/html/c8afdef912</a>
++ Cuenta una historia: <https://trinket.io/html/133f7ee5ed>
 
-+ ¡Se busca!: <a href="https://trinket.io/html/ebeb56398a">https://trinket.io/html/ebeb56398a</a>
++ ¡Se busca!: <https://trinket.io/html/bacdc5dc28>
 
-+ Receta: <a href="https://trinket.io/html/c0fd9b40cd">https://trinket.io/html/c0fd9b40cd</a>
++ Receta: <https://trinket.io/html/5b0463f234>
 
-+ Carta misteriosa: <a href="https://trinket.io/html/1d4d4c5ce1">https://trinket.io/html/1d4d4c5ce1</a>
++ Carta Misteriosa: <https://trinket.io/html/1d4d4c5ce1>
 
-Tu página acabada debería de parecerse a esta:
+Tu página web terminada debería tener un aspecto como éste:
 
-![screenshot](images/showcase-h2-projects.png)
-
+![captura de pantalla](images/showcase-h2-projects.png)
 
 --- /challenge ---
