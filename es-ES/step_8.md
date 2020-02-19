@@ -1,23 +1,21 @@
 ## Crea un índice de contenidos
 
-Vamos a crear un índice de contenidos para que podamos acceder fácilmente a todos los proyectos. 
+Vamos a crear un índice de contenidos para poder acceder fácilmente a cada uno de los proyectos.
 
-+ Además de crear enlaces a otras páginas web, también podemos crear enlaces a partes de una página web si indicamos un id. 
++ Además de crear enlaces a otras páginas web, también podemos crear enlaces a partes de una página web si les damos un id (identificador). 
 
-Añade un id al encabezado `<h2>` del proyecto Feliz cumpleaños:
+Añade un id a la cabecera `<h2>` del proyecto Feliz Cumpleaños:
 
-![screenshot](images/showcase-id.png)
+![captura de pantalla](images/showcase-id.png)
 
-+ Añade ids a todos los proyectos y asígnales nombres cortos: historia, busca, receta y carta. 
++ Añade ids a cada uno de tus proyectos y asígnales nombres cortos: cuento, busca, receta y carta.
 
-+ Puedes crear un enlace a un elemento con un id si insertas el símbolo de la almohadilla ‘#’ delante de su nombre. Por ejemplo,  `#cumpleaños`. 
++ Puedes crear un enlace a un elemento con un id insertando el símbolo de la almohadilla ‘#’ delante de su nombre. Por ejemplo, `#cumpleaños`.
 
 Crea una lista ordenada de los enlaces a tus proyectos. (Las listas ordenadas se explican en el proyecto Receta.)
 
-![screenshot](images/showcase-list.png)
+![captura de pantalla](images/showcase-list.png)
 
-+ Ejecuta tu proyecto y pruébalo haciendo clic en los enlaces para moverte por tus proyectos. 
++ Ejecuta (Run) tu proyecto y pruébalo haciendo clic en los enlaces para moverte por tus proyectos. 
 
-![screenshot](images/showcase-list-output.png)
-
-
+![captura de pantalla](images/showcase-list-output.png)

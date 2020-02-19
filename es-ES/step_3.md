@@ -1,9 +1,9 @@
 --- challenge ---
+
 ## Desafío: Añade otro enlace
 
-Añade una frase que contenga un enlace a una página web que hayas usado para crear los proyectos. Por ejemplo: <a href="https://trinket.io">https://trinket.io</a> o <a href="http://colours.neilorangepeel.com">http://colours.neilorangepeel.com</a>.
+Añade una frase que contenga un enlace a una página web que te haya sido de utilidad a la hora de crear proyectos web. Por ejemplo: <https://trinket.io> o <https://trinket.io/docs/colors>.
 
-![screenshot](images/showcase-link-challenge.png)
-
+![captura de pantalla](images/showcase-link-challenge.png)
 
 --- /challenge ---

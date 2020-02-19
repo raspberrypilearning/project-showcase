@@ -1,9 +1,9 @@
 --- challenge ---
-## Desafío: Mejora tu presentación
 
-Usa el CSS que has aprendido para hacer que tu página sea más interesante. Intenta cambiar el color de fondo de la página o el tipo de fuente de los encabezados. 
+## Desafío: Mejora tu expositor
 
-También puedes añadir algo de información sobre los proyectos y explicar qué te gustó más cuando los hiciste. 
+Utiliza el CSS que has aprendido para hacer tu página más interesante. Prueba cambiando el color de fondo de la página o el tipo de fuente de los encabezados.
 
+También puedes añadir algo de información sobre cada proyecto y qué es lo que te gustó al hacerlos.
 
 --- /challenge ---
