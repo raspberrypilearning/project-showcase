@@ -1,22 +1,22 @@
-## Introduction
+## Introducere
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+În acest proiect, vei crea o prezentare a proiectelor tale HTML și vei învăța despre link-uri și încorporarea resurselor.
 
-![screenshot](images/showcase-intro.png)
+![captură de ecran](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Informații suplimentare pentru liderii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pentru imprimare](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul de club
 
-## Introduction:
+## Introducere:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+În acest proiect, copiii vor învăța despre hyperlink-uri și încorporarea trinket-urilor și a proiectelor Scratch într-o pagină web.
 
-## Online Resources
+## Resurse online
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
