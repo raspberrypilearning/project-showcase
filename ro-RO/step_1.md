@@ -18,11 +18,11 @@ Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pe
 
 ## Resurse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Îți recomandăm să folosești [trinket](https://trinket.io/) pentru a scrie HTML și CSS online. Acest proiect conține următorul trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Punct de plecare "Prezentarea proiectelor" -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 There is also a trinket containing a sample solution to the challenges:
 
