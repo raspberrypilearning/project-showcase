@@ -24,9 +24,9 @@ Dacă dorești să imprimi acest proiect, te rugăm să folosești [Versiunea pe
 
 Copiii pot, de asemenea, să folosească acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul cod HTML & CSS sau, alternativ, acest șablon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ["Prezentarea proiectelor terminat" -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## Offline Resources
 
