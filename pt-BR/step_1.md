@@ -68,7 +68,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos do Projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/showcase-project-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/project-showcase-go)
 * [Trinket online com todos os recursos do 'Projeto Mostruário'](http://jumpto.cc/web-showcase)
 * [Modelo do Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Recursos para líderes de clube
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/showcase-volunteer-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/project-showcase-go)
 * [Trinket online completo do projeto](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
