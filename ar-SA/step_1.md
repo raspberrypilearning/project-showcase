@@ -68,7 +68,7 @@
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](resources/showcase-project-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع](https://rpf.io/p/en/project-showcase-go)
 * [Trinket على الإنترنت يحتوي على جميع موارد مشروع "عرض المشاريع"](http://jumpto.cc/web-showcase)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/showcase-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](https://rpf.io/p/en/project-showcase-go)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
