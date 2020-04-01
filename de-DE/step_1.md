@@ -68,7 +68,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](resources/showcase-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/en/project-showcase-go)
 * [Online Trinket mit allen Projektressourcen für 'Projektübersicht'](http://jumpto.cc/web-showcase)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 * [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/showcase-volunteer-resources.zip)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](https://rpf.io/p/en/project-showcase-go)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
