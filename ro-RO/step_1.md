@@ -68,7 +68,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/showcase-project-resources.zip)
+* [.zip file containing all project resources](https://rpf.io/p/en/project-showcase-go)
 * [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](resources/showcase-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/project-showcase-go)
 * [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
