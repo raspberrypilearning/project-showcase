@@ -68,7 +68,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/showcase-project-resources.zip)
+* [.zip-bestand met alle projectbronnen](https://rpf.io/p/en/project-showcase-go)
 * [Online Trinket met alle projectbronnen van 'Project Vitrine'](http://jumpto.cc/web-showcase)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectbronnen](resources/showcase-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbronnen](https://rpf.io/p/en/project-showcase-go)
 * [Online voltooid Trinket-project](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
