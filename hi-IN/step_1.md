@@ -68,7 +68,7 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](resources/showcase-project-resources.zip)
+* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
 * [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' परियोजना संसाधन हैं](http://jumpto.cc/web-showcase)
 * [ऑनलाइन trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
 * [ऑनलाइन खाली trinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 
 ## क्लब लीडर संसाधन
 
-* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](resources/showcase-volunteer-resources.zip)
+* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
 * [ऑनलाइन पूर्ण Trinket परियोजना](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
