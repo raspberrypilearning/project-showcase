@@ -68,7 +68,7 @@
 
 ## 프로젝트 리소스
 
-* [모든 프로젝트 자료가 들어있는 .zip 파일](resources/showcase-project-resources.zip)
+* [모든 프로젝트 자료가 들어있는 .zip 파일](https://rpf.io/p/en/project-showcase-go)
 * [모든 프로젝트 쇼케이스 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-showcase)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 * [온라인 빈 템플릿](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@
 
 ## 교육자를 위한 자료
 
-* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/showcase-volunteer-resources.zip)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/project-showcase-go)
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcse-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcse-finished/style.css](resources/project-showcase-finished-style.css)
