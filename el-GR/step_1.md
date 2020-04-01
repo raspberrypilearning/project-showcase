@@ -68,7 +68,7 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/showcase-project-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/project-showcase-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Επίδειξη Έργων'](http://jumpto.cc/web-showcase)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
 * [Online κενό Trinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/showcase-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/project-showcase-go)
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
