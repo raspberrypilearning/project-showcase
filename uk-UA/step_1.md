@@ -68,7 +68,7 @@
 
 ## Ресурси проекту
 
-* [.zip-файл, що містить всі ресурси проекту](resources/showcase-project-resources.zip)
+* [.zip-файл, що містить всі ресурси проекту](https://rpf.io/p/en/project-showcase-go)
 * [Онлайн Trinket - з усіма ресурсами проекту "Вітрина проекту"](http://jumpto.cc/web-showcase)
 * [Шаблон онлайн- Trinket](http://jumpto.cc/trinket-template)
 * [Онлайн чистийTrinket](http://jumpto.cc/trinket-blank)
@@ -79,7 +79,7 @@
 
 ## Ресурси лідерів клубу
 
-* [.zip-файл, що містить всі завершені ресурси проекту](resources/showcase-volunteer-resources.zip)
+* [.zip-файл, що містить всі завершені ресурси проекту](https://rpf.io/p/en/project-showcase-go)
 * [Онлайн завершив проект Trinket](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
