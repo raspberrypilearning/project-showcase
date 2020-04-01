@@ -37,18 +37,18 @@ Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-G
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune completă a provocărilor din acest proiect în secțiunea „Resursele voluntarilor”, care conține:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca și fișiere `.zip` pentru proiecte și voluntari.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Este bine de știut că în cazul în care copiii și-au completat celelalte proiecte offline, ei nu le vor putea încorpora însă vor putea crea link-uri către ele.
 
-## Learning Objectives
+## Obiective de învățare
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Acest proiect prezintă noțiuni legate de link-uri text către alte pagini web și id-uri denumite dintr-o pagină. It also introduces embedding trinkets and Scratch projects into a webpage. 
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
