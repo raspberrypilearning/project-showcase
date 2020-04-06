@@ -4,11 +4,11 @@ Poți crea un link către pagina web a unui trinket.
 
 + Ai păstrat un link de la trinket-ul tău de „La mulți ani”? Dacă da, deschide acel trinket în altă fereastră. Dacă nu, deschide acest exemplu finalizat: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Apasă pe meniul Share de deasupra trinket-ului și alege Link:
 
-![screenshot](images/showcase-share1.png)
+![captură de ecran](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Dacă ai deschis trinket-ul de pe contul tău, atunci uită-te după opțiunea Share deasupra trinket-ului tău:
 
 ![screenshot](images/showcase-share2.png)
 
