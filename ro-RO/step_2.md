@@ -18,13 +18,13 @@ Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină
 
 + Adaugă adresa site-ului web Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) și textul link-ului:
 
-![screenshot](images/showcase-code-club.png)
+![captură de ecran](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ Apasă pe Run pentru a testa trinket-ul.
 
-![screenshot](images/showcase-cc-output.png)
+![captură de ecran](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ Apasă pe link-ul Code Club pentru a testa pagina ta web. Your trinket will now show the Code Club webpage: 
 
 ![screenshot](images/showcase-cc-website.png)
 
