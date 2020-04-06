@@ -24,17 +24,17 @@ Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină
 
 ![captură de ecran](images/showcase-cc-output.png)
 
-+ Apasă pe link-ul Code Club pentru a testa pagina ta web. Your trinket will now show the Code Club webpage: 
++ Apasă pe link-ul Code Club pentru a testa pagina ta web. Trinket-ul tău va arăta acum pagina web Code Club: 
 
-![screenshot](images/showcase-cc-website.png)
+![captură de ecran](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ Pentru a te întoarce la pagina ta, poți să:
     
-    + Run your trinket again,
+    + Rulezi trinket-ul din nou,
     
-    + Tap the Backspace key on the keyboard, or
+    + Apeși tasta Backspace pe tastatură sau să
     
-    + Right-click and choose Back.
+    + Dai click-dreapta și să selectezi Înapoi.
 
 + Now put your link into a sentence inside a paragraph:
 
