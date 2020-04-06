@@ -36,8 +36,8 @@ Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină
     
     + Dai click-dreapta și să selectezi Înapoi.
 
-+ Now put your link into a sentence inside a paragraph:
++ Acum pune link-ul tău într-o propoziție înăuntrul unui paragraf:
 
-![screenshot](images/showcase-paragraph.png)
+![captură de ecran](images/showcase-paragraph.png)
 
-Test your webpage.
+Testează-ți pagina web.
