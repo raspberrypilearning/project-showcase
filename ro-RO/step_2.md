@@ -6,17 +6,17 @@ Link-urile îți permit să dai click pe cuvinte pentru a merge pe altă pagină
     
     Proiectul ar trebui să arate așa:
     
-    ![screenshot](images/showcase-starter.png)
+    ![captură de ecran](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML folosește tag-ul `<a>` pentru link-uri.
 
-![screenshot](images/showcase-link.png)
+![captură de ecran](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ Găsește tag-ul `<a>` în proiectul tău. 
 
-![screenshot](images/showcase-a-template.png)
+![captură de ecran](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Adaugă adresa site-ului web Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) și textul link-ului:
 
 ![screenshot](images/showcase-code-club.png)
 
