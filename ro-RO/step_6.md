@@ -1,8 +1,8 @@
-## Embedding Projects
+## Încorporarea proiectelor
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+Pe lângă redirecționarea către trinket-uri ca pagini web, putem, de asemenea, să le încorporăm într-o pagină web.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Dacă vrei, poți lucra în modul Fullscreen pentru a avea mai mult spațiu:
 
 ![screenshot](images/showcase-fullscreen.png)
 
