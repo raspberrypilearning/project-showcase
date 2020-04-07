@@ -10,18 +10,18 @@ Poți crea un link către pagina web a unui trinket.
 
 Dacă ai deschis trinket-ul de pe contul tău, atunci uită-te după opțiunea Share deasupra trinket-ului tău:
 
-![screenshot](images/showcase-share2.png)
+![captură de ecran](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Alege „Only show code or result (let users toggle between them)” și copiază link-ul către trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![captură de ecran](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Întoarce-te la trinket-ul tău „Proiectele mele” și adaugă un heading `<h2>` și un link către proiectul tău de „La mulți ani”.
 
-![screenshot](images/showcase-link-trinket.png)
+![captură de ecran](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Testează pagina ta web; ar trebui să arate asemănător:
 
-![screenshot](images/showcase-link-output.png)
+![captură de ecran](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Apasă pe link-ul de „La mulți ani” pentru a testa dacă te duce către trinket.
