@@ -18,9 +18,9 @@ Apasă Esc pentru a ieși din modul Fullscreen.
 
 ![captură de ecran](images/showcase-embed.png)
 
-+ Trinket a creat niște HTML pentru a îl putea include în pagina ta web. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Trinket a creat niște HTML pentru a îl putea include în pagina ta web. Folosește tag-ul `<iframe>`, care permite conținutului să fie încorporat într-o pagină.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ Acum lipește acel cod sub link-ul către trinket-ul „La mulți ani”:
 
 ![screenshot](images/showcase-paste-embed.png)
 
