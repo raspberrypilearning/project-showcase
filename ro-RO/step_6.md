@@ -14,11 +14,11 @@ Apasă Esc pentru a ieși din modul Fullscreen.
 
 ![captură de ecran](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Alege „Only show code or result (let users toggle between them)” și **copiază** codul de încorporare pentru trinket. 
 
-![screenshot](images/showcase-embed.png)
+![captură de ecran](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ Trinket a creat niște HTML pentru a îl putea include în pagina ta web. It uses an `<iframe>` tag which allows content to be embedded within a page.
 
 + Now paste that code under the link to the Happy Birthday trinket:
 
