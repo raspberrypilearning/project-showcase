@@ -22,16 +22,16 @@ Apasă Esc pentru a ieși din modul Fullscreen.
 
 + Acum lipește acel cod sub link-ul către trinket-ul „La mulți ani”:
 
-![screenshot](images/showcase-paste-embed.png)
+![captură de ecran](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ Rulează trinket-ul pentru a îl testa și ar treubi să vezi proiectul tău „La mulți ani” încorporat în pagina web. 
 
-![screenshot](images/showcase-embed-output.png)
+![captură de ecran](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ Este posibil ca partea inferioară a trinket-ului să nu fie afișată. Poți rezolva acest lucru prin schimbarea valorii „height” în `<iframe>`. 
 
-![screenshot](images/showcase-embed-height.png)
+![captură de ecran](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Setează „height” ca **400**. Dacă ai făcut schimbări la proiectul „La mulți ani”, e posibil să fie necesară alegerea altei valori.
 
-![screenshot](images/showcase-embed-fixed.png)
+![captură de ecran](images/showcase-embed-fixed.png)
