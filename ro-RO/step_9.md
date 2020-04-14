@@ -1,4 +1,4 @@
-## Getting Back to the Top
+## Revenirea la început
 
 + It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
 
