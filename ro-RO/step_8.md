@@ -1,4 +1,4 @@
-## Create a Table of Contents
+## Creează un cuprins
 
 Let's add a Table of Contents so we can easily get to each project.
 
