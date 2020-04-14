@@ -8,9 +8,9 @@ Adaugă un id heading-ului `<h2>` al proiectului „La mulți ani”:
 
 ![captură de ecran](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Adaugă id-uri fiecărui proiect și dă-le denumiri scurte: poveste, cautat, reteta și scrisoare.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Poți crea un link către un element cu un id folosind simbolul „#” în fața numelui său. For example, `#birthday`.
 
 Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
 
