@@ -1,11 +1,11 @@
 ## Revenirea la început
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Este, de asemenea, util să poți naviga înapoi la începutul paginii. HTML are `#top` cu acest scop.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Adaugă un link către `#top` după fiecare proiect încorporat în pagina ta web:
 
-![screenshot](images/showcase-top-code.png)
+![captură de ecran](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![captură de ecran](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Testează link-urile apăsând pe Început pentru a reveni la începutul paginii.
