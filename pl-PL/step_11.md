@@ -22,9 +22,12 @@ Zrób kopię `<iframe>` kodu z przykładu osadzania projektu Scratch i zmień nu
 
 --- /challenge ---
 
+***
 
-**Tłumaczenie wykonane przez wolontariuszy**
+Ten projekt został przetłumaczony przez wolontariuszy:
 
-Projekt ten przetłumaczyła **Ewa Urbaniak** a zweryfikował **Krzysztof Nowak**.
+Ewa Urbaniak
+Krzysztof Nowak
+Paweł Wilk
 
-Dzięki naszym wspaniałym wolontariuszom, ludzie na całym świecie mogą nauczyć się kodowania. Tłumacząc nasze projekty możesz pomóc nam dotrzeć do większej liczby ludzi. Więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).
+Dzięki wolontariuszom możemy dać ludziom na całym świecie szansę nauki w ich własnym języku. Możesz pomóc nam dotrzeć do większej liczby osób, zgłaszając się na ochotnika do tłumaczenia - więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).
