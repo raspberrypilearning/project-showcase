@@ -2,9 +2,9 @@
 
 Neste projeto, você criará um mostruário de seus projetos HTML e aprenderá sobre links e recursos de incorporação.
 
-![screenshot](images/showcase-intro.png)
+![captura de tela](images/showcase-intro.png)
 
-### Informações adicionais para líderes de clube
+### Informações adicionais para o líder do clube
 
 Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
@@ -14,7 +14,7 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## Introdução:
 
-Neste projeto, as crianças são apresentadas a hiperlinks e incorporar complementos e projetos do Scratch em uma página da web.
+Neste projeto, as crianças são apresentadas a hiperlinks e a como incorporar complementos e projetos do Scratch em uma página da web.
 
 ## Recursos online
 
@@ -30,7 +30,7 @@ Há também um trinket contendo uma solução de exemplo para os desafios:
 
 ## Recursos locais ou offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto no localmente ou offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto localmente ou offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * project-showcase/index.html
 * project-showcase/style.css
@@ -42,13 +42,13 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e voluntário.)
+(Todos os recursos acima também podem ser baixados como arquivos de projeto e de voluntário no formato `.zip`.)
 
-Observe que, se as crianças concluírem seus outros projetos offline, elas não poderão incorporá-los, mas ainda assim poderão vinculá-los a eles.
+Observe que, se as crianças concluírem seus outros projetos offline, elas não poderão incorporá-los, mas ainda assim poderão vinculá-los a elas.
 
 ## Objetivos do Aprendizado
 
-* Este projeto apresenta links de texto para outras páginas da Web e para códigos "Id" nomeados em uma página. Ele também introduz como incorporar trinkets e projetos Scratch em uma página da web. 
+* Este projeto apresenta links de texto para outras páginas da web e para códigos "Id" nomeados em uma página. Ele também introduz como incorporar trinkets e projetos Scratch em uma página da web. 
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
@@ -58,7 +58,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 * "Adicione outro link" - Adicione links para mais páginas da web;
 * “Crie uma lista de seus projetos” - Crie links para os projetos anteriores;
-* “Incluir mais projetos” - Use CSS para criar novos estilos.
+* “Incorpore mais projetos” - Use CSS para criar novos estilos.
 
 \--- /collapse \---
 
@@ -70,14 +70,14 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 * [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/project-showcase-go)
 * [Trinket online com todos os recursos do 'Projeto Mostruário'](http://jumpto.cc/web-showcase)
-* [Modelo do Trinket online](http://jumpto.cc/trinket-template)
+* [Modelo online do Trinket](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Recursos para líderes de clube
+## Recursos do líder do clube
 
 * [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/project-showcase-go)
 * [Trinket online completo do projeto](https://trinket.io/html/1d4d4c5ce1)
