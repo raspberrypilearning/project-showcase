@@ -11,7 +11,7 @@ description: Crie um mostruário de seus projetos.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projetos
 hardware: ''
 software: html-css-javascript
 version: 3.1
@@ -22,15 +22,15 @@ steps:
   - 
     title: Adicionando Links para Páginas da Web
   - 
-    title: 'Desafio: Adicionar outro link'
+    title: 'Desafio: Adicione outro link'
   - 
-    title: Link para um trinket
+    title: Link para um Trinket
   - 
-    title: 'Desafio: Criar uma lista dos seus Projetos'
+    title: 'Desafio: Crie uma lista dos seus Projetos'
   - 
     title: Incorporando Projetos
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Desafio: Incorpore Mais Projetos'
   - 
     title: Crie um índice
   - 
