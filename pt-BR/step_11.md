@@ -10,14 +10,14 @@ Vá para o site do Scratch e encontre um projeto que você goste. Pode ser um do
 
 Se você está logado, você pode clicar no botão 'Embed' abaixo do projeto para obter o código HTML incorporado.
 
-![screenshot](images/scratch-embed.png)
+![captura de tela](images/scratch-embed.png)
 
 Se você não está logado, procure o número do projeto Scratch em seu endereço web.
 
-![screenshot](images/scratch-project-number.png)
+![captura de tela](images/scratch-project-number.png)
 
 Faça uma cópia do código `<iframe>` no exemplo Scratch incorporado e altere o número do projeto para o projeto que você deseja incorporar:
 
-![screenshot](images/scratch-iframe.png)
+![captura de tela](images/scratch-iframe.png)
 
 \--- /challenge \---
