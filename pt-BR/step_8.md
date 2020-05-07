@@ -1,6 +1,6 @@
 ## Crie um índice
 
-Vamos adicionar um índice para facilitar o acesso em cada projeto.
+Vamos adicionar um índice para facilitar o acesso a cada projeto.
 
 + Além de poder vincular-se a outras páginas da Web, podemos vincular a partes de uma página da Web se fornecermos um Id. 
 
@@ -12,7 +12,7 @@ Adicione um Id ao cabeçalho `<h2>` do projeto Feliz Aniversário:
 
 + Você pode vincular a um elemento com um id colocando um símbolo de hash ‘#’ na frente de seu nome. Por exemplo, `#feliz-aniversario`.
 
-Crie uma lista ordenada de links para seus projetos. (Listas ordenadas são introduzidas no projeto Receita.)
+Crie uma lista ordenada de links para seus projetos. (Listas ordenadas são introduzidas no projeto A receita.)
 
 ![captura de tela](images/showcase-list.png)
 
