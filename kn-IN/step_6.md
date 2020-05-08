@@ -1,37 +1,37 @@
-## Embedding Projects
+## ಎಂಬೆಡಿಂಗ್ ಯೋಜನೆಗಳು
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+ಟ್ರಿಂಕೆಟ್‌ಗಳನ್ನು ವೆಬ್‌ಪುಟಗಳಾಗಿ ಲಿಂಕ್ ಮಾಡುವುದರ ಜೊತೆಗೆ ನಾವು ಅವುಗಳನ್ನು ವೆಬ್ ಪುಟದಲ್ಲಿ ಎಂಬೆಡ್ ಮಾಡಬಹುದು.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ ನೀವು ಪೂರ್ಣಪರದೆ ಮೋಡ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಲು ಬಯಸಬಹುದು ಆದ್ದರಿಂದ ನಿಮಗೆ ಹೆಚ್ಚಿನ ಸ್ಥಳವಿದೆ:
 
-![screenshot](images/showcase-fullscreen.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+ಪೂರ್ಣಪರದೆ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸಲು Esc ಒತ್ತಿರಿ.
 
-+ Run your trinket and click on the Happy Birthday link.
++ ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಚಲಾಯಿಸಿ ಮತ್ತು ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳ ಲಿಂಕ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ ಟ್ರಿಂಕೆಟ್ ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ** ಎಂಬೆಡ್ ಆಯ್ಕೆಮಾಡಿ ** . ನೀವು ಪೂರ್ಣಪರದೆ ಮೋಡ್‌ನಲ್ಲಿಲ್ಲದಿದ್ದರೆ ನೀವು ಸ್ಕ್ರಾಲ್ ಮಾಡಬೇಕಾಗಬಹುದು. ಕೀಲಿಮಣೆಯಲ್ಲಿ ಬಲಭಾಗದಲ್ಲಿರುವ ಸ್ಕ್ರಾಲ್ ಬಾರ್ ಅಥವಾ ಕೆಳಗಿನ ಬಾಣವನ್ನು ಬಳಸಿ.
 
-![screenshot](images/showcase-embed-code.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ 'ಕೋಡ್ ಅಥವಾ ಫಲಿತಾಂಶವನ್ನು ಮಾತ್ರ ತೋರಿಸು (ಬಳಕೆದಾರರು ಅವುಗಳ ನಡುವೆ ಟಾಗಲ್ ಮಾಡಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ' 'ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಲಿಂಕ್ ಅನ್ನು ಟ್ರಿಂಕೆಟ್‌ಗೆ ನಕಲಿಸಿ. 
 
-![screenshot](images/showcase-embed.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ ನಿಮ್ಮ ವೆಬ್‌ಪುಟದಲ್ಲಿ ಸೇರಿಸಲು ಟ್ರಿಂಕೆಟ್ ಕೆಲವು HTML ಅನ್ನು ರಚಿಸಿದೆ. ಇದು `<iframe>` ಟ್ಯಾಗ್ ಅನ್ನು ಬಳಸುತ್ತದೆ, ಅದು ಪುಟದೊಳಗೆ ವಿಷಯವನ್ನು ಎಂಬೆಡ್ ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ ಈಗ ಆ ಕೋಡ್ ಅನ್ನು ಹ್ಯಾಪಿ ಬರ್ತ್‌ಡೇ ಟ್ರಿಂಕೆಟ್‌ಗೆ ಲಿಂಕ್ ಅಡಿಯಲ್ಲಿ ಅಂಟಿಸಿ:
 
-![screenshot](images/showcase-paste-embed.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ ಅದನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಚಲಾಯಿಸಿ ಮತ್ತು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಹುದುಗಿರುವ ನಿಮ್ಮ ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳನ್ನು ನೀವು ನೋಡಬೇಕು. 
 
-![screenshot](images/showcase-embed-output.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್‌ನ ಕೆಳಭಾಗವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುವುದಿಲ್ಲ ಎಂದು ನೀವು ಕಾಣಬಹುದು. `<iframe>` ನಲ್ಲಿನ ಎತ್ತರದ ಮೌಲ್ಯವನ್ನು ಬದಲಾಯಿಸುವ ಮೂಲಕ ನೀವು ಅದನ್ನು ಸರಿಪಡಿಸಬಹುದು. 
 
-![screenshot](images/showcase-embed-height.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+ಎತ್ತರವನ್ನು ** 400 ಗೆ ಹೊಂದಿಸಿ ** . ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು ಯೋಜನೆಯಲ್ಲಿ ನೀವು ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದರೆ ನೀವು ಬೇರೆ ಮೌಲ್ಯವನ್ನು ಆರಿಸಬೇಕಾಗಬಹುದು.
 
-![screenshot](images/showcase-embed-fixed.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-embed-fixed.png)
