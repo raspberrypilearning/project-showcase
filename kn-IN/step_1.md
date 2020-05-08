@@ -1,80 +1,80 @@
-## Introduction
+## ಪರಿಚಯ
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+ಈ ಯೋಜನೆಯಲ್ಲಿ, ನಿಮ್ಮ HTML ಯೋಜನೆಗಳ ಪ್ರದರ್ಶನವನ್ನು ನೀವು ರಚಿಸುತ್ತೀರಿ ಮತ್ತು ಲಿಂಕ್‌ಗಳು ಮತ್ತು ಎಂಬೆಡಿಂಗ್ ಸಂಪನ್ಮೂಲಗಳ ಬಗ್ಗೆ ಕಲಿಯುವಿರಿ.
 
-![screenshot](images/showcase-intro.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-intro.png)
 
-### Additional information for club leaders
+### ಕ್ಲಬ್ ಮುಖಂಡರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## ಶೀರ್ಷಿಕೆ: ಕ್ಲಬ್ ನಾಯಕರ ಟಿಪ್ಪಣಿಗಳು
 
 ## Introduction:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+ಈ ಯೋಜನೆಯಲ್ಲಿ, ಮಕ್ಕಳನ್ನು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಹೈಪರ್ಲಿಂಕ್‌ಗಳು ಮತ್ತು ಎಂಬೆಡಿಂಗ್ ಟ್ರಿಂಕೆಟ್‌ಗಳು ಮತ್ತು ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳಿಗೆ ಪರಿಚಯಿಸಲಾಗುತ್ತದೆ.
 
-## Online Resources
+## ಆನ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+[ ಟ್ರಿಂಕೆಟ್ ಬಳಸಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ ](https://trinket.io/) HTML & CSS ಅನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬರೆಯಲು. ಈ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಒಳಗೊಂಡಿದೆ:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್' ಪ್ರಾರಂಭದ ಸ್ಥಳ - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+ಮಕ್ಕಳು ಈ ಖಾಲಿ ಟ್ರಿಂಕೆಟ್ [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) ಅನ್ನು ಸಹ ಬಳಸಿಕೊಳ್ಳಬಹುದು ತಮ್ಮದೇ ಆದ HTML & CSS ಅನ್ನು ಬರೆಯಲು, ಅಥವಾ ಪರ್ಯಾಯವಾಗಿ ಅವರು ಈ ಟೆಂಪ್ಲೇಟ್ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಬಳಸಬಹುದು [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+ಸವಾಲುಗಳಿಗೆ ಮಾದರಿ ಪರಿಹಾರವನ್ನು ಒಳಗೊಂಡಿರುವ ಟ್ರಿಂಕೆಟ್ ಸಹ ಇದೆ:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## ಆಫ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+ಬಯಸಿದರೆ ಈ ಯೋಜನೆಯನ್ನು [ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬಹುದು](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). ಈ ಯೋಜನೆಗಾಗಿ 'ಪ್ರಾಜೆಕ್ಟ್ ಮೆಟೀರಿಯಲ್ಸ್' ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನು ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪಡೆಯಬಹುದು. ಈ ಲಿಂಕ್ 'ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳು' ವಿಭಾಗವನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದರಲ್ಲಿ ಮಕ್ಕಳು ಈ ಯೋಜನೆಯನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬೇಕಾದ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಸಂಪನ್ಮೂಲಗಳ ಪ್ರತಿಕೃತಿಗೆ ಪ್ರತಿ ಮಗುವಿಗೆ ಪ್ರವೇಶವಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಭಾಗವು ಈ ಕೆಳಗಿನ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+'ಸ್ವಯಂಪ್ರಕಾಶಕ ಸಂಪನ್ಮೂಲಗಳು' ವಿಭಾಗದಲ್ಲಿ ಈ ಯೋಜನೆಯ ಸವಾಲುಗಳ ಪೂರ್ಣಗೊಂಡ ಆವೃತ್ತಿಯನ್ನು ಸಹ ನೀವು ಕಾಣಬಹುದು,
 
-* project-showcse-finished/index.html
-* project-showcse-finished/style.css
+* ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - index.html
+* ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(ಮೇಲಿನ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪ್ರಾಜೆಕ್ಟ್ ಮತ್ತು ಸ್ವಯಂಸೇವಕರಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು `.zip` ಕಡತಗಳನ್ನು.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+ಮಕ್ಕಳು ತಮ್ಮ ಇತರ ಯೋಜನೆಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಿದರೆ ಅವರಿಗೆ ಅವುಗಳನ್ನು ಎಂಬೆಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ ಆದರೆ ಅವರಿಗೆ ಇನ್ನೂ ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.
 
-## Learning Objectives
+## ಕಲಿಕೆಯ ಉದ್ದೇಶಗಳು
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* This project introduces text links to other webpages and to named ids within a page. ಇದು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಎಂಬೆಡಿಂಗ್ ಟ್ರಿಂಕೆಟ್‌ಗಳು ಮತ್ತು ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](http://rpf.io/curriculum) ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ಮೂಲ 2D ಮತ್ತು 3D ಸ್ವತ್ತುಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## ಸವಾಲುಗಳು
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* “ಇನ್ನೊಂದು ಲಿಂಕ್ ಸೇರಿಸಿ” - ಹೆಚ್ಚಿನ ವೆಬ್‌ಪುಟಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ;
+* “ನಿಮ್ಮ ಯೋಜನೆಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ” - ಹಿಂದಿನ ವೆಬ್ ಯೋಜನೆಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ರಚಿಸಿ;
+* “ಇನ್ನಷ್ಟು ಯೋಜನೆಗಳನ್ನು ಎಂಬೆಡ್ ಮಾಡಿ” - ಹೊಸ ಶೈಲಿಗಳನ್ನು ರಚಿಸಲು ಸಿಎಸ್ಎಸ್ ಬಳಸಿ.
 
-\--- /collapse \---
+\--- / ಕುಸಿತ \---
 
-## \--- collapse \---
+## \--- ಕುಸಿತ \---
 
-## title: Project materials
+## ಶೀರ್ಷಿಕೆ: ಪ್ರಾಜೆಕ್ಟ್ ವಸ್ತುಗಳು
 
-## Project resources
+## ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file containing all project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ .zip ಫೈಲ್](https://rpf.io/p/en/project-showcase-go)
+* [ಎಲ್ಲಾ 'ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್' ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಆನ್‌ಲೈನ್ ಟ್ರಿಂಕೆಟ್](http://jumpto.cc/web-showcase)
+* [ಆನ್‌ಲೈನ್ ಟ್ರಿಂಕೆಟ್ ಟೆಂಪ್ಲೆಟ್](http://jumpto.cc/trinket-template)
+* [ಆನ್‌ಲೈನ್ ಖಾಲಿ ಟ್ರಿಂಕೆಟ್](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
-* [project-showcase/index.html](resources/project-showcase-index.html)
+* [ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
 ## Club leader resources
