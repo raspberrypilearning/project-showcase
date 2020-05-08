@@ -75,12 +75,12 @@ If you need to print this project, please use the [Printer friendly version](htt
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - index.html](resources/project-showcase-index.html)
-* [project-showcase/style.css](resources/project-showcase-style.css)
+* [ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ .zip ಫೈಲ್](https://rpf.io/p/en/project-showcase-go)
+* [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ ಟ್ರಿಂಕೆಟ್ ಯೋಜನೆ](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
