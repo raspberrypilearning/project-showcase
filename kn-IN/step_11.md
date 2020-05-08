@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## ಸವಾಲು: ಹೊಸ ಪ್ರದರ್ಶನವನ್ನು ರಚಿಸಿ
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+ನೀವು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಎಂಬೆಡ್ ಮಾಡಬಹುದಾದ ಏಕೈಕ ವಿಷಯ ಟ್ರಿಂಕೆಟ್‌ಗಳಲ್ಲ. ನೀವು ವೀಡಿಯೊಗಳು, ವಿಜೆಟ್‌ಗಳು (ಹವಾಮಾನ ವಿಜೆಟ್‌ನಂತಹ) ಅಥವಾ ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳನ್ನು ಎಂಬೆಡ್ ಮಾಡಬಹುದು.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+ಎಂಬೆಡ್ ಸ್ಕ್ರ್ಯಾಚ್ ಉದಾಹರಣೆ ಟ್ರಿಂಕೆಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ಅದನ್ನು ಚಲಾಯಿಸಿ: [ https://trinket.io/html/9f7212b8fe ](https://trinket.io/html/9f7212b8fe)
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+ಸ್ಕ್ರ್ಯಾಚ್ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಹೋಗಿ ಮತ್ತು ನೀವು ಇಷ್ಟಪಡುವ ಯೋಜನೆಯನ್ನು ಹುಡುಕಿ. ಇದು ನಿಮ್ಮದೇ ಆದ ಒಂದು ಅಥವಾ ನೀವು ಕಂಡುಕೊಂಡದ್ದಾಗಿರಬಹುದು.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+ನೀವು ಲಾಗ್ ಇನ್ ಆಗಿದ್ದರೆ ನೀವು HTML ಎಂಬೆಡ್ ಕೋಡ್ ಪಡೆಯಲು ಯೋಜನೆಯ ಕೆಳಗಿನ 'ಎಂಬೆಡ್' ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಬಹುದು.
 
-![screenshot](images/scratch-embed.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+ನೀವು ಲಾಗ್ ಇನ್ ಆಗದಿದ್ದರೆ ಅದರ ವೆಬ್ ವಿಳಾಸದಲ್ಲಿ ಸ್ಕ್ರ್ಯಾಚ್ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಖ್ಯೆಯನ್ನು ನೋಡಿ.
 
-![screenshot](images/scratch-project-number.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+ಸ್ಕ್ರ್ಯಾಚ್ ಎಂಬೆಡ್ ಉದಾಹರಣೆಯಲ್ಲಿ `<iframe>` ಕೋಡ್‌ನ ನಕಲನ್ನು ಮಾಡಿ ಮತ್ತು ನೀವು ಎಂಬೆಡ್ ಮಾಡಲು ಬಯಸುವ ಪ್ರಾಜೆಕ್ಟ್‌ಗಾಗಿ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಖ್ಯೆಯನ್ನು ಒಂದಕ್ಕೆ ಬದಲಾಯಿಸಿ:
 
-![screenshot](images/scratch-iframe.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/scratch-iframe.png)
 
 \--- /challenge \---
