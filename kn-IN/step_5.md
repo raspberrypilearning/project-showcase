@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## ಸವಾಲು: ನಿಮ್ಮ ಯೋಜನೆಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+ಕೋಡ್ ಕ್ಲಬ್‌ನಲ್ಲಿ ನೀವು ರಚಿಸಿರುವ ಇತರ ಕೆಲವು HTML & ಸಿಎಸ್ಎಸ್ ಯೋಜನೆಗಳನ್ನು ಸೇರಿಸಿ. ನಿಮ್ಮ ವೆಬ್‌ಪುಟವನ್ನು ಸಂಘಟಿಸಲು `<h2>` ಶೀರ್ಷಿಕೆಗಳನ್ನು ಬಳಸಿ.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+ನೀವು ರಚಿಸಿದ ಯೋಜನೆಗಳಿಗೆ ನೀವು ಲಿಂಕ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ ನೀವು ಕೋಡ್ ಕ್ಲಬ್ ಉದಾಹರಣೆಗಳನ್ನು ಬಳಸಬಹುದು:
 
-+ Happy Birthday: <https://trinket.io/html/e996dc0380>
++ ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Tell a Story: <https://trinket.io/html/c8afdef912>
++ ಕಥೆಯನ್ನು ಹೇಳಿ: [ https://trinket.io/html/c8afdef912 ](https://trinket.io/html/c8afdef912)
 
-+ Wanted: <https://trinket.io/html/ebeb56398a>
++ ಬೇಕಾಗಿದೆ: [ https://trinket.io/html/ebeb56398a ](https://trinket.io/html/ebeb56398a)
 
-+ Recipe: <https://trinket.io/html/c0fd9b40cd>
++ ಪಾಕವಿಧಾನ: [ https://trinket.io/html/c0fd9b40cd ](https://trinket.io/html/c0fd9b40cd)
 
-+ Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
++ ಮಿಸ್ಟರಿ ಪತ್ರ: [ https://trinket.io/html/1d4d4c5ce1 ](https://trinket.io/html/1d4d4c5ce1)
 
-Your finished page should look something like this:
+ನಿಮ್ಮ ವೆಬ್‌ಪುಟವನ್ನು ಪರೀಕ್ಷಿಸಿ; ಅದು ಈ ರೀತಿ ಕಾಣಬೇಕು:
 
-![screenshot](images/showcase-h2-projects.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-h2-projects.png)
 
 \--- /challenge \---
