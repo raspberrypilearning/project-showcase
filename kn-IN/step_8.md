@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## ಪರಿವಿಡಿ ರಚಿಸಿ
 
-Let's add a Table of Contents so we can easily get to each project.
+ಪರಿವಿಡಿಯನ್ನು ಸೇರಿಸೋಣ ಆದ್ದರಿಂದ ನಾವು ಪ್ರತಿ ಯೋಜನೆಗೆ ಸುಲಭವಾಗಿ ಹೋಗಬಹುದು.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ ಇತರ ವೆಬ್‌ಪುಟಗಳಿಗೆ ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದರ ಜೊತೆಗೆ, ನಾವು ಅವರಿಗೆ ಐಡಿ ನೀಡಿದರೆ ವೆಬ್‌ಪುಟದ ಭಾಗಗಳಿಗೆ ಲಿಂಕ್ ಮಾಡಬಹುದು. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳ ಯೋಜನೆಗೆ `<h2>` ಶೀರ್ಷಿಕೆಗೆ ಐಡಿ ಸೇರಿಸಿ:
 
-![screenshot](images/showcase-id.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ ನಿಮ್ಮ ಪ್ರತಿಯೊಂದು ಯೋಜನೆಗಳಿಗೆ ಐಡಿಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅವರಿಗೆ ಸಣ್ಣ ಹೆಸರುಗಳನ್ನು ನೀಡಿ: ಕಥೆ, ಬೇಕಾದ, ಪಾಕವಿಧಾನ ಮತ್ತು ಪತ್ರ.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ ಹ್ಯಾಶ್ '#' ಚಿಹ್ನೆಯನ್ನು ಅದರ ಹೆಸರಿನ ಮುಂದೆ ಇರಿಸುವ ಮೂಲಕ ನೀವು ಐಡಿಯೊಂದಿಗೆ ಅಂಶಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಬಹುದು. ಉದಾಹರಣೆಗೆ, ` # ಜನ್ಮದಿನ ` .
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+ನಿಮ್ಮ ಯೋಜನೆಗಳಿಗೆ ಲಿಂಕ್‌ಗಳ ಆದೇಶ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ. (ಪಾಕವಿಧಾನ ಯೋಜನೆಯಲ್ಲಿ ಆದೇಶ ಪಟ್ಟಿಗಳನ್ನು ಪರಿಚಯಿಸಲಾಗಿದೆ.)
 
-![screenshot](images/showcase-list.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಿಗೆ ತೆರಳಲು ಲಿಂಕ್‌ಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರ ಮೂಲಕ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಚಲಾಯಿಸಿ ಮತ್ತು ಅದನ್ನು ಪರೀಕ್ಷಿಸಿ. 
 
-![screenshot](images/showcase-list-output.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-list-output.png)
