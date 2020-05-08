@@ -1,43 +1,43 @@
-## Adding Links to Webpages
+## ವೆಬ್‌ಪುಟಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತಿದೆ
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+ಪಠ್ಯ ಲಿಂಕ್‌ಗಳು ಮತ್ತೊಂದು ವೆಬ್ ಪುಟಕ್ಕೆ ಹೋಗಲು ಪದಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ; ಅವುಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಅಂಡರ್ಲೈನ್ ಮಾಡಲಾಗುತ್ತದೆ.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ ಈ ಟ್ರಿಂಕೆಟ್ ತೆರೆಯಿರಿ: [ jumpto.cc/web-showcase ](http://jumpto.cc/web-showcase) .
     
-    The project should look like this:
+    ಯೋಜನೆಯು ಈ ರೀತಿ ಕಾಣಿಸಬೇಕು:
     
-    ![screenshot](images/showcase-starter.png)
+    ![ಪರದೆಚಿತ್ರ](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML ಲಿಂಕ್‌ಗಳಿಗಾಗಿ `<a>` ಟ್ಯಾಗ್ ಅನ್ನು ಬಳಸುತ್ತದೆ.
 
-![screenshot](images/showcase-link.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ ನಿಮ್ಮ ಯೋಜನೆಯಲ್ಲಿ `<a>` ಟ್ಯಾಗ್ ಹುಡುಕಿ. 
 
-![screenshot](images/showcase-a-template.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ ಕೋಡ್ ಕ್ಲಬ್ ವೆಬ್‌ಸೈಟ್ ವಿಳಾಸ [` https://www.codeclub.org.uk ಅನ್ನು ಸೇರಿಸಿ `](https://www.codeclub.org.uk) ಮತ್ತು ಲಿಂಕ್ ಪಠ್ಯ:
 
-![screenshot](images/showcase-code-club.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಲು ರನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![screenshot](images/showcase-cc-output.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ ನಿಮ್ಮ ವೆಬ್‌ಪುಟವನ್ನು ಪರೀಕ್ಷಿಸಲು ಕೋಡ್ ಕ್ಲಬ್ ಲಿಂಕ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್ ಈಗ ಕೋಡ್ ಕ್ಲಬ್ ವೆಬ್‌ಪುಟವನ್ನು ತೋರಿಸುತ್ತದೆ: 
 
-![screenshot](images/showcase-cc-website.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ ನಿಮ್ಮ ಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಲು ನೀವು ಹೀಗೆ ಮಾಡಬಹುದು:
     
-    + Run your trinket again,
+    + ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಮತ್ತೆ ಚಲಾಯಿಸಿ,
     
-    + Tap the Backspace key on the keyboard, or
+    + ಕೀಬೋರ್ಡ್‌ನಲ್ಲಿ ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್ ಕೀಲಿಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಅಥವಾ
     
-    + Right-click and choose Back.
+    + ಬಲ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಹಿಂತಿರುಗಿ ಆಯ್ಕೆಮಾಡಿ.
 
-+ Now put your link into a sentence inside a paragraph:
++ ಈಗ ನಿಮ್ಮ ಲಿಂಕ್ ಅನ್ನು ಪ್ಯಾರಾಗ್ರಾಫ್ ಒಳಗೆ ಒಂದು ವಾಕ್ಯಕ್ಕೆ ಇರಿಸಿ:
 
-![screenshot](images/showcase-paragraph.png)
+![ಪರದೆಚಿತ್ರ](images/showcase-paragraph.png)
 
-Test your webpage.
+ನಿಮ್ಮ ವೆಬ್‌ಪುಟವನ್ನು ಪರೀಕ್ಷಿಸಿ.
