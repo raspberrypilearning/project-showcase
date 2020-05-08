@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗುವುದು
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ ಪುಟದ ಮೇಲ್ಭಾಗಕ್ಕೆ ಹಿಂತಿರುಗಲು ಸಹ ಇದು ಉಪಯುಕ್ತವಾಗಿದೆ. HTML ` # ಟಾಪ್ ಹೊಂದಿದೆ ` ಈ ಕಾರಣಕ್ಕಾಗಿ.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ ` # ಟಾಪ್‌ಗೆ ಲಿಂಕ್ ಸೇರಿಸಿ ` ನಿಮ್ಮ ವೆಬ್‌ಪುಟದಲ್ಲಿ ಪ್ರತಿ ಎಂಬೆಡೆಡ್ ಯೋಜನೆಯ ನಂತರ:
 
-![screenshot](images/showcase-top-code.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ ಪುಟದ ಮೇಲ್ಭಾಗಕ್ಕೆ ಹಿಂತಿರುಗಲು ಟಾಪ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಲಿಂಕ್‌ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ.
