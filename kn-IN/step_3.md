@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## ಸವಾಲು: ಇನ್ನೊಂದು ಲಿಂಕ್ ಸೇರಿಸಿ
 
 Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
 
