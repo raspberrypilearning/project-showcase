@@ -6,13 +6,13 @@
 
 ### ಕ್ಲಬ್ ಮುಖಂಡರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
 ## ಶೀರ್ಷಿಕೆ: ಕ್ಲಬ್ ನಾಯಕರ ಟಿಪ್ಪಣಿಗಳು
 
-## Introduction:
+## ಪರಿಚಯ:
 
 ಈ ಯೋಜನೆಯಲ್ಲಿ, ಮಕ್ಕಳನ್ನು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಹೈಪರ್ಲಿಂಕ್‌ಗಳು ಮತ್ತು ಎಂಬೆಡಿಂಗ್ ಟ್ರಿಂಕೆಟ್‌ಗಳು ಮತ್ತು ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳಿಗೆ ಪರಿಚಯಿಸಲಾಗುತ್ತದೆ.
 
@@ -48,7 +48,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## ಕಲಿಕೆಯ ಉದ್ದೇಶಗಳು
 
-* This project introduces text links to other webpages and to named ids within a page. ಇದು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಎಂಬೆಡಿಂಗ್ ಟ್ರಿಂಕೆಟ್‌ಗಳು ಮತ್ತು ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. 
+* ಈ ಯೋಜನೆಯು ಇತರ ವೆಬ್‌ಪುಟಗಳಿಗೆ ಮತ್ತು ಪುಟದೊಳಗಿನ ಹೆಸರಿಸಲಾದ ಐಡಿಗಳಿಗೆ ಪಠ್ಯ ಲಿಂಕ್‌ಗಳನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. ಇದು ವೆಬ್‌ಪುಟದಲ್ಲಿ ಎಂಬೆಡಿಂಗ್ ಟ್ರಿಂಕೆಟ್‌ಗಳು ಮತ್ತು ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳನ್ನು ಪರಿಚಯಿಸುತ್ತದೆ. 
 
 ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](http://rpf.io/curriculum) ಕೆಳಗಿನ ಎಳೆಗಳಿಂದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
@@ -81,7 +81,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 * [ಎಲ್ಲಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಹೊಂದಿರುವ .zip ಫೈಲ್](https://rpf.io/p/en/project-showcase-go)
 * [ಆನ್‌ಲೈನ್ ಪೂರ್ಣಗೊಂಡ ಟ್ರಿಂಕೆಟ್ ಯೋಜನೆ](https://trinket.io/html/1d4d4c5ce1)
-* [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
-* [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
+* [ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - index.html](resources/project-showcase-finished-index.html)
+* [ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಮುಗಿದಿದೆ' - style.css](resources/project-showcase-finished-style.css)
 
-\--- /collapse \---
+\--- / ಕುಸಿತ \---
