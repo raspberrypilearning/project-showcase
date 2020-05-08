@@ -1,27 +1,27 @@
-## Link to A Trinket
+## ಎ ಟ್ರಿಂಕೆಟ್‌ಗೆ ಲಿಂಕ್ ಮಾಡಿ
 
-You can link to the web page for a trinket.
+ಟ್ರಿಂಕೆಟ್ಗಾಗಿ ನೀವು ವೆಬ್ ಪುಟಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಬಹುದು.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ ನಿಮ್ಮ ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳಿಗೆ ನೀವು ಲಿಂಕ್ ಇಟ್ಟಿದ್ದೀರಾ? ನೀವು ಮಾಡಿದ್ದರೆ ಆ ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ಇನ್ನೊಂದು ಬ್ರೌಸರ್ ಟ್ಯಾಬ್ ಅಥವಾ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ. ಇಲ್ಲದಿದ್ದರೆ ಸಿದ್ಧಪಡಿಸಿದ ಉದಾಹರಣೆ ಟ್ರಿಂಕೆಟ್ ತೆರೆಯಿರಿ: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Click on the Share menu above your trinket and choose Link:
++ ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್‌ನ ಮೇಲಿನ ಹಂಚಿಕೆ ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಲಿಂಕ್ ಆಯ್ಕೆಮಾಡಿ:
 
-![screenshot](images/showcase-share1.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+ನಿಮ್ಮ ಖಾತೆಯಿಂದ ನೀವು ಟ್ರಿಂಕೆಟ್ ಅನ್ನು ತೆರೆದರೆ, ಬದಲಿಗೆ ನಿಮ್ಮ ಟ್ರಿಂಕೆಟ್‌ನ ಮೇಲಿರುವ ಹಂಚಿಕೆ ಆಯ್ಕೆಯನ್ನು ನೋಡಿ:
 
-![screenshot](images/showcase-share2.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ 'ಕೋಡ್ ಅಥವಾ ಫಲಿತಾಂಶವನ್ನು ಮಾತ್ರ ತೋರಿಸು (ಬಳಕೆದಾರರು ಅವುಗಳ ನಡುವೆ ಟಾಗಲ್ ಮಾಡಲು ಅವಕಾಶ ಮಾಡಿಕೊಡಿ' 'ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ಲಿಂಕ್ ಅನ್ನು ಟ್ರಿಂಕೆಟ್‌ಗೆ ನಕಲಿಸಿ. 
 
-![screenshot](images/showcase-get-link.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್ ಶೋಕೇಸ್ ಟ್ರಿಂಕೆಟ್‌ಗೆ ಹಿಂತಿರುಗಿ ಮತ್ತು ನಿಮ್ಮ ಜನ್ಮದಿನದ ಶುಭಾಶಯ ಯೋಜನೆಗೆ `<h2>` ಶೀರ್ಷಿಕೆ ಮತ್ತು ಲಿಂಕ್ ಅನ್ನು ಸೇರಿಸಿ.
 
-![screenshot](images/showcase-link-trinket.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+ನಿಮ್ಮ ವೆಬ್‌ಪುಟವನ್ನು ಪರೀಕ್ಷಿಸಿ; ಅದು ಈ ರೀತಿ ಕಾಣಬೇಕು:
 
-![screenshot](images/showcase-link-output.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್ ಅಥವಾ ಪರದೆ ಚಿತ್ರ](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+ನಿಮ್ಮನ್ನು ಟ್ರಿಂಕೆಟ್‌ಗೆ ಕರೆದೊಯ್ಯುತ್ತದೆ ಎಂದು ಪರೀಕ್ಷಿಸಲು ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳ ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ.
