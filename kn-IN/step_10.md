@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## ಸವಾಲು: ನಿಮ್ಮ ಪ್ರದರ್ಶನವನ್ನು ಸುಧಾರಿಸಿ
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+ನಿಮ್ಮ ಪುಟವನ್ನು ಹೆಚ್ಚು ಆಸಕ್ತಿಕರಗೊಳಿಸಲು ನೀವು ಕಲಿತ ಸಿಎಸ್ಎಸ್ ಬಳಸಿ. ಪುಟದ ಹಿನ್ನೆಲೆ ಬಣ್ಣ ಅಥವಾ ಶೀರ್ಷಿಕೆಗಳಿಗೆ ಬಳಸುವ ಫಾಂಟ್ ಅನ್ನು ಬದಲಾಯಿಸಲು ಪ್ರಯತ್ನಿಸಿ.
 
-You can also add some information about each project and what you liked about making it.
+ಪ್ರತಿ ಪ್ರಾಜೆಕ್ಟ್ ಮತ್ತು ಅದನ್ನು ತಯಾರಿಸಲು ನೀವು ಇಷ್ಟಪಟ್ಟ ಬಗ್ಗೆ ಕೆಲವು ಮಾಹಿತಿಯನ್ನು ಸಹ ನೀವು ಸೇರಿಸಬಹುದು.
 
 \--- /challenge \---
