@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರದರ್ಶನ
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: ನಿಮ್ಮ ವೆಬ್ ಯೋಜನೆಗಳ ಪ್ರದರ್ಶನವನ್ನು ರಚಿಸಿ.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: ಪರಿಚಯ
   - 
-    title: Adding Links to Webpages
+    title: ವೆಬ್‌ಪುಟಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತಿದೆ
   - 
-    title: 'Challenge: Add another link'
+    title: 'ಸವಾಲು: ಇನ್ನೊಂದು ಲಿಂಕ್ ಸೇರಿಸಿ'
   - 
-    title: Link to A Trinket
+    title: ಎ ಟ್ರಿಂಕೆಟ್‌ಗೆ ಲಿಂಕ್ ಮಾಡಿ
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'ಸವಾಲು: ನಿಮ್ಮ ಯೋಜನೆಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ'
   - 
-    title: Embedding Projects
+    title: ಎಂಬೆಡಿಂಗ್ ಯೋಜನೆಗಳು
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳನ್ನು ಎಂಬೆಡ್ ಮಾಡಿ'
   - 
-    title: Create a Table of Contents
+    title: ಪರಿವಿಡಿ ರಚಿಸಿ
   - 
-    title: Getting Back to the Top
+    title: ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗುವುದು
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'ಸವಾಲು: ನಿಮ್ಮ ಪ್ರದರ್ಶನವನ್ನು ಸುಧಾರಿಸಿ'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'ಸವಾಲು: ಹೊಸ ಪ್ರದರ್ಶನವನ್ನು ರಚಿಸಿ'
