@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## ಸವಾಲು: ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳನ್ನು ಎಂಬೆಡ್ ಮಾಡಿ
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+ನಿಮ್ಮ ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳನ್ನು ಪ್ರದರ್ಶನಕ್ಕೆ ಎಂಬೆಡ್ ಮಾಡಿ. ನಿಮ್ಮ ವೆಬ್‌ಪುಟದಲ್ಲಿನ ಲಿಂಕ್‌ಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರ ಮೂಲಕ ನೀವು ಅವರ ಟ್ರಿಂಕೆಟ್ ಪುಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು ಎಂಬುದನ್ನು ನೆನಪಿಡಿ.
 
 \--- /challenge \---
