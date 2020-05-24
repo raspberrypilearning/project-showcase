@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Lien vers un Trinket
 
-You can link to the web page for a trinket.
+Tu peux créer un lien vers la page Web pour un trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ As-tu gardé un lien vers ton trinket « Joyeux Anniversaire » ? Si tu l'as fait alors ouvre ce trinket dans un autre onglet ou une autre fenêtre du navigateur. Sinon, ouvre le trinket exemple terminé : <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Clique sur le menu « Share » au-dessus de ton trinket et choisis « Link » :
 
-![screenshot](images/showcase-share1.png)
+![capture d'écran](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Si tu as ouvert le trinket à partir de ton compte, recherche l'option « Share » au-dessus de ton trinket :
 
-![screenshot](images/showcase-share2.png)
+![capture d'écran](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Choisis « Show code or result (laisse les utilisateurs basculer entre eux) » et copie le lien dans le trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![capture d'écran](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Retourne à ton trinket « Portfolio » et ajoute un `<h2>`titre et un lien vers ton projet « Joyeux Anniversaire ».
 
-![screenshot](images/showcase-link-trinket.png)
+![capture d'écran](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Teste ta page Web, çà devrait ressembler à ceci :
 
-![screenshot](images/showcase-link-output.png)
+![capture d'écran](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Clique sur le lien « Joyeux Anniversaire » pour vérifier qu'il te dirige bien vers le trinket.
