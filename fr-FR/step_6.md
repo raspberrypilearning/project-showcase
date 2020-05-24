@@ -1,20 +1,20 @@
-## Embedding Projects
+## Intégration de projets
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+En plus de créer des liens vers des trinkets sous forme de pages Web, nous pouvons également les intégrer dans une page Web.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ Tu voudrais peut-être essayer de travailler en mode plein écran pour avoir plus d'espace :
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+Appuie sur « Echap » pour quitter le mode plein écran.
 
-+ Run your trinket and click on the Happy Birthday link.
++ Lance ton trinket et clique sur le lien « Joyeux Anniversaire ».
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Clique sur le menu du trinket et sélectionne **embed**. Si tu n''es pas en mode plein écran, tu devras peut-être faire défiler. Utilise la barre de défilement à droite ou la flèche vers le bas du clavier.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ Choisis « Only show code or result (laisse les utilisateurs basculer entre eux) » et **copie** le code intégré pour le trinket. 
 
 ![screenshot](images/showcase-embed.png)
 
