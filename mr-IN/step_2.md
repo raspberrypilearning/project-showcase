@@ -1,43 +1,43 @@
 ## वेबपेजेस वर लिंक जोडणे
 
-Text links allow you to click on words to go to another web page; they are usually underlined.
+लिंक्स आपल्याला एखाद्या दुसऱ्या वेबपेजवर जाण्यासाठी शब्दांवर क्लिक करण्याची सुविधा देतात; ते सहसा अधोरेखित असतात.
 
-+ Open this trinket: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ हे ट्रिंकेट उघडा: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
     
-    The project should look like this:
+    प्रकल्प असा दिसायला हवा:
     
     ![screenshot](images/showcase-starter.png)
 
-+ HTML uses the `<a>` tag for links.
++ HTML मध्ये लिंक साथी `<a>` टॅग वापरला जातो.
 
 ![screenshot](images/showcase-link.png)
 
-+ Find the `<a>` tag in your project. 
++ तुमच्या प्रकल्पातला `<a>` टॅग शोधा. 
 
 ![screenshot](images/showcase-a-template.png)
 
-+ Add the Code Club website address [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) and link text:
++ Code Club च्या वेबसाईटचा पत्ता [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) आणि मजकूर जोडा:
 
 ![screenshot](images/showcase-code-club.png)
 
-+ Click Run to test your trinket.
++ आपल्या ट्रिंकेटची चाचणी घेण्यासाठी रन वर क्लिक करा.
 
 ![screenshot](images/showcase-cc-output.png)
 
-+ Click on the Code Club link to test your webpage. Your trinket will now show the Code Club webpage: 
++ तुमच्या वेबपेजला तपासण्यासाठी Code Club च्या लिंक वर क्लिक करा. आपले ट्रिंकेटआता Code Club वेबपेज दाखवेल: 
 
 ![screenshot](images/showcase-cc-website.png)
 
-+ To get back to your page you can either:
++ आपल्या वेबपेजवर परत येण्यासाठी आपण हे करू शकता:
     
-    + Run your trinket again,
+    + आपले ट्रिंकेट पुन्हा एकदा चालवा,
     
-    + Tap the Backspace key on the keyboard, or
+    + कीबोर्डवरील बॅकस्पेस की(key) दाबा, किंवा
     
-    + Right-click and choose Back.
+    + राइट-क्लिक करा आणि बॅक (back) चा पर्याय निवडा.
 
-+ Now put your link into a sentence inside a paragraph:
++ आता आपली लिंक एका वाक्याच्या आत टाका:
 
 ![screenshot](images/showcase-paragraph.png)
 
-Test your webpage.
+आपल्या वेबपेजची चाचणी घ्या.
