@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## आव्हान: अजून एक लिंक जोडा
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+वेब प्रोजेक्ट तयार करण्यासाठी उपयुक्त ठरलेल्या वेबसाइटस् च्या लिंकसोबत एक वाक्य जोडा. उदाहरणार्थ: <https://trinket.io> अथवा <https://trinket.io/docs/colors>.
 
 ![screenshot](images/showcase-link-challenge.png)
 
