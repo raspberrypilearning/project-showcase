@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## शीर्षस्थानी परत येणे
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ वेबपेज च्या शीर्षस्थानी परत जाता येणे देखील उपयुक्त आहे. HTML मध्ये ह्यासाठी `#top` चा वापर करता येतो.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ प्रत्येक प्रोजेक्ट करता एंबेड केलेल्या प्रकल्पांनतर एक `#top` साथी लिंक जोडा:
 
 ![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ पेज च्या शीर्षस्थानी परत जाण्यासाठी Top वर क्लिक करून लिंक चालते आहे ह्याची खात्री करा.
