@@ -1,27 +1,27 @@
-## Link to A Trinket
+## ट्रिंकेटची लिंक
 
-You can link to the web page for a trinket.
+आपण trinket च्या वेबपेजची लिंक वापरू शकता.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ आपल्या जवळ वाढदिवसाच्या शुभेच्छापत्राच्या trinket ची लिंक आहे का? जर असेल तर ती ट्रिंकेट एका दुसऱ्या ब्राऊजर टॅब किंवा विंडो मध्ये उघडा. अथवा हि तयार झालेली trinket उघडा: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ आपल्या ट्रिंकेटच्या वरील शेयर मेन्यूवर क्लिक करा आणि लिंक निवडा:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+आपण आपल्या खात्यातून ट्रिंकेट उघडले असेल तर त्याऐवजी आपल्या ट्रिंकेटच्या वरील शेयर पर्यायाचा वापर करावा:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ 'Only show code or result (let users toggle between them)' पर्याय निवडा आणि trinket ची लिंक कॉपी करा. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ प्रकल्प शोकेस ट्रिंकेट ला परत जा आणि एक `<h2>` शीर्षक आणि तुमच्या वाढदिवसाच्या शुभेच्छापत्र प्रकल्पाची लिंक टाका.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+आपले वेबपेज असे दिसले पाहिजे:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+हे आपल्याला ट्रिंकेटवर घेऊन जाते याची खात्री करण्यासाठी हॅप्पी बर्थडे लिंकवर क्लिक करा.
