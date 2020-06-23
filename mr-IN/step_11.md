@@ -6,17 +6,17 @@ Trinkets aren't the only thing you can embed in a webpage. You can embed videos,
 
 Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Go to the Scratch website and find a project that you like. तो तुमचा स्वतः चा किंवा तुम्हाला सापडलेल्यांपैकी एखादा पण असू शकते.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+तुम्ही जर लॉगिन केलेले असेल तर तुम्ही 'Embed' बटन दाबून HTML एम्बेड कोड घेऊ शकता.
 
 ![screenshot](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+आपण लॉग इन केलेले नसल्यास स्क्रॅच च्या वेब ऍड्रेस मध्ये प्रकल्पाचा क्रमांक पहा.
 
 ![screenshot](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+स्क्रॅच एम्बेड उदाहरणात `<iframe>` कोडची एक प्रत बनवा आणि प्रोजेक्ट नंबर खोडुन त्याऐवजी तुम्हाला जो प्रोजेक्ट एम्बेड करायचा आहे त्याच्या नंबर टाका:
 
 ![screenshot](images/scratch-iframe.png)
 
