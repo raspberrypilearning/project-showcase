@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## आव्हान: अजून जास्त प्रकल्प एंबेड (embed) करा
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+तुमचे अजून दुसरे प्रकल्प शोकेस मध्ये एंबेड करा. लक्षात ठेवा की तुम्ही तुमच्या वेबपेज वरच्या लिंक वर क्लिक करून त्यांची ट्रिंकेट पेजेस सहज शोधू शकता.
 
 \--- /challenge \---
