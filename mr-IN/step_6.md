@@ -24,14 +24,14 @@
 
 ![screenshot](images/showcase-paste-embed.png)
 
-+ Run your trinket to test it and you should see your Happy Birthday project embedded in the webpage. 
++ तपासून पाहण्यासाठी आपले ट्रिंकेट रन करा आणि तुम्हाला हॅप्पी बर्थडे प्रकल्प वेबपेज मध्ये एम्बेड झालेला दिसेल. 
 
 ![screenshot](images/showcase-embed-output.png)
 
-+ You may find that the bottom of your trinket isn't displayed. You can fix that by changing the height value on the `<iframe>`. 
++ आपणास असं आढळेल की आपल्या trinket च्या तळाचा भाग दिसत नाही आहे. तुम्ही ते `<iframe>` ची height बदलून ठीक करू शकता. 
 
 ![screenshot](images/showcase-embed-height.png)
 
-Set the height to **400**. If you made changes to the Happy Birthday project you might need to choose a different value.
+Height ला **400** करा. जर तुम्ही हॅप्पी बर्थडे प्रकल्पात बदल केलेले असतील तर तुम्हाला वेगळा आकडा वापरावा लागू शकतो.
 
 ![screenshot](images/showcase-embed-fixed.png)
