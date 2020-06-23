@@ -30,29 +30,29 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 ## ऑफलाइन संसाधने
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+गरज वाटल्यास हा प्रकल्प [ऑफलाईन पूर्ण](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) केला जाऊ शकतो. तुम्ही या प्रकल्पाचे संसाधने 'Project Material' च्या लिंक वर​ क्लिक करून मिळवू शकता. या लिंक मध्ये 'Project Resources' विभागात मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असणारी संसाधने आहेत. प्रत्येक मुलाकडे ह्याची एक प्रत असेल ह्याची खात्री करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+आपल्याला या प्रकल्पातील आव्हानांची पूर्ण आवृत्ती 'Volunteer Resources' विभागात सापडेल, ज्यात खालील बाबी आहेत:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(वरील सर्व प्रकल्पाची संसाधने आणि स्वयंसेवकासाठी `.zip` फाईल म्हणून डाउनलोड करण्याची सोय केलेली आहे.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+लक्षात ठेवा की मुलांनी त्यांचे इतर प्रकल्प ऑफलाइन पूर्ण केले असतील तर ते त्यांना एम्बेड करण्या जोगे नसतील परंतु तरीही ते त्यांच्याशी लिंक करण्यास सक्षम असतील.
 
-## Learning Objectives
+## शिकण्याचे उद्दिष्टे
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* हा प्रकल्प टेक्सट(text) लिंक आणि नाव असलेल्या आयडी यांची इतर वेबपेजेस सोबत ओळख करून देतो. ह्यातून trinket आणि स्क्रॅच प्रकल्प कशे एम्बेड (embed) कशे करायचे ह्याचा सुद्धा परिचय करून दिला जातो. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+या प्रकल्पात [ ​​Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) चे खालील घटक समाविष्ट आहेत:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [मूलभूत 2D आणि 3D ऍसेटस् डिझाइन करणे](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Challenges
 
