@@ -54,33 +54,33 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 * [मूलभूत 2D आणि 3D ऍसेटस् डिझाइन करणे](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## आव्हाने
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* “Add another link” - अजून वेबपेजेस च्या लिंक जोडणे;
+* “Create a List of Your Projects” - जुन्या वेब प्रकल्पांच्या लिंक तयार करणे;
+* “Embed More Projects” - CSS वापरून नवीन स्टाईल देणे.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रकल्प सामग्री
 
-## Project resources
+## प्रकल्प संसाधने
 
-* [.zip file containing all project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [सर्व प्रकल्पाची संसाधने असलेली.zip फाइल](https://rpf.io/p/en/project-showcase-go)
+* [ऑनलाईन ट्रिन्केट ज्यात सर्व 'प्रोजेक्ट शोकेस' प्रकल्प संसाधने आहेत](http://jumpto.cc/web-showcase)
+* [ऑनलाइन ट्रिंकेट टेम्पलेट](http://jumpto.cc/trinket-template)
+* [ऑनलाइन ब्लँक Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## मंडळ प्रमुखासाठी संसाधने
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [सर्व प्रकल्पाची संसाधने असलेली.zip फाइल](https://rpf.io/p/en/project-showcase-go)
+* [ऑनलाईन संपूर्ण ट्रिंकेट प्रकल्प](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
