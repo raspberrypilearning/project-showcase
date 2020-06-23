@@ -24,11 +24,11 @@ HTML आणि CSS ऑनलाईन लिहिण्याकरता आ�
 
 HTML & CSS लिहीण्यासाठी मुले ह्या रिक्त trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) चाही उपयोग करू शकतात किंवा ते ह्या टेम्प्लेट trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) चाही उपयोग करू शकतात.
 
-There is also a trinket containing a sample solution to the challenges:
+सगळ्या आव्हानांचे उत्तरं असलेला एक नमुना trinket देखील आहे:
 
-* ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['Project Showcase' संपूर्ण -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## ऑफलाइन संसाधने
 
 This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
