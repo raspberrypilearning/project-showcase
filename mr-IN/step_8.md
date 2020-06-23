@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## अनुक्रमणिका तयार करा
 
-Let's add a Table of Contents so we can easily get to each project.
+चला आपण एक अनुक्रमणिका जोडूया म्हणजे आपण प्रत्येक प्रकल्पात सहजपणे जाऊ शकतो.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ आपण फक्त दुसऱ्या वेबपेजेस ला लिंक करु शकतो, त्यासोबतच आपण वेबपेज च्या वेगवेगळ्या भागांना लिंक करु शकतो त्या भागांना एक आयडी (id) देऊन. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+हॅपी बर्थडे प्रकल्पाच्या `<h2>` शीर्षात आयडी (id) टाका:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ आपल्या प्रत्येक प्रकल्पाला एकएक आयडी जोडा आणि त्यांना अश्या प्रकारचे लहान नावे द्या: story, wanted, recipe आणि letter.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ एखाद्या आयडीच्या नावासमोर हॅश '#' चिन्ह लावून आपण त्या एलिमेंटशी लिंक करु शकतो. उदाहरणार्थ, `#birthday`.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+आपल्या प्रकल्पांच्या लिंक्स ची क्रमांकीत यादी तयार करा. (क्रमांकीत याद्या ह्यांचा परिचय हा Recipe प्रकल्पात केला गेला आहे.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ आपला प्रकल्प चालवा आणि आपल्या प्रकल्पांकडे जाण्यासाठी लिंक वर क्लिक करून त्याची खात्री करा. 
 
 ![screenshot](images/showcase-list-output.png)
