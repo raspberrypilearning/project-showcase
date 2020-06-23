@@ -1,26 +1,26 @@
-## Embedding Projects
+## प्रकल्प एंबेड करणे
 
-As well as linking to trinkets as webpages we can also embed them in a web page.
+आपण ट्रिंकेट्स ची लिंक वेबपेज वर टाकण्या सोबतच आपण त्यांना वेबपेज मध्ये एम्बेड सुद्धा करू शकतो.
 
-+ You might want to try working in Fullscreen mode so you have more space:
++ तुम्हाला जागा पुरत नसल्यास तुम्ही फुलस्क्रीन पर्यायाचा वापर करू शकता:
 
 ![screenshot](images/showcase-fullscreen.png)
 
-Press Esc to exit Fullscreen mode.
+फुलस्क्रीन मोडमधून बाहेर पडण्यासाठी Esc दाबा.
 
-+ Run your trinket and click on the Happy Birthday link.
++ आपले ट्रिंकेट रन करा आणि हॅप्पी बर्थडे लिंकवर क्लिक करा.
 
-+ Click on the trinket menu and select **embed**. If you're not in Fullscreen mode you may have to scroll. Use the scroll bar on the right or the down arrow on the keyboard.
++ Trinket मेन्यू वर क्लिक करा आणि **embed** वर क्लिक करा. आपण फुलस्क्रीन मोडमध्ये नसाल तर आपल्याला स्क्रोल करावे लागू शकते. उजवीकडील स्क्रोल बार किंवा कीबोर्ड वरचा खालचा बाणाचा वापर करा.
 
 ![screenshot](images/showcase-embed-code.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and **copy** the embed code for the trinket. 
++ 'Only show code or result (let users toggle between them)' पर्याय निवडा आणि trinket साठीचा एम्बेड कोड **कॉपी** करा. 
 
 ![screenshot](images/showcase-embed.png)
 
-+ Trinket has created some HTML for you to include in your webpage. It uses an `<iframe>` tag which allows content to be embedded within a page.
++ आपल्या वेबपेजमध्ये समाविष्ट करण्यासाठी ट्रिन्केटने काही HTML तयार केले आहे. त्यात `<iframe>` टॅगचा वापर होतो ज्याचा वापर करून तुम्ही वेबपेज मध्ये माहिती एम्बेड करू शकता.
 
-+ Now paste that code under the link to the Happy Birthday trinket:
++ आता हॅप्पी बर्थडे ट्रिंकेटच्या लिंकखाली तो कोड पेस्ट करा:
 
 ![screenshot](images/showcase-paste-embed.png)
 
