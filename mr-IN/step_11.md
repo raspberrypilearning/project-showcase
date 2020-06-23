@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## आव्हान: नवीन शोकेस तयार करा
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+वेबपेज मध्ये trinket अशी हि एकच गोष्ट नाही कि ती एम्बेड करता येते. आपण व्हिडियो, विजेट्स (उदा. हवामानसाठी विजेट) किंवा अगदी स्क्रॅच प्रोजेक्ट सुद्धा एम्बेड करू शकतो.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Embed Scratch उदाहरण trinket ला उघडा आणि रन करा: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. तो तुमचा स्वतः चा किंवा तुम्हाला सापडलेल्यांपैकी एखादा पण असू शकते.
+स्क्रॅच च्या वेबसाइटवर जा आणि आपल्याला आवडेल असा प्रकल्प शोधा. तो तुमचा स्वतः चा किंवा तुम्हाला सापडलेल्यांपैकी एखादा पण असू शकते.
 
 तुम्ही जर लॉगिन केलेले असेल तर तुम्ही 'Embed' बटन दाबून HTML एम्बेड कोड घेऊ शकता.
 
