@@ -1,28 +1,28 @@
-## Introduction
+## परिचय
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+ह्या प्रकल्पात आपण आपल्या HTML प्रकल्पांची शोकेस तयार करणार आहोत आणि लिंक आणि मजकूर कसा एम्बेड करायचा ह्याविषयी शिकणार आहोत.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### क्लब प्रमुखांसाठी अधिक माहिती
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+आपल्याला जर हा प्रकल्प प्रिंट करायचा असेल तर आपण [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print) चा वापर करू शकता.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब प्रमुखांसाठी काही टिपा
 
-## Introduction:
+## परिचय:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+या प्रकल्पात मुलांना वेबपेजमध्ये हायपरलिंक्स आणि trinket एम्बेडिंग आणि स्क्रॅच प्रोजेक्ट्सशी ओळख करुन दिली जाईल.
 
-## Online Resources
+## ऑनलाईन संसाधने
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+HTML आणि CSS ऑनलाईन लिहिण्याकरता आम्ही [trinket](https://trinket.io/) वापरण्याची शिफारस करतो. ह्या प्रोजेक्ट मध्ये खलील trinket आहेत:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['Project Showcase' ची सुरवात -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+HTML & CSS लिहीण्यासाठी मुले ह्या रिक्त trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) चाही उपयोग करू शकतात किंवा ते ह्या टेम्प्लेट trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) चाही उपयोग करू शकतात.
 
 There is also a trinket containing a sample solution to the challenges:
 
