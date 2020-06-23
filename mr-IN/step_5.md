@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Create a List of Your Projects
+## आव्हान: तुमच्या बनवलेल्या प्रकल्पांची यादी बनवा
 
-Add some of the other HTML & CSS projects that you have created at Code Club. Use `<h2>` headings to organise your webpage.
+काही दुसऱ्या HTML & CSS प्रकल्पांची लिंक जोडा जे तुम्ही Code Club मध्ये बनवलेले असतील. `<h2>` चा वापर करून वेबपेज व्यवस्थित करा.
 
-If you don't have links to the projects you created then you can use the Code Club examples:
+तुमच्याकडे तुम्ही केलेल्या प्रकल्पांची लिंक नसेल तर तुम्ही Code Club च्या उदहरणांच्या लिंक चा वापर करू शकता:
 
 + Happy Birthday: <https://trinket.io/html/e996dc0380>
 
@@ -16,7 +16,7 @@ If you don't have links to the projects you created then you can use the Code Cl
 
 + Mystery Letter: <https://trinket.io/html/1d4d4c5ce1>
 
-Your finished page should look something like this:
+आपले वेबपेज असे दिसले पाहिजे:
 
 ![screenshot](images/showcase-h2-projects.png)
 
