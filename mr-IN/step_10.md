@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## आव्हान: तुमच्या शोकेस ला अजून आकर्षित बनवा
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+शिकलेल्या CSS चा वापर करून तुमच्या पेज ला अधिक आकर्षक बनवा. वेबपेज च्या बॅकग्राऊंड रंग किंवा शीर्षकाचा फॉन्ट बदलायचा प्रयत्न करा.
 
-You can also add some information about each project and what you liked about making it.
+तुम्ही प्रकल्पांविषयी अजून माहिती टाकू शकता किंवा तुम्हाला प्रत्येक प्रकल्प बनवताना काय आवडले ह्याची माहिती सुद्धा टाकू शकता.
 
 \--- /challenge \---
