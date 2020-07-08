@@ -6,7 +6,7 @@
 
 ### क्लब प्रमुखांसाठी अधिक माहिती
 
-आपल्याला जर हा प्रकल्प प्रिंट करायचा असेल तर आपण [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print) चा वापर करू शकता.
+आपल्याला जर हा प्रकल्प प्रिंट करायचा असेल तर आपण [प्रिंटर अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/project-showcase/print) चा वापर करू शकता.
 
 ## \--- collapse \---
 
