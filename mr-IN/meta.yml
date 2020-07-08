@@ -1,0 +1,30 @@
+---
+hero_image: images/banner.png
+title: प्रकल्प शोकेस
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: तुमच्या वेब प्रकल्पांची शोकेस बनवा.
+original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.1
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: वेबपेजेस वर लिंक जोडणे
+  - title: 'आव्हान: अजून एक लिंक जोडा'
+  - title: ट्रिंकेटची लिंक
+  - title: 'आव्हान: तुमच्या बनवलेल्या प्रकल्पांची यादी बनवा'
+  - title: प्रकल्प एंबेड करणे
+  - title: 'आव्हान: अजून जास्त प्रकल्प एंबेड (embed) करा'
+  - title: अनुक्रमणिका तयार करा
+  - title: शीर्षस्थानी परत येणे
+  - title: 'आव्हान: तुमच्या शोकेस ला अजून आकर्षित बनवा'
+  - title: 'आव्हान: नवीन शोकेस तयार करा'
