@@ -2,7 +2,7 @@
 
 Você pode criar um link para um trinket.
 
-+ Você manteve um link para o seu trinket "Feliz Aniversário"? Se você fez, abra esse trinket em outra aba ou janela do navegador. Caso contrário, abra o trinket de exemplo finalizado: <https://trinket.io/html/e996dc0380>
++ Você manteve um link para o seu trinket "Feliz Aniversário"? Se você fez, abra esse trinket em outra aba ou janela do navegador. Caso contrário, abra o trinket de exemplo finalizado: <https://trinket.io/html/34a8b8b32b>
 
 + Clique no menu Share, acima do seu trinket, e escolha Link:
 

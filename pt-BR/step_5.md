@@ -6,15 +6,15 @@ Adicione alguns dos outros projetos HTML & CSS que você criou no Code Club. Use
 
 Se você não tiver links para os projetos que criou, poderá usar os exemplos do Code Club:
 
-+ Feliz Aniversário: <https://trinket.io/html/e996dc0380>
++ Feliz Aniversário: <https://trinket.io/html/34a8b8b32b>
 
-+ Conte uma historinha: <https://trinket.io/html/c8afdef912>
++ Conte uma historinha: <https://trinket.io/html/3674992600>
 
-+ O procurado: <https://trinket.io/html/ebeb56398a>
++ O procurado: <https://trinket.io/html/0a18869b63>
 
-+ A receita: <https://trinket.io/html/c0fd9b40cd>
++ A receita: <https://trinket.io/html/1fd2076622>
 
-+ A carta misteriosa: <https://trinket.io/html/1d4d4c5ce1>
++ A carta misteriosa: <https://trinket.io/html/3b0711ee6d>
 
 Sua página concluída deve ficar parecida com isto:
 
