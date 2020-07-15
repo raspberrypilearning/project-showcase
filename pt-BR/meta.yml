@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Projeto Mostruário
 theme: turquoise
@@ -6,14 +7,24 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Nesse projeto, você irá criar um mostruário de seus projetos HTML e aprender sobre links e recursos embutidos.
+description: Crie um mostruário de seus projetos.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.1
 last_tested: 2017-01-01
-steps: 
-- title: Projeto Mostruário
+steps:
+  - title: Introdução
+  - title: Adicionando Links para Páginas da Web
+  - title: 'Desafio: Adicione outro link'
+  - title: Link para um Trinket
+  - title: 'Desafio: Crie uma lista dos seus Projetos'
+  - title: Incorporando Projetos
+  - title: 'Desafio: Incorpore Mais Projetos'
+  - title: Crie um índice
+  - title: Voltando ao topo
+  - title: 'Desafio: Melhore seu Mostruário'
+  - title: 'Desafio: Crie um novo Mostruário'
