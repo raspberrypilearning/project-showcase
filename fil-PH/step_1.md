@@ -1,86 +1,86 @@
-## Introduction
+## Panimula
 
-In this project, you will create a showcase of your HTML projects and learn about links and embedding resources.
+Sa proyektong ito, gagawa ka ng isang showcase ng iyong mga proyekto sa HTML at malalaman mo ang tungkol sa mga link at pag-embed ng mga resources.
 
 ![screenshot](images/showcase-intro.png)
 
-### Additional information for club leaders
+### Karagdagang impormasyon tungkol sa mga pinuno ng club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/project-showcase/print).
+Kung kailangan mong i-print ang proyektong ito, maaaring gamitin ang [ Printer friendly na bersyon ](https://projects.raspberrypi.org/en/projects/project-showcase/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## pamagat: Tala ng lider ng club
 
-## Introduction:
+## Panimula:
 
-In this project, children are introduced to hyperlinks and embedding trinkets and Scratch projects within a webpage.
+Sa proyektong ito, ipapakilala ang mga bata sa mga hyperlink at pag-embed ng mga trinket at mga proyekto sa Scratch sa loob ng isang webpage.
 
-## Online Resources
+## Mga Resources Online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Inirerekumenda namin ang paggamit ng [ trinket ](https://trinket.io/) upang magsulat ng HTML & CSS online. Ang proyektong ito ay naglalaman ng mga sumusunod na trinket:
 
-* ['Project Showcase' starting point -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* [Panimulang punto ng 'Project Showcase' - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Maaari ring gamitin ng mga bata ang blangkong trinket na ito [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) upang isulat ang kanilang sariling HTML & CSS, o maaari rin nilang gamitin ang template trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Mayroon ding isang trinket na naglalaman ng isang sample solution na mga hamon:
 
 * ['Project Showcase Finished' -- trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
-## Offline Resources
+## Mga Resources Offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Maaaring [ikumpleto ang proyektong ito offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) kung ginusto. Maaari mong ma-access ang mga mapagkukunang proyekto sa pamamagitan ng pag-click sa link na 'Project Materials' para sa proyektong ito. Naglalaman ang link na ito ng 'Project Resources' section, na kasama ang mga mapagkukunan na kakailanganin ng mga bata upang makumpleto ang proyektong ito offline. Tiyaking ang bawat bata ay may access sa isang kopya ng mga mapagkukunang ito. Kasama sa seksyong ito ang mga sumusunod na file:
 
 * project-showcase/index.html
 * project-showcase/style.css
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Maaari ka ring makahanap ng isang nakumpletong bersyon ng mga hamon ng proyektong ito sa seksyong 'Volunteer Resources', na naglalaman ng:
 
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Maaari ring ma-download ang lahat ng mga mapagkukunan sa itaas bilang project at volunteer `.zip ` files.)
 
-Note that if the children have completed their other projects offline then they won't be able to embed them but they will still be able to link to them.
+Tandaan na kung nakumpleto na ng mga bata ang kanilang iba pang mga proyekto offline ay hindi nila ma-eembed ang mga ito pero magagawa pa nilang mai-link sa kanila.
 
-## Learning Objectives
+## Mga Layunin sa Pag-aaral
 
-* This project introduces text links to other webpages and to named ids within a page. It also introduces embedding trinkets and Scratch projects into a webpage. 
+* Ipinakilala ng proyektong ito ang mga text link sa iba pang mga webpage at sa mga named ids sa loob ng isang pahina. Ipinakikilala rin nito ang mga pag-embed ng mga trinket at mga Scratch projects sa isang webpage. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Sakop ng proyektong ito ang mga elemento mula sa mga sumusunod na mga strands ng [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum) {: target = "_ blangko:
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Idisenyo ang mga basic 2D at 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Mga Hamon
 
-* “Add another link” - Add links to more webpages;
-* “Create a List of Your Projects” - Create links to previous web projects;
-* “Embed More Projects” - Use CSS to create new styles.
+* "Magdagdag ng isa pang link" - Magdagdag ng mga link sa ibang pang mga webpage;
+* "Gumawa ng isang Listahan ng Iyong Mga Proyekto" - Gumawa ng mga link sa mga nakaraang web projects;
+* "Mag-embed ang higit pang mga Proyekto" - Gumamit ng CSS upang lumikha ng mga bagong estilo.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## pamagat: Mga materyales sa proyekto
 
-## Project resources
+## Mga mapagkukunan ng proyekto
 
-* [.zip file containing all project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online Trinket containing all 'Project Showcase' project resources](http://jumpto.cc/web-showcase)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [.zip file na naglalaman ng lahat ng mga project resources](https://rpf.io/p/en/project-showcase-go)
+* [Online Trinket na naglalaman ng lahat ng mga project resources ng 'Project Showcase'](http://jumpto.cc/web-showcase)
+* [Template ng Online Trinket](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## Club leader resources
+## Mga mapagkukunan ng lider ng club
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/project-showcase-go)
-* [Online completed Trinket project](https://trinket.io/html/1d4d4c5ce1)
+* [.zip file na naglalaman ng lahat ng mga nakumpletong project resources](https://rpf.io/p/en/project-showcase-go)
+* [Nakumpletong Online Trinket project](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
