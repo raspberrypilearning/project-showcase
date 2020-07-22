@@ -1,13 +1,13 @@
 ---
-title: عرض المشاريع
 hero_image: images/banner.png
+title: عرض المشروع
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: أنشئ عرضًا لمشاريعك على الويب.
+description: إنشاء عرض لمشاريع الويب الخاصة بك.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -16,15 +16,15 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
-- title: المقدمة
-- title: إضافة روابط إلى صفحات الويب
-- title: 'التحدي: أضف رابطًا آخر'
-- title: إضافة رابط إلى مشروع Trinket
-- title: 'التحدي: أنشئ قائمة بمشاريعك'
-- title: تضمين المشاريع
-- title: 'التحدي: قم بتضمين مشاريع أخرى'
-- title: إنشاء جدول محتويات
-- title: العودة إلى أعلى الصفحة
-- title: 'التحدي: حسِّن عرضك!'
-- title: 'التحدي: أنشئ عرضًا جديدًا'
+steps:
+  - title: المقدمة
+  - title: إضافة روابط إلى صفحات الويب
+  - title: 'التحدي: أضف رابطًا آخر'
+  - title: إضافة رابط إلى مشروع Trinket
+  - title: 'التحدي: أنشئ قائمة بمشاريعك'
+  - title: تضمين المشاريع
+  - title: 'التحدي: قم بتضمين مشاريع أخرى'
+  - title: إنشاء جدول المحتويات
+  - title: العودة إلى أعلى الصفحة
+  - title: 'التحدي: حسِّن عرضك'
+  - title: 'التحدي: أنشئ عرضًا جديدًا'

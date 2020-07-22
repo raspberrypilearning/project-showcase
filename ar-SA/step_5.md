@@ -1,25 +1,23 @@
 --- challenge ---
+
 ## التحدي: أنشئ قائمة بمشاريعك
 
-أضف بعض مشاريع HTML وCSS الأخرى التي أنشأتها على Code Club. واستخدم أوسمة `<h2>` الخاصة بالعناوين لتنظيم صفحة الويب.
+أضف بعضًا من مشاريع HTML & amp؛ CSS التي قمت بإنشائها في Code Club. استخدم أوسمة `<h2>` الخاصة بالعناوين لتنظيم صفحة الويب.
 
-إذا لم تكن لديك روابط إلى المشاريع التي أنشأتها، فيمكنك استخدام الأمثلة الموجودة على Code Club:
+إذا لم يكن لديك روابط للمشاريع التي أنشأتها ، فيمكنك استخدام أمثلة Code Club:
 
-+ عيد ميلاد سعيد: <a href="https://trinket.io/html/e996dc0380">https://trinket.io/html/e996dc0380</a>
++ عيد ميلاد سعيد: <https://trinket.io/html/c052cb54e1>
 
-+ احكِ قصة: <a href="https://trinket.io/html/c8afdef912">https://trinket.io/html/c8afdef912</a>
++ سرد قصة: <https://trinket.io/html/9994e8e523>
 
-+ مطلوب: <a href="https://trinket.io/html/ebeb56398a">https://trinket.io/html/ebeb56398a</a>
++ مطلوب: <https://trinket.io/html/b9784d48d0>
 
-+ وصفة طعام: <a href="https://trinket.io/html/c0fd9b40cd">https://trinket.io/html/c0fd9b40cd</a>
++ وصفة: <https://trinket.io/html/c459aa6f90>
 
-+ رسالة غامضة: <a href="https://trinket.io/html/1d4d4c5ce1">https://trinket.io/html/1d4d4c5ce1</a>
++ رسالة غامضة: <https://trinket.io/html/c40d6e8ba0>
 
 ستكون صفحتك النهائية بهذا الشكل تقريبًا:
 
-![screenshot](images/showcase-h2-projects.png)
-
-
-
+![لقطة الشاشة](images/showcase-h2-projects.png)
 
 --- /challenge ---
