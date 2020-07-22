@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: Showcase ng Proyekto
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+curriculum: 1, disenyo-1, programming-0, phys-comp-0, paggawa-0, pamayanan-0
+description: Lumikha ng isang showcase ng iyong mga proyekto sa web.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,24 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Panimula
   - 
-    title: Adding Links to Webpages
+    title: Pagdaragdag ng mga Link sa Mga Webpage
   - 
-    title: 'Challenge: Add another link'
+    title: 'Hamon: Magdagdag ng isa pang link'
   - 
-    title: Link to A Trinket
+    title: Mag-link sa Isang Trinket
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'Hamon: Lumikha ng Listahan Para sa iyong mga Proyekto'
   - 
-    title: Embedding Projects
+    title: Pag-embed ng mga Proyekto
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Hamon: Mag-embed ng Marami pang Proyekto'
   - 
-    title: Create a Table of Contents
+    title: Lumikha ng isang Talahanayan ng mga Nilalaman
   - 
-    title: Getting Back to the Top
+    title: Pagbabalik sa pinakasimula
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'Hamon: Pagbutihin ang Iyong Showcase'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'Hamon: Lumikha ng isang Bagong Showcase'
