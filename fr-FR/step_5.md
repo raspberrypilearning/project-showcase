@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Défi: créer une liste de tes projets
+## Défi : créer une liste de tes projets
 
 Ajoute certains des autres projets CSS HTML & que tu as créés au Code Club. Utilise les `<h2>` titres pour organiser ta page Web.
 

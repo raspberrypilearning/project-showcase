@@ -21,7 +21,7 @@ Dans ce projet, les enfants se familiarisent avec les hyperliens et l'intégrati
 
 Nous vous recommandons d'utiliser des [Trinkets](https://trinket.io/) pour écrire en HTML & CSS en ligne. Ce projet contient le Trinket suivant :
 
-* [Point de départ de « Portfolio » - jumpto.cc/web-showcase](https://trinket.io/html/4a3af3be01)
+* [Point de départ de « Portfolio » - trinket.io/html/4a3af3be01](https://trinket.io/html/4a3af3be01)
 
 Les enfants peuvent également utiliser ce Trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce Trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
