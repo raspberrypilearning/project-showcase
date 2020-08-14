@@ -1,24 +1,21 @@
-##  Crée un sommaire
+## Créer une table des matières
 
-Maintenant ajoutons un sommaire pour facilement trouver chaque projet.
+Ajoutons une table des matières pour pouvoir accéder facilement à chaque projet.
 
-+ EN plus d'être capable de créer des liens vers d'autres page, on peux créer un lien qui mène a un endroit d'une page si on lui donne un id.
++ En plus de pouvoir créer des liens vers d'autres pages Web, nous pouvons créer des liens vers des parties d'une page Web si nous leur donnons un identifiant. 
 
-Ajoute un id au titre `<h2>` pour le projet Joyeux Anniversaire:
+Ajoute un identifiant au `<h2>`titre du projet « Joyeux Anniversaire » :
 
-![screenshot](images/showcase-id.png)
+![capture d'écran](images/showcase-id.png)
 
-+ Ajoute un id pour chaque projets et donne leur un nom court: histoire, wanted, recette et lettre.
++ Ajoute des identifiants à chacun de tes projets et attribue-leur des noms abrégés: histoire, recherche, recette et lettre.
 
-+ Tu peux crée un lien vers un élément avec un id en ajoutant un symbole dièse (hashtag) au debut de son nom, `#anniversaire`. 
++ Tu peux créer un lien vers un élément avec un identifiant en plaçant un symbole dièse « # » devant son nom. Par exemple, `#anniversaire`.
 
-Créer une liste de liens vers tes projets. (Tu as appris les listes ordonnées dans le projet recette de cuisine).
+Crée une liste ordonnée de liens vers tes projets. (Les listes ordonnées sont présentées dans le projet « Recette de cuisine ».)
 
-![screenshot](images/showcase-list.png)
+![capture d'écran](images/showcase-list.png)
 
-+ Lance ton projet et test le en cliquant sur les liens pour faire défiller ta page vers tes projets
++ Exécute ton projet et teste-le en cliquant sur les liens pour accéder à tes projets. 
 
-![screenshot](images/showcase-list-output.png)
-
-
-
+![capture d'écran](images/showcase-list-output.png)

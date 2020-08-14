@@ -1,7 +1,7 @@
 --- challenge ---
-## Défi: Embarque encore plus de projets
 
-Implémente encore plus de projets dans ton portfolio. Rappelle toi que tu peux facilement trouver leur page trinket en cliquant sur les liens sur ta page web.
+## Défi : intégrer plus de projets
 
+Intègre plus de projets dans ton portfolio. Rappelle-toi que tu peux facilement trouver leurs pages trinket en cliquant sur les liens de ta page Web.
 
 --- /challenge ---

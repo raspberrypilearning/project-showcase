@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Portfolio
 theme: turquoise
@@ -6,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Créer une vitrine virtuelle de vos projets web.
+description: Créer un portfolio de tes projets web.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -15,15 +16,15 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
-- title: Introduction
-- title: Ajouter des liens à ta page
-- title: 'Défi: Ajouter un autre lien'
-- title: Lien vers un trinket
-- title: 'Défi: Créer une liste de tes projets'
-- title: Embarque encore plus de projets
-- title: 'Défi: Embarque encore plus de projets'
-- title: Crée un sommaire
-- title: Revenir en haut
-- title: 'Défi: Améliore ton portfolio'
-- title: 'Défi: Crée un nouveau showcase'
+steps:
+  - title: Introduction
+  - title: Ajout de liens vers des pages Web
+  - title: 'Défi : ajouter un autre lien'
+  - title: Lien vers un Trinket
+  - title: 'Défi : créer une liste de tes projets'
+  - title: Intégration de projets
+  - title: 'Défi : intégrer plus de projets'
+  - title: Créer une table des matières
+  - title: Revenir en haut
+  - title: 'Défi : améliorer ton portfolio'
+  - title: 'Défi : créer un nouveau portfolio'

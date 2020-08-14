@@ -1,25 +1,32 @@
 --- challenge ---
-## Défi: Crée un nouveau showcase
 
-Trinkets n'est pas la seule chose que tu peux embarquer dans une page web. Tu peux incorporer des videos, gadgets ou des projets Scratch.
+## Défi : créer un nouveau portfolio
 
-Ouvre le Trinket Exemple Scratch et lance le: <a href="https://trinket.io/html/9f7212b8fe">https://trinket.io/html/9f7212b8fe</a>
+Les Trinkets ne sont pas la seule chose que tu peux intégrer dans une page Web. Tu peux intégrer des vidéos, des widgets (tels qu'un widget météo) ou des projets Scratch.
 
-Va sur le site web de Scratch et trouve un projet que tu aimes bien. Ca peut etre un des tiens ou un que tu as trouvé.
+Ouvre le trinket exemple Scratch intégré et exécute-le : <https://trinket.io/html/9f7212b8fe>
 
-Si tu es enregistré tu peux cliquer sur le bouton 'Embed' en dessous du projet que tu as choisi pour recupérer le code HTML et l'incorporer à ton projet.
+Va sur le site Web Scratch et trouve un projet que tu aimes. Il peut s'agir de l'un des tiens ou de celui que tu as trouvé.
 
-![screenshot](images/scratch-embed.png)
+Si tu n'es pas connecté, tu peux cliquer sur le bouton « Embed » sous le projet pour obtenir le code HTML d'intégration.
 
-Si tu n'es pas enregistré, cherche un numero de projet Scratch dans son addresse web.
+![capture d'écran](images/scratch-embed.png)
 
-![screenshot](images/scratch-project-number.png)
+Si tu n'es pas connecté, recherche le numéro du projet Scratch dans son adresse Web.
 
-Créer une copie de ton exemple Scratch `<iframe>` et change le numero pour importer le projet que tu veux ajouter à ta page.
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+![capture d'écran](images/scratch-project-number.png)
 
-![screenshot](images/scratch-iframe.png)
+Fais une copie du code `<iframe>` dans l'exemple Scratch intégré et remplace le numéro de projet par celui du projet que tu souhaites intégrer :
 
-
+![capture d'écran](images/scratch-iframe.png)
 
 --- /challenge ---
+
+***
+
+Ce projet a été traduit par des bénévoles:
+
+Jonathan Vannieuwkerke
+Michel Arnols
+
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
