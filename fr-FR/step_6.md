@@ -1,37 +1,37 @@
-## Embarque encore plus de projets
+## Intégration de projets
 
-En plus de lié des trinkets tes pages web, tu peux aussi embarqué tes trinkets dans ta page web.
+En plus de créer des liens vers des trinkets sous forme de pages Web, nous pouvons également les intégrer dans une page Web.
 
-+ Tu peux essayer de travailler en mode plein-écran comme ça tu auras plus de place:
++ Tu voudrais peut-être essayer de travailler en mode plein écran pour avoir plus d'espace :
 
-![screenshot](images/showcase-fullscreen.png)
+![capture d'écran](images/showcase-fullscreen.png)
 
-Appuye sur Esc pour quitter le mode plein-écran
+Appuie sur « Echap » pour quitter le mode plein écran.
 
-+ Lance ton trinket et clique sur le lien Joyeux Anniversaire
++ Lance ton trinket et clique sur le lien « Joyeux Anniversaire ».
 
-+ Clique sur le menu trinket et choisi __embed__. Si tu n'es pas en plein-écran tu devras peut être faire défiler ta page web. Utilise la barre de défilement a droite ou la flêche du bas.
++ Clique sur le menu du trinket et sélectionne **embed**. Si tu n''es pas en mode plein écran, tu devras peut-être faire défiler. Utilise la barre de défilement à droite ou la flèche vers le bas du clavier.
 
-![screenshot](images/showcase-embed-code.png)
+![capture d'écran](images/showcase-embed-code.png)
 
-+ Choisi 'Only show code or result (let users toggle between them)' et __copie__ le code embarqué pour ce trinket.
++ Choisis « Only show code or result (laisse les utilisateurs basculer entre eux) » et **copie** le code intégré pour le trinket. 
 
-![screenshot](images/showcase-embed.png)
+![capture d'écran](images/showcase-embed.png)
 
-+ Trinket a crée un peu de HTML pour toi pour ajouter a ta page web. En utilisant un élément `<iframe>` qui te permet d'embarquer du contenu dans ta page.
++ Trinket a créé de l'HTML à inclure dans ta page Web. Il utilise une `<iframe>`balise qui permet d’intégrer du contenu dans une page.
 
-+ Maintenant colle ce code sous le lien de ton trinket Joyeux Anniversaire:
++ Maintenant, colle ce code sous le lien vers le trinket « Joyeux Anniversaire » :
 
-![screenshot](images/showcase-paste-embed.png)
+![capture d'écran](images/showcase-paste-embed.png)
 
-+ Lance ton trinket pour le tester et regarde si tu peux voir ton project Joyeux Anniversaire dans ta page web.
++ Exécute ton trinket pour le tester et tu devrais voir ton projet « Joyeux Anniversaire » intégré dans la page Web. 
 
-![screenshot](images/showcase-embed-output.png)
+![capture d'écran](images/showcase-embed-output.png)
 
-+ Tu verras que le bas de ton trinket ne s'affiche pas. Tu peux changer cela en changeant la hauteur de l'élément `<iframe>`.
++ Tu constateras peut-être que le bas de ton trinket n'est pas affiché. Tu peux résoudre ce problème en modifiant la valeur de hauteur sur le `<iframe>`. 
 
-![screenshot](images/showcase-embed-height.png)
+![capture d'écran](images/showcase-embed-height.png)
 
-Défini la hauteur a __400__. Si tu changes le projet Joyeux Anniversaire tu devras peut etre utiliser une valeur différentes.
+Règle la hauteur sur **400**. Si tu apportes des modifications au projet « Joyeux Anniversaire », tu devras peut-être choisir une valeur différente.
 
-![screenshot](images/showcase-embed-fixed.png)
+![capture d'écran](images/showcase-embed-fixed.png)

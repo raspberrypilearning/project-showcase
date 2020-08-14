@@ -1,30 +1,27 @@
-## Lien vers un trinket
+## Lien vers un Trinket
 
-Tu peux créer un lien vers un trinket.
+Tu peux créer un lien vers la page Web pour un trinket.
 
-+ As-tu gardé un lien de ton projet Joyeux Anniversaire? Si oui, ouvre le trinket dans un autre navigateur ou un autre onglet. Sinon, ouvre le trinket suivants: <a href="https://trinket.io/html/e996dc0380">https://trinket.io/html/e996dc0380</a>
++ As-tu gardé un lien vers ton trinket « Joyeux Anniversaire » ? Si tu l'as fait alors ouvre ce trinket dans un autre onglet ou une autre fenêtre du navigateur. Sinon, ouvre le trinket exemple terminé : <https://trinket.io/html/58c767ac03>
 
-+ Clique sur le menu Partage en haut de ton trinket et choisi Lien:
++ Clique sur le menu « Share » au-dessus de ton trinket et choisis « Link » :
 
-![screenshot](images/showcase-share1.png)
+![capture d'écran](images/showcase-share1.png)
 
-Si tu ouvres ton trinket depuis ton compte, cherches l'option 'Partage' ('Share' en anglais) en dessous de ton trinket:
+Si tu as ouvert le trinket à partir de ton compte, recherche l'option « Share » au-dessus de ton trinket :
 
-![screenshot](images/showcase-share2.png)
+![capture d'écran](images/showcase-share2.png)
 
-+ Choisi l'option 'Only show code or result (let users toggle between them)' (Montre seulement lecode ou le résultat) et copie le lien dans ton trinket.
++ Choisis « Show code or result (laisse les utilisateurs basculer entre eux) » et copie le lien dans le trinket. 
 
-![screenshot](images/showcase-get-link.png)
+![capture d'écran](images/showcase-get-link.png)
 
-+ Return sur ton trinket Portfolio et ajoute un titre `<h2>` et un lien vers ton projet Joyeux Anniversaire.
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Retourne à ton trinket « Portfolio » et ajoute un `<h2>` titre et un lien vers ton projet « Joyeux Anniversaire ».
 
-![screenshot](images/showcase-link-trinket.png)
+![capture d'écran](images/showcase-link-trinket.png)
 
-Test ta page web, ça devrais ressembler a cela:
+Teste ta page Web, çà devrait ressembler à ceci :
 
-![screenshot](images/showcase-link-output.png)
+![capture d'écran](images/showcase-link-output.png)
 
-Clique sur le lien Joyeux Anniversaire pour tester qu'il te mène au trinket.
-
-
+Clique sur le lien « Joyeux Anniversaire » pour vérifier qu'il te dirige bien vers le trinket.

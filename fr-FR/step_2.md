@@ -1,39 +1,43 @@
-## Ajouter des liens à ta page
+## Ajout de liens vers des pages Web
 
-+ Ouvre ce trinket : <a href="https://trinket.io/html/9ad31460f0">https://trinket.io/html/9ad31460f0</a>. Si tu lis ceci en ligne, choisi ce lien. tu peux aussi utiliser le trinket ci-dessous.
+Les liens de texte te permettent de cliquer sur des mots pour accéder à une autre page Web. ils sont généralement soulignés.
 
-![screenshot](images/showcase-starter.png)
++ Ouvre ce trinket : [trinket.io/html/4a3af3be01](https://trinket.io/html/4a3af3be01).
+    
+    Le projet devrait ressembler à ceci :
+    
+    ![capture d'écran](images/showcase-starter.png)
 
-+ HTML utilise l'élément `<a>` pour les liens.
++ HTML utilise la balise `<a>` pour les liens.
 
-![screenshot](images/showcase-link.png)
+![capture d'écran](images/showcase-link.png)
 
-+ Cherche l'élément `<a>` dans ton projet.
++ Trouve la balise `<a>` dans ton projet. 
 
-![screenshot](images/showcase-a-template.png)
+![capture d'écran](images/showcase-a-template.png)
 
-+ Ajoute l'addresse du site web de Code Club <a href="https://www.codeclub.org.uk">`https://www.codeclub.org.uk`</a> ainsi que son texte:
++ Ajoute l'adresse du site Web Code Club [`https://www.codeclub.org.uk`](https://www.codeclub.org.uk) et le texte du lien :
 
-![screenshot](images/showcase-code-club.png)
+![capture d'écran](images/showcase-code-club.png)
 
-+ Clique Run pour tester ton trinket.
++ Clique sur « Exécuter » pour tester ton trinket.
 
-![screenshot](images/showcase-cc-output.png)
+![capture d'écran](images/showcase-cc-output.png)
 
-+ Clique sur le lien Code Club pour tester ta page web. Ton trinket devrais maintenant afficher le site web de Code Club
++ Clique sur le lien Code Club pour tester ta page Web. Ton trinket affichera maintenant la page Web Code Club : 
 
-![screenshot](images/showcase-cc-website.png)
+![capture d'écran](images/showcase-cc-website.png)
 
-+ Pour retourner sur ta page, tu peux:
++ Pour revenir à ta page, tu peux soit :
+    
+    + Relancer ton trinket,
+    
+    + Appuyer sur la touche Retour arrière du clavier ou
+    
+    + Cliquer avec le bouton droit et choisir « Retour ».
 
-	+ Cliquer à nouveau sur Run,
++ Maintenant, mets ton lien dans une phrase à l'intérieur d'un paragraphe :
 
-	+ Appuyer sur la touche 'Retour' de ton clavier, ou:
+![capture d'écran](images/showcase-paragraph.png)
 
-	+ Clique-droit et choisir Retour
-
-+ Maintenant mets ton lien dans une phrase à l'intérieur d'un paragraphe.
-
-![screenshot](images/showcase-paragraph.png)
-
-Test ta page web.
+Teste ta page Web.

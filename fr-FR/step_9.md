@@ -1,14 +1,11 @@
 ## Revenir en haut
 
-+ C'est aussi pratique d'etre capable de revenir au début de ta page en un clique. HTML peux faire ca avec `#top`.
++ Il est également utile de pouvoir revenir en haut de la page. HTML a `#haut` pour cela.
 
-+ Ajoute un lien `#top` après chqaue projet de ta page web.
++ Ajoute un lien vers `#haut` après chaque projet intégré dans ta page Web :
 
-![screenshot](images/showcase-top-code.png)
+![capture d'écran](images/showcase-top-code.png)
 
-![screenshot](images/showcase-top-output.png)
+![capture d'écran](images/showcase-top-output.png)
 
-+ Test tes liens en cliquant sur ton lien Top pour revenir en haut de ta page.
-
-
-
++ Teste tes liens en cliquant sur « Haut » pour revenir en haut de la page.
