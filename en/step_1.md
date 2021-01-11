@@ -60,10 +60,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + “Create a List of Your Projects” - Create links to previous web projects;
 + “Embed More Projects” - Use CSS to create new styles.
 
-
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
