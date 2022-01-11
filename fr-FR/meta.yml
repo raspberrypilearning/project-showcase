@@ -17,14 +17,16 @@ software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Ajout de liens vers des pages Web
-  - title: 'Défi : ajouter un autre lien'
-  - title: Lien vers un Trinket
-  - title: 'Défi : créer une liste de tes projets'
-  - title: Intégration de projets
-  - title: 'Défi : intégrer plus de projets'
-  - title: Créer une table des matières
-  - title: Revenir en haut
-  - title: 'Défi : améliorer ton portfolio'
-  - title: 'Défi : créer un nouveau portfolio'
+- title: Introduction
+  completion: engaged
+- title: Ajout de liens vers des pages Web
+- title: 'Défi : ajouter un autre lien'
+- title: Lien vers un Trinket
+- title: 'Défi : créer une liste de tes projets'
+- title: Intégration de projets
+- title: 'Défi : intégrer plus de projets'
+- title: Créer une table des matières
+- title: Revenir en haut
+- title: 'Défi : améliorer ton portfolio'
+  completion: internal
+- title: 'Défi : créer un nouveau portfolio'

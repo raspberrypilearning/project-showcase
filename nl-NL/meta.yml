@@ -17,14 +17,16 @@ software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Links toevoegen aan webpagina's
-  - title: 'Uitdaging: voeg nog een link toe'
-  - title: Link naar een Trinket
-  - title: 'Uitdaging: maak een lijst van je projecten'
-  - title: Projecten insluiten
-  - title: 'Uitdaging: meer projecten insluiten'
-  - title: Maak een inhoudsopgave
-  - title: Terug naar boven
-  - title: 'Uitdaging: verbeter je vitrine'
-  - title: 'Uitdaging: maak een nieuwe vitrine'
+- title: Inleiding
+  completion: engaged
+- title: Links toevoegen aan webpagina's
+- title: 'Uitdaging: voeg nog een link toe'
+- title: Link naar een Trinket
+- title: 'Uitdaging: maak een lijst van je projecten'
+- title: Projecten insluiten
+- title: 'Uitdaging: meer projecten insluiten'
+- title: Maak een inhoudsopgave
+- title: Terug naar boven
+- title: 'Uitdaging: verbeter je vitrine'
+  completion: internal
+- title: 'Uitdaging: maak een nieuwe vitrine'

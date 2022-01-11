@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Pregled projekata
 theme: turquoise
@@ -6,7 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: U ovom projektu napravit ćeš pregled svojih HTML projekta, te učiti o poveznicama i ugrađivanju izvora.
+description: U ovom projektu napravit ćeš pregled svojih HTML projekta, te učiti o
+  poveznicama i ugrađivanju izvora.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -15,5 +17,6 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Pregled projekata
+  completion: engaged

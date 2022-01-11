@@ -17,14 +17,16 @@ software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Dodawanie linków do stron internetowych
-  - title: 'Wyzwanie: dodaj kolejny link'
-  - title: Link do edytora Trinket
-  - title: 'Wyzwanie: stwórz listę swoich projektów'
-  - title: Osadzenie projektów
-  - title: 'Wyzwanie: osadź więcej projektów'
-  - title: Stwórz spis treści
-  - title: Powrót na górę
-  - title: 'Wyzwanie: udoskonal swoją prezentację'
-  - title: 'Wyzwanie: stwórz nową prezentację'
+- title: Wprowadzenie
+  completion: engaged
+- title: Dodawanie linków do stron internetowych
+- title: 'Wyzwanie: dodaj kolejny link'
+- title: Link do edytora Trinket
+- title: 'Wyzwanie: stwórz listę swoich projektów'
+- title: Osadzenie projektów
+- title: 'Wyzwanie: osadź więcej projektów'
+- title: Stwórz spis treści
+- title: Powrót na górę
+- title: 'Wyzwanie: udoskonal swoją prezentację'
+  completion: internal
+- title: 'Wyzwanie: stwórz nową prezentację'
