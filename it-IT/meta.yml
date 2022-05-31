@@ -1,3 +1,4 @@
+---
 hero_image: images/banner.png
 title: Presentazione dei progetti
 theme: turquoise
@@ -15,15 +16,19 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduzione
 - title: Aggiungere link alle pagine web
 - title: 'Sfida: Aggiungi un altro link'
 - title: Link a un trinket
+  completion:
+  - engaged
 - title: 'Sfida: Crea un elenco dei tuoi progetti'
 - title: Inserire progetti
 - title: 'Sfida: Integra altri progetti'
 - title: Crea un indice
-- title: "Torna all’inizio"
+- title: Torna all’inizio
+  completion:
+  - internal
 - title: 'Sfida: Migliora la tua presentazione'
 - title: 'Sfida: Crea una nuova presentazione'

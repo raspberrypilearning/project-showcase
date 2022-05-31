@@ -17,14 +17,18 @@ software: html-css-javascript
 version: 3.1
 last_tested: 01.01.2017
 steps:
-  - title: Einleitung
-  - title: Links zu Webseiten hinzufügen
-  - title: 'Aufgabe: Füge einen weiteren Link hinzu'
-  - title: Link zu einem Trinket
-  - title: 'Aufgabe: Erstelle eine Liste deiner Projekte'
-  - title: Einbettung von Projekten
-  - title: 'Aufgabe: Weitere Projekte einbetten'
-  - title: Erstelle ein Inhaltsverzeichnis
-  - title: Zurück nach oben gelangen
-  - title: 'Aufgabe: Verbessere deine Projektübersicht'
-  - title: 'Aufgabe: Erstelle eine neue Projektübersicht'
+- title: Einleitung
+- title: Links zu Webseiten hinzufügen
+- title: 'Aufgabe: Füge einen weiteren Link hinzu'
+- title: Link zu einem Trinket
+  completion:
+  - engaged
+- title: 'Aufgabe: Erstelle eine Liste deiner Projekte'
+- title: Einbettung von Projekten
+- title: 'Aufgabe: Weitere Projekte einbetten'
+- title: Erstelle ein Inhaltsverzeichnis
+- title: Zurück nach oben gelangen
+  completion:
+  - internal
+- title: 'Aufgabe: Verbessere deine Projektübersicht'
+- title: 'Aufgabe: Erstelle eine neue Projektübersicht'

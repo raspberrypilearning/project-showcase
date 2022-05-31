@@ -17,14 +17,18 @@ software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Dodavanje linkova za veb-stranice
-  - title: 'Izazov: Dodaj još jedan link'
-  - title: Link za trinket
-  - title: 'Izazov: Napravi spisak svojih projekata'
-  - title: Ugrađivanje projekata
-  - title: 'Izazov: Ugradi više projekata'
-  - title: Napravi sadržaj
-  - title: Povratak na vrh
-  - title: 'Izazov: Poboljšaj svoj Prikaz'
-  - title: 'Izazov: Napravi novi Prikaz'
+- title: Uvod
+- title: Dodavanje linkova za veb-stranice
+- title: 'Izazov: Dodaj još jedan link'
+- title: Link za trinket
+  completion:
+  - engaged
+- title: 'Izazov: Napravi spisak svojih projekata'
+- title: Ugrađivanje projekata
+- title: 'Izazov: Ugradi više projekata'
+- title: Napravi sadržaj
+- title: Povratak na vrh
+  completion:
+  - internal
+- title: 'Izazov: Poboljšaj svoj Prikaz'
+- title: 'Izazov: Napravi novi Prikaz'

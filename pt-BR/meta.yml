@@ -17,14 +17,18 @@ software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Adicionando Links para Páginas da Web
-  - title: 'Desafio: Adicione outro link'
-  - title: Link para um Trinket
-  - title: 'Desafio: Crie uma lista dos seus Projetos'
-  - title: Incorporando Projetos
-  - title: 'Desafio: Incorpore Mais Projetos'
-  - title: Crie um índice
-  - title: Voltando ao topo
-  - title: 'Desafio: Melhore seu Mostruário'
-  - title: 'Desafio: Crie um novo Mostruário'
+- title: Introdução
+- title: Adicionando Links para Páginas da Web
+- title: 'Desafio: Adicione outro link'
+- title: Link para um Trinket
+  completion:
+  - engaged
+- title: 'Desafio: Crie uma lista dos seus Projetos'
+- title: Incorporando Projetos
+- title: 'Desafio: Incorpore Mais Projetos'
+- title: Crie um índice
+- title: Voltando ao topo
+  completion:
+  - internal
+- title: 'Desafio: Melhore seu Mostruário'
+- title: 'Desafio: Crie um novo Mostruário'

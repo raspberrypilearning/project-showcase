@@ -17,14 +17,18 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Añadir enlaces a páginas web
-  - title: 'Desafío: Añade otro enlace'
-  - title: Enlace a un trinket
-  - title: 'Desafío: Crea una lista de tus proyectos'
-  - title: Incrustar proyectos
-  - title: 'Desafío: Incrusta más proyectos'
-  - title: Crea un índice de contenidos
-  - title: Volver arriba
-  - title: 'Desafío: Mejora tu expositor'
-  - title: 'Desafío: Crea un nuevo expositor'
+- title: Introducción
+- title: Añadir enlaces a páginas web
+- title: 'Desafío: Añade otro enlace'
+- title: Enlace a un trinket
+  completion:
+  - engaged
+- title: 'Desafío: Crea una lista de tus proyectos'
+- title: Incrustar proyectos
+- title: 'Desafío: Incrusta más proyectos'
+- title: Crea un índice de contenidos
+- title: Volver arriba
+  completion:
+  - internal
+- title: 'Desafío: Mejora tu expositor'
+- title: 'Desafío: Crea un nuevo expositor'
