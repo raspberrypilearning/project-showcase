@@ -18,15 +18,17 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Adding Links to Webpages
 - title: 'Challenge: Add another link'
 - title: Link to A Trinket
+  completion:
+  - engaged
 - title: 'Challenge: Create a List of Your Projects'
 - title: Embedding Projects
 - title: 'Challenge: Embed More Projects'
 - title: Create a Table of Contents
 - title: Getting Back to the Top
+  completion:
+  - internal
 - title: 'Challenge: Improve Your Showcase'
-  completion: internal
 - title: 'Challenge: Create a New Showcase'

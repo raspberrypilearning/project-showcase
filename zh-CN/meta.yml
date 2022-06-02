@@ -16,15 +16,17 @@ software: html-css-javascript
 version: 3.1
 steps:
 - title: 介绍
-  completion: engaged
 - title: 添加网页链接
 - title: 挑战：添加另一个链接
 - title: 链接至 Trinket
+  completion:
+  - engaged
 - title: 挑战：创建你的项目列表
 - title: 嵌入项目
 - title: 挑战：嵌入更多项目
 - title: 创建目录
 - title: 返回顶部
+  completion:
+  - internal
 - title: 挑战：完善你的展示
-  completion: internal
 - title: 挑战：创建新的展示

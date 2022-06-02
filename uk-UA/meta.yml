@@ -18,15 +18,17 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Вступ
-  completion: engaged
 - title: Додавання посилань на веб-сторінки
 - title: 'Виклик: Додати ще одне посилання'
 - title: Посилання на Trinket
+  completion:
+  - engaged
 - title: 'Виклик: створити список ваших проектів'
 - title: Вбудовування проектів
 - title: 'Виклик: вкласти інші проекти'
 - title: Створіть зміст
 - title: Повернутися до початку
+  completion:
+  - internal
 - title: 'Виклик: поліпшити свою вітрину'
-  completion: internal
 - title: 'Виклик: поліпшити свою вітрину'
