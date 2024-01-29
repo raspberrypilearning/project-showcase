@@ -25,6 +25,8 @@ steps:
     title: 'Provocare: Adaugă încă un link'
   - 
     title: Creează un link către un Trinket
+    completion:
+      - engaged
   - 
     title: 'Provocare: Creează o listă a proiectelor tale'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Creează un cuprins
   - 
     title: Revenirea la început
+    completion:
+      - internal
   - 
     title: 'Provocare: Îmbunătățește-ți prezentarea'
   - 
