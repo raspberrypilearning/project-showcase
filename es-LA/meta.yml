@@ -1,13 +1,13 @@
 ---
 hero_image: images/banner.png
-title: Project Showcase
+title: Escaparate de proyectos
 theme: turquoise
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a showcase of your web projects.
+description: Crea un escaparate para tus proyectos web.
 original_url: https://codeclubprojects.org/en-GB/webdev/project-showcase
 interests: ''
 technologies: html-css-javascript
@@ -18,24 +18,28 @@ version: 3.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Adding Links to Webpages
+    title: Agregar Enlaces a Páginas web
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafío: Agregar otro enlace'
   - 
-    title: Link to A Trinket
+    title: Enlace a Un Trinket
+    completion:
+      - engaged
   - 
-    title: 'Challenge: Create a List of Your Projects'
+    title: 'Desafío: Crea una Lista de Tus Proyectos'
   - 
-    title: Embedding Projects
+    title: Incorporando Proyectos
   - 
-    title: 'Challenge: Embed More Projects'
+    title: 'Desafío: Incorpora Más Proyectos'
   - 
-    title: Create a Table of Contents
+    title: Crear una Tabla de Contenidos
   - 
-    title: Getting Back to the Top
+    title: Volver arriba
+    completion:
+      - internal
   - 
-    title: 'Challenge: Improve Your Showcase'
+    title: 'Desafío: Mejorar Tu Escaparate'
   - 
-    title: 'Challenge: Create a New Showcase'
+    title: 'Desafío: Crear un Nuevo Escaparate'
