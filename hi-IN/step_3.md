@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## चुनौती: अन्य लिंक जोड़ें
+## चुनौती: एक और लिंक जोड़ें
 
-एक वेबसाइट की लिंक और एक वाक्य जोड़े जो आपको आपकी वेब परियोजना बनाने में उपयोगी थी। उदाहरण के लिए: <https://trinket.io> या <https://trinket.io/docs/colors>.
+एक वेबसाइट की लिंक और एक वाक्य जोड़े जो आपको आपके वेब प्रोजेक्ट्स बनाने में उपयोगी था। उदाहरण के लिए: <https://trinket.io> या <https://trinket.io/docs/colors>।
 
-![screenshot](images/showcase-link-challenge.png)
+![स्क्रीनशॉट](images/showcase-link-challenge.png)
 
 \--- /challenge \---
