@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Embed More Projects
+## Hamon: Mag-embed ng Marami pang Proyekto
 
-Embed more of your projects into the Showcase. Remember that you can easily find their trinket pages by clicking on the links on your webpage.
+Mag-embed ng mas marami pang proyekto sa loob ng iyong Showcase. Tandaan na madali mong mahahanap ang kanilang mga trinket pages sa pamamagitan ng pag-click sa mga link sa iyong webpage.
 
 \--- /challenge \---
