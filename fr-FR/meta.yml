@@ -25,6 +25,8 @@ steps:
     title: 'Défi : ajouter un autre lien'
   - 
     title: Lien vers un Trinket
+    completion:
+      - engaged
   - 
     title: 'Défi : créer une liste de tes projets'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Créer une table des matières
   - 
     title: Revenir en haut
+    completion:
+      - internal
   - 
     title: 'Défi : améliorer ton portfolio'
   - 
