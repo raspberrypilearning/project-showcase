@@ -25,6 +25,8 @@ steps:
     title: 'ಸವಾಲು: ಇನ್ನೊಂದು ಲಿಂಕ್ ಸೇರಿಸಿ'
   - 
     title: ಎ Trinket ಲಿಂಕ್ ಮಾಡಿ
+    completion:
+      - engaged
   - 
     title: 'ಸವಾಲು: ನಿಮ್ಮ ಯೋಜನೆಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ'
   - 
@@ -35,6 +37,8 @@ steps:
     title: ಪರಿವಿಡಿ ರಚಿಸಿ
   - 
     title: ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗುವುದು
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ನಿಮ್ಮ ಪ್ರದರ್ಶನವನ್ನು ಸುಧಾರಿಸಿ'
   - 
