@@ -30,7 +30,7 @@ También existe un trinket que contiene una solución de ejemplo de los desafío
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto'. Este enlace contiene una sección denominada 'Recursos del Proyecto', que incluye aquellos recursos que los niños necesitarán para poder completar el proyecto sin conexión. Debes asegurarte de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto'. Este enlace contiene una sección denominada 'Recursos del Proyecto', que incluye aquellos recursos que los niños necesitarán para poder completar el proyecto sin conexión. Debes asegurarte de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * project-showcase/index.html
 * project-showcase/style.css
