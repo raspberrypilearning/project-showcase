@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: Create a New Showcase
+## Hamon: Lumikha ng Bagong Showcase
 
-Trinkets aren't the only thing you can embed in a webpage. You can embed videos, widgets (such as a weather widget) or Scratch projects.
+Ang mga trinkets ay hindi lamang ang bagay na maaari mong mai-embed sa isang webpage. Maaari kang mag-embed ng mga video, widget (tulad ng weather widget) o Scratch projects.
 
-Open the Embed Scratch Example trinket and Run it: <https://trinket.io/html/9f7212b8fe>
+Buksan ang Embed Scratch Example trinket at i-Run ito: <https://trinket.io/html/9f7212b8fe>
 
-Go to the Scratch website and find a project that you like. It can be one of your own or one you've found.
+Pumunta sa website ng Scratch at maghanap ng isang proyektong gusto mo. Ito'y maaring sarili mong gawa o isa sa iyong mga nahanap.
 
-If you are logged in you can click the 'Embed' button below the project to get the HTML embed code.
+Kung naka-log in maaari mong i-click ang 'Embed' sa ibaba ng proyekto upang makuha ang code na naka-embed sa HTML.
 
 ![screenshot](images/scratch-embed.png)
 
-If you are not logged in then look for the Scratch project number in its web address.
+Kung hindi ka naka-log in saka hanapin ang numero ng proyekto ng Scratch sa web address nito.
 
 ![screenshot](images/scratch-project-number.png)
 
-Make a copy of the `<iframe>` code in the Scratch Embed example and change the project number to the one for the project you want to embed:
+Gumawa ng isang kopya ng `<iframe>` code sa halimbawa na Scratch Embed at baguhin ang numero ng proyekto sa proyekto na nais mong i-embed:
 
 ![screenshot](images/scratch-iframe.png)
 
