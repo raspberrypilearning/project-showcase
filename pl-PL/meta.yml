@@ -25,6 +25,8 @@ steps:
     title: 'Wyzwanie: Dodaj kolejny link'
   - 
     title: Link do edytora Trinket
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: Stwórz listę swoich projektów'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Stwórz spis treści
   - 
     title: Powrót do na górę
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: udoskonal swoją prezentację'
   - 
