@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Desafío: Agregar otro enlace
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Agrega una oración con un enlace a una página web que haya sido útil para crear proyectos web. Por ejemplo: <https://trinket.io> o <https://trinket.io/docs/colors>.
 
-![screenshot](images/showcase-link-challenge.png)
+![captura de pantalla](images/showcase-link-challenge.png)
 
 \--- /challenge \---
