@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Mag-link sa Isang Trinket
 
-You can link to the web page for a trinket.
+Maaari kang mag-link sa web page para sa isang trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ Naitabi mo ba ang link para sa iyong Happy Birthday trinket? Kung nagawa mo ito, buksan mo ang trinket na iyon sa isa pang tab o window ng browser. Kung hindi naman ay buksan mo ang natapos na halimbawa ng trinket: [ https://trinket.io/html/e996dc0380 ](https://trinket.io/html/e996dc0380)
 
-+ Click on the Share menu above your trinket and choose Link:
++ I-click ang Share sa menu na nasa itaas ng iyong trinket at piliin ang Link:
 
 ![screenshot](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Kung binuksan mo ang trinket mula sa iyong account, hanapin ang Share sa mga pag pipilian sa itaas ng iyong trinket:
 
 ![screenshot](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Piliin ang 'Ipakita lamang ang code o resulta (hinahayaan ang gumagamit na magpalipat-lipat sa pagitan ng dalawang ito)' at kopyahin ang link sa trinket. 
 
 ![screenshot](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Bumalik sa trinket ng iyong Project Showcase at magdagdag ng `<h2>` heading at isang link papunta sa iyong Happy Birthday na Proyekto.
 
 ![screenshot](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Subukan ang iyong webpage; dapat magmukhang parang ganito:
 
 ![screenshot](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+I-click ang Happy Birthday link upang i-test na dadalhin ka sa trinket.
