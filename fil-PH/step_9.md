@@ -1,11 +1,11 @@
-## Getting Back to the Top
+## Pagbabalik sa pinakasimula
 
-+ It's also useful to be able to navigate back to the top of the page. HTML has `#top` for this purpose.
++ Kapaki-pakinabang din mag-navigate pabalik sa tuktok ng pahina. Ang HTML ay mayroong ` #top ` para sa layuning ito.
 
-+ Add a link to `#top` after each embedded project in your webpage:
++ Magdagdag ng isang link sa ` #top ` pagkatapos ng bawat naka-embed na proyekto sa iyong webpage:
 
 ![screenshot](images/showcase-top-code.png)
 
 ![screenshot](images/showcase-top-output.png)
 
-+ Test your links by clicking on Top to get back to the top of the page.
++ Subukan ang iyong mga link sa pamamagitan ng pag-click sa Itaas upang makabalik sa tuktok ng pahina.
