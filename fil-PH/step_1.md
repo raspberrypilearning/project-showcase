@@ -30,7 +30,7 @@ Mayroon ding isang trinket na naglalaman ng isang sample solution na mga hamon:
 
 ## Mga Resources Offline
 
-Maaaring [ikumpleto ang proyektong ito offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) kung ginusto. Maaari mong ma-access ang mga mapagkukunang proyekto sa pamamagitan ng pag-click sa link na 'Project Materials' para sa proyektong ito. Naglalaman ang link na ito ng 'Project Resources' section, na kasama ang mga mapagkukunan na kakailanganin ng mga bata upang makumpleto ang proyektong ito offline. Tiyaking ang bawat bata ay may access sa isang kopya ng mga mapagkukunang ito. Kasama sa seksyong ito ang mga sumusunod na file:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Maaari mong ma-access ang mga mapagkukunang proyekto sa pamamagitan ng pag-click sa link na 'Project Materials' para sa proyektong ito. Naglalaman ang link na ito ng 'Project Resources' section, na kasama ang mga mapagkukunan na kakailanganin ng mga bata upang makumpleto ang proyektong ito offline. Tiyaking ang bawat bata ay may access sa isang kopya ng mga mapagkukunang ito. Kasama sa seksyong ito ang mga sumusunod na file:
 
 * project-showcase/index.html
 * project-showcase/style.css
