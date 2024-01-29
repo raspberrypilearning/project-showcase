@@ -1,36 +1,36 @@
-## परिचय
+## भूमिका
 
-इस परियोजना में आप आपके HTML परियोजना की प्रदर्शनी बनाएंगे और लिंक्स तथा संसाधनों को HTML में जोड़ने के बारे में सीखेंगे।
+इस प्रोजेक्ट में, आप अपने HTML प्रोजेक्ट्स का एक शोकेस बनाएंगे और लिंक और एम्बेडिंग संसाधनों के बारे में सीखेंगे।
 
-![screenshot](images/showcase-intro.png)
+![स्क्रीनशॉट](images/showcase-intro.png)
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### क्लब लीडर्स के लिए अतिरिक्त जानकारी
 
-यदि आप इस परियोजना को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/project-showcase/print) का उपयोग करें।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/project-showcase/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: क्लब लीडर नोट्स
+## title: क्लब नेता नोट्स
 
-## परिचय:
+## भूमिका:
 
-इस परियोजना में बच्चों को हाइपरलिंक और Trinket और Scratch परियोजनाएं को वेबपेज में जोड़ने से परिचित किया जाता हैं।
+इस प्रोजेक्ट में, बच्चों को एक वेबपेज के भीतर हाइपरलिंक और trinket और स्क्रैच प्रोजेक्ट्स को एम्बेड करने से परिचित किया किया जाता है।
 
 ## ऑनलाइन संसाधन
 
-HTML & CSS को ऑनलाइन लिखने के लिए हम [trinket](https://trinket.io/) का उपयोग करने की अनुशंसा करते हैं। इस परियोजना में निम्नलिखित Trinket हैं:
+हम [trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं HTML & CSS ऑनलाइन लिखने के लिए। इस प्रोजेक्ट में निम्नलिखित trinket शामिल हैं:
 
-* ['प्रोजेक्ट शोकेस' प्रारंभिक बिंदु - jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
+* ['प्रोजेक्ट शोकेस' प्रोजेक्ट को यहाँ से शुरू करे -- jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)
 
-बच्चे स्वयं का HTML & CSS लिखने के लिए इस [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) खाली Trinket का भी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट Trinket का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
+बच्चे स्वयं का HTML & CSS लिखने के लिए इस [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) खाली trinket का भी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस नमूना trinket का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
-ऐसा Trinket भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
+ऐसा trinket भी होता है, जिसमें चुनौतियों के लिए हल का नमूना शामिल होता है:
 
-* ['प्रोजेक्ट शोकेस पुर्ण' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
+* ['प्रोजेक्ट शोकेस पूर्ण' - trinket.io/html/5b815ab120](https://trinket.io/html/5b815ab120)
 
 ## ऑफ़लाइन संसाधन
 
-यदि चाहें तो इस परियोजना को [पूरा ऑफ़लाइन](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'परियोजना संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस परियोजना को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की प्रतिलिपि तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की कॉपी तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * project-showcase/index.html
 * project-showcase/style.css
@@ -42,45 +42,45 @@ HTML & CSS को ऑनलाइन लिखने के लिए हम [tr
 * project-showcse-finished/index.html
 * project-showcse-finished/style.css
 
-(उपर्युक्त सभी संसाधन परियोजना और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
+(उपर्युक्त सभी संसाधन प्रोजेक्ट और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
 
-ध्यान दें कि यदि बच्चों ने अपनी अन्य परियोजनाओं को ऑफ़लाइन पूरा कर लिया है, तो वे उन्हें एम्बेड नहीं कर पाएंगे, लेकिन फिर भी वे उनसे लिंक कर पाएंगे।
+ध्यान दें कि यदि बच्चों ने अपने अन्य प्रोजेक्ट ऑफ़लाइन पूर्ण कर लिए हैं तो वे उन्हें एम्बेड नहीं कर पाएंगे लेकिन फिर भी वे उनसे लिंक कर पाएंगे.
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
-* यह परियोजना अन्य वेबपेजों और एक पृष्ठ के भीतर नामित आईडी के लिए पाठ लिंक पर परिचय देती है। यह एक वेबपेज में trinkets और Scratch परियोजनाओं को एम्बेड(embed) करने का परिचय देता है। 
+* यह प्रोजेक्ट अन्य वेब पृष्ठों और एक पृष्ठ के भीतर नामित आईडी के लिए टेक्स्ट लिंक पर परिचय देती है। यह एक वेब पृष्ठ में trinkets और Scratch प्रोजेक्ट्स को एम्बेड करने का भी परिचय देता है। 
 
-इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को सम्मिलित करता है:
 
-* [बुनियादी 2D और 3D एसेट डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator)
+* [बुनियादी 2D और 3D सामग्रियां डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator)।
 
 ## चुनौतियाँ
 
-* "एक और लिंक जोड़ें" - अधिक वेबपृष्ठों को लिंक जोड़ें;
-* "अपनी परियोजनाओं की एक सूची बनाएँ" - पिछले वेब परियोजनाओं के लिए लिंक बनाएँ;
-* "अधिक परियोजनाओं को एम्बेड करें" - नई शैली बनाने के लिए CSS का उपयोग करें।
+* "एक और लिंक जोड़ें" - अधिक वेबपेजों के लिंक जोड़ें;
+* "अपने प्रोजेक्ट्स की सूची बनाएँ" - पिछले वेब प्रोजेक्ट्स के लिए लिंक बनाएँ;
+* "अधिक प्रोजेक्ट्स एम्बेड करें" - नई स्टाइल्स बनाने के लिए CSS का उपयोग करें।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: परियोजना सामग्री
+## title: प्रोजेक्ट सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
-* [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' परियोजना संसाधन हैं](http://jumpto.cc/web-showcase)
+* [सभी प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
+* [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' प्रोजेक्ट संसाधन हैं](http://jumpto.cc/web-showcase)
 * [ऑनलाइन trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
-* [ऑनलाइन खाली trinket](http://jumpto.cc/trinket-blank)
+* [ऑनलाइन खाली Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [project-showcase/index.html](resources/project-showcase-index.html)
 * [project-showcase/style.css](resources/project-showcase-style.css)
 
-## क्लब लीडर संसाधन
+## क्लब लीडर ले लिए संसाधन
 
-* [सभी परियोजना संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
-* [ऑनलाइन पूर्ण Trinket परियोजना](https://trinket.io/html/1d4d4c5ce1)
+* [पूरे प्रोजेक्ट संसाधनों वाली .zip फ़ाइल](https://rpf.io/p/en/project-showcase-go)
+* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/html/1d4d4c5ce1)
 * [project-showcase-finished/index.html](resources/project-showcase-finished-index.html)
 * [project-showcase-finished/style.css](resources/project-showcase-finished-style.css)
 
