@@ -25,6 +25,8 @@ steps:
     title: 'Challenge: Add another link'
   - 
     title: Link to A Trinket
+    completion:
+      - engaged
   - 
     title: 'Challenge: Create a List of Your Projects'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Create a Table of Contents
   - 
     title: Getting Back to the Top
+    completion:
+      - internal
   - 
     title: 'Challenge: Improve Your Showcase'
   - 
