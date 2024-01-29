@@ -25,6 +25,8 @@ steps:
     title: 'Desafío: Añade otro enlace'
   - 
     title: Enlace a un trinket
+    completion:
+      - engaged
   - 
     title: 'Desafío: Crea una lista de tus proyectos'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Crea un índice de contenidos
   - 
     title: Volver arriba
+    completion:
+      - internal
   - 
     title: 'Desafío: Mejora tu expositor'
   - 
