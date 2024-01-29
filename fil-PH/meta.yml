@@ -25,6 +25,8 @@ steps:
     title: 'Hamon: Magdagdag ng isa pang link'
   - 
     title: Mag-link sa Isang Trinket
+    completion:
+      - engaged
   - 
     title: 'Hamon: Lumikha ng Listahan Para sa iyong mga Proyekto'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Lumikha ng isang Talahanayan ng mga Nilalaman
   - 
     title: Pagbabalik sa pinakasimula
+    completion:
+      - internal
   - 
     title: 'Hamon: Pagbutihin ang Iyong Showcase'
   - 
