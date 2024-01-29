@@ -25,6 +25,8 @@ steps:
     title: 'Uitdaging: voeg nog een link toe'
   - 
     title: Link naar een Trinket
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: maak een lijst van je projecten'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Maak een inhoudsopgave
   - 
     title: Terug naar boven
+    completion:
+      - internal
   - 
     title: 'Uitdaging: verbeter je vitrine'
   - 
