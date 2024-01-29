@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve Your Showcase
+## Hamon: Pahusayin ang Iyong Showcase
 
-Use the CSS you have learnt to make your page more interesting. Try changing the background colour of the page or the font used for the headings.
+Gamitin ang natutunan mong CSS upang maging interesado ang iyong page. Subukang baguhin ang kulay ng background ng page o ang font na ginamit para sa mga heading.
 
-You can also add some information about each project and what you liked about making it.
+Maaari ka ring magdagdag ng ilang impormasyon tungkol sa bawat proyekto at kung ano ang nagustuhan mo sa paggawa nito.
 
 \--- /challenge \---
