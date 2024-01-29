@@ -1,43 +1,43 @@
-## वेब पेजों में लिंक जोड़ना
+## वेब पृष्ठों में लिंक जोड़ना
 
-पाठ लिंक आपको दूसरे वेब पेज पर जाने के लिए शब्दों पर क्लिक करने की अनुमति देता है; वे आमतौर पर रेखांकित होते हैं।
+टेक्स्ट लिंक्स आपको दूसरे वेब पृष्ठ पर जाने के लिए शब्दों पर क्लिक करने की अनुमति देते हैं; वे आमतौर पर रेखांकित होते हैं।
 
-+ इस trinket को खोलें: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase).
++ इस trinket को खोलें: [jumpto.cc/web-showcase](http://jumpto.cc/web-showcase)।
     
-    यह परियोजना इस तरह दिखनी चाहिए:
+    प्रोजेक्ट इस तरह दिखना चाहिए:
     
-    ![screenshot](images/showcase-starter.png)
+    ![स्क्रीनशॉट](images/showcase-starter.png)
 
 + HTML में `<a>` टैग लिंक्स के लिए इस्तेमाल किया जाता हैं।
 
-![screenshot](images/showcase-link.png)
+![स्क्रीनशॉट](images/showcase-link.png)
 
-+ अपने परियोजना में `<a>` टैग को ढूंढे 
++ अपने प्रोजेक्ट में `<a>` टैग को ढूंढें। 
 
-![screenshot](images/showcase-a-template.png)
+![स्क्रीनशॉट](images/showcase-a-template.png)
 
-+ कोड क्लब वेबसाइट का पता [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) और लिंक पाठ जोड़ें:
++ Code Club वेबसाइट का पता [` https://www.codeclub.org.uk `](https://www.codeclub.org.uk) और लिंक टेक्स्ट जोड़ें:
 
-![screenshot](images/showcase-code-club.png)
+![स्क्रीनशॉट](images/showcase-code-club.png)
 
-+ अपने trinket का परीक्षण करने के लिए 'run' (चलाएँ) पर क्लिक करें।
++ अपने trinket का परीक्षण करने के लिए Run पर क्लिक करें।
 
-![screenshot](images/showcase-cc-output.png)
+![स्क्रीनशॉट](images/showcase-cc-output.png)
 
-+ अपने वेबपृष्ठ का परीक्षण करने के लिए Code Club लिंक पर क्लिक करें। आपका trinket अब Code Club वेबपेज दिखाएगा: 
++ अपने वेब पृष्ठ का परीक्षण करने के लिए Code Club लिंक पर क्लिक करें। आपका trinket अब Code Club वेब पृष्ठ दिखाएगा: 
 
-![screenshot](images/showcase-cc-website.png)
+![स्क्रीनशॉट](images/showcase-cc-website.png)
 
 + अपने पृष्ठ पर वापस जाने के लिए आप या तो:
     
-    + अपना trinket फिर से चलाएं,
+    + अपना trinket फिर से Run करें,
     
-    + कीबोर्ड पर बैकस्पेस बटन टैप करें, या
+    + कीबोर्ड पर बैकस्पेस कुंजी टैप करें, या
     
-    + दाहिना-क्लिक करें और वापस(Back) चुनें।
+    + राइट-क्लिक करें और Back चुनें।
 
-+ अब अपने लिंक को अनुच्छेद के अंदर एक वाक्य में रखें:
++ अब अपने लिंक को एक पैराग्राफ के अंदर एक वाक्य में डालें:
 
-![screenshot](images/showcase-paragraph.png)
+![स्क्रीनशॉट](images/showcase-paragraph.png)
 
-अपनी पृष्ठी का परीक्षण करें।
+अपने वेब पृष्ठ का परीक्षण करें।
