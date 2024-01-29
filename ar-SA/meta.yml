@@ -25,6 +25,8 @@ steps:
     title: 'التحدي: أضف رابطًا آخر'
   - 
     title: إضافة رابط إلى مشروع Trinket
+    completion:
+      - engaged
   - 
     title: 'التحدي: أنشئ قائمة بمشاريعك'
   - 
@@ -35,6 +37,8 @@ steps:
     title: إنشاء جدول المحتويات
   - 
     title: العودة إلى أعلى الصفحة
+    completion:
+      - internal
   - 
     title: 'التحدي: حسِّن عرضك'
   - 
