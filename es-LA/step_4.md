@@ -1,27 +1,27 @@
-## Link to A Trinket
+## Enlace a Un Trinket
 
-You can link to the web page for a trinket.
+Puedes enlazar a la página web para un trinket.
 
-+ Did you keep a link to your Happy Birthday trinket? If you did then open that trinket in another browser tab or window. Otherwise open the finished example trinket: <https://trinket.io/html/e996dc0380>
++ ¿Guardaste un enlace a tu trinket de Feliz Cumpleaños? Si lo hiciste, entonces abre ese trinket en otra pestaña o ventana del navegador. De lo contrario, abre el trinket del ejemplo terminado: <https://trinket.io/html/e996dc0380>
 
-+ Click on the Share menu above your trinket and choose Link:
++ Haz clic en el menú Compartir que se encuentra en la parte de arriba de su trinket, y selecciona Enlace:
 
-![screenshot](images/showcase-share1.png)
+![captura de pantalla](images/showcase-share1.png)
 
-If you opened the trinket from your account then look for the Share option above your trinket instead:
+Si has abierto el trinket desde tu cuenta, entonces la opción Compartir se encontrará arriba de tu trinket:
 
-![screenshot](images/showcase-share2.png)
+![captura de pantalla](images/showcase-share2.png)
 
-+ Choose 'Only show code or result (let users toggle between them)' and copy the link to the trinket. 
++ Elija 'Mostrar solo código o resultado (permita a los usuarios alternar entre ellos)' y copie el enlace al trinket 
 
-![screenshot](images/showcase-get-link.png)
+![captura de pantalla](images/showcase-get-link.png)
 
-+ Go back to your Project Showcase trinket and add an `<h2>` heading and a link to your Happy Birthday Project.
++ Regrese a su trinket Proyecto Showcase, agregue un título `<h2>` y un enlace a su Proyecto Feliz Cumpleaños
 
-![screenshot](images/showcase-link-trinket.png)
+![captura de pantalla](images/showcase-link-trinket.png)
 
-Test your webpage; it should look something like this:
+Prueba tu página web; debería verse así:
 
-![screenshot](images/showcase-link-output.png)
+![captura de pantalla](images/showcase-link-output.png)
 
-Click the Happy Birthday link to test that it takes you to the trinket.
+Haz clic en el enlace Feliz Cumpleaños para comprobar que lo lleva al trinket.
