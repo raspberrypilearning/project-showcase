@@ -1,21 +1,21 @@
-## Create a Table of Contents
+## Lumikha ng isang Talahanayan ng mga Nilalaman
 
-Let's add a Table of Contents so we can easily get to each project.
+Magdagdag tayo ng isang Talahanayan ng mga Nilalaman upang madali natin marating ang bawat proyekto.
 
-+ As well as being able to link to other webpages, we can link to parts of a webpage if we give them an id. 
++ Pati na rin ang mai-link sa iba pang mga webpage, maaari nating mai-link sa mga ibang parte ng isang webpage kung bibigyan natin sila ng isang id. 
 
-Add an id to the `<h2>` heading for the Happy Birthday project:
+Magdagdag ng id sa `<h2>` heading para sa Happy Birthday project:
 
 ![screenshot](images/showcase-id.png)
 
-+ Add ids to each of your projects and give them short names: story, wanted, recipe and letter.
++ Magdagdag ng mga id sa bawat proyekto mo at bigyan sila ng mga maikling pangalan: istorya, nais, recipe at letra.
 
-+ You can link to an element with an id by putting a hash ‘#’ symbol in front of its name. For example, `#birthday`.
++ Maaari kang mag-link sa isang elemento na may kasamang id sa pamamagitan ng paglagay ng hash '#' symbol sa harap ng pangalan nito. Halimbawa, ` #birthday `.
 
-Create an ordered list of links to your projects. (Ordered lists are introduced in the Recipe project.)
+Gumawa ng isang ordered na listahan ng mga link sa iyong mga proyekto. (Ang mga ordered na listahan ay ipinakilala sa Recipe project.)
 
 ![screenshot](images/showcase-list.png)
 
-+ Run your project and test it by clicking on the links to move to your projects. 
++ Patakbuhin ang iyong proyekto at subukan ito sa pamamagitan ng pag-click sa mga link upang lumipat sa iyong mga proyekto. 
 
 ![screenshot](images/showcase-list-output.png)
