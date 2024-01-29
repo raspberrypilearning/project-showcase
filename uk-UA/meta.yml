@@ -25,6 +25,8 @@ steps:
     title: 'Виклик: Додати ще одне посилання'
   - 
     title: Посилання на Trinket
+    completion:
+      - engaged
   - 
     title: 'Виклик: створити список ваших проектів'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Створіть зміст
   - 
     title: Повернутися до початку
+    completion:
+      - internal
   - 
     title: 'Виклик: поліпшити свою вітрину'
   - 
