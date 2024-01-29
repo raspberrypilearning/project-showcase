@@ -25,6 +25,8 @@ steps:
     title: 'Aufgabe: Füge einen weiteren Link hinzu'
   - 
     title: Link zu einem Trinket
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Erstelle eine Liste deiner Projekte'
   - 
@@ -35,6 +37,8 @@ steps:
     title: Erstelle ein Inhaltsverzeichnis
   - 
     title: Zurück nach oben gelangen
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Verbessere deine Projektübersicht'
   - 
