@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Hamon: Magdagdag ng isa pang link
 
-Add a sentence with a link to a website that has been helpful for creating web projects. For example: <https://trinket.io> or <https://trinket.io/docs/colors>.
+Magdagdag ng isang pangungusap na may isang link sa isang website na nakakatulong para sa paglikha ng mga proyekto sa web. Halimbawa: [ https://trinket.io ](https://trinket.io) o [ https://trinket.io/docs/colors ](https://trinket.io/docs/colors).
 
 ![screenshot](images/showcase-link-challenge.png)
 
